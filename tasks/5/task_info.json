@@ -1,0 +1,19 @@
+{
+    "start_time": "23:15:40, 14 May 2023",
+    "end_time": "23:16:54, 14 May 2023",
+    "duration": "1 minute 13 seconds",
+    "ip_details": {
+        "ip": "182.69.181.101",
+        "hostname": "abts-north-dynamic-101.181.69.182.airtelbroadband.in",
+        "city": "Delhi",
+        "region": "Delhi",
+        "country": "IN",
+        "loc": "28.6453,77.2128",
+        "org": "AS24560 Bharti Airtel Ltd., Telemedia Services",
+        "postal": "110006",
+        "timezone": "Asia/Kolkata"
+    },
+    "last_url": "https://www.g2.com/categories/sales-intelligence?order=g2_score&page=3#product-list",
+    "window_size": "1920,1080",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.37"
+}
