@@ -1,15 +1,14 @@
 from bs4 import BeautifulSoup
-from bose import BaseTask
-from bose import BaseTask, Wait, Output, BrowserConfig
+from bose import *
 from bose.utils import merge_dicts_in_one_dict
 
 def write(result):
-    Output.write_finished(result)
+    Output.write_json(result, "finished.json")
     Output.write_csv(result, "finished.csv")
 
-class Task(BaseTask):
+class ExtractProducts(BaseTask):
     browser_config = BrowserConfig(use_undetected_driver=True, is_eager=True)
-    def run(self, driver):
+    def run(self, driver: BoseDriver, data):
 
         def htmltosoup(page):
             return BeautifulSoup(page, 'html.parser')
@@ -22,11 +21,18 @@ class Task(BaseTask):
             driver.organic_get(company_url)
             # short_random_sleep()
             if driver.is_bot_detected():
-              driver.wait_for_enter("Bot has been detected. Solve it to continue.")
+              driver.prompt("Bot has been detected. Solve it to continue.")
             else: 
                 print("Not Detected")
 
-            driver.get_element_or_none_by_selector('h1.l2.pb-half.inline-block', Wait.VERY_LONG * 4)
+            if driver.get_element_or_none_by_selector('h1.l2.pb-half.inline-block', Wait.LONG) is None:
+                if driver.is_bot_detected():
+                    driver.prompt("Bot has been detected. Solve it to continue.")
+                else: 
+                    print("Not Detected")
+                driver.get_element_or_none_by_selector('h1.l2.pb-half.inline-block', Wait.LONG)
+
+
             html = htmltosoup(driver.page_source)
 
             website = html.select_one('a[itemprop$="url"]')['href']
@@ -78,7 +84,7 @@ class Task(BaseTask):
             _details.update(details)
             
             return _details
-        seeds = Output.read_pending()
+        seeds = Output.read_json('pending.json')
 
         result = []
 
@@ -90,5 +96,3 @@ class Task(BaseTask):
             write(result)
         write(result)
         Output.write_csv(result, "finished.csv")
-if __name__ == '__main__':
-    Task().begin_task()

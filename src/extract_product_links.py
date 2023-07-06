@@ -1,22 +1,22 @@
 import pydash
 from selenium.webdriver.common.by import By
-from bose import BaseTask, Wait, Output, BrowserConfig
+from bose import *
 from urllib.parse import urlparse, parse_qs
 
-class Task(BaseTask):
+class ExtractProductLinks(BaseTask):
     
     GET_FIRST_PAGE = True
     product_url = "https://www.g2.com/categories/sales-intelligence"
     
     browser_config = BrowserConfig(use_undetected_driver=True)
 
-    def run(self, driver):
+    def run(self, driver: BoseDriver, data):
         links = []
 
         def put_links():
             
             if driver.is_bot_detected():
-              driver.wait_for_enter("Bot has been detected. Solve it to continue.")
+              driver.prompt("Bot has been detected. Solve it to continue.")
             else: 
                 print("Not Detected")
 
@@ -50,7 +50,7 @@ class Task(BaseTask):
 
             links.extend(result)
 
-            Output.write_pending(links)
+            Output.write_json(links, 'pending.json')
             
             return result
 
@@ -68,7 +68,10 @@ class Task(BaseTask):
         
         first= f"{self.product_url}#product-list"
         driver.organic_get(first)
-        
+
+        if driver.is_bot_detected():
+            driver.prompt("Bot has been detected. Solve it to continue.")
+
         page_count = get_page_count()
         for next_page in range(2, page_count + 1):
             put_links()
