@@ -48,7 +48,11 @@ python main.py
 
 *PS: I have the entire G2 dataset available for purchase, priced at $400. For those seeking a more affordable option, a partial dataset is also available at a discounted price. Feel free to reach out to chetan@omkar.cloud to request a sample.*
 
-<!-- I have full Dataset of g2 available for sale for $400. Partial Dataset is also available at a lower cost. Contact chetan@omkar.cloud to request sample. -->
+
+
+<!-- *PS: You may also contact us at chetan@omkar.cloud to request a G2 Product Reviews Scraper to enhance your Lead generation Efforts.*
+
+I have full Dataset of g2 available for sale for $400. Partial Dataset is also available at a lower cost. Contact chetan@omkar.cloud to request sample. -->
 
 ![G2 Scraper CSV Result](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/img/example_result.png)
 
