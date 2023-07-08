@@ -1,4 +1,34 @@
-# G2 Scraper
+<p align="center">
+  <img src="https://www.omkar.cloud/images/favicon/prod/favicon-256x256.png" alt="omkar" />
+</p>
+  <div align="center" style="margin-top: 0;">
+  <h1>✨ G2 Scraper 🤖</h1>
+  <p>💦 Enjoy the Rain of G2 Products from G2 Categories 💦</p>
+</div>
+<em>
+  <h5 align="center">(Programming Language - Python 3)</h5>
+</em>
+<p align="center">
+  <a href="#">
+    <img alt="g2-scraper forks" src="https://img.shields.io/github/forks/omkarcloud/g2-scraper?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img alt="Repo stars" src="https://img.shields.io/github/stars/omkarcloud/g2-scraper?style=for-the-badge&color=yellow" />
+  </a>
+  <a href="#">
+    <img alt="g2-scraper License" src="https://img.shields.io/github/license/omkarcloud/g2-scraper?color=orange&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/omkarcloud/g2-scraper/issues">
+    <img alt="issues" src="https://img.shields.io/github/issues/omkarcloud/g2-scraper?color=purple&style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://views.whatilearened.today/views/github/omkarcloud/g2-scraper.svg" width="80px" height="28px" alt="View" />
+</p>
+
+---
+
+<!-- # G2 Scraper -->
 
 ![G2 Scraper CSV Result](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/img/example_result.png)
 
