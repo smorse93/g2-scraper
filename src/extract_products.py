@@ -7,7 +7,10 @@ def write(result):
     Output.write_csv(result, "finished.csv")
 
 class ExtractProducts(BaseTask):
-    browser_config = BrowserConfig(use_undetected_driver=True, is_eager=True)
+    browser_config = BrowserConfig(
+        use_undetected_driver=True,
+        is_eager=True,
+          )
     def run(self, driver: BoseDriver, data):
 
         def htmltosoup(page):

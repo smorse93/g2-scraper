@@ -2,13 +2,15 @@ import pydash
 from selenium.webdriver.common.by import By
 from bose import *
 from urllib.parse import urlparse, parse_qs
-
+from .config import category_url 
 class ExtractProductLinks(BaseTask):
     
     GET_FIRST_PAGE = True
-    product_url = "https://www.g2.com/categories/sales-intelligence"
+    product_url = category_url
     
-    browser_config = BrowserConfig(use_undetected_driver=True)
+    browser_config = BrowserConfig(
+            use_undetected_driver=True
+        )
 
     def run(self, driver: BoseDriver, data):
         links = []
@@ -46,7 +48,10 @@ class ExtractProductLinks(BaseTask):
                 return  result
 
             result = list(map(domap, els))
-            print(f'Got {len(result)} new links')
+
+            
+            
+            print((f'Got {len(result)} new links ' )+  '(' + ', '.join([r['Product Name'] for r in result]) + ')' )
 
             links.extend(result)
 
