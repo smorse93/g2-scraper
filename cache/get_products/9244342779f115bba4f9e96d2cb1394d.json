@@ -1,0 +1,503 @@
+{
+    "data": {
+        "product_id": 9220,
+        "product_name": "Sublime Text",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d6666b6b8c18d1f36792437ccb1ac3e6/sublime-text.png",
+        "g2_link": "https://www.g2.com/products/sublime-text/reviews",
+        "what_is": "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
+        "product_description": "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1711,
+        "company_id": 7542,
+        "seller": "Sublime HQ",
+        "company_phone": null,
+        "company_location": "Bondi Junction, New South Wales",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/sublime-text/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/sublimehq",
+        "number_of_followers_on_twitter": 58133,
+        "linkedin": "https://www.linkedin.com/company/sublimehq/people/",
+        "number_of_employees_on_linkedin": 4,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Text Editor",
+                "category_link": "https://www.g2.com/categories/text-editor"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/34910/SublimeText_screenshot1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/34911/SublimeText_screenshot2.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/34912/SublimeText_screenshot3.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": [
+            {
+                "plan_name": "Small-Business",
+                "plan_price": null,
+                "plan_description": "7% more expensive\nthan the avg. Text Editor product\nRead Small-Business Reviews https://www.g2.com/products/sublime-text/reviews?filters%5Bcompany_segment%5D%5B%5D=179",
+                "plan_features": []
+            },
+            {
+                "plan_name": "Mid-Market",
+                "plan_price": null,
+                "plan_description": "25% more expensive\nthan the avg. Text Editor product\nRead Mid-Market Reviews https://www.g2.com/products/sublime-text/reviews?filters%5Bcompany_segment%5D%5B%5D=180",
+                "plan_features": []
+            },
+            {
+                "plan_name": "Enterprise",
+                "plan_price": null,
+                "plan_description": "4% less expensive\nthan the avg. Text Editor product\nRead Enterprise Reviews https://www.g2.com/products/sublime-text/reviews?filters%5Bcompany_segment%5D%5B%5D=181",
+                "plan_features": []
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "Notepad++",
+                "competitor_link": "https://www.g2.com/products/notepad/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 2309
+            },
+            {
+                "competitor_name": "Visual Studio Code",
+                "competitor_link": "https://www.g2.com/products/visual-studio-code/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 2196
+            },
+            {
+                "competitor_name": "UltraEdit",
+                "competitor_link": "https://www.g2.com/products/ultraedit/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 1120
+            },
+            {
+                "competitor_name": "Atom",
+                "competitor_link": "https://www.g2.com/products/atom/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 765
+            },
+            {
+                "competitor_name": "Brackets",
+                "competitor_link": "https://www.g2.com/products/brackets/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 254
+            },
+            {
+                "competitor_name": "TextPad",
+                "competitor_link": "https://www.g2.com/products/textpad/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 139
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/notepad-vs-sublime-text",
+                "competitor_name": "Notepad++",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_6093da7187bfc5bbbeeb9c885fe39648/notepad.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/atom-vs-sublime-text",
+                "competitor_name": "Atom",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_9e8a353c2584400f49c10a1876f7e17b/atom.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/sublime-text-vs-visual-studio-code",
+                "competitor_name": "Visual Studio Code",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_c8192ec235d13c9e4bf1bda816985fa9/visual-studio-code.jpeg"
+            }
+        ],
+        "star_distribution": {
+            "1": 4,
+            "2": 3,
+            "3": 48,
+            "4": 380,
+            "5": 1276
+        },
+        "g2_reviews_link": "https://www.g2.com/products/sublime-text/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8898287,
+                "review_title": "Best IDE for Web Development",
+                "review_content": "What do you like best about Sublime Text?\nSublime Text editor is one of the best web development IDE because of its speed, simplicity and powerful features that enhance coding and programming. One of the special key strengths of sublime text is exceptional performance, its fast and responsive even with big files and extensive projects.In Addition, Sublime Text editor has wide variety of programming languages.\n\nWhat do you dislike about Sublime Text?\nFor me,  i dislike Sublime Text interms of its license because Sublime Text is No Free Software although sublime text is free to download and use, it encourage the user to purchase a license for continuation of using the sublime text. In Addition, Sublime is Less user-friendly for beginners.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nFor me , the problem i encountered in sublime text is the step to reproduce the issues. and also the licensing issue and the limited IDE Features. but I've solve the problem when I purchase the license and to check the Package control settings of IDe to resolve the bugs and issue.And also i will switch to a default theme in IDE to see if the issue persists.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Francis John C.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/4ecb6a70-8b48-4069-95c0-a1cb6a5121bd"
+                },
+                "publish_date": "2023-11-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8898287"
+            },
+            {
+                "review_id": 8859357,
+                "review_title": "Best For Developer's",
+                "review_content": "What do you like best about Sublime Text?\nVery lightweight and low in CPU and memory usage is Sublime Text. Numerous programming languages, including Python, Javascript, and C++, are supported. This is one of the greatest code editors available because of its many features, which include Find and Replace, Indentation, Syntax, Plug-in integration, and Build Systems. You stay focused on your job thanks to the straightforward subtle design and clean UI-UX interface.\n\nWhat do you dislike about Sublime Text?\nThis Software's ability to automatically recognise the code type would be useful. After a while, the Free Version starts to bother you with pop-up notifications using you to purchase the Paid version. Furthermore, compared to other options, it is slightly more expensive, and the cross-platform support may use some work.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nIts functions as a text editor and code editor are helpful in day-to-day tasks. I've been more productive and efficient because to the support for so many coding languages, plug-ins, and auto-completion capabilities. I can troubleshoot any problems more quickly since the syntax highlighting aids in the maintenance aids in the maintenance of neat, consistent and sstructured code.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Rohit K.",
+                    "reviewer_job_title": "Web Developer",
+                    "reviewer_link": "https://www.g2.com/users/rohit-kumar"
+                },
+                "publish_date": "2023-11-12",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8859357"
+            },
+            {
+                "review_id": 8856979,
+                "review_title": "A sweet and Simple Text editor",
+                "review_content": "What do you like best about Sublime Text?\nApart from the regular text editor I use sublime for meeting notes it is simple and light weight, this has been so good so far.\n\nWhat do you dislike about Sublime Text?\nSublime is not an alternative for VS code. Because VS code is proper IDE with a lot of plugins, you could do a lot of simple things with Sublime. But Building projects primarily with Sublime as your text editor is gonna be super tough.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nSo whenever I write a meeting notes or some kind a notes and then I want to send that attachment over slack or email. I find it very handy as I save the file in sublime every now and then and drop the attachment on that.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Deepak C.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/10df28f0-d473-4bc9-9c07-89a2d9703d3c"
+                },
+                "publish_date": "2023-11-10",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8856979"
+            },
+            {
+                "review_id": 8657705,
+                "review_title": "One of the best text editor",
+                "review_content": "What do you like best about Sublime Text?\nIt is very lightweight easy to use text editor. I love its clean minimal ui.  Its easy to navigate. It supports many extensions and plugins. You can create your own build configurations to quickly build and run your code. I've been using it daily for last 1 year and i love it. Its quite easy to implement configurations once you get the hang of it\n\nWhat do you dislike about Sublime Text?\nThere is a steep learning curve for beginners as Most peoples are used to IDEs which provide lots of in-depth suggestions and auto completions. most of people would need help of forums or documentation or support to get examples of build configurations which isnt ideal\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nA need of quick easy to use lightweight text editor without too much complicated setup",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Pratik N.",
+                    "reviewer_job_title": "Associate Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/8a8961db-ec09-4fc6-a28a-aefde1cae151"
+                },
+                "publish_date": "2023-09-25",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8657705"
+            },
+            {
+                "review_id": 8945183,
+                "review_title": "My experience with Sublime Text Editor",
+                "review_content": "What do you like best about Sublime Text?\nSublime Text editor is lightweight and user-friendly, simplifying tasks with its speed and support for nearly all programming languages. The standout feature for me is its exceptional user interface, the best I have ever experienced.I use it many times in a month.\n\nWhat do you dislike about Sublime Text?\nUnlike VS Code, Sublime Text lacks extensions. Although it's free to download, the constant prompts to purchase the paid version can be quite irritating.The quality of support is not that much great.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nSublime Text serves as a versatile text editor, functioning both as a notepad and a text editor, supporting various programming languages. However, it differs from VS Code as it is not an IDE. With features such as code auto-completion that enhances productivity, it stands out for its speed and consistency.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Dev a.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/c4f64175-1078-4ced-9bce-05dc883edd65"
+                },
+                "publish_date": "2023-11-29",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8945183"
+            },
+            {
+                "review_id": 8588171,
+                "review_title": "Easy contained editor",
+                "review_content": "What do you like best about Sublime Text?\nI like the product being so easy to use without any hassle to use it. It is a simple editor that does not require a lot of work to make it work. Your computer will not work hard with it.\n\nWhat do you dislike about Sublime Text?\nI found that searching for stuff through files is not as easy as it would be on other editors similat to Sublime. I do use grep to help me with this minus that Sublime has\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nSublime is all that you need from a simple editor. It helps me edit any type of files that I need. It is somewhere in between notepad and a strong editor, but the strong editor might be too much. This is the perfect balance.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Tudor S.",
+                    "reviewer_job_title": "Front end developer",
+                    "reviewer_link": "https://www.g2.com/users/tudor-sfatosu"
+                },
+                "publish_date": "2023-09-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8588171"
+            },
+            {
+                "review_id": 8287284,
+                "review_title": "Sublime Text: Lightweight text and code editor",
+                "review_content": "What do you like best about Sublime Text?\nSublime Text is one of the lightest and easy-to-use code and text editors. It is available for a variety of operating systems such as MacOS, Windows, Linux, and more. The installation process is super easy. The majority of users find it useful even with the non-license version although you can purchase the subscription which is not much costly.\nSublime can be configured in many ways you can configure it for programming languages like CPP, Python, and more. It has a plethora of extension support that enables a lot of great functionality to ease our day-to-day tasks. I have added many code snippets which saves me lots of hours of coding as I don't have to re-implement them.\nSublime is a super easy and handy-to-use text editor. I recommend everyone to try it once.\n\nWhat do you dislike about Sublime Text?\nSublime doesn't come with any in-build extensions pre-installed. It would be great if it provide users the ability to select a few mostly used extensions during the installation process. If I need to configure sublime to any programming language then its really difficult and every time it consumes a lot of time and effort. Documentation for such a configuration process would be a great addition.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nI use Sublime Text not only as a text editor but also code editor as well. Firstly I use it to take important notes from my team meeting and share them with my colleague. I also configured the CPP and Python programming environment hence I'm able to code and execute it directly within the Sublime. Since it is super lightweight, I don't even have to worry about resource consumption and I can keep Sublime Text open throughout my session. I highly recommend it to everyone, just try it once.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Michelle C.",
+                    "reviewer_job_title": "Director KPMG",
+                    "reviewer_link": "https://www.g2.com/users/ef337ec7-2182-4c9d-8d19-8127ddde481b"
+                },
+                "publish_date": "2023-07-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8287284"
+            },
+            {
+                "review_id": 8475266,
+                "review_title": "Sublime: One of the Best Coding and Text Editors",
+                "review_content": "What do you like best about Sublime Text?\nSublime Text is Really Lightweight and doesn't Consume much CPU or Memory. It has support for various programming languages like C++, Javascript, Python. Various Features like Find and Replace, Indentation, Syntax, Plug-in integration and Build Systems are what make this one of the best Code Editors Out There. The Clean UI-UX Interface and the Simple Subtle Design keeps you focused on the work.\n\nWhat do you dislike about Sublime Text?\nIt would be helpful if the Software can Auto-Recognize Code Type. The Free Version keeps notifying with pop-ups to buy the Paid version which become annoying after a time. Also It is a little bit expensive than others and the Cross Platform Support needs to be improved.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nIt helps in daily Tasks from acting as a Text Editor to a Code Editor. The Support for so many Coding Languages, along with the Plug-ins and the Auto-completion features has helped improve my efficiency and productivity. The Syntax Highlighting also helps me in maintaining a clean code with Structure and Consistency so it helps me in debugging any issues easily.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Aditya G.",
+                    "reviewer_job_title": "Associate Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/90ea5186-e586-4983-831b-5adc5f15d24a"
+                },
+                "publish_date": "2023-09-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8475266"
+            },
+            {
+                "review_id": 8289044,
+                "review_title": "Your goto Notepad",
+                "review_content": "What do you like best about Sublime Text?\nI like Sublime Text's exceptional speed and performance. It launches quickly, and its efficient handling of large files makes it ideal for programming tasks. It offers advanced search and replace functionality with support for regular expressions, allowing me to quickly find and modify code across multiple files.\n\nWhat do you dislike about Sublime Text?\nOnly thing which can be improved is Unlike some other text editors and integrated development environments (IDEs), Sublime Text does not have a built-in package manager. While there are third-party package managers available, the absence of an official package manager can make it slightly less convenient to discover and install plugins\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nSublime Text provides a robust and feature-rich environment for editing code. Its syntax highlighting, auto-completion, and code navigation features make it easier to read, write, and understand code, improving the overall coding experience. This leads to reduce coding and debugging time and hence reducing release adtes.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Tanay  G.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/383c4c38-3d3a-4db5-8993-5ba2c2a2790a"
+                },
+                "publish_date": "2023-07-06",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8289044"
+            },
+            {
+                "review_id": 8728251,
+                "review_title": "Power text editor",
+                "review_content": "What do you like best about Sublime Text?\nSublime Text comes with an extensive set of features and plugins so anyone can find something useful specifically for his task.\n\nWhat do you dislike about Sublime Text?\nThe number of features maybe overwhelming at the beginning and there's definitely a small learning curve is required to master the app.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nI use Sublime Text for various purposes, starting from basic editing of text or copy-pasting of info for further process, ending with development (together with Sublime Merge). Given that Sublime Text has a set of predefined programming language syntaxes, it helps me to review various code snippets, Powershell scripts, etc.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Anton K.",
+                    "reviewer_job_title": "Senior SAP ECM Consultant",
+                    "reviewer_link": "https://www.g2.com/users/2dfebb17-e251-4aed-8b66-bd505ef3f140"
+                },
+                "publish_date": "2023-10-15",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8728251"
+            },
+            {
+                "review_id": 8219080,
+                "review_title": "Efficiency amplified in Sublime Text",
+                "review_content": "What do you like best about Sublime Text?\nI love that Sublime Text is lightweight and fast. It's remarkably fast and efficient, allowing you to work on your coding without experiencing any lag, even when heavy resource-consuming applications run in the background. It's cross-platform and works on Windows, macOS, and Linux, which is a considerable benefit as it allows you to seamlessly work across different OS, including the widely favored one among programmers in Linux. The extensivity in customization offered by Sublime Text is excellent. You can change the theme, color schemes, and keyboard hotkeys. You can cater the editor to your preference and boost productivity by having essential tools on easy-to-access hotkeys. Like other IDEs, Sublime Text offers many features to help your coding, like syntax highlighting, auto-completion, search and replace function, and multiple tab support. Features that Sublime Text lacks can easily be implemented with plugins and packages found on the website. You can improve functionality, add support for programming languages that aren't built-in, and more.\n\nWhat do you dislike about Sublime Text?\nSublime Text is closed-source, so you cannot modify the IDE to meet specific needs. It also heavily lacks built-in collaboration features, making it less viable for real-time collaborative editing.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nSublime Text is what I use for code editing during work. It provides a perfect environment for writing and editing code, providing features like code folding, multi-cursor editing, split editing, etc. These features make it ideal for software development projects. We can seamlessly organize our projects within Sublime Text by creating project-specific settings and quickly navigating between files and folders. It also has support for integrating external build systems, so we can compile and run code within the editor without using another compiler just for compilation. One significant benefit of Sublime Text is that with the help of plugins like Package Control, we can automate many tasks for convenience. These tasks include package management, linting, running tests, and improving our workflow efficiency. Sublime Text also has broad language support, making it viable for writing and editing in any language. It integrates seamlessly with GitHub, allowing us to quickly make push requests and merges. Our productivity has significantly increased after we collectively started using Sublime Text over other IDEs for daily coding and quick editing.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Anjana P.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/15a0ffb5-e353-43c3-8cc3-1d53605a9109"
+                },
+                "publish_date": "2023-06-15",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8219080"
+            },
+            {
+                "review_id": 8985235,
+                "review_title": "Very light weight. Faster loading large file",
+                "review_content": "What do you like best about Sublime Text?\nI have been using Sublime for 4 years. very lightweight. useful for programming. for loading large files.example big JSON data. available more extensions. Easy to install. support all the os. I am using it daily. Easy to integrate. Also having customer support\n\nWhat do you dislike about Sublime Text?\nHard to manage extensions. this is the problem I faced\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nLight weight and fast to load large file",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Shibil P.",
+                    "reviewer_job_title": "Senior Python Django Developer",
+                    "reviewer_link": "https://www.g2.com/users/144c5b3a-cf8c-4d6c-8825-b86458767971"
+                },
+                "publish_date": "2023-12-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8985235"
+            },
+            {
+                "review_id": 8460229,
+                "review_title": "Best Editor for quick formatting and Note taking",
+                "review_content": "What do you like best about Sublime Text?\nQuick toll for not taking and formatting text. I have used it for json formatting and also store some texts. Also editing code. The main advantage is it supports wide range of file types. Sometimes I used to see the hexadecimal view of some compressed files\n\nWhat do you dislike about Sublime Text?\nNothing much some times it lags while opening big files. No much customisation. Less plugins and Not automatic saving. GUI can be modren and improved. Need much more UI updated\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nUse it for minor code edits instead of VIm. Use it for formatting json files and viewing the hexadecimal values for a compressed file like pickle. Sometimes I use it to analyse log files that I download from servers",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "K Madhusudan C.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/madhusudan12"
+                },
+                "publish_date": "2023-08-11",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8460229"
+            },
+            {
+                "review_id": 8497181,
+                "review_title": "Excellent editor",
+                "review_content": "What do you like best about Sublime Text?\nI love the split editing, it helps me to the have multiple panes and edit the same text files as I like. Also, it is very fast and the performance is improved a lot in recent version.\n\nWhat do you dislike about Sublime Text?\nThere are lots of features they can introduce to stand in a competition with other note pad editors, but they are lack in updating their software in a regular interval.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nIt is very fast as I said earlier even with the additional plugins I use along with this software to change my theme. And I love to edit my text files in multiple panes which is the main feature I like the most.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jijendran T.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/aea71a6c-b2c4-4b95-ad97-4b80a54d6797"
+                },
+                "publish_date": "2023-08-18",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8497181"
+            },
+            {
+                "review_id": 8703737,
+                "review_title": "One of the best text editors",
+                "review_content": "What do you like best about Sublime Text?\nAvailable cross platform - can be implemented on different OS\nUnsaved sections are not deleted when sublime is closed\nPackage manager available to download syntax\nMany syntax available (Integration)\nSome syntax such as loops and conditions can be generated\nFree version available\nVery easy to use\nI am using it everyday for bash, python scripting\nHave not used customer support\nAuto completion is present\n\nWhat do you dislike about Sublime Text?\nFor some stuffs we have to pay\none improvement would be to be able to search and find between tabs\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nNot really solving a problem\nIts more like a text editor which has a free version\nIts great for some low level scripting such as bash and python automation",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-10-06",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8703737"
+            },
+            {
+                "review_id": 8985247,
+                "review_title": "it is such a useful IDE, especially for beginners",
+                "review_content": "What do you like best about Sublime Text?\nits interface is so easy to use, i loved that\n\nWhat do you dislike about Sublime Text?\nIam not able to use terminal on that.and also less features only\n\nWhat problems is Sublime Text solving and how is that benefiting you?\niam using sublime text for web development, as a beginner its so convinent for me.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Sharon A.",
+                    "reviewer_job_title": "Junior DevOps Engineer",
+                    "reviewer_link": "https://www.g2.com/users/6953a3c9-a852-474c-99f5-75bed9dde458"
+                },
+                "publish_date": "2023-12-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8985247"
+            },
+            {
+                "review_id": 8775965,
+                "review_title": "Best editor for the coding",
+                "review_content": "What do you like best about Sublime Text?\nI would love the sublime text because the way we can open entire folder and do the code level changes. Functionalities like easy file creation, searching functionality, many shortcuts to switch the files, edit the same words in files and many more. Which makes your efforts easier.\n\nWhat do you dislike about Sublime Text?\nAll things are good but they can add more functionalities which VS code provides and make more rich.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nI used sublime text editor as a python django project development. It is very easier to handle the file creation, file switch and very good python linting suggestive editor.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Hardik D.",
+                    "reviewer_job_title": "Software Developer and Splunk Engineer",
+                    "reviewer_link": "https://www.g2.com/users/499c21ee-683e-49e4-b894-6b832d67b7c4"
+                },
+                "publish_date": "2023-10-27",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8775965"
+            },
+            {
+                "review_id": 8300147,
+                "review_title": "Super powerful text editor for Mac",
+                "review_content": "What do you like best about Sublime Text?\n- Converting file to different syntaxes like JSON, SQL etc.\n- Collapsible sections of code which makes easier for coding\n- Find and replace: Able to find and replace from all open files\n\nWhat do you dislike about Sublime Text?\n- Does not have debugging feature like Visual studio code\n- There is no version controlling\n- sublime license can be expensive for some users\n- if we are on free version, every time on opening the app, we are told to purchase a license.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\n- Solves problem of adding syntax highlighting so its very easy for developers\n- Easy to find and replace text in bulk (over multiple open files)\n- Ease of customisation like theming",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Shaunak P.",
+                    "reviewer_job_title": "Technical Project Manager",
+                    "reviewer_link": "https://www.g2.com/users/shaun22p"
+                },
+                "publish_date": "2023-07-09",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8300147"
+            },
+            {
+                "review_id": 626391,
+                "review_title": "If you code - look no further!",
+                "review_content": "What do you like best about Sublime Text?\nI love the entire app through and through. The interface, ease of use and add-on options available to make this program even better is above and beyond. I have not used another editor since I discovered Sublime Text years ago and will never look back.\n\nWhat do you dislike about Sublime Text?\nThere is nothing about Sublime Text that I dislike. If I could create an editor, Sublime Text would be exactly what I would build and envision.\n\nRecommendations to others considering Sublime Text:\nAgain - look no further. Sublime Text has everything you need in one small, simplistic interface.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nI am solving all of my front-end CSS, HTML, XHTML, PHP and other coding needs daily for my working clients. I am able to quickly and easily create or modify everything from responsive emails, landing page and full WordPress themes + plugins.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Tim M.",
+                    "reviewer_job_title": "Web Designer, Marketing Services",
+                    "reviewer_link": "https://www.g2.com/users/b6b4baa2-5e5f-444d-97af-c8923919f2ff"
+                },
+                "publish_date": "2023-05-31",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-626391"
+            },
+            {
+                "review_id": 8702732,
+                "review_title": "One of the best user-friendly Text Editor",
+                "review_content": "What do you like best about Sublime Text?\nSublime Text is really easy to setup and use. It doesn't require a lot of configuration steps and comes with integration support for lot of developer languages.\n\nWhat do you dislike about Sublime Text?\nSometimes plugin setup requires making manual changes in the configuration files within Sublime Text. If that can be automated in some way, it would really ease the use of plugins.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nWhile working with huge code repositories and other development related files, it becomes essential to view those files in a user friendly manner. Sublime Text enables the users to quickly view those files in better visualisation by providing support for many different file formats and languages.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-10-06",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8702732"
+            },
+            {
+                "review_id": 8690515,
+                "review_title": "All in One Text & Coding Editor",
+                "review_content": "What do you like best about Sublime Text?\nThe best part of using Sublime Text is that it supports various languages like Java, PHP, Python and many more. Its interface is clean and clear that's the reason it's easy to use.\n\nWhat do you dislike about Sublime Text?\nAfter 4 years of usage I don't think there is anything to dislike in this software.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nIt's auto completion and syntax highlighting option help me in writing the code better.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Manishwar T.",
+                    "reviewer_job_title": "Associate Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/manishwarsingh"
+                },
+                "publish_date": "2023-10-03",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8690515"
+            },
+            {
+                "review_id": 8872867,
+                "review_title": "Sublime Text un editeur de texte leger",
+                "review_content": "What do you like best about Sublime Text?\nJ'utilise Sublime Text au quotidient pour ecrire du code.\n\nWhat do you dislike about Sublime Text?\nSublime Text est limite en terme d'integration de plugin, et le support est moins accessible\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nSuublime Text me permet d'avoir un editeur de code rapide, et qui ne consomme pas assez de ressource",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Zie Mamadou C.",
+                    "reviewer_job_title": "Assistant informatique",
+                    "reviewer_link": "https://www.g2.com/users/ziemc"
+                },
+                "publish_date": "2023-11-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8872867"
+            },
+            {
+                "review_id": 8838602,
+                "review_title": "Edit text like a pro",
+                "review_content": "What do you like best about Sublime Text?\nThe best thing about sublime text editor is the auso save feature, even if I close the application it auto saves the last edited textfile\n\nWhat do you dislike about Sublime Text?\nThere's nothing to dislike about sublime text editor\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nIt is solving my day-to-day problems of writing and storing text seamlessly",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Omi K.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/955f0bba-1954-4508-bed5-fa399d8a52dc"
+                },
+                "publish_date": "2023-11-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8838602"
+            },
+            {
+                "review_id": 8888155,
+                "review_title": "Amazing editor",
+                "review_content": "What do you like best about Sublime Text?\nEasy to use and easy to search text. It gives flexibility while text searching\n\nWhat do you dislike about Sublime Text?\nSometimes I feel it has updates too frequently.\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nIt's one of the best text editor I have used. It's flexible and supports multiple coding languages.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Sushant  D.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/a34c11a9-d811-412e-a0ac-71b402510432"
+                },
+                "publish_date": "2023-11-16",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8888155"
+            },
+            {
+                "review_id": 8586423,
+                "review_title": "Excellent performance and lightweight",
+                "review_content": "What do you like best about Sublime Text?\nSublime text is on the second number of my code editors list. The best features I like are , themes can be changed, code completions, free plugins and very lightweight\n\nWhat do you dislike about Sublime Text?\nI'm using Sublime text from the starting point of my career, still I didn't found anything to dislike in it, it's completely free to use also comes up with free add-ons as well\n\nWhat problems is Sublime Text solving and how is that benefiting you?\nI do required to do development in Magento, it's having very large size of default files, so I needed a easy to use editor, so I choose Sublime, it loaded the files easily without any hustling and made the search easy for me",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "harmanpreet s.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/78678542-4334-400d-83ee-525fee99a009"
+                },
+                "publish_date": "2023-09-09",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sublime-text/reviews/sublime-text-review-8586423"
+            }
+        ]
+    },
+    "error": null
+}

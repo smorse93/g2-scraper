@@ -1,0 +1,549 @@
+{
+    "data": {
+        "product_id": 1392,
+        "product_name": "GitHub",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8ec3c17e3fb1df25b6a8bd7cc69cf2d1/github.png",
+        "g2_link": "https://www.g2.com/products/github/reviews",
+        "what_is": "GitHub is where the world builds software. Millions of individuals, organizations and businesses around the world use GitHub to discover, share, and contribute software. Developers at startups to Fortune 50 companies use GitHub, every step of the way.",
+        "product_description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over two million people use GitHub to build amazing things together.",
+        "positioning_against_competitor": "GitHub delivers everything best-in-class organizations need to bring new ideas to market, from concept to customer. The complete developer experience blends the best of your team and the open-source community to create unmatched customer experiences fast and securely.",
+        "rating": 4.7,
+        "reviews": 2034,
+        "company_id": 1058,
+        "seller": "GitHub",
+        "company_phone": null,
+        "company_location": "San Francisco, CA",
+        "company_founded_year": 2008,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/github/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/github",
+        "number_of_followers_on_twitter": 2543277,
+        "linkedin": "https://www.linkedin.com/company/1418841/",
+        "number_of_employees_on_linkedin": 5346,
+        "product_website": "https://github.com/features",
+        "company_website": "http://github.com",
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Bug Tracking",
+                "category_link": "https://www.g2.com/categories/bug-tracking"
+            },
+            {
+                "category_name": "Continuous Delivery",
+                "category_link": "https://www.g2.com/categories/continuous-delivery"
+            },
+            {
+                "category_name": "Continuous Integration",
+                "category_link": "https://www.g2.com/categories/continuous-integration"
+            },
+            {
+                "category_name": "Build Automation",
+                "category_link": "https://www.g2.com/categories/build-automation"
+            },
+            {
+                "category_name": "DevOps Platforms",
+                "category_link": "https://www.g2.com/categories/devops-platforms"
+            },
+            {
+                "category_name": "Configuration Management",
+                "category_link": "https://www.g2.com/categories/configuration-management"
+            },
+            {
+                "category_name": "Version Control Hosting",
+                "category_link": "https://www.g2.com/categories/version-control-hosting"
+            },
+            {
+                "category_name": "Peer Code Review",
+                "category_link": "https://www.g2.com/categories/peer-code-review"
+            },
+            {
+                "category_name": "Software Composition Analysis",
+                "category_link": "https://www.g2.com/categories/software-composition-analysis"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/193446/1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/193447/2.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/193448/3.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/193449/4.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/193450/5.png"
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=URmeTqglS58",
+            "https://www.youtube.com/watch?v=DA_WbNRFPT0",
+            "https://www.youtube.com/watch?v=6HWw7rhwvtY",
+            "https://www.youtube.com/watch?v=sYJ3CHtT6WM",
+            "https://www.youtube.com/watch?v=IqXNhakuwVc"
+        ],
+        "download_links": [],
+        "pricing_plans": [
+            {
+                "plan_name": "Free for Individuals and Organizations",
+                "plan_description": "Basics for teams and developers",
+                "plan_features": [
+                    "Unlimited public/private repositories",
+                    "Unlimited collaborators",
+                    "2,000 Actions minutes/month  (Free for public repositories)",
+                    "500MB of GitHub Packages storage (Free for public repositories)",
+                    "Community Support",
+                    "New Issues & Projects (in limited beta)"
+                ]
+            },
+            {
+                "plan_name": "Team",
+                "plan_description": "Advanced collaboration and support for teams",
+                "plan_features": [
+                    "Unlimited public/private repositories",
+                    "Required reviewers",
+                    "3,000 Actions minutes/month (Free for public repositories)",
+                    "2GB of GitHub Packages storage (Free for public repositories)",
+                    "Code owners",
+                    "Access to GitHub Codespaces",
+                    "Protected Branches",
+                    "Multiple reviewers in pull requests",
+                    "Draft pull requests",
+                    "Pages and Wikis",
+                    "Web-based support"
+                ]
+            },
+            {
+                "plan_name": "Enterprise",
+                "plan_description": "Security, compliance, and flexible deployment for enterprises",
+                "plan_features": [
+                    "Everything included in Team",
+                    "SAML single sign-on",
+                    "50,000 Actions minutes/month (Free for public repositories)",
+                    "50GB of GitHub Packages storage (Free for public repositories)",
+                    "Advanced auditing",
+                    "Automatic security and version updates",
+                    "GitHub Connect"
+                ]
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "GitLab",
+                "competitor_link": "https://www.g2.com/products/gitlab/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 781
+            },
+            {
+                "competitor_name": "CircleCI",
+                "competitor_link": "https://www.g2.com/products/circleci/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 499
+            },
+            {
+                "competitor_name": "Jenkins",
+                "competitor_link": "https://www.g2.com/products/jenkins/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 479
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/github-vs-gitlab",
+                "competitor_name": "GitLab",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_1eff145289f3ee8649ba9d287a4fc68a/gitlab.jpeg"
+            },
+            {
+                "link": "https://www.g2.com/compare/bitbucket-vs-github",
+                "competitor_name": "Bitbucket",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_2ea5f7178028686921161d65d4be481a/bitbucket.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/github-vs-jira",
+                "competitor_name": "Jira",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_20bed784a1b08b92ec78e03da84dff41/jira.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 4,
+            "2": 3,
+            "3": 24,
+            "4": 300,
+            "5": 1703
+        },
+        "g2_reviews_link": "https://www.g2.com/products/github/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8975571,
+                "review_title": "Collaborations on project development using GitHub",
+                "review_content": "What do you like best about GitHub?\nGitHub helps me and my team to collaborate on our project easily. Sharing and syncing of our project is also a plus points for GitHub, we can do our work at anywhere the same time. We can also share our past projects to public for others to get a reference, also we can get some reference from other developers much easier.\n\nWhat do you dislike about GitHub?\nI don't have any negative comments in GitHub as of now because all of it's features helps me and my team. The UI is also awesome for me especially when I was creating my first account before.\n\nWhat problems is GitHub solving and how is that benefiting you?\nThe problems that GitHub solved when we use it are the commits we accidentally push were easily traced. Also we are able to track the person who made commits to the project. It has also a feature wherein before we commit, we put some notes on that specific commits for us to have an idea of updates to the project.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Allona F.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/88f2ab1e-f5ca-4373-8e82-0d6accf96fe1"
+                },
+                "publish_date": "2023-12-06",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8975571"
+            },
+            {
+                "review_id": 8916552,
+                "review_title": "My everyday used of Github in my work as a junior webdeveloper.",
+                "review_content": "What do you like best about GitHub?\nThe best thing that I like on GitHub is the seamless process of cloning and building repositories, which significantly assists developers in combining codes without conflicts. Every day, I rely on pushing all my codes to my repository, enabling easy integration with others'. Furthermore, GitHub stands out by allowing me to foresee potential issues before pushing the code and providing excellent customer support. Its frequent use in my workflow has made me rate it 100%\n\nWhat do you dislike about GitHub?\nThe one thing I dislike about GitHub is the dual process of creating repositories through Git Bash or Visual Studio Code, although it's a minor inconvenience considering the platform's overall benefits, especially its ease of implementation and seamless integration, which greatly facilitate pushing the frameworks I utilize in my system.\n\nWhat problems is GitHub solving and how is that benefiting you?\nGitHub solves the problem of code collaboration and version control, allowing multiple developers to work on the same codebase simultaneously without conflicts. This benefits me by streamlining collaboration, providing a centralized platform for code management, enabling easy tracking of changes, and ensuring seamless integration of contributions from diverse team members, thereby enhancing efficiency and reducing errors in our development process.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Christian Regienald E. J.",
+                    "reviewer_job_title": "Design Engineer",
+                    "reviewer_link": "https://www.g2.com/users/regiee"
+                },
+                "publish_date": "2023-12-04",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8916552"
+            },
+            {
+                "review_id": 8752203,
+                "review_title": "Positive review of GitHub",
+                "review_content": "What do you like best about GitHub?\nGitHub helped me a lot as a student and an employee of the company. There are many benefits to using GitHub. We are creating our project repository there and showing it to the public and professionals. It is highly professional software where you work as an employee with your team. This is a free source for deploying your project, which is the best feature of Github.\n\nIt is very easy to use. You can take a review of other professionals for your projects.\n\nThe best feature of GitHub is that, with fork feature, you can copy a project from another user and use his project for learning and working, if you want to collaborate with another user (developer) on the same project.\n\nWhat do you dislike about GitHub?\nI think one of the big opinions of dislike Github.  A big issue with the platform's performance is that it can experience outages and slowdowns during times of high usage. Furthermore, some users may find the user interface perplexing, especially if they are unfamiliar with version control or collaborative technologies\n\nWhat problems is GitHub solving and how is that benefiting you?\nWhenever I need to read about a similar project or take reference from another project for any project development, GitHub helps me with the help of its fork feature.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Neeraj K.",
+                    "reviewer_job_title": "Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/e7268332-bd37-46a3-bbdd-ef51eac1e55c"
+                },
+                "publish_date": "2023-11-03",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8752203"
+            },
+            {
+                "review_id": 8814189,
+                "review_title": "Code Keeper",
+                "review_content": "What do you like best about GitHub?\nIt has a great integration and feature for an tech industry person. As it is a most essential part of their life as they enter in field. The easiness of use this and implementation of your code to this is really impressive. A tech person , use it so frequently that after sometime they can't neglect it's importance. All the work for yourself or clients or to create a work flow it's the best place to achieve. Customer support is very creative as they are from the tech support team\n\nWhat do you dislike about GitHub?\nSome time bugs appear in the github , price is a issue for this but not that much that it affects a person\n\nWhat problems is GitHub solving and how is that benefiting you?\nDirect contact with client , save my code in repository, able to create a community get a solution or questions. It is integrated with so many software and platform. One of them which is used most is VS code. And it is very easy to get used to it",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Karun G.",
+                    "reviewer_job_title": "Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/c4e504f5-00a6-4beb-8dfa-c3a8668aa8b7"
+                },
+                "publish_date": "2023-11-03",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8814189"
+            },
+            {
+                "review_id": 8763055,
+                "review_title": "Github - All your data safe and Secure",
+                "review_content": "What do you like best about GitHub?\n1. Your data is safe in the GitHub repository.\n2. Ease of command to pull, push, and commit the changes.\n3. Ease of understanding its tree and branch\n4. Clone the repository whenever or anywhere you need.\n5. You can also track the changes on GitHub.\n\nWhat do you dislike about GitHub?\nAt the time of pushing the changes, sometimes conflict occurs, so you have to early detect the conflict and tell the user that if you push the changes, then conflict will occur.\nAdd a video of basic command in github like push, pull, commit, add.\n\nWhat problems is GitHub solving and how is that benefiting you?\n1. Save your code or project in a specific repository.\n2. Clone your project whenever or anywhere you need.\n3. Add an SSH key for the remote hosting.\n4. From time to time, push the changes with the tag that helps the user know what the changes are.\n5. Git log command tell what was the changes and their date and time.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Anant B.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/0d27a000-a40c-4b73-9349-017aad18df85"
+                },
+                "publish_date": "2023-10-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8763055"
+            },
+            {
+                "review_id": 8748688,
+                "review_title": "Best Tool for code back and team work",
+                "review_content": "What do you like best about GitHub?\ngit is the best tool to code back by just using your ID and password you can back up your code which makes it easy to integration. they provide easy implementation needed to code back. by making branches we can work in teams.  We have been using git in our organization for a very long time. in our day-to-day life, we back up code so it makes our code integration with software smooth. also, git documentation and customer support are good so it's good to find answers and get support from the world. about frequency, as I mentioned above we use it every day.\n\nWhat do you dislike about GitHub?\ngit provides good support but there is no main back in git. also when you accidentally fire any command it has the power to delete entire code from Cloude. need more power full extension for tools like android studio, vs code.\n\nWhat problems is GitHub solving and how is that benefiting you?\nto backup all over code and make separate lines for development, release, and final code. Also, git provides easy code changes and team working that make it more powerful and that's why our organisation",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Amit P.",
+                    "reviewer_job_title": "Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/2dcadff1-753a-4d2e-9c12-c3a4c4b5345c"
+                },
+                "publish_date": "2023-10-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8748688"
+            },
+            {
+                "review_id": 8716929,
+                "review_title": "My experience of using Github for more than 6 months",
+                "review_content": "What do you like best about GitHub?\nI like Github's collaboration feature that allows me to share my code with my friends and colleagues. Also, free web hosting for projects for students is incredible. I am using the Github Developer pack in which I love the Github pages feature alot.\n\nWhat do you dislike about GitHub?\nActually I love all the features of github. I use Github on daily basis for uploading my projects. However one thing, I dont' like much is proper guidance of usage. As there are so many features in github (which is obviously good), but I am not able to know the uses of all the buttons. So I have to google and then I get to know the use of feature.\n\nWhat problems is GitHub solving and how is that benefiting you?\nGithub is providing a complete environment from managing the code, hosting it and after uploading that, we can also control it's versions. It is a complete package for doing a team project. It helps to build co-ordination between team members.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Ravi K.",
+                    "reviewer_job_title": "Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/2b1784b0-cb01-4532-bd3d-6e4350613a51"
+                },
+                "publish_date": "2023-10-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8716929"
+            },
+            {
+                "review_id": 8581650,
+                "review_title": "Top-Notch Repo GitHub",
+                "review_content": "What do you like best about GitHub?\nWhat I like about GitHub is allows you to create, store, change, merge, and collaborate on files or code. Any member of a team can access the GitHub repository (think of this as a folder for files) and see the most recent version in real-time. Then, they can easily make edits or changes that the other collaborators also see. It allows integration with other vendors and provide full customer support. That attract me to use it every day and it is easy to implement by ourselves.\n\nWhat do you dislike about GitHub?\nThere are a few things  hate about GitHub are\nIt doesn't allow for the creation of private repositories.\nSome useful features of GitHub are paid and that's the reason most people stopped using it.\nGitHub doesn't offer a good API development.\nThere are not many features in GitHub like other repository platforms in the market.\n\nWhat problems is GitHub solving and how is that benefiting you?\nDevelopers like us use GitHub to work together on a single project with the benefit of version control. This helps them reduce duplicating work. Plus, GitHub allows developers to try new things. If the changes aren't positive, they can easily revert back to the previous version.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Lwin Min P.",
+                    "reviewer_job_title": "Accountant",
+                    "reviewer_link": "https://www.g2.com/users/250b1e58-cd04-4010-90d4-3b371a1af434"
+                },
+                "publish_date": "2023-09-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8581650"
+            },
+            {
+                "review_id": 8892441,
+                "review_title": "Best way to manage code out there",
+                "review_content": "What do you like best about GitHub?\nGit allows developers to track changes, work on different branches, and merge code seamlessly and Integration with CI/CD tools, code analysis, and deployment platforms enhances the development workflow.\n\nWhat do you dislike about GitHub?\nSome users find the pricing for private repositories on GitHub to be a concern, especially for individuals or small teams with limited budgets.\n\nWhat problems is GitHub solving and how is that benefiting you?\nGitHub integrates seamlessly with various CI/CD tools, allowing developers to automate testing and deployment workflows. This ensures that changes are validated and integrated into the main codebase consistently and Problem- Identifying and addressing security vulnerabilities in code can be challenging without proper tools and analysis,Benefit- GitHub provides security features, including code scanning and dependency tracking, to help identify and address security issues. This contributes to creating more secure software.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "prakash d.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/4b7a99ff-84ba-4138-8e2c-3fec12cfd911"
+                },
+                "publish_date": "2023-11-17",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8892441"
+            },
+            {
+                "review_id": 8481827,
+                "review_title": "Github - a truly professional tool !!",
+                "review_content": "What do you like best about GitHub?\nThe best part about Github is that it is cloud based version repositoy tool. It provides all features of any classic version control tool, where multiple developers can contribute and collaborate together. Few good features\n- Pull request reviews are easy\n- Desktop and web clients are robust, simple to learn, and use\n- Great Documentation and help articles over the web\n\nWhat do you dislike about GitHub?\nWith all good features, I personally think Github lacks in following areas\n1. Code comparision - the tool is not so intutive like Phabrigator, when it comes to visuallization while comparing diffs.\n2.Code search is not so good and does not provide great results.\n3. Setting up of Github CLI was way too challenging as have to generate public key mulitple times to get the connection established.\n4.Not an easy tool for beginners\n\nWhat problems is GitHub solving and how is that benefiting you?\nGithub is solving the problem of centralized respository or Centralized version control system, instead Github offers \"feature\"  branches, through which multiple developers can work on single code respository by spliting off a feature branch that provides an isolated local repository for making changes to the code.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Sandeep V.",
+                    "reviewer_job_title": "Associate General Manager",
+                    "reviewer_link": "https://www.g2.com/users/202f3bbc-da3f-4af0-9657-5e4e1a49c871"
+                },
+                "publish_date": "2023-08-15",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8481827"
+            },
+            {
+                "review_id": 8501743,
+                "review_title": "Collaboration made easier with Github",
+                "review_content": "What do you like best about GitHub?\nGitHub's seamless integration of version control, issue tracking, and collaborative code review makes it an indispensable hub for developers to work together efficiently and produce high-quality software projects.\n\nWhat do you dislike about GitHub?\nSome of the advanced concepts pose a great barrier for beginners such as branching and complex workflows. Github is online so sometimes I haved faces issues when there is very poor internet connection.\n\nWhat problems is GitHub solving and how is that benefiting you?\nGithub has an excellent version control system which has made collaboration among our developers very easier. GitHub's pull request system allows for thorough code reviews, catching errors, and ensuring code quality before it's merged into the main codebase. This solves the problem of introducing bugs or suboptimal code into the project. GitHub's repositories can also serve as documentation hubs, helping you keep track of project-related information, guides, and best practices. This solves the problem of scattered documentation and aids in knowledge sharing among team members.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Rohan H.",
+                    "reviewer_job_title": "Founding Member",
+                    "reviewer_link": "https://www.g2.com/users/c07f8d17-b492-4c6a-b6c9-33ca85c1d0e3"
+                },
+                "publish_date": "2023-08-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8501743"
+            },
+            {
+                "review_id": 8452218,
+                "review_title": "GitHub for all git repository ",
+                "review_content": "What do you like best about GitHub?\nI have explored popular remote Git options like Bitbucket, and Gitlab but nothing as intuitive, collaborative, and user-friendly as GitHub. The best thing I like about GitHub is that it can be a simple platform when you like - but can also be a complex one when you want. For example, for smaller projects, I simply use GitHub issues to keep track of backlogs and sprints, but for bigger projects, I can use the Projects module and GitHub actions. I also love the security alerts, saved me a few times from possible credentials leaks.\n\nWhat do you dislike about GitHub?\nThere isn't anything particular I dislike about GitHub,\n\nWhat problems is GitHub solving and how is that benefiting you?\nVersion controlling is the primary problem and we were using Bitbucket before which is part of Atlassian tools (since we use Jira). Bitbucket worked fine for version controlling but the user-friendly that GitHub provides was unmatched. Interns that we hire know how to work around GitHub more than compared to Bitbucket so its majority saving a lot of time too.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Kawalpreet J.",
+                    "reviewer_job_title": "IT Administrator",
+                    "reviewer_link": "https://www.g2.com/users/e8a998d5-ab32-4c03-b286-0b52afde9a24"
+                },
+                "publish_date": "2023-08-10",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8452218"
+            },
+            {
+                "review_id": 8858515,
+                "review_title": "An accessible code hosting platform for all",
+                "review_content": "What do you like best about GitHub?\nGitHub provides reliable storage for our projects. Combined with SSH authentication, we can manage employee access to certain repositories using our in-house SSH key management system.\n\nWhat do you dislike about GitHub?\nCertain repositories may contain sensitive information that is not suitable for a third-party cloud enviornment. Such data has to be encrypted before being uploaded, a function that could be natively implemented.\n\nWhat problems is GitHub solving and how is that benefiting you?\nOur business develops proprietary solutions for real estate. These solutions must be kept private while being easily accessible to employees. GitHub offers SSH authentication via Git, allowing us to manage access for every individual employee using our own solution rather than having to implement a new one.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Jacob E.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/e19253c5-e2ad-404a-8f8d-afb8e1195093"
+                },
+                "publish_date": "2023-11-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8858515"
+            },
+            {
+                "review_id": 8430791,
+                "review_title": "Feedback after using GitHub since 2019",
+                "review_content": "What do you like best about GitHub?\nmanaging codes so efficiently, i can literally review the code, open the code using phone/ web, and it doesn't require any IDE to make changes as well, as a senior developer  I have to verify the code which has been written  by my team. and I can change it from anywhere.\n\nWhat do you dislike about GitHub?\nwhen doing open-sourcing, I have to purchase the GitHub Copilot and don't want to buy it. at least give some of the features free with a limit so that we can check if worth than I can purchase because I think of try and buy.\n\nWhat problems is GitHub solving and how is that benefiting you?\nafter the source coding is done, GitHub solves my problem of verifying the code rather than in IDE o browser, which is helping me to make changes when needed, rewert back the changes, and many more options, the bonus is history which I can reset the branch, show the committing of each code.\nI love the commute and commute history feature so that I can track the history of work.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Zaiynab M.",
+                    "reviewer_job_title": "Software Development Executive - II",
+                    "reviewer_link": "https://www.g2.com/users/zaiynab-mansuri"
+                },
+                "publish_date": "2023-08-09",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8430791"
+            },
+            {
+                "review_id": 8594705,
+                "review_title": "Github for keeping track of code versions.",
+                "review_content": "What do you like best about GitHub?\nI use Github for keeping the track of my codes and all of my projects. I like using GIT HUB as it provides different versions of my code which I have written and I can anytime revert back to them. Also I can access that from anywhere and start working on that by creating my own branch with interfering with the master branch\n\nWhat do you dislike about GitHub?\nWell to start with, it seemed really difficult to learn about github in starting. It is a bit harder for a begineer. So to make it easier to understand can be the first step towards improvement\n\nWhat problems is GitHub solving and how is that benefiting you?\nOur business is using Github for a hosting the codes for data transformation project and all our team members can create their own branch and start working on their own and create the functionalities.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Kapil K.",
+                    "reviewer_job_title": "Graduate Data Engineer",
+                    "reviewer_link": "https://www.g2.com/users/432e32ca-9693-408d-9033-8de1f5a582f3"
+                },
+                "publish_date": "2023-09-12",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8594705"
+            },
+            {
+                "review_id": 8420074,
+                "review_title": "GitHub useful in tracking software changes",
+                "review_content": "What do you like best about GitHub?\nGitHub was easy to use for me to upload new transaction files and compare changes to a main file.  Then the system would give me a file of the differences.  This allowed me to just make the changes without having to figure out what the changes were.  After I updated the database, I merged the file into the Main to be ready for the next file with new transactions.  I was able to keep a copy of the field, so I could recover at any point if needed.  I am part of a Software Development team and all the Developers use GitHub here to manage/track/document any system code changes for several systems.\n\nWhat do you dislike about GitHub?\nSometimes I accidentally made a multiple in my Update file area and I had trouble getting it back to one update file.  I was a novice with GitHub and my boss gave me the highlights to perform one type of task weekly on one file that grew.  So, it was hard to learn how to recover from a mistake without my boss's assistance.  Eventually, I will add junior developer skills to assist our developers as I learn Apex and Oracle on my own.  I am an Applications System Analyst and GitHub is a minor part of my workload at this point.  I think the documentation help is geared more toward experienced users, and not novices who never used it and then got a little mentoring and used it minimally.  I am not sure if you have a section on Getting Started on very basic use to gain experience and help towards more advanced use.  THat would be my only suggestion, as this tool is usually geared toward major Developers, not someone branching into the area with little experience.\n\nWhat problems is GitHub solving and how is that benefiting you?\nIt is a major time saver as it creates a file for me that I do not have to manually make, that allows me to complete a task in 1-2 hours instead of many hours or a few days.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Glenn B.",
+                    "reviewer_job_title": "Applications System Analyst",
+                    "reviewer_link": "https://www.g2.com/users/7e1111f9-db60-41c1-adfb-ba2d3c84e1ef"
+                },
+                "publish_date": "2023-08-08",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8420074"
+            },
+            {
+                "review_id": 8482003,
+                "review_title": "The best option to keep control of your project using Git",
+                "review_content": "What do you like best about GitHub?\nIt's not that hard to learn how to use GitHub, it gives you steps on how to set up your own repositories, contribute to others, keep different versions of your repositories, etc. GitHub allows you to use webhooks to keep you notified ej. through Discord about new activity.\n\nWhat do you dislike about GitHub?\nSome cool features require you to use a paid subscription, ej. creating pages using private repositories is not possible in the free trial, only on GitHub Pro, although the price is worth it.\n\nWhat problems is GitHub solving and how is that benefiting you?\nSometimes when using Git you might get confused ej. when keeping track of your project versions, or you might get lost when using commands. GitHub helps you have a visual track of your project versions, it helps a lot.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Alexander M.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/alex22sv"
+                },
+                "publish_date": "2023-08-15",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8482003"
+            },
+            {
+                "review_id": 8196825,
+                "review_title": "Github: Is this the Ultimate Platform for Software Developers?",
+                "review_content": "What do you like best about GitHub?\nGitHub is a powerful platform for version control and collaboration in software development. Here are some of the things I like best about this tool:\n\nA powerful version control system:  GitHub offers a robust version control system, primarily based on Git. The seamless integration allows developers to track changes to their code, work on different branches, and easily merge changes from multiple contributors.\nEase of use: The platform is easy to use and supports private and public repositories. In addition, GitHub offers a free plan for individual users and small-scale projects.\nCollaborative workflow: The code collaboration provides a user-friendly interface for effective collaboration, including pull requests and code reviews, enabling seamless teamwork and knowledge sharing.\nProject management tools: GitHub has an excellent system that helps manage tasks, bugs, and feature requests. The tool allows for efficient project management and timely issue resolution.\nThriving community: GitHub fosters a vibrant developer community, creating an ecosystem that encourages open-source contributions and collaboration. Here, you can find engaging projects, follow repositories, and contribute to the larger developer community.\nContinuous integration and deployment: GitHub's integration with various CI/CD tools automates build, testing, and deployment processes. It ensures project stability and streamlines the development workflow.\nExtensibility: GitHub offers extensive APIs and integrations to allow developers to customize the platform to their needs. These extend its functionality and integrate with other tools, enhancing flexibility and customization options.\nSecurity and access control: GitHub provides outstanding security features. These include two-factor authentication and access control mechanisms. They ensure maximum security for repositories and protect sensitive code.\nPersonal Projects and Portfolios: GitHub offers a free plan, ideal for developers working on personal projects or building portfolios. It provides a reliable and feature-rich platform to showcase and share their code with others. The visibility is valuable for job applications or freelance opportunities, as it allows potential employers or clients to assess a developer's skills and coding capabilities.\n\nWhat do you dislike about GitHub?\nOne limitation of GitHub is that some features, such as private repositories, are available only in paid plans. Freelancers or small teams working on personal projects but unable to commit to a subscription plan often struggle with this.\n\nWhile GitHub excels in many aspects, one area that could benefit from improvement is its learning curve for beginners. Navigating the platform and understanding more advanced features might be slightly challenging for new users. However, GitHub provides comprehensive documentation and an active community that can assist in overcoming this initial hurdle.\n\nWhat problems is GitHub solving and how is that benefiting you?\nGitHub solves the critical problem of efficient code management and collaboration. It eliminates the chaos of manually handling code versions, ensuring developers have a single source of truth for their projects. The seamless collaboration features enable effective teamwork, reducing miscommunications and accelerating development. Furthermore, GitHub's version control capabilities give me the confidence to experiment and iterate without fearing irreparable damage to my codebase.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Doris M.",
+                    "reviewer_job_title": "Full Stack Developer & Digital Marketing Specialist",
+                    "reviewer_link": "https://www.g2.com/users/dorismaingi"
+                },
+                "publish_date": "2023-06-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8196825"
+            },
+            {
+                "review_id": 8201090,
+                "review_title": "GitHub es un 9 porque facilita la colaboracion,el versionado y el desarrollo proyectos de software.",
+                "review_content": "What do you like best about GitHub?\nLo que mas me gusta de GitHub es su capacidad para facilitar la colaboracion entre desarrolladores, el seguimiento de versiones y la organizacion eficiente de proyectos de software.\n\nWhat do you dislike about GitHub?\nAunque GitHub es una plataforma muy completa, algunos usuarios pueden encontrar complicado aprender a utilizar todas sus funcionalidades en profundidad. Ademas, la integracion con otras herramientas externas puede requerir configuraciones adicionales.\n\nWhat problems is GitHub solving and how is that benefiting you?\nGitHub resuelve el problema de la gestion del versionado de codigo, lo que te beneficia al tener un historial claro de cambios y poder revertirlos si es necesario.\n\nGitHub tambien soluciona el problema de la colaboracion en proyectos, permitiendote trabajar de forma conjunta con otros desarrolladores, lo que te beneficia al fomentar la cooperacion y mejorar la eficiencia.\n\nAdemas, GitHub aborda el problema de la documentacion y el seguimiento de problemas, brindandote una plataforma centralizada para administrar tareas, informar errores y mantener un registro de las discusiones.\n\nEn resumen, GitHub resuelve problemas relacionados con el control de versiones, la colaboracion y la gestion de proyectos, lo que te beneficia al mejorar la eficiencia, facilitar la colaboracion y proporcionar un espacio organizado para el desarrollo de software.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Damian De Jesus Z.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/17c7a6a6-1455-4237-9ae8-310985d73bee"
+                },
+                "publish_date": "2023-06-10",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8201090"
+            },
+            {
+                "review_id": 8351829,
+                "review_title": "The Ultimate Platform for Collaborative Development",
+                "review_content": "What do you like best about GitHub?\nCollaboration and Code Review: GitHub's collaborative features, such as pull requests and code reviews, enable developers to work together seamlessly. It promotes a culture of peer review, constructive feedback, and continuous improvement, enhancing the overall code quality.\n\nWhat do you dislike about GitHub?\nWhile GitHub offers free plans for individual users and small projects, some users have found the pricing for larger teams or organizations to be relatively expensive. They may desire more flexible pricing options or additional features for certain pricing tiers.\n\nWhat problems is GitHub solving and how is that benefiting you?\nVersion Control and Code Management: GitHub's core function is its powerful version control system based on Git. It allows developers to track changes, manage code branches, and collaborate effectively on projects. This solves the problem of code chaos and enables developers to work together seamlessly without overwriting each other's work.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "tommaso p.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/4e1747dc-3db0-4121-914a-61a1d8be0240"
+                },
+                "publish_date": "2023-07-24",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8351829"
+            },
+            {
+                "review_id": 8748790,
+                "review_title": "GitHub-IMPORTANCE",
+                "review_content": "What do you like best about GitHub?\nGithub is easy to learn , it keeps track of the code changes by the developers , very much important for development point of you, it has a lot pf features like pull requests, also keep track of issues,it is used in almost all the projects , it is safe.\n\nWhat do you dislike about GitHub?\nWhat i disliked was in the starting it was difficult for me to understand all the commands, also internet  connection is required for this so if in between when you are running your command and the internet breaks than it is very difficult to work on.\n\nWhat problems is GitHub solving and how is that benefiting you?\nBecause of this bug tracking is easy and also  it has seperate commands for doing seperate tasks and once you get familiar with this it is eqsy to work upon , from developing piint of view it is very useful because when so many people work together they need to share their code like their work with each other and github provides us to share the code amoung other members of the project.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-10-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8748790"
+            },
+            {
+                "review_id": 8891100,
+                "review_title": "Github review",
+                "review_content": "What do you like best about GitHub?\nI use it for version control of my applications that I'm developing. It helps me and my team to sync the code easily.\n\nWhat do you dislike about GitHub?\nThere isn't a lot that I dislike about it. Maybe an additional feature I would like to see is the graph of commits similar to that in gitlab.\n\nWhat problems is GitHub solving and how is that benefiting you?\nHelps to manage codebase, pipelines for CI/CD, and build/test automations.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Abhijeet P.",
+                    "reviewer_job_title": "SME React Developer",
+                    "reviewer_link": "https://www.g2.com/users/4fad1564-87b4-4ffc-94f8-9c69987a5c06"
+                },
+                "publish_date": "2023-11-17",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8891100"
+            },
+            {
+                "review_id": 8875271,
+                "review_title": "Accessible and Easy to Use",
+                "review_content": "What do you like best about GitHub?\nIt is realiable for cloud saving of projects, and a good source for coding basis\n\nWhat do you dislike about GitHub?\nGitHub is a refined website that has no flaws\n\nWhat problems is GitHub solving and how is that benefiting you?\nThe ease of saving the and distributing projects when working in a team makes it easier with the use if GitHub, it also helps me on outsourcing for codes that can help me on my projects",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Nymwhel B.",
+                    "reviewer_job_title": "Design Engineer",
+                    "reviewer_link": "https://www.g2.com/users/400d8a06-e41e-486c-9d1d-2500411f3450"
+                },
+                "publish_date": "2023-11-15",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8875271"
+            },
+            {
+                "review_id": 7961355,
+                "review_title": "A Digital Playground for Collaboration",
+                "review_content": "What do you like best about GitHub?\nI like GitHub's robust platform for collaboration and version control the most as a student. It makes group assignments and open-source contributions much simpler for me because it enables me to collaborate on coding projects with my classmates without any issues. The entire development process is made simpler by the ability to build repositories, manage branches, and merge changes, ensuring that everyone is on the same page and conflicts are quickly addressed.\n\nEven beginners like me may use GitHub because to its simple UI and clear functions. I like how it offers a central location for project management, issue tracking, and code sharing. I can quickly browse through other projects, investigate various programming languages, and gain knowledge from the efforts of the community.\n\nWhat do you dislike about GitHub?\nThe learning curve for utilising Git, the version control system that powers GitHub, is one element. Understanding terms like branches, commits, and pull requests can at first seem intimidating to a newcomer. Although there are tutorials and documentation available, using Git's features to their maximum functionality still requires effort and practise.\n\nManaging merge conflicts on GitHub is another difficulty I experience. Conflicts can arise when many contributors make modifications to the same code files when working cooperatively. It can take a lot of effort and require a thorough understanding of the coding to resolve these issues. Even though GitHub has tools to aid in conflict resolution, the process can still be difficult and complicated, especially for new users like me.\n\nWhat problems is GitHub solving and how is that benefiting you?\nIt offers a centralised version control platform. Before GitHub, it might be difficult and error-prone to collaborate with peers while managing several versions of code files. I can easily keep track of changes, make branches, and merge alterations thanks to GitHub's version control system, which is based on Git. This makes sure that my work is well-organized and that I can quickly go back to earlier versions if necessary. My productivity is increased, and I feel more secure because there is no longer a chance that I may lose code or accidentally overwrite someone else's work.\nGitHub makes easy collaboration possible. As a student, I frequently work on group assignments, and it can be difficult to coordinate efforts with my classmates. By offering a shared repository where we can instantly collaborate, GitHub addresses this issue.  This collaborative workflow fosters effective teamwork and promotes a deeper understanding of code through code reviews and discussions.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Samiksha K.",
+                    "reviewer_job_title": "Coordinator",
+                    "reviewer_link": "https://www.g2.com/users/a99eaf37-792a-4201-9743-6060e000c50a"
+                },
+                "publish_date": "2023-05-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-7961355"
+            },
+            {
+                "review_id": 8088979,
+                "review_title": "Management of files could not be easier!",
+                "review_content": "What do you like best about GitHub?\nIt integrates very well with almost all text editors, which makes it easier to upload files to your repository.\nIt allows you to set it up so that the contributors can suggest changes, and you can decide whether to apply those changes, enabling you to make your repositories public.\nNot to forget that its free version is also available.\nIts integrations with Jira and Slack also saves you a lot of time.\n\nWhat do you dislike about GitHub?\nIts functionality is a bit complicated, and using GitBash to upload files to Github requires you to run some commands which you need to remember.\nIf you need to manage files of a large project using it, you need to be a master of it as you need to learn quite complex features of it.\n\nWhat problems is GitHub solving and how is that benefiting you?\nI am using it for almost all the coding work I do, as it helps a lot in easily recovering past versions of your code. It is also quite useful when working on team projects by adding your team members as your repository contributors. Hence, it saves you a lot of time.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Piyush V.",
+                    "reviewer_job_title": "Frontend Developer",
+                    "reviewer_link": "https://www.g2.com/users/0d4df57a-6cbb-4c39-b36f-647f93751afb"
+                },
+                "publish_date": "2023-05-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/github/reviews/github-review-8088979"
+            }
+        ]
+    },
+    "error": null
+}

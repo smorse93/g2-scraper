@@ -1,0 +1,502 @@
+{
+    "data": {
+        "product_id": 8637,
+        "product_name": "Atom",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9e8a353c2584400f49c10a1876f7e17b/atom.png",
+        "g2_link": "https://www.g2.com/products/atom/reviews",
+        "what_is": "Atom is a desk application based on web technologies that allows you to take control of your editor with CSS and other features.",
+        "product_description": "Atom is a desk application based on web technologies that allows you to take control of your editor with CSS and other features.",
+        "positioning_against_competitor": null,
+        "rating": 4.4,
+        "reviews": 765,
+        "company_id": 7032,
+        "seller": "Atom",
+        "company_phone": null,
+        "company_location": "Berkeley, California",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/atom/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AtomEditor",
+        "number_of_followers_on_twitter": 65622,
+        "linkedin": "https://www.linkedin.com/company/atom-computing",
+        "number_of_employees_on_linkedin": 65,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Text Editor",
+                "category_link": "https://www.g2.com/categories/text-editor"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/30017/ATOM_screenshot1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/30018/ATOM_screenshot2.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": [
+            {
+                "plan_name": "Small-Business",
+                "plan_price": null,
+                "plan_description": "32% less expensive\nthan the avg. Text Editor product\nRead Small-Business Reviews https://www.g2.com/products/atom/reviews?filters%5Bcompany_segment%5D%5B%5D=179",
+                "plan_features": []
+            },
+            {
+                "plan_name": "Mid-Market",
+                "plan_price": null,
+                "plan_description": "29% less expensive\nthan the avg. Text Editor product\nRead Mid-Market Reviews https://www.g2.com/products/atom/reviews?filters%5Bcompany_segment%5D%5B%5D=180",
+                "plan_features": []
+            },
+            {
+                "plan_name": "Enterprise",
+                "plan_price": null,
+                "plan_description": "33% less expensive\nthan the avg. Text Editor product\nRead Enterprise Reviews https://www.g2.com/products/atom/reviews?filters%5Bcompany_segment%5D%5B%5D=181",
+                "plan_features": []
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "Notepad++",
+                "competitor_link": "https://www.g2.com/products/notepad/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 2309
+            },
+            {
+                "competitor_name": "Visual Studio Code",
+                "competitor_link": "https://www.g2.com/products/visual-studio-code/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 2196
+            },
+            {
+                "competitor_name": "Sublime Text",
+                "competitor_link": "https://www.g2.com/products/sublime-text/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 1711
+            },
+            {
+                "competitor_name": "UltraEdit",
+                "competitor_link": "https://www.g2.com/products/ultraedit/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 1120
+            },
+            {
+                "competitor_name": "Brackets",
+                "competitor_link": "https://www.g2.com/products/brackets/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 254
+            },
+            {
+                "competitor_name": "TextPad",
+                "competitor_link": "https://www.g2.com/products/textpad/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 139
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/atom-vs-notepad",
+                "competitor_name": "Notepad++",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_6093da7187bfc5bbbeeb9c885fe39648/notepad.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/atom-vs-sublime-text",
+                "competitor_name": "Sublime Text",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_d6666b6b8c18d1f36792437ccb1ac3e6/sublime-text.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/adobe-dreamweaver-vs-atom",
+                "competitor_name": "Dreamweaver",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_14695de1acbb03946ccfdc9dc12f9ea2/adobe-dreamweaver.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 2,
+            "2": 3,
+            "3": 29,
+            "4": 224,
+            "5": 507
+        },
+        "g2_reviews_link": "https://www.g2.com/products/atom/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8692141,
+                "review_title": "Atom :an user friendly text editor",
+                "review_content": "What do you like best about Atom?\ni like the user interface of atom along with ui it also offers git integrated with it which helps us to push the text at remote.you can customise it according to you. its good in terms of performance. its quite fast. you can use various themes also. its open source and freely available on the internet.its cross plateform you can use it on mac, windows or linux.if you are a developer it will help you a lot as it helped me to create and modify the whole ui and i customised it as per my ease. it has good comunity support and it helps when we get stuck or face some issue. i faced a issue few days back it was crashing constanly i googled it and i resolved with the help of solution posted by the community.\n\nWhat do you dislike about Atom?\ncontinouse updates and bug fixes makes it little bit distruptive. you will see that git is integrated partially not all features are available.its resource intensive its not like other light weight text editor tools in terms of occupying resources you may suffer little bit slowness while using atom.\n\nWhat problems is Atom solving and how is that benefiting you?\ni use it to make the notes while attending teams calls and meetings. it helps me to memorise a lot of things i have noted down throughout my work experience. before any presentation i  make notes using atom because of its simple and useful tools and user interface . from gathering requirement to developing the system a lot things come in between and i use atom to make notes of it.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Deepak o.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/fd10f902-de61-4afd-8dd1-3af2d749590f"
+                },
+                "publish_date": "2023-10-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8692141"
+            },
+            {
+                "review_id": 8780414,
+                "review_title": "Versatile tool for coders!!",
+                "review_content": "What do you like best about Atom?\nAtom editor simply provides extensibility by I mean user can easily customise code editor as there preferences.\nAtom also provide thems to be set and customise them as well. By which we users can easily enhance our coding experience.\nAtom have very clean and welcoming User interface.\nIt also have package management tool which makes implementation easy.\nAtom has built in Git Integration which makes version controlling easy.\nAtom also have active and large community which provides best support and also have good customer support.\nBecause all of this features I use Atom editor frequently.\n\nWhat do you dislike about Atom?\nI have faced issue of slower start-up or longer start up time.\nIt's resource intensive software so you will require some heavy specifications on your machine.\n\nWhat problems is Atom solving and how is that benefiting you?\nAtom solves our problems by mainly focusing on customisation and community driven development.\nAtom have solved my problem of adapting new code editor by making easy allowing me to customise it and install packages and library as per my preference.\nIt solve problem of missing features by providing extensibility of adding library and packages.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Rohit G.",
+                    "reviewer_job_title": "Programming Analyst",
+                    "reviewer_link": "https://www.g2.com/users/13300d96-299b-4d65-8a64-e7d019aaa81d"
+                },
+                "publish_date": "2023-11-02",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8780414"
+            },
+            {
+                "review_id": 8482759,
+                "review_title": "The most light weighted and simplest IDE",
+                "review_content": "What do you like best about Atom?\nThe memory utilisation and the easy to navigate shortcuts in atom is really user friendly.\nIt can be easily usable by a begineer for getting used to one of the best coding editor.\n\nWhat do you dislike about Atom?\nIt can have supoort of multiple advanced level extension as well, like github copilot integration and chatgpt integration.\n\nWhat problems is Atom solving and how is that benefiting you?\nSo I am a full stack developer and I do code in multiple languages at a time. Atom comes with the support of multiple programming languages along with the easiest navigation among the project files and suggestions on the syntax of programming languages. It helps me in improving the productivity of writing the code in a faster way.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Nikhil  A.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/8cd7d200-0c64-4f64-b01c-3aa2eeddae21"
+                },
+                "publish_date": "2023-08-16",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8482759"
+            },
+            {
+                "review_id": 8687627,
+                "review_title": "ATOM:- an open source best tool",
+                "review_content": "What do you like best about Atom?\ni like the way we can customise the theme in atom. its integrated with git so pushing changes on some remote place is an advantage. you will get the suggestions for autocomplete that's quite impressive. you can search , replace, navigate to diff words through ui. in my opinion its best tool i use it for my personal note making tool while attending the meetings.\n\nWhat do you dislike about Atom?\nit takes a lot of time while starting and performance is bit slow.it uses high memory while running on the system. there is a lots of competitors of atom which are doing quite better than atom.\n\nWhat problems is Atom solving and how is that benefiting you?\ni prepare notes through atom while attending the meetings.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Shwetank S.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/a4d56f9d-cfee-4ffb-81ec-2eae2f9139ea"
+                },
+                "publish_date": "2023-10-02",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8687627"
+            },
+            {
+                "review_id": 8743561,
+                "review_title": "Great text editor",
+                "review_content": "What do you like best about Atom?\nI use it to solely for HTML editing for quick edits to the code of the email tempaltes and so on.\nIt saves projects nicely and remembers where you stopped your work.\n\nWhat do you dislike about Atom?\nIt can take some time to load and updates or \"what's new\" can be annoying.\n\nWhat problems is Atom solving and how is that benefiting you?\nHTML, CSS, quick editing.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Nikita V.",
+                    "reviewer_job_title": "Marketing Manager CRM",
+                    "reviewer_link": "https://www.g2.com/users/fd81aff4-4680-406f-9189-4161c3b257ac"
+                },
+                "publish_date": "2023-11-28",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8743561"
+            },
+            {
+                "review_id": 7663595,
+                "review_title": "Atom Text Editor: A Comprehensive Breakdown",
+                "review_content": "What do you like best about Atom?\nCustomizability: Atom offers an extensive library of packages and themes to choose from, allowing me to customize the editor to my liking. I personally like a very specific theme (monokai pro)\n\nBuilt-in package manager: Installing and updating packages is straightforward and hassle-free with the built-in package manager.\n\nCross-platform support: Atom can run on various platforms including Windows, Mac, and Linux, making it accessible to a wider range of users. As a multi-OS user, this helps with consistency.\n\nMultiple panes: Atom allows you to split the editor into multiple panes, making it easier to work on multiple files simultaneously.\n\nGitHub Integration: Atom is built on Electron and is closely integrated with GitHub, making it easier to work with repositories and track changes.\n\nWhat do you dislike about Atom?\nPerformance: Despite its rich features, Atom can be a bit slow and resource-intensive, especially on older computers.\nSteep learning curve: Atom offers a wide range of functionalities, which can be overwhelming for new users. It might take some time to get used to all the features and shortcuts.\nStability: Some users have reported occasional crashes and bugs with Atom, which can be frustrating.\n\nWhat problems is Atom solving and how is that benefiting you?\nAtom is helpful with its highly customizable interface, the biggest help its cross-platform support. Some programs can only be run on Linux, editing on my windows machine and running programs on linux is a breeze with atom.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Akshaj M.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/284111d9-2731-4c24-8c5f-40faf19b2db6"
+                },
+                "publish_date": "2023-02-01",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7663595"
+            },
+            {
+                "review_id": 8773024,
+                "review_title": "Nice to work with and easy to use editor",
+                "review_content": "What do you like best about Atom?\nAtom is one of the best editors I have ever used. It has awesome features that help you code easily.\n\nWhat do you dislike about Atom?\nThere's not as such to dislike about atom. But they can improve a bit in their UI.\n\nWhat problems is Atom solving and how is that benefiting you?\nAs a coder I constantly find text editors that can help me making my coding job easy.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Sudhanshu Ranjan S.",
+                    "reviewer_job_title": "Back End Developer",
+                    "reviewer_link": "https://www.g2.com/users/3928338e-989c-48f1-b9cd-188582dbf9c2"
+                },
+                "publish_date": "2023-10-27",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8773024"
+            },
+            {
+                "review_id": 8524457,
+                "review_title": "Atom is easy to use and as good as other software IDEs I've used",
+                "review_content": "What do you like best about Atom?\nAtom's UI is pretty similar to Visual Studio, and I find it to be pretty easy to read and manage. Github integration is pretty easy and I've never had it crash.\n\nWhat do you dislike about Atom?\nThere's nothing in particular that I dislike other than the fact that there's more support available for other more popular IDEs.\n\nWhat problems is Atom solving and how is that benefiting you?\nI've been able to use Atom as a code editor to edit applications I've built. It's easy to push code to Github and it's been a good alternative to VS Code.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-08-24",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8524457"
+            },
+            {
+                "review_id": 8662537,
+                "review_title": "Effective for competative programming",
+                "review_content": "What do you like best about Atom?\nOne of the best code editor for competative programming with any language with multiple windows\n\nWhat do you dislike about Atom?\nNot much but there should be more themes\n\nWhat problems is Atom solving and how is that benefiting you?\nPreparing for comparative coding",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Kaushal P.",
+                    "reviewer_job_title": "Intern",
+                    "reviewer_link": "https://www.g2.com/users/a3a697db-7377-4d55-8085-a46c97462bfa"
+                },
+                "publish_date": "2023-09-26",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8662537"
+            },
+            {
+                "review_id": 7701060,
+                "review_title": "Great open source, collaborating, customizable code editor.",
+                "review_content": "What do you like best about Atom?\nIt is open-source, free to use, and has many good plugins and extensions.  Also, it has excellent developers' support and an active community to learn and work with. It has a collaboration feature to work with teammates and is easy to understand and use.\n\nWhat do you dislike about Atom?\nIt is easy to use only after one understands and learns how to use it, it has not had sufficient features, and its support is good, but updates to the software are not regular. Otherwise a good editor for anyone who uses it.\n\nWhat problems is Atom solving and how is that benefiting you?\nIt helps make code in a customizable environment and has provided community support which helps in learning. It is perfect for growth, offers many extensions and plugins to use in principles, and is free and open source, so secure and does not need to pay.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Vaibhav K.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/faa1e5f1-39e0-48e2-ba74-2734185da91f"
+                },
+                "publish_date": "2023-02-10",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7701060"
+            },
+            {
+                "review_id": 8783898,
+                "review_title": "Easy to use",
+                "review_content": "What do you like best about Atom?\nAtom was easy to use and beginner friendly. One for the better text editors\n\nWhat do you dislike about Atom?\nDid not have many features as compared to other editors\n\nWhat problems is Atom solving and how is that benefiting you?\nWriting javascript programs with embedded git control",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Shreyas B.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/f1bcc4b4-9b88-427f-8e7a-ca50d0dffbcc"
+                },
+                "publish_date": "2023-10-30",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8783898"
+            },
+            {
+                "review_id": 7488669,
+                "review_title": "The small (but powerful and customizable) code editor",
+                "review_content": "What do you like best about Atom?\nAtom has been useful for me in the past years for multiple reasons, its fast, easy to customize and you can open big projects without a hassle.\n\nI work a lot with databases myself and get send a lot of CSV files, its not uncommon for me to have to edit those, which can also be quickly done trough Atom.\n\nWe also use it for our regular code of course, it was so lovely to find you can edit your syntax with different colors and themes. In the years of use we also added a lot of plugins that significantly improved our use of Atom.\n\nWhat do you dislike about Atom?\nHonestly i myself dont dislike anything about Atom. The only thing for me was the start of using Atom, it was a bit complicated at first because you have so many options you can trigger to make it your own.\n\nNo complaints! :)\n\nWhat problems is Atom solving and how is that benefiting you?\nAtom has helped solve a lot of problems, the easy editing of text files, working fast and efficiently with the integrated Git plugin. And because its so simple to use all our new coworkers got used to it really quick!",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "duncan b.",
+                    "reviewer_job_title": "Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/c2a1c145-7ebc-45e8-84da-79c94766b33e"
+                },
+                "publish_date": "2022-12-13",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7488669"
+            },
+            {
+                "review_id": 8889900,
+                "review_title": "Easy and Flexible Coding",
+                "review_content": "What do you like best about Atom?\nI love Atom because it's easy to use, making coding smoother for me. Also, it supports many programming languages, which is super handy.\n\nWhat do you dislike about Atom?\nSometimes, i feel a bit slow when handling really large files or projects.\n\nWhat problems is Atom solving and how is that benefiting you?\nIt lets me write code for various programming languages, saving time and making the coding process smoother overall.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-11-17",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8889900"
+            },
+            {
+                "review_id": 8349047,
+                "review_title": "Editor with themes",
+                "review_content": "What do you like best about Atom?\nIts best in collaboration with other developers and an effective although efficient solution to work. Atom is cutomizable which is quite well to suite the requirements of the team.\n\nWhat do you dislike about Atom?\nIt lacks some features which developers might look as in for Visual Studio. Some times managing plugins can be hard.\n\nWhat problems is Atom solving and how is that benefiting you?\nIt is a lightweight software great to edit for HTML, CSS and PHP. It is a free and open source multi color syntax options. It also provides support for Github, plugins and plugin development.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8349047"
+            },
+            {
+                "review_id": 7394392,
+                "review_title": "A verypowerful yet elegant and simple Text Editor",
+                "review_content": "What do you like best about Atom?\nI like Atom's simple User interface, it is very clean and elegant with syntax highlighting and line numbers it's just better than a normal notepad or any nano editor in Unix-based systems. It's highly extensible and cross-platform as well.\n\nWhat do you dislike about Atom?\nNothing I would say, it's clean simple and powerful, however, I do feel that if it has a feature of an in-built debugger it would be like a cherry on the top. It's the perfect text editor already.\n\nWhat problems is Atom solving and how is that benefiting you?\nI mainly use Atom Text Editor for developing my websites, and writing frontend code (HTML, CSS, and Javascript), it has an inbuilt package manager that enables Atom to have plugin support, it's fantastic and there are many great extensions that help writing code faster and make the workflow efficient.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Ayush S.",
+                    "reviewer_job_title": "Graphic Designer",
+                    "reviewer_link": "https://www.g2.com/users/a01c1843-facc-48f0-b4e5-8479dc6dfb31"
+                },
+                "publish_date": "2022-11-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7394392"
+            },
+            {
+                "review_id": 8659561,
+                "review_title": "Atom Editor: Performance Disappoints",
+                "review_content": "What do you like best about Atom?\nLiked the cutomization part of it with add-ons required for a particular use. While coding, the variety of extensions make it really handful- like Linter, File Icons etc\n\nWhat do you dislike about Atom?\nIts performance, which is kinda sluggish, while opening & working with large codebases.\n\nWhat problems is Atom solving and how is that benefiting you?\nTo write code for Web Applications",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-25",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8659561"
+            },
+            {
+                "review_id": 8161001,
+                "review_title": "Used to be an interesting text editor",
+                "review_content": "What do you like best about Atom?\nAtom was my to-go rich text editor in the past. I used it a lot in parallel of my IDE when working on big projects.\n\nWhat do you dislike about Atom?\nThe fact that there's no more development on Atom is a show stopper. I now use another editor because of that.\n\nWhat problems is Atom solving and how is that benefiting you?\nI helped me editing files when a full-blown IDE was just too big for the need.",
+                "review_rating": 2,
+                "reviewer": {
+                    "reviewer_name": "Vincent T.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/7be2c6de-5805-4ffc-8786-393b1456b1d8"
+                },
+                "publish_date": "2023-06-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8161001"
+            },
+            {
+                "review_id": 7425201,
+                "review_title": "Atom is a great Text Editor",
+                "review_content": "What do you like best about Atom?\nAtom is an excellent Text edit for programmers. It provides many cool features for software developers to make their work easy. It has incredible plugins and a user interface.\n\nWhat do you dislike about Atom?\nAtom is a great text editor, but sadly, it will shut down soon. As per their owner, the official date for \"Sunset\" (Archive) is 15th December 2022. That's sad and dislike that thing.\n\nWhat problems is Atom solving and how is that benefiting you?\nI use Atom for my programming tasks. Atom provides great code completion tools, keyboard shortcuts, cool themes, and a great find / replace feature. Atom provides many plugin integrations.\nAtom is best for code development. Atom is best for syntax highlighting and just-to-declaration, which makes my work so speedy and easy.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Ravina M.",
+                    "reviewer_job_title": "D",
+                    "reviewer_link": "https://www.g2.com/users/feec2e68-7def-415a-b227-c619040e8dd6"
+                },
+                "publish_date": "2022-11-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7425201"
+            },
+            {
+                "review_id": 8544066,
+                "review_title": "ATOM usage experience",
+                "review_content": "What do you like best about Atom?\nAtom is really good with the autocompletion and with the the ease of use for different scripting languages.\n\nWhat do you dislike about Atom?\nNothing as such to Point out about Atom.\n\nWhat problems is Atom solving and how is that benefiting you?\nAtom is a really good user friendly editor which can solve problem with any of the scripting languages.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-08-30",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-8544066"
+            },
+            {
+                "review_id": 7674419,
+                "review_title": "The perfect, poweful, lightweight and higly customisable editor for developers",
+                "review_content": "What do you like best about Atom?\nThe minimalistic design and lightweight characteristic, which wouldn't take much CPU processing, are the best. It also has many packages and plugin libraries to meet the developer's requirements for every scenario.\n\nWhat do you dislike about Atom?\nAs of now, I don't seem to dislike anything with this editor, as it meets my requirements. If anyone is looking for notepad++ alternative, then this is it. Also, it is an opensource tool.\n\nWhat problems is Atom solving and how is that benefiting you?\nI use Atom small software development editing purposes and is a secondary editor, which I use when there are minor changes to be made and if there are formatting changes required depending the on the programming languages.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Paresh K.",
+                    "reviewer_job_title": "Junior Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/e1775172-8f22-4efb-b5cb-7a45c31a8f88"
+                },
+                "publish_date": "2023-02-04",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7674419"
+            },
+            {
+                "review_id": 7053873,
+                "review_title": "Content -Text  editor",
+                "review_content": "What do you like best about Atom?\nAtom provides remote collaboration so by two people can code on the same panel. The integration of source code is awesome. highly customizable platform. the open source extension and support are greater. it supports markup languages too.\n\nWhat do you dislike about Atom?\nIt required a lot of time to start. managing plugin becomes cumbersome. find difficulty in the documentation. create an issue in GIT support. UI increases the level of difficulty, need to improve UI. Packages should be more advanced.\n\nWhat problems is Atom solving and how is that benefiting you?\nAs a system developer, I use atoms to do code for my applications. I mainly use aton to collaborate on the code with my other team members. provide a variety of extensions to make my work easy. mainly I prefer atom for community coding . Markup language support helps me to work with CSS code.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Simmi  N.",
+                    "reviewer_job_title": "Senior System Engineer",
+                    "reviewer_link": "https://www.g2.com/users/cc0671b3-4a4a-4620-95d3-05c49a656ec7"
+                },
+                "publish_date": "2022-08-30",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7053873"
+            },
+            {
+                "review_id": 7317593,
+                "review_title": "Light and great ui",
+                "review_content": "What do you like best about Atom?\nAtom is a fast, responsive and good ui editor. It has various list of addons available as well so it helps a lot in increasing the productivity and efficiency in coding.\n\nWhat do you dislike about Atom?\nAs I told earlier that it is very light, therefore, it lacks a lot of features that other softwares like the ones with jetbrains offer or VS code offers. Therefore, if you are used to such extra features, you are going to miss in atom.\n\nWhat problems is Atom solving and how is that benefiting you?\nSo I coded on atom for pretty much every language and sometimes for just file editor. Mostly I used to code in python for my ML project as it doesnt eat up you ram and leaves a lot of space in ram for training the model.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Yash R.",
+                    "reviewer_job_title": "Member of Technical Staff",
+                    "reviewer_link": "https://www.g2.com/users/94bb72c2-acdc-401c-ab80-476426430c0c"
+                },
+                "publish_date": "2022-11-06",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7317593"
+            },
+            {
+                "review_id": 7088841,
+                "review_title": "A good ediotor for web developement but not the best.",
+                "review_content": "What do you like best about Atom?\nAtom has a very simple GUI developed by GitHub, so it has a built-in git feature. It provides a decent amount of extensions and plugins to add more features for your convenience.\n\nWhat do you dislike about Atom?\nAtom does provide a very limited number of extensions, whereas VScode offers a vast number of extensions and customization. Atom is slower than some other text editors, and when you add more extensions and plugins, it worsens.\n\nWhat problems is Atom solving and how is that benefiting you?\nIt is a good text editor for someone who dislikes too many extensions, customization and adding on features. It has built-in git feature, which is very helpful while working on more significant projects.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Sumit G.",
+                    "reviewer_job_title": "Frontend Developer",
+                    "reviewer_link": "https://www.g2.com/users/9d3c149a-8c02-4bdf-a9f7-297bfd247950"
+                },
+                "publish_date": "2022-09-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7088841"
+            },
+            {
+                "review_id": 7936780,
+                "review_title": "Good editor with tons of language support",
+                "review_content": "What do you like best about Atom?\nAlmost all language support which are needed\n\nWhat do you dislike about Atom?\nNeed to work on auto suggestion part and gui\n\nWhat problems is Atom solving and how is that benefiting you?\nScript writing without utilisation of IDE concorrent licence",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "Darshan M.",
+                    "reviewer_job_title": "Manager (GIS&NE)",
+                    "reviewer_link": "https://www.g2.com/users/165c5e8f-e15c-46e8-b933-88d6ac73b2d4"
+                },
+                "publish_date": "2023-04-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7936780"
+            },
+            {
+                "review_id": 7279441,
+                "review_title": "Nice Cross-platform Code Editor",
+                "review_content": "What do you like best about Atom?\nWhen compared to all other code editors I used before, Atom provides the best user experience cross-platform. The user experience is consistent when I switch between Mac OS and Windows.\n\nWhat do you dislike about Atom?\nI guess not much. But if the CSS color code can be turned into a color preview inline, then will be a nice feature like other code editor does.\n\nWhat problems is Atom solving and how is that benefiting you?\nAs I am a cross-platform user switching between Mac OS and Windows OS, it's the only code editor that provides me with a consistent user experience and makes my work more productive without needing to remember different commands on a different platform.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-10-30",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/atom/reviews/atom-review-7279441"
+            }
+        ]
+    },
+    "error": null
+}
