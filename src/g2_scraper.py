@@ -74,7 +74,7 @@ class G2:
                 write_output(product, result_item)
 
         if result:
-            write_output('_all',result)
+            write_output('_all',result, lambda x:x)
         
         get_products.close()
 

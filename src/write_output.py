@@ -26,9 +26,9 @@ def create(data, selected_fields, csv_path, json_path, query_kebab):
 
         print_filenames(written)
 
-def write_output(query, data):
+def write_output(query, data, transformer = kebab_case):
 
-    query_kebab = kebab_case(query)
+    query_kebab = transformer(query)
     make_folders(query_kebab)
 
     csv_path = f"output/{query_kebab}/csv/" 
