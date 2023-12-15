@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 28502,
+        "product_name": "Arbela Technologies",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9f97b98167e14c207a4030c45b186d61/arbela-technologies.png",
+        "g2_link": "https://www.g2.com/products/arbela-technologies/reviews",
+        "what_is": "We provide strategic business and technology consulting services, including implementation, integration, migration, training, support, project management, as well as custom development.",
+        "product_description": "We provide strategic business and technology consulting services, including implementation, integration, migration, training, support, project management, as well as custom development.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1,
+        "company_id": 22483,
+        "seller": "Arbela Technologies",
+        "company_phone": null,
+        "company_location": "Irvine, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/arbela-technologies/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/ArbelaTech",
+        "number_of_followers_on_twitter": 1376,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 110
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            },
+            {
+                "competitor_name": "Collectiv",
+                "competitor_link": "https://www.g2.com/products/collectiv/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 37
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/arbela-technologies/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8554062,
+                "review_title": "Arbela Technologies exceeded our expectations in implementing our ERP system",
+                "review_content": "What do you like best about Arbela Technologies?\nArbela Technologies is known for its deep expertise in ERP and CRM solutions, particularly in Microsoft Dynamics 365. Clients appreciate their in-depth knowledge and industry-specific insights.\n\nWhat do you dislike about Arbela Technologies?\nI haven't had many negative experiences.\nIt's important to keep in mind that what someone likes best about a consulting firm can vary based on their specific needs and experiences.\n\nWhat problems is Arbela Technologies solving and how is that benefiting you?\nArbela Technologies exceeded our expectations in implementing our ERP system. Their expertise and dedication were evident throughout the process. From the initial consultation to final deployment, Arbela's team demonstrated a deep understanding of our business needs. Their tailored solutions and seamless integration streamlined our operations, resulting in increased efficiency and cost savings. Their commitment to ongoing support and training ensured a smooth transition for our team. We're grateful to Arbela for a successful ERP setup that has transformed our business for the better. Highly recommended!",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Francis T.",
+                    "reviewer_job_title": "Product Lifecycle Management Manager",
+                    "reviewer_link": "https://www.g2.com/users/francistaillieu"
+                },
+                "publish_date": "2023-09-01",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/arbela-technologies/reviews/arbela-technologies-review-8554062"
+            }
+        ]
+    },
+    "error": null
+}

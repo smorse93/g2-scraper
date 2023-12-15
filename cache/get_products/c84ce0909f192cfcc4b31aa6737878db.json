@@ -1,0 +1,115 @@
+{
+    "data": {
+        "product_id": 26604,
+        "product_name": "Accounting Micro Systems",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0c7085ac569a6ca40da5f59ddab2a707/accounting-micro-systems.png",
+        "g2_link": "https://www.g2.com/products/accounting-micro-systems/reviews",
+        "what_is": "Accounting Micro Systems helps supply chain organizations become more agile and responsive with supply chain management software built on SAP's cloud.",
+        "product_description": "Accounting Micro Systems helps supply chain organizations become more agile and responsive with supply chain management software built on SAP's cloud.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 20290,
+        "seller": "Accounting Micro Systems",
+        "company_phone": null,
+        "company_location": "San Francisco, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/accounting-micro-systems/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/accountingmicro",
+        "number_of_followers_on_twitter": 784,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Sage 100 Resellers",
+                "category_link": "https://www.g2.com/categories/sage-100-resellers"
+            },
+            {
+                "category_name": "SAP Business One Resellers",
+                "category_link": "https://www.g2.com/categories/sap-business-one-resellers"
+            },
+            {
+                "category_name": "Business ByDesign Resellers",
+                "category_link": "https://www.g2.com/categories/business-bydesign-resellers"
+            },
+            {
+                "category_name": "Sage 500 Resellers",
+                "category_link": "https://www.g2.com/categories/sage-500-resellers"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Vision33",
+                "competitor_link": "https://www.g2.com/products/vision33/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 35
+            },
+            {
+                "competitor_name": "CompuData",
+                "competitor_link": "https://www.g2.com/products/compudata/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 33
+            },
+            {
+                "competitor_name": "VistaVu Solutions",
+                "competitor_link": "https://www.g2.com/products/vistavu-solutions/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 23
+            },
+            {
+                "competitor_name": "Faye Business Systems Group",
+                "competitor_link": "https://www.g2.com/products/faye-business-systems-group/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 22
+            },
+            {
+                "competitor_name": "Klear Systems",
+                "competitor_link": "https://www.g2.com/products/klear-systems/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 18
+            },
+            {
+                "competitor_name": "BKD Technologies",
+                "competitor_link": "https://www.g2.com/products/bkd-technologies/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 2
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/accounting-micro-systems/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 6799308,
+                "review_title": "Amazing app!!",
+                "review_content": "What do you like best about Accounting Micro Systems?\nThey continue to give me product support and business advice improvements in order to improve the company. One of the best things about it is how specific features work.\n\nWhat do you dislike about Accounting Micro Systems?\nI dislike the way that the website is setup. Sometimes it can seem confusing and I believe that the website should be setup in an easier way in order to help future customers.\n\nRecommendations to others considering Accounting Micro Systems:\nIf you're looking to improve your company and help you with time management get accounting micro system!\n\nWhat problems is Accounting Micro Systems solving and how is that benefiting you?\nI have had a hard time ensuring that the core business processes are running to specifications. With accounting micro systems, I am able to rely on them to do it.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-06-30",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accounting-micro-systems/reviews/accounting-micro-systems-review-6799308"
+            }
+        ]
+    },
+    "error": null
+}

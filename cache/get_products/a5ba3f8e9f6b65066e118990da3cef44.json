@@ -1,0 +1,107 @@
+{
+    "data": {
+        "product_id": 28493,
+        "product_name": "AppSquadz Technologies Pvt Ltd.",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_232be4100eb16356f21bd04e10884cd9/appsquadz-technologies-pvt-ltd.jpg",
+        "g2_link": "https://www.g2.com/products/appsquadz-technologies-pvt-ltd/reviews",
+        "what_is": "From conceptualization and development to marketing and management, AppSquadz Technologies caters everything.",
+        "product_description": "From conceptualization and development to marketing and management, AppSquadz Technologies caters everything.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 22475,
+        "seller": "AppSquadz Technologies Pvt Ltd.",
+        "company_phone": null,
+        "company_location": "NOIDA, India",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/appsquadz-technologies-pvt-ltd/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/appsquadz",
+        "number_of_followers_on_twitter": 662,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "iOS Developers",
+                "category_link": "https://www.g2.com/categories/ios-developers"
+            },
+            {
+                "category_name": "Android Developers",
+                "category_link": "https://www.g2.com/categories/android-developers"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Capital Numbers",
+                "competitor_link": "https://www.g2.com/products/capital-numbers/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 67
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            },
+            {
+                "competitor_name": "Chetu",
+                "competitor_link": "https://www.g2.com/products/chetu/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 33
+            },
+            {
+                "competitor_name": "Teravision Technologies",
+                "competitor_link": "https://www.g2.com/products/teravision-technologies/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 33
+            },
+            {
+                "competitor_name": "Designli",
+                "competitor_link": "https://www.g2.com/products/designli/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 32
+            },
+            {
+                "competitor_name": "Suffescom Solutions Inc",
+                "competitor_link": "https://www.g2.com/products/suffescom-solutions-inc/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 30
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/appsquadz-technologies-pvt-ltd/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 4149944,
+                "review_title": "Fabulous work done by team AppSquadz",
+                "review_content": "Describe the project or task AppSquadz Technologies Pvt Ltd. helped with:\nWell, this is the android app development for my website which is under development. They also developed our website that is Infowebsoft. Basically are a squad of Digital marketer and we provide digital marketing/SEO services all across the globe.\n\nWhat do you like best about AppSquadz Technologies Pvt Ltd.?\nI like most of their team efforts. All the team members assigned me were dedicated and supporting.\n\nWhat do you dislike about AppSquadz Technologies Pvt Ltd.?\nI didn't like anything but sometimes delay in communication.\n\nRecommendations to others considering AppSquadz Technologies Pvt Ltd.:\nYes! I will recommend this organization to others as I'll do business with them in the future.\n\nWhat problems is AppSquadz Technologies Pvt Ltd. solving and how is that benefiting you?\nI was completely confused with my project that how to start, they guide me and provide me the best possible solution.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2020-03-17",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appsquadz-technologies-pvt-ltd/reviews/appsquadz-technologies-pvt-ltd-review-4149944"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,118 @@
+{
+    "data": {
+        "product_id": 27333,
+        "product_name": "Action Selling",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_71f469aac0d5aa3f4edad937680727cf/action-selling.jpg",
+        "g2_link": "https://www.g2.com/products/action-selling/reviews",
+        "what_is": "Action Selling sales training programs produce real, long-term gains in sales performance; gains that can be seen in salespeople's behavior and measured in actual dollars.",
+        "product_description": "Action Selling sales training programs produce real, long-term gains in sales performance; gains that can be seen in salespeople's behavior and measured in actual dollars.",
+        "positioning_against_competitor": null,
+        "rating": 3.5,
+        "reviews": 2,
+        "company_id": 21450,
+        "seller": "Action Selling",
+        "company_phone": null,
+        "company_location": "Minneapolis, MN",
+        "company_founded_year": 1990,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/action-selling/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/ActionSelling",
+        "number_of_followers_on_twitter": 6402,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Sales Training",
+                "category_link": "https://www.g2.com/categories/sales-training"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SuccessCOACHING",
+                "competitor_link": "https://www.g2.com/products/successcoaching/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 744
+            },
+            {
+                "competitor_name": "Winning by Design",
+                "competitor_link": "https://www.g2.com/products/winning-by-design/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 718
+            },
+            {
+                "competitor_name": "JBarrows Sales Training",
+                "competitor_link": "https://www.g2.com/products/jbarrows-sales-training/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 383
+            },
+            {
+                "competitor_name": "SaaSy Sales Leadership",
+                "competitor_link": "https://www.g2.com/products/saasy-sales-leadership/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 235
+            },
+            {
+                "competitor_name": "Growth Molecules, Customer Success",
+                "competitor_link": "https://www.g2.com/products/growth-molecules-customer-success/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 108
+            },
+            {
+                "competitor_name": "Sandler Training",
+                "competitor_link": "https://www.g2.com/products/sandler-training/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 97
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/action-selling/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7655410,
+                "review_title": "Valuable for certain sellers but needs an update.",
+                "review_content": "What do you like best about Action Selling?\nI like any different perspective that I can learn regarding how to effectively guide a sale towards close.  It provides a good basic framework to follow, resulting in a more structured sales process.\n\nWhat do you dislike about Action Selling?\nIn my opinion, the curriculum was geared more towards the sale of simple, commodity based products, and isn't as effective for sellers in tech or Saas sales, where the products are more complex, and buyers are more sophisticated.\n\nRecommendations to others considering Action Selling:\nI would ask for references in your specific industry and verify with them that they've had success in implementing the Action Selling process, and that it's led to a higher win rate for their sellers.\n\nWhat problems is Action Selling solving and how is that benefiting you?\nAction Selling provides a basic framework for taking control of the sales process by gaining \"commitment\" from the buyer as you progress through the various stages of the sales funnel.",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "Ryan S.",
+                    "reviewer_job_title": "Sr. Sales & Business Development Executive",
+                    "reviewer_link": "https://www.g2.com/users/d9e5a8ae-0316-4a72-a295-1b5ef6a66cdf"
+                },
+                "publish_date": "2023-01-31",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/action-selling/reviews/action-selling-review-7655410"
+            },
+            {
+                "review_id": 3603157,
+                "review_title": "This was such a great experience to use no problem at all. ",
+                "review_content": "Describe the project or task Action Selling helped with:\nIt helped with selling different products and how to conduct selling different products.\n\nWhat do you like best about Action Selling?\nI loved everything about it it was very useful.\n\nWhat do you dislike about Action Selling?\nI didn't not like anything about it, it was all great to use.\n\nWhat problems is Action Selling solving and how is that benefiting you?\nIt has greatly impacted my work.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Paige C.",
+                    "reviewer_job_title": "Safety manager",
+                    "reviewer_link": "https://www.g2.com/users/3bc77950-08a8-4b3b-9039-2e0d3b811efd"
+                },
+                "publish_date": "2019-11-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/action-selling/reviews/action-selling-review-3603157"
+            }
+        ]
+    },
+    "error": null
+}

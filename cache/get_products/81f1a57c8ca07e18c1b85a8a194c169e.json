@@ -1,0 +1,133 @@
+{
+    "data": {
+        "product_id": 28459,
+        "product_name": "Amtec",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f17455f0d9d6c240a12dbf1f22d099e6/amtec.png",
+        "g2_link": "https://www.g2.com/products/amtec/reviews",
+        "what_is": "We help clients build high-performing teams and help candidates find meaningful work.",
+        "product_description": "We help clients build high-performing teams and help candidates find meaningful work.",
+        "positioning_against_competitor": null,
+        "rating": 4.7,
+        "reviews": 3,
+        "company_id": 22448,
+        "seller": "Amtec",
+        "company_phone": null,
+        "company_location": "Chino Hills, CA",
+        "company_founded_year": 1959,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/amtec/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AmtecStaffing",
+        "number_of_followers_on_twitter": 1539,
+        "linkedin": "https://www.linkedin.com/company/amtec-inc-/",
+        "number_of_employees_on_linkedin": 216,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 85
+            },
+            {
+                "competitor_name": "Blueprint Expansion",
+                "competitor_link": "https://www.g2.com/products/blueprint-expansion/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 2
+        },
+        "g2_reviews_link": "https://www.g2.com/products/amtec/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 5343597,
+                "review_title": "Helpful onboarding service",
+                "review_content": "Describe the project or task Amtec helped with:\nAmtec has helped me as a new employee become onboarded onto a firm I was hired by.\n\nWhat do you like best about Amtec?\nI like the easy-to-use interface of the program. I have also looked for jobs on their site, which has nice filters and search tools.\n\nWhat do you dislike about Amtec?\nMy only qualm is the lack of adoption at the moment. It would be nice if there were greater job postings on their site. However, the onboarding tools are great.\n\nWhat problems is Amtec solving and how is that benefiting you?\nThe process of job searching and onboarding have both been streamlined for me. Its nice to have the process pre-set and all in one place. No chasing different documents,etc",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-02-16",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/amtec/reviews/amtec-review-5343597"
+            },
+            {
+                "review_id": 5025715,
+                "review_title": "There augmented training is wonderful",
+                "review_content": "Describe the project or task Amtec helped with:\nAmtec delivered stunning training on Virtual Reality tools for technical training inside the organization.\n\nWhat do you like best about Amtec?\nThey have best in experience people who curate the training best for the organization.\n\nWhat do you dislike about Amtec?\nThey did not give much time to the learners to go through training .\n\nWhat problems is Amtec solving and how is that benefiting you?\nAmtec is very good at what they do, and they can do all of it in less time, which their competitors can't think of doing.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-09-28",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/amtec/reviews/amtec-review-5025715"
+            },
+            {
+                "review_id": 5087240,
+                "review_title": "It is a very trusted recruitment and staffing firm",
+                "review_content": "Describe the project or task Amtec helped with:\nThey helped in finding great resources for different end customers projects.\n\nWhat do you like best about Amtec?\nThe customer and client relationship they are maintaining.\n\nWhat do you dislike about Amtec?\nNothing as of now. All sounds good for me.\n\nWhat problems is Amtec solving and how is that benefiting you?\nIt is helping wide resources to get the suitable positions according to their skill set and teck stack",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-10-29",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/amtec/reviews/amtec-review-5087240"
+            }
+        ]
+    },
+    "error": null
+}

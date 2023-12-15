@@ -1,0 +1,106 @@
+{
+    "data": {
+        "product_id": 23049,
+        "product_name": "Aadmi Consulting",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_52ebab6ed2e48ba792e43a8506fba8d4/aadmi-consulting.png",
+        "g2_link": "https://www.g2.com/products/aadmi-consulting/reviews",
+        "what_is": "Aadmi Consulting provides full life-cycle HR support for all your business' human capital needs.",
+        "product_description": "Aadmi Consulting provides full life-cycle HR support for all your business' human capital needs.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 18564,
+        "seller": "Aadmi Consulting",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/aadmi-consulting/discuss",
+        "supported_languages": "Bengali, English, Hindi, Russian, Spanish",
+        "twitter": "https://twitter.com/AadmiConsulting",
+        "number_of_followers_on_twitter": 153,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "HR Consulting",
+                "category_link": "https://www.g2.com/categories/hr-consulting"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/59400/expirable-direct-uploads_2F7b2585e2-bb39-4165-bff3-d10b2510d9ec_2FAadmi_Website.jpg"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Lumity Benefits Solution",
+                "competitor_link": "https://www.g2.com/products/lumity-benefits-solution/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 64
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "ADP Comprehensive Services",
+                "competitor_link": "https://www.g2.com/products/adp-comprehensive-services/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 51
+            },
+            {
+                "competitor_name": "Zenefits Services",
+                "competitor_link": "https://www.g2.com/products/zenefits-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 31
+            },
+            {
+                "competitor_name": "Insperity Workforce Optimization",
+                "competitor_link": "https://www.g2.com/products/insperity-workforce-optimization/reviews",
+                "competitor_rating": 3.7,
+                "competitor_reviews": 30
+            },
+            {
+                "competitor_name": "Sequoia",
+                "competitor_link": "https://www.g2.com/products/sequoia-sequoia/reviews",
+                "competitor_rating": 3.3,
+                "competitor_reviews": 24
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/aadmi-consulting/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 428997,
+                "review_title": "Amazing HR Partnership!",
+                "review_content": "Describe the project or task Aadmi Consulting helped with:\nThey helped us when with our pay review, and put in our HRIS and ATS systems for efficiency in our HR processes.\n\nWhat do you like best about Aadmi Consulting?\nTheir personalized and tailored service is what impresses me, as it ensures that they take their time to understudy the organization, and be sure they can deliver what you actually need, that will be fit for purpose.\n\nWhat do you dislike about Aadmi Consulting?\nThere is absolutely nothing to dislike with the Aadmi team, they work to please their clients whilst being objective.\n\nRecommendations to others considering Aadmi Consulting:\nAadmi have proven themselves to be experts in HR within international development, and I have always enjoyed working with them over the last two years, and what impresses me most, is the fact that they take the time to tailor your needs to your organization, by ensuring they understand your culture and fit.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Osadebe O.",
+                    "reviewer_job_title": "Human Resources Director",
+                    "reviewer_link": "https://www.g2.com/users/898e68d4-fb5a-4254-ba77-cc9001432294"
+                },
+                "publish_date": "2017-10-22",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aadmi-consulting/reviews/aadmi-consulting-review-428997"
+            }
+        ]
+    },
+    "error": null
+}

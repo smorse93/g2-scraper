@@ -1,0 +1,126 @@
+{
+    "data": {
+        "product_id": 27425,
+        "product_name": "Argus",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_007b536e72a0f21d59e2d4183b64a89c/argus.jpg",
+        "g2_link": "https://www.g2.com/products/argus/reviews",
+        "what_is": "Argus is a full-service marketing and communications agency with a mission.",
+        "product_description": "Argus is a full-service marketing and communications agency with a mission.",
+        "positioning_against_competitor": null,
+        "rating": 4.8,
+        "reviews": 2,
+        "company_id": 21513,
+        "seller": "Argus",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/argus/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/thinkargus",
+        "number_of_followers_on_twitter": 699,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Digital Marketing",
+                "category_link": "https://www.g2.com/categories/digital-marketing"
+            },
+            {
+                "category_name": "Social Media Marketing (SMM) Companies",
+                "category_link": "https://www.g2.com/categories/social-media-marketing-smm-companies"
+            },
+            {
+                "category_name": "Branding Agencies",
+                "category_link": "https://www.g2.com/categories/branding-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "KlientBoost",
+                "competitor_link": "https://www.g2.com/products/klientboost/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 345
+            },
+            {
+                "competitor_name": "INFUSEmedia",
+                "competitor_link": "https://www.g2.com/products/infusemedia/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 221
+            },
+            {
+                "competitor_name": "DashClicks",
+                "competitor_link": "https://www.g2.com/products/dashclicks/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 212
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 188
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "CIENCE",
+                "competitor_link": "https://www.g2.com/products/cience/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 168
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "g2_reviews_link": "https://www.g2.com/products/argus/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8315931,
+                "review_title": "The marketing brand that alter the sales graph",
+                "review_content": "What do you like best about Argus?\nTheir team is different based on the requirement and domain. Their solutions are innovative and result-driven. Their team consists of members who can be poster kids for diversity. The members from various demographic backgrounds bring different perspectives to the team.\n\nWhat do you dislike about Argus?\nThey run a team that is short on resources most of the time. For that, delay in the delivery of a few projects sometimes affects the clients adversely. Other than that, there is no such major dislike about Argus which we are dissatisfied about.\n\nRecommendations to others considering Argus:\nConsider their trial or low cost version for some initial days before subscribing to a full-fledged plan. They are very good at proving their worth before u are ready to buy their offering.\n\nWhat problems is Argus solving and how is that benefiting you?\nArgus is a one-stop solution for all marketing and communication campaigns for multiple teams across the organisation. They come with a very creative and energetic team of content creators, analysts, and psychological experts who are experienced in the specific industry to drive sales and improve brand value. Not only that, their review system is well-rounded to quickly rectify and come up with better solutions if something goes south.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-13",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/argus/reviews/argus-review-8315931"
+            },
+            {
+                "review_id": 1714168,
+                "review_title": "Efficient Tool for case processing ",
+                "review_content": "Describe the project or task Argus helped with:\nIt is a tool for case processing and submission of adverse event reports to the regulatory agencies.\n\nWhat do you like best about Argus?\nVery efficient. Easy to use. Self explanatory. User friendly.\n\nWhat do you dislike about Argus?\nNeed to update every 6 months and new things to learn.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-02-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/argus/reviews/argus-review-1714168"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 28381,
+        "product_name": "Abacus Group",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c6072f0fc5c2b53f79003e7a4acf6ab0/abacus-group.png",
+        "g2_link": "https://www.g2.com/products/abacus-group/reviews",
+        "what_is": "Abacus Group is an award-winning executive search firm specializing in Accounting, Financial, and Administrative placement across all industries.",
+        "product_description": "Abacus Group is an award-winning executive search firm specializing in Accounting, Financial, and Administrative placement across all industries.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 22374,
+        "seller": "Abacus Group, LLC",
+        "company_phone": null,
+        "company_location": "New York, NY",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/abacus-group/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 84
+            },
+            {
+                "competitor_name": "Blueprint Expansion",
+                "competitor_link": "https://www.g2.com/products/blueprint-expansion/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/abacus-group/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 306592,
+                "review_title": "Talent Acquisition ",
+                "review_content": "Describe the project or task Abacus Group helped with:\nThe team has been helpful in filling some of our hard to fill finance and accounting roles.\n\nWhat do you like best about Abacus Group?\nThe team understands what we are looking for and is responsive.\n\nWhat do you dislike about Abacus Group?\nI don't have anything to comment on at the moment. We have a good working partnership and have successfully filled 2 roles together. Hopefully, we can increase the number of roles filled in the future.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jennifer D.",
+                    "reviewer_job_title": "Talent Acquisition - Corporate Functions Recruiter",
+                    "reviewer_link": "https://www.g2.com/users/24ea0a25-eca7-4f4b-ad68-61cba870248c"
+                },
+                "publish_date": "2017-06-08",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/abacus-group/reviews/abacus-group-review-306592"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,115 @@
+{
+    "data": {
+        "product_id": 23059,
+        "product_name": "ApolloBravo",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a460f93b56e648ecff323f49a07a1d0e/apollobravo.png",
+        "g2_link": "https://www.g2.com/products/apollobravo/reviews",
+        "what_is": "ApolloBravo is a digital marketing firm, engaging consumers with integrated mobile promotion and social media solutions.",
+        "product_description": "ApolloBravo is a digital marketing firm, engaging consumers with integrated mobile promotion and social media solutions.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 18572,
+        "seller": "ApolloBravo",
+        "company_phone": null,
+        "company_location": "Alexandria, VA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/apollobravo/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/ApolloBravo",
+        "number_of_followers_on_twitter": 336,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Digital Marketing",
+                "category_link": "https://www.g2.com/categories/digital-marketing"
+            },
+            {
+                "category_name": "Social Media Marketing (SMM) Companies",
+                "category_link": "https://www.g2.com/categories/social-media-marketing-smm-companies"
+            },
+            {
+                "category_name": "Experiential Marketing Agencies",
+                "category_link": "https://www.g2.com/categories/experiential-marketing-agencies"
+            },
+            {
+                "category_name": "Mobile Marketing Companies",
+                "category_link": "https://www.g2.com/categories/mobile-marketing-companies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "KlientBoost",
+                "competitor_link": "https://www.g2.com/products/klientboost/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 345
+            },
+            {
+                "competitor_name": "INFUSEmedia",
+                "competitor_link": "https://www.g2.com/products/infusemedia/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 221
+            },
+            {
+                "competitor_name": "DashClicks",
+                "competitor_link": "https://www.g2.com/products/dashclicks/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 212
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 188
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "CIENCE",
+                "competitor_link": "https://www.g2.com/products/cience/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 168
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/apollobravo/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7665605,
+                "review_title": "Excellent marketing agency",
+                "review_content": "What do you like best about ApolloBravo?\nThis agency makes content that is highly connectable with the people in a region. While running a marketing campaign in a region, it runs location preferred Ads to gain more customers.\n\nWhat do you dislike about ApolloBravo?\nThe least helpful thing is that due to insufficient data, they are still lacking the potential that a client will demand. They have unique ideas in place but still lack in execution.\n\nRecommendations to others considering ApolloBravo:\nIf you have good money and enough time, You can give a try to it.\n\nWhat problems is ApolloBravo solving and how is that benefiting you?\nApolloBravo is helping small entrepreneurs a lot. they are helping small brands to compete with bi companies. It primarily helps and benefits by its digital innovation technique.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Amrit R.",
+                    "reviewer_job_title": "Event Manager",
+                    "reviewer_link": "https://www.g2.com/users/54aa984d-8ae7-4fd3-9dcc-cbb000f1254c"
+                },
+                "publish_date": "2023-02-02",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apollobravo/reviews/apollobravo-review-7665605"
+            }
+        ]
+    },
+    "error": null
+}

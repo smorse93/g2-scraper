@@ -1,0 +1,133 @@
+{
+    "data": {
+        "product_id": 22985,
+        "product_name": "Abacus Consulting",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_69236cc19119ad30030d60848155bef2/abacus-consulting.jpg",
+        "g2_link": "https://www.g2.com/products/abacus-consulting/reviews",
+        "what_is": "AbacusConsulting offers cutting-edge business solutions helping organisations to transform their visions into realities through a combination of latest business methodologies and technological tools.",
+        "product_description": "AbacusConsulting offers cutting-edge business solutions helping organisations to transform their visions into realities through a combination of latest business methodologies and technological tools.",
+        "positioning_against_competitor": null,
+        "rating": 4,
+        "reviews": 3,
+        "company_id": 18508,
+        "seller": "Abacus Global",
+        "company_phone": null,
+        "company_location": "Lahore, Punjab",
+        "company_founded_year": 1987,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/abacus-consulting/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AbacusGlobal",
+        "number_of_followers_on_twitter": 1667,
+        "linkedin": "https://pk.linkedin.com/company/abacus-consulting",
+        "number_of_employees_on_linkedin": 2124,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "SAP Consulting Services",
+                "category_link": "https://www.g2.com/categories/sap-consulting-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "Vision33",
+                "competitor_link": "https://www.g2.com/products/vision33/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 35
+            },
+            {
+                "competitor_name": "Wipro",
+                "competitor_link": "https://www.g2.com/products/wipro/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 41
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/abacus-consulting/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 5395543,
+                "review_title": "Very cooperative",
+                "review_content": "Describe the project or task Abacus Consulting helped with:\nImplementation of SAP S4 HANA\n\nWhat do you like best about Abacus Consulting?\nProfessional culture maintained in company\n\nWhat do you dislike about Abacus Consulting?\nThe people the deploy on client are not qualified\n\nRecommendations to others considering Abacus Consulting:\nAbacus global is really our digital transformation partner\n\nWhat problems is Abacus Consulting solving and how is that benefiting you?\nQualifications matters",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Umair M.",
+                    "reviewer_job_title": "Assistant Manager Costing & Budgeting",
+                    "reviewer_link": "https://www.g2.com/users/580d77d4-e463-446b-939e-ee5065801ec2"
+                },
+                "publish_date": "2022-03-03",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/abacus-consulting/reviews/abacus-consulting-review-5395543"
+            },
+            {
+                "review_id": 4391561,
+                "review_title": "SAP Business One",
+                "review_content": "Describe the project or task Abacus Consulting helped with:\nComplete Project was implimented by abacus\n\nWhat do you like best about Abacus Consulting?\nthey are always available for any kind of services supporting the users.\n\nWhat do you dislike about Abacus Consulting?\nEverything was perfect. They did what they were been hired for.\n\nRecommendations to others considering Abacus Consulting:\nVery Good and satisfactory\n\nWhat problems is Abacus Consulting solving and how is that benefiting you?\nNA",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Rizwan K.",
+                    "reviewer_job_title": "Senior Manaager Accounts & Finance",
+                    "reviewer_link": "https://www.g2.com/users/61b5489d-58cc-4229-addb-401468bedd21"
+                },
+                "publish_date": "2020-09-22",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/abacus-consulting/reviews/abacus-consulting-review-4391561"
+            },
+            {
+                "review_id": 216507,
+                "review_title": "SAP Business One",
+                "review_content": "Describe the project or task Abacus Consulting helped with:\nGood service but the overall knowledge of the product was a little weak.\n\nWhat do you like best about Abacus Consulting?\nThe ease of use and centralization of all the information\n\nWhat do you dislike about Abacus Consulting?\nThe cost is a bit high and must almost always do customization of somethings.",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-01-04",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/abacus-consulting/reviews/abacus-consulting-review-216507"
+            }
+        ]
+    },
+    "error": null
+}

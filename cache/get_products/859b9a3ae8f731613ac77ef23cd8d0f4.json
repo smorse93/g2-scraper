@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 28383,
+        "product_name": "ABSYZ Software Consulting",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9308fee117184ad4f5aaba63f8794d2a/absyz-software-consulting.png",
+        "g2_link": "https://www.g2.com/products/absyz-software-consulting/reviews",
+        "what_is": "ABSYZ Software Consulting is a Gold Consulting Partner in Salesforce ecosystem.",
+        "product_description": "ABSYZ Software Consulting is a Gold Consulting Partner in Salesforce ecosystem.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 22375,
+        "seller": "ABSYZ Software Consulting",
+        "company_phone": null,
+        "company_location": "Hyderabad, INDIA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/absyz-software-consulting/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/absyz",
+        "number_of_followers_on_twitter": 526,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "IT Outsourcing",
+                "category_link": "https://www.g2.com/categories/it-outsourcing"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Magna5",
+                "competitor_link": "https://www.g2.com/products/magna5/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "InfoObjects",
+                "competitor_link": "https://www.g2.com/products/infoobjects/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 53
+            },
+            {
+                "competitor_name": "Teravision Technologies",
+                "competitor_link": "https://www.g2.com/products/teravision-technologies/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 33
+            },
+            {
+                "competitor_name": "Designli",
+                "competitor_link": "https://www.g2.com/products/designli/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 32
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/absyz-software-consulting/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 3987762,
+                "review_title": "Phenomenal Consulting Firm",
+                "review_content": "Describe the project or task ABSYZ Software Consulting helped with:\nThe instance of Salesforce that we had built originally was built using code and and custom objects. Salesforce is famous for saying clicks over code. We had an integration with our proprietary application to bring data into Salesforce. ABSYZ worked around these integrations and through all of our custom built applications to bring us to a more click based version of Salesforce.\n\nWhat do you like best about ABSYZ Software Consulting?\nThe team worked very hard to not only build a solution that worked, but they worked very hard to understand our business processes. This is often the most overlooked portion of building such applications. Typically, they follow instructions and build what the customer asks for. ABSYZ was phenomenal at understanding who we are and building a solution that fit us.\n\nWhat do you dislike about ABSYZ Software Consulting?\nI really have nothing to say about ABSYZ that I did not like. The only area of concern that I had was the time difference, as their engineers and employees are, for the most part, in India. Having said all of that, ABSYZ did a great job of being able to meet at the end of their day (the beginning of our day) or the beginning of their day (the end of our day).\n\nRecommendations to others considering ABSYZ Software Consulting:\nPatience. ABSYZ works quickly, for sure, but they are also very interested in understanding the business and building a truly customized solution.\n\nWhat problems is ABSYZ Software Consulting solving and how is that benefiting you?\nOur org of Salesforce was built using a ton of code with custom objects. We spent a few months simplifying our org...moving back to out of the box Salesforce objects. We have had a huge lift in efficiency of our sales team (end users of the application) and Administration of Salesforce.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Timothy T.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/a1918c4f-4667-4442-ab77-e0b9f8d0113f"
+                },
+                "publish_date": "2020-01-08",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/absyz-software-consulting/reviews/absyz-software-consulting-review-3987762"
+            }
+        ]
+    },
+    "error": null
+}

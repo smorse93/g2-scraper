@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 25875,
+        "product_name": "A2K Technologies",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8baedcb15bf2ec338f9f36d87b57246b/a2k-technologies.png",
+        "g2_link": "https://www.g2.com/products/a2k-technologies/reviews",
+        "what_is": "A2K Technologies is a company which fosters innovation through delivering technology solutions.",
+        "product_description": "A2K Technologies is a company which fosters innovation through delivering technology solutions.",
+        "positioning_against_competitor": null,
+        "rating": 0.5,
+        "reviews": 1,
+        "company_id": 20231,
+        "seller": "A2K Technologies Australia",
+        "company_phone": null,
+        "company_location": "Brisbane, Australia",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/a2k-technologies/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Adobe Channel Partners",
+                "category_link": "https://www.g2.com/categories/adobe-channel-partners"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "CDW Hardware",
+                "competitor_link": "https://www.g2.com/products/cdw-hardware/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 27
+            },
+            {
+                "competitor_name": "Cad Gulf",
+                "competitor_link": "https://www.g2.com/products/cad-gulf/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 12
+            },
+            {
+                "competitor_name": "Insight",
+                "competitor_link": "https://www.g2.com/products/insight-insight/reviews",
+                "competitor_rating": 3.5,
+                "competitor_reviews": 12
+            },
+            {
+                "competitor_name": "Crayon",
+                "competitor_link": "https://www.g2.com/products/crayon/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 11
+            },
+            {
+                "competitor_name": "Hero Digital",
+                "competitor_link": "https://www.g2.com/products/hero-digital/reviews",
+                "competitor_rating": 3.2,
+                "competitor_reviews": 10
+            },
+            {
+                "competitor_name": "MeetingOne",
+                "competitor_link": "https://www.g2.com/products/meetingone/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 7
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/a2k-technologies/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 1310978,
+                "review_title": "Patient Access",
+                "review_content": "Describe the project or task A2K Technologies helped with:\nUpdating and logging crucial information about the patients\n\nWhat do you like best about A2K Technologies?\nNothing about it is to like about this software\n\nWhat do you dislike about A2K Technologies?\nEverything about it. It's slow it goes down very often.\n\nRecommendations to others considering A2K Technologies:\nVery outdated software",
+                "review_rating": 0.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-12-07",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/a2k-technologies/reviews/a2k-technologies-review-1310978"
+            }
+        ]
+    },
+    "error": null
+}

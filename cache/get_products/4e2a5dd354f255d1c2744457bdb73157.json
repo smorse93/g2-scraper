@@ -1,0 +1,539 @@
+{
+    "data": {
+        "product_id": 25045,
+        "product_name": "Alta Vista Technology",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4ec105ee976779998d4fb8496dba6217/alta-vista-technology.png",
+        "g2_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+        "what_is": "As a top-rated, award-winning consulting company, Alta Vista Technology specializes in taking your business's accounting, customer engagement, and business intelligence needs from concept to implementation and continual support. \n\nOffering the very best in cloud accounting as a Sage Intacct Premier Partner and Microsoft Dynamics Business Central Gold Partner we listen to our customers and work to form a solution that fits their business model and needs. With extended offerings such as Microsoft Dynamics 365 Customer Engagement and Microsoft Power BI as well as dozens of marketplace partners, we are equipped to create a complete solution while integrating the software you use every day. \n\nWe handpick our team to ensure that you have the best people working for you and the world-class customer service you expect. No more waiting days for a response or emails going unanswered. You get the product your company needs and the support to keep it running. At Alta Vista Technology, we take pride in being part of your solution.",
+        "product_description": "Alta Vista Technology is a Sage Intacct Premier Partner and Microsoft Gold Partner with over 600 sales and implementations. With offerings such as Sage Intacct, Dynamics Business Central, GP, Dynamics for Sales (CRM), Power BI, and Azure services they are equipped with the talent to tackle any business situation.",
+        "positioning_against_competitor": "Alta Vista Technology is dedicated to finding the right solution, not the most expensive one. We craft a solution that fits your business and process and implement using our ClearPath Methodology which has a 100% success rate. Through this process, we make it a priority to provide world-class customer service. We do not succeed until our customer does.",
+        "rating": 4.9,
+        "reviews": 110,
+        "company_id": 19952,
+        "seller": "Alta Vista Technology",
+        "company_phone": null,
+        "company_location": "Royal Oak, Michigan",
+        "company_founded_year": 2014,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/alta-vista-technology/discuss",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/AltaVistaTech1",
+        "number_of_followers_on_twitter": 481,
+        "linkedin": "https://www.linkedin.com/company/3749438/",
+        "number_of_employees_on_linkedin": 47,
+        "product_website": "https://www.altavistatech.com/services/",
+        "company_website": "http://www.altavistatech.com",
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "Sage Intacct Channel Partners",
+                "category_link": "https://www.g2.com/categories/sage-intacct-channel-partners"
+            },
+            {
+                "category_name": "Microsoft Dynamics 365 Business Central Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-365-business-central-resellers"
+            },
+            {
+                "category_name": "Microsoft Dynamics GP Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-gp-resellers"
+            },
+            {
+                "category_name": "Microsoft Dynamics 365 Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-365-resellers"
+            },
+            {
+                "category_name": "Microsoft Dynamics NAV Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-nav-resellers"
+            },
+            {
+                "category_name": "Microsoft Dynamics CRM Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-crm-resellers"
+            }
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=zmkJ8jbNDGg",
+            "https://www.youtube.com/watch?v=OcqmdbXYDfw",
+            "https://www.youtube.com/watch?v=__u38Y3DyvA",
+            "https://www.youtube.com/watch?v=0cjhnM1jWfU",
+            "https://www.youtube.com/watch?v=Fkxe9oIvb1Q",
+            "https://www.youtube.com/watch?v=dFYOu4Pft8Y",
+            "https://www.youtube.com/watch?v=hvRYiPAKKjc",
+            "https://www.youtube.com/watch?v=KoUXZD7blG8",
+            "https://www.youtube.com/watch?v=0_hCgULDDb8"
+        ],
+        "download_links": [
+            "https://images.g2crowd.com/uploads/attachment/file/109224/Business-Central-Pricing.pdf",
+            "https://images.g2crowd.com/uploads/attachment/file/109223/Business-Central-Intelligent-Cloud.pdf",
+            "https://images.g2crowd.com/uploads/attachment/file/109222/Business-Central-FeaturesV2.pdf",
+            "https://images.g2crowd.com/uploads/attachment/file/128815/AVT-Select-Slick.pdf",
+            "https://images.g2crowd.com/uploads/attachment/file/170540/Power-BI-Package-Options.pdf"
+        ],
+        "pricing_plans": [
+            {
+                "plan_name": "Sage Intacct",
+                "plan_description": "Sage Intacct does not allow public pricing due to the wide variety of needs of different businesses. For pricing, please submit a request through our G2 page and someone will reach out to you within 1 business day!",
+                "plan_features": []
+            },
+            {
+                "plan_name": "Microsoft Dynamics Business Central Financials",
+                "plan_description": "Tier I implementation is your base package. Built for companies with basic accounting needs.",
+                "plan_features": [
+                    "Functionality:     GL,      AP,       AR,      Banking,      Cashflow",
+                    "Features:      Implementation questionnaire and workshop,     Setup of a single company,      Import of master data,     Import of GL balances and net changes,      Import open AP and AR,     Creation of Balance Sheet, Income Statement, and Cashflow,       Training,      First Month End Closing support,      User personalization,      User account permissions",
+                    "To request this package please visit https://bit.ly/2Svdn02 and fill out the form at the bottom of the services tab."
+                ]
+            },
+            {
+                "plan_name": "Microsoft Dynamics Business Central Financials & Distribution",
+                "plan_description": "Tier II implementation is designed for businesses with more advanced needs such as basic distribution and warehousing.",
+                "plan_features": [
+                    "Tier I Functionality plus: Sales Order Processing,  Purchase Order Processing,  Inventory Management,  Basic Warehouse Management",
+                    "Tier I Features plus: Import of items,  Import item beginning balances , Setup and configure sales order processing,  Sales process training,  Setup and configuration of purchase order processing,  Purchase process training,  Modify standard Word template reports for sales and purchase orders,  Bin management,  Warehouse shipments and receipts,  Outlook integration,  Emailing documents (Invoices, Sales Orders, Purchase Orders)",
+                    "To request this package please visit https://bit.ly/2Svdn02 and fill out the form at the bottom of the services tab."
+                ]
+            },
+            {
+                "plan_name": "Microsoft Dynamics Business Central Financials & Distribution +",
+                "plan_description": "Tier III is for customers that require advanced features and modules not common in other systems.",
+                "plan_features": [
+                    "Tier III typically includes one or more of the following:      Tier 2 Functionality plus     Jobs / Project Management,      Service Management,      Manufacturing,      Advanced Distribution,    Advanced Warehousing",
+                    "Features for Tier III vary. To find the features needed for you company we will perform the following tasks to get a better view of your process:      Implementation questionnaire and business process review,      Functional requirements and fit/gap document.",
+                    "To request this package please visit https://bit.ly/2Svdn02 and fill out the form at the bottom of the services tab."
+                ]
+            },
+            {
+                "plan_name": "Microsoft Dynamics Business Central Free Trial",
+                "plan_description": "You can request a free 30 day trial of Microsoft Dynamics Business Central in the \"Free Trial\" tab in the following link:\nhttps://www.altavistatech.com/microsoft-dynamics-365-business-central-information-hub/",
+                "plan_features": []
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "Pax8",
+                "competitor_link": "https://www.g2.com/products/pax8/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 65
+            },
+            {
+                "competitor_name": "Baker Tilly",
+                "competitor_link": "https://www.g2.com/products/baker-tilly-baker-tilly/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 66
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/alta-vista-technology-vs-baker-tilly-baker-tilly",
+                "competitor_name": "Baker Tilly",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_468a12a9daf81e36ff0855009e5523b2/baker-tilly-baker-tilly.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/alta-vista-technology-vs-pax8",
+                "competitor_name": "Pax8",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_8c313eef2448211ed306f559c233a55d/pax8.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/alta-vista-technology-vs-dean-dorton",
+                "competitor_name": "Dean Dorton",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_17d3d3b905aed16e7f86b43f723fff8e/dean-dorton.jpg"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 8,
+            "5": 102
+        },
+        "g2_reviews_link": "https://www.g2.com/products/alta-vista-technology/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8853659,
+                "review_title": "Microsoft Business Central Project",
+                "review_content": "What do you like best about Alta Vista Technology?\nI'd say Alta Vista's biggest strength is their team and their ability to actively listen in order to ask questions and provide feedback. Coupled with their great working knowledge of both GP and BC they were able to either match our current processes or improve them based on the new capabilities in BC.\n\nWhat do you dislike about Alta Vista Technology?\nNothing comes to mind. They are very professional and open to discussions if any issues arise.\n\nRecommendations to others considering Alta Vista Technology:\nAsk as many questions as you can and be open to feedback. They are very easy to talk to so the more they know about your company and processes the more advice they can provide.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nConverting our accounting software from Miscrosoft GP to Microsoft Business Central. We started the project with a different company before switching to Alta Vista about halfway through. I would honestly say that Alta Vista saved the project and turned it from a regret into something I wish we did sooner.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Brandon M.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/65e58b33-216d-4e10-8a82-2c49be4db94e"
+                },
+                "publish_date": "2023-11-10",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8853659"
+            },
+            {
+                "review_id": 8271710,
+                "review_title": "David Cummings is the Best!",
+                "review_content": "What do you like best about Alta Vista Technology?\nHaving David Cummings of Alta Vista serve as our system admin allows our team to have a subject matter expert at our disposal for any questions related to Intacct.\n\nWhat do you dislike about Alta Vista Technology?\nHaving only David Cummings as our sole system admin can pose an issue if he ever leaves Alta Vista as the company knowledge he has gained would be lost in a painful transition.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nDavid Cummings of Alta Vista has helped our team implement Sage Intacct but more recently assisted in implementing the purchasing module of Intacct. David also serves as a benefit to our team by frequently helping through troubleshooting of any issues with Intacct. He is always prompt and provides a detailed explanation that allows us to be autonomous in the future.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Keirra J.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/b015b3eb-9470-4529-8d68-9bacd8ce9f0b"
+                },
+                "publish_date": "2023-06-29",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8271710"
+            },
+            {
+                "review_id": 8592826,
+                "review_title": "A 1 stop shop for your tech consulting needs!",
+                "review_content": "What do you like best about Alta Vista Technology?\nThey have a good reputation among my peers. Thet are responsive and can customize solutions to meet my needs\n\nWhat do you dislike about Alta Vista Technology?\nThis solution can be cost prohibitive . It does rely on two different systems -this can limit flexibility if your business needs change or if you decide to switch to a different system in the future.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAlta Business is a consulting firm that can help with the following problems -\nUpdating systems to meet the current trends\nStreamline processes\nProvide solutions to growth issues",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-11",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8592826"
+            },
+            {
+                "review_id": 8029677,
+                "review_title": "Switched to Sage from Quickbooks with Alta Vista Technology after expansions and acquisitions",
+                "review_content": "What do you like best about Alta Vista Technology?\nThe personalized service and attention to detail. Alta Vista's project management and accountability is second to none.\n\nWhat do you dislike about Alta Vista Technology?\nIf we didn't have internal IT at such a high level, I worry the transition into Sage utilizing the other software in our organization could have been a challenge.\n\nRecommendations to others considering Alta Vista Technology:\nIf you are struggling with your current accounting software (particularly if you are in a growth stage, expanding out of Quickbooks), run! Don't walk.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nInter company transfers, multi entity P&L's, accurate reporting after outgrowing quickbooks.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Mike M.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/572cd709-8c88-497d-b5c8-2a6d9af31c51"
+                },
+                "publish_date": "2023-05-03",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8029677"
+            },
+            {
+                "review_id": 7742830,
+                "review_title": "On-Time; On-Budget; On-Point!",
+                "review_content": "What do you like best about Alta Vista Technology?\nBehind the scenes project management that required little to no maintenance or additional time. On time and under budget project work.  The entire team was cooperative, we never had to ask a 2nd person for assistance.\n\nWhat do you dislike about Alta Vista Technology?\nI don't have anything we disliked about our team or any of their resources.  A lookback at the defined success factors during the project would be my only minor comment on the negative side.\n\nRecommendations to others considering Alta Vista Technology:\nKnow that you have a solid technical team. They are experts in their field and provide world-class service.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nUpgrading our processes to become digital vs paper and workpaper driven. Streamlining complex data collection and information dissemination. Updating technology to current.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jeremy D.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/81627d00-d53b-4888-b7ed-d4cc63f60c68"
+                },
+                "publish_date": "2023-02-21",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7742830"
+            },
+            {
+                "review_id": 8116416,
+                "review_title": "We had a very positive experience with Alta Vista's team and implmentation process.",
+                "review_content": "What do you like best about Alta Vista Technology?\nKnowledgeable staff on our implementation team, and they leveraged remote support as needed.\n\nWhat do you dislike about Alta Vista Technology?\nNo complaints... the team was professional even when pushing us when we fell behind with tasks/items we were accountable for.\n\nRecommendations to others considering Alta Vista Technology:\nTrust in their process and implementation team will allow for a successful project.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nImplementing the Sage system will allow us to manage multiple entities with many inter-company transactions better.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Andy O.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/e32ac841-2673-416e-9f14-6d717a689520"
+                },
+                "publish_date": "2023-05-19",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8116416"
+            },
+            {
+                "review_id": 8663234,
+                "review_title": "Alta Vista review",
+                "review_content": "What do you like best about Alta Vista Technology?\nGreat customer support, helpful assistance for implementation, knowledgable team\n\nWhat do you dislike about Alta Vista Technology?\nNothing so far, in my experience everything has been positive\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nUpdating systems, implementing new models and processes",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-26",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8663234"
+            },
+            {
+                "review_id": 8149168,
+                "review_title": "AVT was great!  Always available and responded quickly to requests or questions.",
+                "review_content": "What do you like best about Alta Vista Technology?\nFriendly team, and the team is Accountants!  They understood my needs and questions and how to resolve them because they understood how the transactions should work.\n\nWhat do you dislike about Alta Vista Technology?\nI do not have any downsides to working with AVT.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nGot us up and running on a more efficient accounting software!",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Deidra H.",
+                    "reviewer_job_title": "Finance Director",
+                    "reviewer_link": "https://www.g2.com/users/59d89c0f-4aa7-4715-a00d-a154a8fa73a6"
+                },
+                "publish_date": "2023-05-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8149168"
+            },
+            {
+                "review_id": 7579457,
+                "review_title": "Exceptional Implementation Partners",
+                "review_content": "What do you like best about Alta Vista Technology?\nThe incredible dedication, experience, and responsiveness of the team.  Our partners had exceptional knowledge of both the new and legacy systems.  The team was proactive and had the foresight to anticipate potential problem areas to keep our project on track.\n\nWhat do you dislike about Alta Vista Technology?\nNothing to report here.  The team exceeded our expectations in every way!\n\nRecommendations to others considering Alta Vista Technology:\nYou won't be disappointed!\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nImplementation of and conversion to Sage Intacct.  Alta Vista worked within our tight timeframe and prioritized activities to appropriately phase our organization into the new platform.  Doing so allowed for significant improvements and timely access information.  The result will be improved and timely reporting; improved budgeting and forecasting processes; and consolidation of entity financials.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Robin S.",
+                    "reviewer_job_title": "VP & Chief Financial Officer",
+                    "reviewer_link": "https://www.g2.com/users/76a3eec0-c451-4952-b65e-084a8f70315c"
+                },
+                "publish_date": "2023-01-11",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7579457"
+            },
+            {
+                "review_id": 7151885,
+                "review_title": "Excellent Project Management and Implementation",
+                "review_content": "What do you like best about Alta Vista Technology?\nAlta Vista Technology staff was very professional, knowledgeable, resourceful and driven to ensure my project was successful. We had several complications throughout the project, yet their staff was always available and went the extra mile to ensure the project was ultimately a success. This included reaching out to our brokers and third-party support as project complications arised.\n\nWhat do you dislike about Alta Vista Technology?\nThere wasn't anything in my experience in working with Alta Vista Technologies that I disliked. Their staff was readily available when I had questions and kept me informed of project status updates regularly.\n\nRecommendations to others considering Alta Vista Technology:\nI would highly recommend going with Alta Vista Technology. I have worked two projects with them - conversion from Dynamics SL to Sage Intacct for accounting and Integration of Addepar Brokerage Account Transactions into Sage Intacct, In both projects they work was outstanding.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nWe have over 50 brokerage accounts, every month, we manually input monthly summary accounting transactions into our Accounting Software to track company activity. Alta Vista Technology took the detailed transactions from our brokerage accounts via Addepar and brought them directly into our Accounting Software, generating the summary account transactions monthly.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "John W.",
+                    "reviewer_job_title": "IT Director",
+                    "reviewer_link": "https://www.g2.com/users/2c7ecf8b-d18f-4635-acf3-c9680d17a426"
+                },
+                "publish_date": "2022-09-29",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7151885"
+            },
+            {
+                "review_id": 7730988,
+                "review_title": "Great help in making us more productive in using Dynamics GP",
+                "review_content": "What do you like best about Alta Vista Technology?\nThe people we work with do a great job and are responsive especially when dealing with errors.\n\nWhat do you dislike about Alta Vista Technology?\nSometimes we have to wait a few days to get the integrations built.\n\nRecommendations to others considering Alta Vista Technology:\nWe have had three other Support companies, and if you use Dynamics GP then Alta Vista is the one you should use.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAlta Vista has helped us with a lot of problems, from error fixing to building integrations that make us more productive",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Tim V.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/a59bc95d-2c1e-4c9d-9d2e-f91d73208548"
+                },
+                "publish_date": "2023-02-17",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7730988"
+            },
+            {
+                "review_id": 7660022,
+                "review_title": "Intacct Implementation and Sales System Integration",
+                "review_content": "What do you like best about Alta Vista Technology?\nThe communication, speed and accuracy at which Alta Vista rectified the issue.\n\nWhat do you dislike about Alta Vista Technology?\nI have no complaints with the work done by Alta Vista.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAlta Vist was able to rectify the integration from our wholesale sales system to Intacct within 24 hours when the tech team for our sales system ended up getting stuck and was not able to customize their own integration for our needs.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jovan B.",
+                    "reviewer_job_title": "Chief Financial Officer",
+                    "reviewer_link": "https://www.g2.com/users/5dec0fe6-726e-4c3b-9a77-00880c738e9a"
+                },
+                "publish_date": "2023-01-31",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7660022"
+            },
+            {
+                "review_id": 7730601,
+                "review_title": "Alta Vista is a top notch service partner.",
+                "review_content": "What do you like best about Alta Vista Technology?\nAlta Vista is always attentive and gets right to our things when needed.  Also have the utmost professionalism\n\nWhat do you dislike about Alta Vista Technology?\nThere is nothing not to like about Alta Vista.  Great people and wonderful service.\n\nRecommendations to others considering Alta Vista Technology:\nI would highly recommend Alta Vista for any accounting software needs.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAlta Vista assists us with the maintenance and programming of our accounting software.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Mark K.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/b8191749-9954-4a23-b6d4-b253fba4fd5b"
+                },
+                "publish_date": "2023-02-17",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7730601"
+            },
+            {
+                "review_id": 7233885,
+                "review_title": "Best Accounting software software",
+                "review_content": "What do you like best about Alta Vista Technology?\nQuick turnaround and project management. Everything is thought out in detail and very easy to follow. Heather, Brandee, and Alan are a fantastic team. Strongly recommend working with them.\n\nWhat do you dislike about Alta Vista Technology?\nNothing. They are team players; they help with everything, they make the project go as smoothly as possible, and the customer service is just amazing as the project management.\n\nRecommendations to others considering Alta Vista Technology:\nIf you are looking to change accounting software, run it by AltaVista. You will never regret it.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nIt was the second time I worked with Altavista, and I am more than pleased. They were able to help us get thru the conversion possible in 6 weeks. It was unbelievable the support we got from them.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Silvana G.",
+                    "reviewer_job_title": "Assistant Controller",
+                    "reviewer_link": "https://www.g2.com/users/70a89239-3d74-4b32-9314-db266d5dc0b5"
+                },
+                "publish_date": "2022-10-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7233885"
+            },
+            {
+                "review_id": 7252296,
+                "review_title": "Excellent software",
+                "review_content": "What do you like best about Alta Vista Technology?\nAltaVista Technology was there every time we had an issue. Their resolution time and prompt answers made the transition very easy for us. Project management and the assigned technician worked very closely at every step.\n\nWhat do you dislike about Alta Vista Technology?\nI can't think of anything. So far, the transition has been perfect, and I have no complaints.\n\nRecommendations to others considering Alta Vista Technology:\nI would recommend AltaVista to everyone, colleagues, friends and family. Makes your life easier.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAccounting software upgrade",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Cathy D.",
+                    "reviewer_job_title": "Controller",
+                    "reviewer_link": "https://www.g2.com/users/50afa31d-11c1-471d-abc0-fdfdfd48101d"
+                },
+                "publish_date": "2023-01-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7252296"
+            },
+            {
+                "review_id": 8045387,
+                "review_title": "Wonderful experience.",
+                "review_content": "What do you like best about Alta Vista Technology?\nVery responsive and knowledgeable, friendly.\n\nWhat do you dislike about Alta Vista Technology?\nEverything is awesome. You deserve a trophy.\n\nRecommendations to others considering Alta Vista Technology:\nNone. Keep doing what you're doing!\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nNew accounting software for large multi-entity business. Much easier intercompany tracking.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-05-08",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-8045387"
+            },
+            {
+                "review_id": 6707793,
+                "review_title": "Consistency and professionalism",
+                "review_content": "Describe the project or task Alta Vista Technology helped with:\nAVT was hired to function as a support for an ERP implementation\n\nWhat do you like best about Alta Vista Technology?\nConsistent communications and availability. The resources provided were readily available and willing to support our project team. We made serval \"out of nowhere\" requests that was satisfied well before we expected.\n\nWhat do you dislike about Alta Vista Technology?\nOur internal project teams did most of the heavy lifting for our implementation. This was by design as our project scope had changed greatly throughout the engagement. By no means did this sour the experience, though it might have been nice for the resource to be a little more proactive. With that said, we were very pleased with all resources provided.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAlta vista technology was brought on to   work  primarily as a support function for the implementation/migration of an enterprise resource planning system. The system put in place allows us to source data from various systems into accounting software, which we use to generate invoices and bill clients.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-06-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-6707793"
+            },
+            {
+                "review_id": 7233893,
+                "review_title": "Best Customer Experience Ever",
+                "review_content": "What do you like best about Alta Vista Technology?\nCustomer support, quick response and very professional\n\nWhat do you dislike about Alta Vista Technology?\nAlmost everything was a great experience\n\nRecommendations to others considering Alta Vista Technology:\nWith Alta Vista Technology you get your thing DONE\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAccounting, using the accounting platform sage50. Great support",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Fatos G.",
+                    "reviewer_job_title": "System's Administrator & Data Management",
+                    "reviewer_link": "https://www.g2.com/users/e6e016eb-8573-453c-a984-21842ccf027e"
+                },
+                "publish_date": "2022-10-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-7233893"
+            },
+            {
+                "review_id": 6875409,
+                "review_title": "Couldn't have asked for a better implementation experience!",
+                "review_content": "What do you like best about Alta Vista Technology?\nFriendly, knowledgeable and responsive team. Always answered my questions quickly and assisted me in understanding any tasks I had questions on. The detailed project plan helped everything run smoothly and ensured we kept on track with time and budget.\n\nWhat do you dislike about Alta Vista Technology?\nNothing to add here! Fortunately, all went well with implementation and every service they provided.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nSoftware implementation from QB to Sage Intacct. Automated reporting and increased accuracy and efficiency in accounting tasks.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Stephanie E.",
+                    "reviewer_job_title": "Accounting Manager",
+                    "reviewer_link": "https://www.g2.com/users/0f92d618-fd80-4d72-ab08-59d8a3e29a96"
+                },
+                "publish_date": "2022-07-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-6875409"
+            },
+            {
+                "review_id": 4777110,
+                "review_title": "Ed Christian Controller Faith in Action",
+                "review_content": "Describe the project or task Alta Vista Technology helped with:\nAlta Vista helped our Organization with the integration of Nexonia and Intacct. The team of David Cummings and David Valade worked with our finance and operations team very timely, and both systems were up and operating in less than 72 hours.\n\nWhat do you like best about Alta Vista Technology?\nI like the fact that I can email the Alta Vista team, and someone will reply immediately.  With our past provider, we had to complete a support ticket and would not hear from them for days, if at all.\n\nWhat do you dislike about Alta Vista Technology?\nNo complaints. The Alta Vista team is terrific.\n\nRecommendations to others considering Alta Vista Technology:\nVery knowledgeable professionals and you will be very please with engaging their team.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAutomation and integration of our accounting processes and approvals.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Edward C.",
+                    "reviewer_job_title": "Controller",
+                    "reviewer_link": "https://www.g2.com/users/cc215fd0-9699-4549-98f2-b72255f899d9"
+                },
+                "publish_date": "2022-04-25",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-4777110"
+            },
+            {
+                "review_id": 6540704,
+                "review_title": "Great Experience Partnering with Alta Vista",
+                "review_content": "Describe the project or task Alta Vista Technology helped with:\nSage Intacct Implementation project from QuickBooks Desktop.\n\nWhat do you like best about Alta Vista Technology?\nKnowledgeable team members on system configuration and report-building;\nAlta Vista was actively managing the project and was able to provide me guidance on priorities and issues;\nAutomated detail data conversion/migration from QB database to Sage Intacct that could have taken days, if not weeks, to complete.\n\nWhat do you dislike about Alta Vista Technology?\nWe used Microsoft Teams as the project tracking tool. It might be good for one that does not use Teams in work.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\n- Consolidated reporting with all entities - much less Excel consolidation work;\n- Timely report updates on most recent data - much less report extraction effort from QB;\n- Inventory control process baseline established;",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Allen W.",
+                    "reviewer_job_title": "Controller",
+                    "reviewer_link": "https://www.g2.com/users/4187fbc1-327f-4162-83d7-bd07132a808a"
+                },
+                "publish_date": "2022-04-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-6540704"
+            },
+            {
+                "review_id": 5300531,
+                "review_title": "Our Long Term Partner",
+                "review_content": "Describe the project or task Alta Vista Technology helped with:\nAlta Vista has been a trusted partner since their inception with our ERP implementation. The core team initially worked for another company that had initialy deployed and configured our system 15 years ago. Since then they have provided support and ongoing maintance to keep us up and running.\n\nWhat do you like best about Alta Vista Technology?\nThe dedication and knowledge they have to present and deploy the best solution for the situations that arise. When something is wrong their abiltiy to track the issue down and correct it quickly.\n\nWhat do you dislike about Alta Vista Technology?\nAt times staffing seems to be limited in specific knowledge areas. However, it has gotten better over the last year.\nBetter documentation of how they fixed a problem or how they configured something. By doing this it helps us in later troubleshooting.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nEveryday problems are solved . One major problem was the automatic order placement between two companies. I automates all of the steps need to take an order from one company and have it fullfilled in another. This process saves time and is done with no erros.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Richard M.",
+                    "reviewer_job_title": "Vice President of Information Technology",
+                    "reviewer_link": "https://www.g2.com/users/bb023b06-b86f-41cb-8e29-881d3af20e2f"
+                },
+                "publish_date": "2023-01-27",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-5300531"
+            },
+            {
+                "review_id": 6631184,
+                "review_title": "Alta Vista Technology performed successfully for A&F",
+                "review_content": "Describe the project or task Alta Vista Technology helped with:\nAlta Vista implemented and continues to support Sage Intacct and Keyed In Enterprise software and integrations with our ERP system.  Brent Tobiczyk has been extremely responsive in the implementation and support role.\n\nWhat do you like best about Alta Vista Technology?\nResponsiveness and knowledge of software, configuration and integrations.\n\nWhat do you dislike about Alta Vista Technology?\nI can't think of anything I dislike.  They have me my expectations.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nAlta Vista helped us graduate from our old accounting software and PM spreadsheets into a more scalable accounting and Project Management solution that integrates with our current CRM and HR software.  Benefits have included streamlining data entry and comprehensive data analysis and reporting.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Rick C.",
+                    "reviewer_job_title": "Transportation Director",
+                    "reviewer_link": "https://www.g2.com/users/aacb913a-f61e-4020-bfa4-dfe27a0a3a9c"
+                },
+                "publish_date": "2022-05-18",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-6631184"
+            },
+            {
+                "review_id": 5317028,
+                "review_title": "Alta Vista has tailored Dynamics 365 to fit our business.",
+                "review_content": "Describe the project or task Alta Vista Technology helped with:\nAs the owner of a construction company, any technologically driven decision I make must first be made considering my employees and their lack of knowledge with that usage of technology. That being said, I could not be happier with the care we have received and the subsequent training thereafter. I am witnessing older employees maneuver this software with ease, some of whom have never responded to an email. I can finally scale my business up without fear of overloading my previous, archaic system.\n\nWhat do you like best about Alta Vista Technology?\nHands-on development, on-site training, and simplicity.\n\nWhat do you dislike about Alta Vista Technology?\nTeams meetings. Personally, I found it difficult to effectively communicate my issues. I had to have Mike here to physically show him.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nI have not been able to grow my business for fear of overloading. Alta Vista has provided the platform that I believe will help us make the next step in revenue growth.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jonathon G.",
+                    "reviewer_job_title": "COO",
+                    "reviewer_link": "https://www.g2.com/users/cffa7343-79e5-4b30-ad54-37e0e76dcb96"
+                },
+                "publish_date": "2022-02-03",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-5317028"
+            },
+            {
+                "review_id": 6555465,
+                "review_title": "Sage Intacct Implementation",
+                "review_content": "Describe the project or task Alta Vista Technology helped with:\nAlta Vista assisted with the implementation and system integration of Sage Intacct.\n\nWhat do you like best about Alta Vista Technology?\nAlta Vista offers a talented group of individuals that are well informed, creative and supportive during the system conversion. The project management team effectively drove the project to completion.\n\nWhat do you dislike about Alta Vista Technology?\nUnfortunately, the organization had a staff turnover during the implementation. Despite the turnover, the Alta Vista team provided quality individuals to assist in the project completion.\n\nWhat problems is Alta Vista Technology solving and how is that benefiting you?\nOur previous accounting system was new in the marketplace and lacked several standard features. Alta Vista ensured a smooth conversion. One of the major benefits of implementing the accounting system is the enhanced speed to complete tasks and generate accurate system-generated reports. Our company will be able to reduce the number of OT hours going forward.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-04-28",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alta-vista-technology/reviews/alta-vista-technology-review-6555465"
+            }
+        ]
+    },
+    "error": null
+}

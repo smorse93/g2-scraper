@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 1228,
+        "product_name": "ALKU",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5b55e1096ad92c5e0aa65cc4d0b6f4b7/alku.png",
+        "g2_link": "https://www.g2.com/products/alku/reviews",
+        "what_is": "Contract Staffing for PeopleSoft and SAP.",
+        "product_description": "Contract Staffing for PeopleSoft and SAP.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1,
+        "company_id": 918,
+        "seller": "ALKU Technologies",
+        "company_phone": null,
+        "company_location": "Andover, MA",
+        "company_founded_year": 2008,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/alku/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": "https://www.linkedin.com/company/forcebrain.com",
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 84
+            },
+            {
+                "competitor_name": "Victory Lap",
+                "competitor_link": "https://www.g2.com/products/victory-lap/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/alku/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 221411,
+                "review_title": "Review ALKU",
+                "review_content": "Describe the project or task ALKU helped with:\nALKU technologies is very professional in their recruiting efforts. Very reasonable rates.\n\nWhat do you like best about ALKU?\nProfessionalism from all employees of ALKU.\n\nWhat do you dislike about ALKU?\nSome times multiple recruiters contact me for the same requirement.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-01-11",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alku/reviews/alku-review-221411"
+            }
+        ]
+    },
+    "error": null
+}

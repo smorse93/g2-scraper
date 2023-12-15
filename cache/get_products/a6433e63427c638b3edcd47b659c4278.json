@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 25257,
+        "product_name": "ACES Direct",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1fc88f7748dbb0b69dc35d3b662a4c08/aces-direct.jpg",
+        "g2_link": "https://www.g2.com/products/aces-direct/reviews",
+        "what_is": "ACES Direct is a provider of hardware, software, peripherals, and supplies",
+        "product_description": "ACES Direct is a provider of hardware, software, peripherals, and supplies",
+        "positioning_against_competitor": null,
+        "rating": 4,
+        "reviews": 1,
+        "company_id": 20163,
+        "seller": "ACES Direct",
+        "company_phone": null,
+        "company_location": "Tilburg, Netherlands",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/aces-direct/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Adobe Channel Partners",
+                "category_link": "https://www.g2.com/categories/adobe-channel-partners"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "CDW Hardware",
+                "competitor_link": "https://www.g2.com/products/cdw-hardware/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 27
+            },
+            {
+                "competitor_name": "Cad Gulf",
+                "competitor_link": "https://www.g2.com/products/cad-gulf/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 12
+            },
+            {
+                "competitor_name": "Insight",
+                "competitor_link": "https://www.g2.com/products/insight-insight/reviews",
+                "competitor_rating": 3.5,
+                "competitor_reviews": 12
+            },
+            {
+                "competitor_name": "Crayon",
+                "competitor_link": "https://www.g2.com/products/crayon/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 11
+            },
+            {
+                "competitor_name": "Hero Digital",
+                "competitor_link": "https://www.g2.com/products/hero-digital/reviews",
+                "competitor_rating": 3.2,
+                "competitor_reviews": 10
+            },
+            {
+                "competitor_name": "MeetingOne",
+                "competitor_link": "https://www.g2.com/products/meetingone/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 7
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/aces-direct/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 2593105,
+                "review_title": "Scheduling",
+                "review_content": "Describe the project or task ACES Direct helped with:\nThe company uses aces direct to communicate with employees within the store via messages instead of Everton having email addresses. aces is also used to show individual schedules\n\nWhat do you like best about ACES Direct?\nSending direct messages to management in the store as well as being able to see my schedule\n\nWhat do you dislike about ACES Direct?\nYou can't use aces on safari (Apple related products)\n\nWhat problems is ACES Direct solving and how is that benefiting you?\nCommunication is better",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-06-24",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aces-direct/reviews/aces-direct-review-2593105"
+            }
+        ]
+    },
+    "error": null
+}

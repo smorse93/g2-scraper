@@ -1,0 +1,122 @@
+{
+    "data": {
+        "product_id": 27672,
+        "product_name": "AmberLeaf",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b8cc47669536a807eda318f6232ca7dc/amberleaf.png",
+        "g2_link": "https://www.g2.com/products/amberleaf/reviews",
+        "what_is": "AmberLeaf consulting helps clients create differentiated customer experiences by turning customer data into insights to increase customer loyalty, grow revenue, and strengthen the brand.",
+        "product_description": "AmberLeaf consulting helps clients create differentiated customer experiences by turning customer data into insights to increase customer loyalty, grow revenue, and strengthen the brand.",
+        "positioning_against_competitor": null,
+        "rating": 4.3,
+        "reviews": 2,
+        "company_id": 21725,
+        "seller": "AmberLeaf",
+        "company_phone": null,
+        "company_location": "Chicago, IL",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/amberleaf/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Business Intelligence (BI) Consulting",
+                "category_link": "https://www.g2.com/categories/business-intelligence-bi-consulting"
+            },
+            {
+                "category_name": "Other Marketing Services",
+                "category_link": "https://www.g2.com/categories/other-marketing-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Skaled",
+                "competitor_link": "https://www.g2.com/products/skaled/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "MultiView",
+                "competitor_link": "https://www.g2.com/products/multiview/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 58
+            },
+            {
+                "competitor_name": "Shift Paradigm",
+                "competitor_link": "https://www.g2.com/products/shift-paradigm/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 43
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            },
+            {
+                "competitor_name": "Collectiv",
+                "competitor_link": "https://www.g2.com/products/collectiv/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 37
+            },
+            {
+                "competitor_name": "OneSix",
+                "competitor_link": "https://www.g2.com/products/onesix/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 29
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/amberleaf/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 6779814,
+                "review_title": "Needs to increase brand value",
+                "review_content": "What do you like best about AmberLeaf?\nThere would be less time and effort spent on having to physically check inventory on items when implementing this solution at supply chain companies. I work in the IT industry and have done some stockroom work where I performed an inventory on hardware assets. It is challenging and can be a pain to do.\n\nWhat do you dislike about AmberLeaf?\nThe ROI. I have noticed this is a relatively cheap stock. It's going to take some time for this company to grow in value especially in a volatile market right now when there is a possible recession.\n\nWhat problems is AmberLeaf solving and how is that benefiting you?\nPeople are more distracted and unfocused now. With this AI solution, you can get data to customers faster and save time from having to train customers hands-on. Customers may even be more focused and committed to learning and even get ahead in their careers.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Anthony M.",
+                    "reviewer_job_title": "Desktop Support",
+                    "reviewer_link": "https://www.g2.com/users/6ca70bc0-b871-444b-a2fb-569b9e30e4b6"
+                },
+                "publish_date": "2022-07-02",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/amberleaf/reviews/amberleaf-review-6779814"
+            },
+            {
+                "review_id": 7021763,
+                "review_title": "Data integration and sales control tool",
+                "review_content": "What do you like best about AmberLeaf?\nThe set marketing targets have been achieved with the best services ever. It links the company with reliable business partners. It provides data insights from all the marketing tools enhancing better planning.\n\nWhat do you dislike about AmberLeaf?\nI have not experienced any challenge from the performance of this tool.\n\nRecommendations to others considering AmberLeaf:\nWe have achieved the set objectives with positive ROI. Customer support is essential and has really helped all the involved implementation teams.\n\nWhat problems is AmberLeaf solving and how is that benefiting you?\nIt gives my retail team the best customer leads that attracts more potential clients. It automates adverts on our social media channels to reach more targeted clients.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Deborah P.",
+                    "reviewer_job_title": "Retail Manager",
+                    "reviewer_link": "https://www.g2.com/users/dfc69001-9118-428b-a5b0-28b0ad12ace0"
+                },
+                "publish_date": "2022-08-23",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/amberleaf/reviews/amberleaf-review-7021763"
+            }
+        ]
+    },
+    "error": null
+}

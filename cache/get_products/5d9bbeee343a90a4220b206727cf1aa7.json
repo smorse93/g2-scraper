@@ -1,0 +1,160 @@
+{
+    "data": {
+        "product_id": 22774,
+        "product_name": "AlixPartners",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_3682f5a67da323e3551c6098c8ff0c07/alixpartners.jpg",
+        "g2_link": "https://www.g2.com/products/alixpartners/reviews",
+        "what_is": "AlixPartners is a firm that provides business and financial advisory services including operations efficiency, revenue optimization, cost management, margin expansion, and enterprise transformation advisory services.",
+        "product_description": "AlixPartners is a firm that provides business and financial advisory services including operations efficiency, revenue optimization, cost management, margin expansion, and enterprise transformation advisory services.",
+        "positioning_against_competitor": null,
+        "rating": 4.3,
+        "reviews": 4,
+        "company_id": 18839,
+        "seller": "AlixPartners",
+        "company_phone": null,
+        "company_location": "New York, NY",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/alixpartners/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AlixPartnersLLP",
+        "number_of_followers_on_twitter": 4697,
+        "linkedin": "https://www.linkedin.com/company/alixpartners",
+        "number_of_employees_on_linkedin": 3175,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Digital Transformation Consulting",
+                "category_link": "https://www.g2.com/categories/digital-transformation-consulting"
+            },
+            {
+                "category_name": "Cybersecurity Consulting",
+                "category_link": "https://www.g2.com/categories/cybersecurity-consulting"
+            },
+            {
+                "category_name": "Management Consulting",
+                "category_link": "https://www.g2.com/categories/management-consulting"
+            },
+            {
+                "category_name": "Financial Consulting",
+                "category_link": "https://www.g2.com/categories/financial-consulting"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Skaled",
+                "competitor_link": "https://www.g2.com/products/skaled/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Bench",
+                "competitor_link": "https://www.g2.com/products/bench/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 75
+            },
+            {
+                "competitor_name": "Baker Tilly",
+                "competitor_link": "https://www.g2.com/products/baker-tilly-baker-tilly/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 66
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "Magna5",
+                "competitor_link": "https://www.g2.com/products/magna5/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 63
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 3,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/alixpartners/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 3466422,
+                "review_title": "Turnaround accounting consultant",
+                "review_content": "Describe the project or task AlixPartners helped with:\nConsulting our company with the consulting of the partners and with the local office of Kroll Buchler - the consulting persists in the regular accounting of the company during the year with the final bilance.\n\nWhat do you like best about AlixPartners?\nClear and easy understanding reports, perfect consulting, professional services and helpful people.\n\nWhat do you dislike about AlixPartners?\nReporting sometimes with too specifix words, but however a simple question to the consulting member will help.\n\nRecommendations to others considering AlixPartners:\nReports are clear but some helpf and questions you will have always, so keep the consulter on your side.\n\nWhat problems is AlixPartners solving and how is that benefiting you?\nGetting reports and getting the accounting of the company done - reports by law.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Tomodeo G.",
+                    "reviewer_job_title": "Mr",
+                    "reviewer_link": "https://www.g2.com/users/95e7572e-537e-493e-a064-3b9839595173"
+                },
+                "publish_date": "2019-10-22",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alixpartners/reviews/alixpartners-review-3466422"
+            },
+            {
+                "review_id": 935864,
+                "review_title": "AlixPartners Review",
+                "review_content": "Describe the project or task AlixPartners helped with:\nAlixPartners assisted in offering financial advises in my organization.\n\nWhat do you like best about AlixPartners?\nI liked the professionalism of the advisory team. They are experienced in the finance field.\n\nWhat do you dislike about AlixPartners?\nThe quality of services falls significantly when the key and experienced advisers are not in the team.\n\nRecommendations to others considering AlixPartners:\nThe services offered are professional. It is worth trial.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Paul K.",
+                    "reviewer_job_title": "Manager",
+                    "reviewer_link": "https://www.g2.com/users/f5f6ed9b-02c0-4db5-a30a-afc9d7cf6563"
+                },
+                "publish_date": "2018-10-10",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alixpartners/reviews/alixpartners-review-935864"
+            },
+            {
+                "review_id": 959120,
+                "review_title": "AlixPartners Financial Services ",
+                "review_content": "Describe the project or task AlixPartners helped with:\nAlixPartners assisted in offering financial advises in the bank that I am the manager.\n\nWhat do you like best about AlixPartners?\nThe advice team is professional and experienced in the finance dimension.\n\nWhat do you dislike about AlixPartners?\nThere is nothing to dislike concerning AlixPartners as at the current status.\n\nRecommendations to others considering AlixPartners:\nAlixPartners offers professional services useful to an organization.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Betty W.",
+                    "reviewer_job_title": "Manager",
+                    "reviewer_link": "https://www.g2.com/users/ef317ac1-9605-43bb-997c-629e61046ebe"
+                },
+                "publish_date": "2018-10-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alixpartners/reviews/alixpartners-review-959120"
+            },
+            {
+                "review_id": 850330,
+                "review_title": "A well-rounded firm for bankruptcy related services",
+                "review_content": "Describe the project or task AlixPartners helped with:\nAssistance of bankruptcy reporting and accounting solutions, including coordination with external counsel.\n\nWhat do you like best about AlixPartners?\nAlix had significant experience handling entity-specific bankruptcy reporting.\n\nWhat do you dislike about AlixPartners?\nWhen key members of Alix team is occasionally unavailable, service quality tends to suffer significantly.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Eddie W.",
+                    "reviewer_job_title": "Director of Financial Reporting",
+                    "reviewer_link": "https://www.g2.com/users/319443c8-d9b4-4e9d-b337-c8c48fe09783"
+                },
+                "publish_date": "2018-08-19",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alixpartners/reviews/alixpartners-review-850330"
+            }
+        ]
+    },
+    "error": null
+}

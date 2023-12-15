@@ -1,0 +1,416 @@
+{
+    "data": {
+        "product_id": 28490,
+        "product_name": "AppsChopper",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9a7dd5026fdea7a560e1f1a8324d8ddd/appschopper.png",
+        "g2_link": "https://www.g2.com/products/appschopper/reviews",
+        "what_is": "AppsChopper is an app development service provider with offices in New York, Boston, and Walpole. We have served clients with innovative application design and development since 2011. \n\nOur team of strong developers, UI/UX specialists, QA experts, and project coordinators has helped clients from diverse industries develop apps with rich functionality. From exciting startups to reputable enterprises, we've collaborated with hundreds of businesses to deliver world-class, engaging native, hybrid, and cross-platform apps. Our services include the following.\n\nComprehensive Custom Apps - We build, test, and deploy innovative, tailor-made solutions using blockchain, AI, AR/VR, and IoT technologies.\n\nQuality Assurance - We design and implement testing strategies that combine manual and automated testing techniques for your app.\n\nNow that you know about us, simply visit our website and get in touch with us for a quick consultation at a time of your convenience.",
+        "product_description": "Appschopper, a Webby Central LLC Company, is a creative app design & development agency serving clients worlwide since 2011.",
+        "positioning_against_competitor": null,
+        "rating": 4.9,
+        "reviews": 17,
+        "company_id": 22472,
+        "seller": "Appschopper",
+        "company_phone": null,
+        "company_location": "New York, US",
+        "company_founded_year": 2011,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/appschopper/discuss",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/appschopper",
+        "number_of_followers_on_twitter": 766,
+        "linkedin": "https://www.linkedin.com/company/3565542/",
+        "number_of_employees_on_linkedin": 11,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "iOS Developers",
+                "category_link": "https://www.g2.com/categories/ios-developers"
+            },
+            {
+                "category_name": "Android Developers",
+                "category_link": "https://www.g2.com/categories/android-developers"
+            },
+            {
+                "category_name": "Software Developer Services",
+                "category_link": "https://www.g2.com/categories/software-developer-services"
+            },
+            {
+                "category_name": "Cross-Platform Developers",
+                "category_link": "https://www.g2.com/categories/cross-platform-developers"
+            },
+            {
+                "category_name": "Internet of Things (IoT) Developers",
+                "category_link": "https://www.g2.com/categories/internet-of-things-iot-developers"
+            },
+            {
+                "category_name": "Wearable App Development",
+                "category_link": "https://www.g2.com/categories/wearable-app-development"
+            },
+            {
+                "category_name": "Blockchain Developers",
+                "category_link": "https://www.g2.com/categories/blockchain-developers"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/89528/rebiew-review-image1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/89529/carteckh-car-image1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/89533/am-news-image1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/89530/order-here-image1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/89532/mathematics-mentor-image1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/89531/solid-practice-image1.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": [
+            {
+                "plan_name": "Mobile App Development",
+                "plan_description": "Deliver Quality Mobile Applications for Startups, Midmarket and Enterprise.",
+                "plan_features": [
+                    "450+ Mobile Apps Delivered",
+                    "100+ Qualified Developers",
+                    "Customised Mobile App Development",
+                    "Discovery",
+                    "Prototyping",
+                    "MVP Development",
+                    "App Wireframe",
+                    "App Testing and Quality Assurance",
+                    "Server Deployment and Launch"
+                ]
+            },
+            {
+                "plan_name": "Android App Development",
+                "plan_description": "Develop Scalable and Visually Appealing Android Applications for Smartphones, Tablets, Wearables, and Android TV",
+                "plan_features": [
+                    "Material Design",
+                    "Dynamic Back-End",
+                    "Android App Upgrade",
+                    "Bug-fixing & Security",
+                    "Android App Maintenance & Support",
+                    "Latest Development Kit",
+                    "Highly Usable Apps For Android 14 as well as older versions"
+                ]
+            },
+            {
+                "plan_name": "iOS App Development",
+                "plan_description": "iOS Mobile App Development For iPhone, iPad, Apple TV, and Apple Watch",
+                "plan_features": [
+                    "New Versions and Technologies",
+                    "Third Party APIs Integration",
+                    "User Acceptance Testing",
+                    "Maintenance and Support",
+                    "Build Apps on Minimal Size",
+                    "Dedicated iOS Developer"
+                ]
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "Capital Numbers",
+                "competitor_link": "https://www.g2.com/products/capital-numbers/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 67
+            },
+            {
+                "competitor_name": "Mercury Development",
+                "competitor_link": "https://www.g2.com/products/mercury-development/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 11
+            },
+            {
+                "competitor_name": "Net Solutions",
+                "competitor_link": "https://www.g2.com/products/net-solutions/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 23
+            },
+            {
+                "competitor_name": "Algoworks",
+                "competitor_link": "https://www.g2.com/products/algoworks/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 23
+            },
+            {
+                "competitor_name": "Trigma",
+                "competitor_link": "https://www.g2.com/products/trigma/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 41
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 16
+        },
+        "g2_reviews_link": "https://www.g2.com/products/appschopper/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7431883,
+                "review_title": "They Are Making Excellent Progress In Our Project. Keep It Up!",
+                "review_content": "What do you like best about AppsChopper?\nWe appreciate their commitment to understanding every little detail of our requirements. In fact, their team has not only made sure we are getting what we want, but they have also offered excellent suggestions wherever they felt the app might benefit more from it.\n\nWhat do you dislike about AppsChopper?\nThere has been nothing for us to dislike so far.\n\nRecommendations to others considering AppsChopper:\nDon't hesitate to share your requirements in great detail, they absorb all of it like a sponge and make sure everything is implemented as expected. They will also offer suggestions that will improve the overall experience of the project.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nAppsChopper is helping us bridge the gap between our teachers, students and their parents by building an app to ensure regular communication regarding school calendars and schedules. They have suggested some excellent features that would help our teachers support the education of our students in the best manner possible.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Noah G.",
+                    "reviewer_job_title": "Assistant Manager",
+                    "reviewer_link": "https://www.g2.com/users/97a4df7d-9e97-403d-8fcb-3162ff03f184"
+                },
+                "publish_date": "2022-11-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-7431883"
+            },
+            {
+                "review_id": 6907506,
+                "review_title": "They Delivered What they Promised",
+                "review_content": "What do you like best about AppsChopper?\nWe're impressed with their customer service and solutions-based approach to the development of the app. The best thing about their team is that they are transparent with their client.\n\nThe AppsChopper team is passionate, creative, and informed in the work they're doing. Really appreciable.\n\nWhat do you dislike about AppsChopper?\nThere is no such improvement in them. They worked perfectly on every aspect.\n\nRecommendations to others considering AppsChopper:\nIf you are looking for any mobile app consulting partner, AppsChopper is the best team that you can connect with.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nOur goal was to create the best-in-class, on-demand delivery app that would make the user's life convenient. We had no app capabilities and so we set about finding an agency that would guide us to launch our app. AppsChopper team was very excellent, they're organizing our thoughts and helping us see the big picture.\n\nThey provide us with app consulting services and explained everything essential from idea to launch in app development. All these essential things were implemented in the app that has made our app outstanding.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Brittany W.",
+                    "reviewer_job_title": "Brand Manager",
+                    "reviewer_link": "https://www.g2.com/users/ac011cf5-2580-4f1c-a66f-ce3f5ec6b4a1"
+                },
+                "publish_date": "2022-08-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-6907506"
+            },
+            {
+                "review_id": 6866405,
+                "review_title": "The AppsChopper team truly makes it feel like we are all a part of one team. ",
+                "review_content": "What do you like best about AppsChopper?\nTheir transparency, the way of communicating with clients, the technology they use and on-time support makes their team unique, and I was literally impressed by the work I got from them.\n\nWhat do you dislike about AppsChopper?\nNo, there is no such improvement as of now. They are doing fantastic work.\n\nRecommendations to others considering AppsChopper:\nTheir team is highly supportive and are helping hand. I would highly recommend them.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nI wanted to develop an event organizer app to serve local live events across the US. I searched for multiple app development companies online.\n\nMost of the companies had not worked on the app type, which was my requirement.\n\nLastly, I found AppsChopper. When I talked to them, their business analyst team explained each and every thing brilliantly.\n\nFinally, I decided to go with them. The main reason for selecting them was, they explained to me how they are going to process my project, what programming languages they are going to use, what are the add-on features they are going to implement. All these explanations made me go with them.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Dianne W.",
+                    "reviewer_job_title": "Chief Technology Officer",
+                    "reviewer_link": "https://www.g2.com/users/c89241b9-5f82-4aa9-a6ba-d27145f058f1"
+                },
+                "publish_date": "2022-07-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-6866405"
+            },
+            {
+                "review_id": 6667821,
+                "review_title": "Upgraded the Alma app and integrated the advanced features for a better user experience.",
+                "review_content": "Describe the project or task AppsChopper helped with:\nI hired AppsChopper to update the Alma health app and add more interactive features, like an activity dashboard, reporting /analytics, etc.\n\nWhat do you like best about AppsChopper?\nOne of my friends referred AppsChopper to me, and after that, I read the company's review. I found AppsChopper's portfolio quite inspiring and decided to hire the company.\n\nAfterward, I read previous client feedback, which was positive. I even sent my query to the company's project manager- Ms. Niah Wilson, who patiently listened to my overall project requirements.\n\nWhat do you dislike about AppsChopper?\nNothing. The entire team of AppsChopper is proficient in their skill set.\n\nRecommendations to others considering AppsChopper:\nI hired AppsChopper app development company to update the Alma health app and asked the team to integrate the app with the latest features.\n\nThe development team of AppsChopper also shared the MVP strategy with me since I wanted to validate the app features I planned to integrate. As a result, I received feedback from my targeted audience, with the help of which I optimized the features accordingly.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nI hired AppsChopper to update the Alma health app and add more interactive features, like an activity dashboard, reporting /analytics, etc.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Wayne B.",
+                    "reviewer_job_title": "Marketing Specialist",
+                    "reviewer_link": "https://www.g2.com/users/25941ad3-5c5b-4c2e-b337-b8c41c64d771"
+                },
+                "publish_date": "2022-05-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-6667821"
+            },
+            {
+                "review_id": 6573251,
+                "review_title": "Revamp the Aliment app and integrate the latest features for a smooth user experience.",
+                "review_content": "Describe the project or task AppsChopper helped with:\nI am currently availing of the services of AppsChopper for upgrading and adding new features to my app. I wanted to enhance the user experience, so I went for an app revamp.\n\nAppsChopper understood my expectations, and so far, I have received the exact app design along with the necessary features that I wanted. I am hoping to get my app within the given timeline.\n\nWhat do you like best about AppsChopper?\nI read reviews of AppsChopper, and after seeing its inspiring portfolio, I decided to hire the company. App developers' technical knowledge, quick response, and previous client projects were the primary factors for hiring AppsChopper.\n\nWhat do you dislike about AppsChopper?\nThe designer team of AppsChopper is proficient in their skill set and knows how to meet the expectations. Kudos to team\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nI am currently availing of the services of AppsChopper to update the Aliment restaurant app and let users order online food & table booking easily.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Dean S.",
+                    "reviewer_job_title": "Technical Project Manager",
+                    "reviewer_link": "https://www.g2.com/users/ab6dd976-33b8-4ec2-8763-6e3d5d8455a8"
+                },
+                "publish_date": "2022-05-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-6573251"
+            },
+            {
+                "review_id": 5377299,
+                "review_title": "AppsChopper delivered a secure, scalable, and highly-interactive app.",
+                "review_content": "Describe the project or task AppsChopper helped with:\nWe hired AppsChopper to build a military vacation planner app from scratch with engaging and high-performing UI/UX.\n\nThe MVP app lets military members search for fascinating travel destinations based on their real-time location or upcoming itineraries.\n\nWhat do you like best about AppsChopper?\nTheir in-depth knowledge regarding the technology and how they meet our requirements was truly impressive. The best thing about the AppsChopper development team is they patiently listened to our business requirements and dedicatedly worked on them.\n\nWhat do you dislike about AppsChopper?\nI am happy with their service, and the least they could do for betterment is make room for more unique ideas.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nThe team offered quality services and designed the app just like we wanted.\n\nMilitary vacation planner is already running in the Apple App Store, and soon the updated version will be launched along with the Google Play Store.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Josselin M.",
+                    "reviewer_job_title": "IT Specialist",
+                    "reviewer_link": "https://www.g2.com/users/85595e8f-cb86-40bc-881b-9eb1b42acb4e"
+                },
+                "publish_date": "2022-02-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-5377299"
+            },
+            {
+                "review_id": 2834339,
+                "review_title": "An Awesome Experience With AppsChopper !",
+                "review_content": "Describe the project or task AppsChopper helped with:\nI was looking for a media app that allows users to read regional and national news in Albanian Language. Users can easily access the app to read the stories and can discover what's happening around. Apart from news publishing, the app also offers various services to people who are living in Albania.\n\nWhat do you like best about AppsChopper?\nThe best thing about AppsChopper is their planning and coordination. Their top level management understands the value of each and every client they have. I was so happy when at a point their Directors came into action when the team got trapped in a problem. I saw how beautifully the directors sorted out the problem and helped the team to deliver the project before the delivery date. There was lots of pressure through the project but these people always dealt it with ease. I appreciate their efforts.\n\nWhat do you dislike about AppsChopper?\nIn general I faced some communication issue at first. I was not able to make them understand what exactly I was looking for but within 2-3 seatings everything was sorted. Thanks to their management team who helped me in improving my idea as well as adding more valuable points to the discussion which I had missed. These people are so good at their work and they take utmost care of their clients, how can anyone dislike them. :)\n\nRecommendations to others considering AppsChopper:\nIf you are looking for a web and mobile app development company on whom you can trust fully, then it should be AppsChopper. They neither make fake promises nor they compromise with quality.\nThey Charge you according to industry standards. They don't beleive in giving heavy discounts and delivering low standard work. They are always straight and clear when it comes to their charges and quality. No hidden cost or any cheating, everything is kept transparent which you can easily access.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nWith the development of our own mobile app. Now, we are able to serve people with latest news updates and current affairs at one place. People are able to use it with ease as we have kept everything under one roof. Thanks to the team of AppsChopper because of their hard work and due to the outstanding knowledge base of their designers as well as developers, we were able to publish such a useful application.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "David Y.",
+                    "reviewer_job_title": "Business Owner",
+                    "reviewer_link": "https://www.g2.com/users/b5465abe-0403-4f0e-a468-9f8c7e4e38a5"
+                },
+                "publish_date": "2019-07-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-2834339"
+            },
+            {
+                "review_id": 2826138,
+                "review_title": "Best Mobile App Company I came Across in New York !!",
+                "review_content": "Describe the project or task AppsChopper helped with:\nI wanted to develop an application will be providing energy efficient solution for room heating and helps user save lots of money. Using BTU Calculator app user can maintain record of the required BTU calculations, which can be accessed for future use. The app is featured with a powerful BTU calculating algorithm and gives user accurate metrics based on several heating factors. The app is designed to offer BTU unit calculation in either imperial or metrics, whichever suit user most.\n\nWhat do you like best about AppsChopper?\nTheir ideas around the project, execution, strategy which was very well planned by them. They always worked with full dedication, everytime I needed any change in the designs or app screens they never hesitated in implementing it if I seemed right. The best thing about AppsChopper is they never suggest you any wrong ideas or blindly followed whatever I said. They always cross questioned me on the scope of the work. If it seemed right for the project then they used to implement it.\n\nWhat do you dislike about AppsChopper?\nNothing as such. Their team is good, they know how to work with deadlines on head, they very professionally handled the pressure we had during the project. There were few problems in communication during the whole project but small errors happens during big projects, so it can be ignored.\n\nRecommendations to others considering AppsChopper:\nAppsChopper is a brilliant company dealing with web and mobile apps. we didn't expect that  level of dedication AppsChopper showed us during the development period. We are happy that we worked with them. I would highly recommend to anyone who is looking for mobile apps and expects quality work.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nWith the BTU calculator users are able to calculate the exact heating unit they need for heating a room and with this they are able to save the extra money they used to spend earlier.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Martin J.",
+                    "reviewer_job_title": "Owner",
+                    "reviewer_link": "https://www.g2.com/users/d4ff809d-6511-4f37-9ba6-dc28eea2b12f"
+                },
+                "publish_date": "2019-07-24",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-2826138"
+            },
+            {
+                "review_id": 2772750,
+                "review_title": "AppsChopper Got the Best Hands!!",
+                "review_content": "Describe the project or task AppsChopper helped with:\nWe hired AppsChopper to develop a mobile app for our healthcare and fitness business. It was basically a photo app that can quickly check and compare gains and losses of muscle or fat from one time period to another with focus on every major muscle group. The app allows users to send and share their progress on any of the social media sites they own.\n\nWhat do you like best about AppsChopper?\nThe best part is these people always think out of the box, everytime they came up with new ideas to implement. They got really good developers and designers who can turn every impossible to possible. They are not from those who just say \"Yes Sir, It will be done as you say\". Whenever they think I was going wrong somewhere they corrected me and came up with better ideas and suggestions which always impressed me.\n\nWhat do you dislike about AppsChopper?\nI had a really great experience with AppsChopper and I don't think there was any thing which can be disliked about them.\n\nRecommendations to others considering AppsChopper:\nThese people are dedicated, reliable and  professional in their work. I would highly recommend AppsChopper to anyone who is looking for a Mobile app.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nAfter the App went live. I shared them with some of the nearby Gyms and fitness centre owners who are my friends. They liked the idea and its concept. They promoted the app in their place and people started downloading the app. I got good response from everyone who used it. There were many suggestions which also came up from the user side. We tried to work on it as well as implement them ASAP.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Deryck C.",
+                    "reviewer_job_title": "Company Owner",
+                    "reviewer_link": "https://www.g2.com/users/4765d3f8-b0b5-4ce5-9554-7bce8796cc87"
+                },
+                "publish_date": "2019-07-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-2772750"
+            },
+            {
+                "review_id": 1799471,
+                "review_title": "Best People to Work With For App Development",
+                "review_content": "Describe the project or task AppsChopper helped with:\nMy app, iStudy, is an students tracking solution, a step forward for parents to keep track of their children in a smart way.\n\nI hired AppsChopper for design and development of the app. Their team was patient in noting down all my points which I have already planned. We easily framed the whole scenario in a detailed documentation. We had lots of calls during the planning phase, these people were always ready with their question and recommendations which I liked much. They were always open to discussions, and even the change requests in the application.\n\nWhat do you like best about AppsChopper?\nTheir team is hard working, technologically strong and fast in execution. The best thing that i liked is they always welcomed my changes and made the app that i was looking for.\n\n\n\nWhat do you dislike about AppsChopper?\nNothing in general. One thing which use to bother me was the time-zone difference, since they were based in New York and I was in Tripoli. But still they managed the communication pretty well.\n\nRecommendations to others considering AppsChopper:\nThey got the best hands for app development. Go for them without a second thought.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Zakaria G.",
+                    "reviewer_job_title": "Business Owner",
+                    "reviewer_link": "https://www.g2.com/users/80614408-b9e4-4e98-ab27-abb4e5f5a63d"
+                },
+                "publish_date": "2019-02-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1799471"
+            },
+            {
+                "review_id": 1963731,
+                "review_title": "Food Ordering Application for My Business",
+                "review_content": "Describe the project or task AppsChopper helped with:\nWe hired a team from AppsChopper for designing and developing a food ordering application for our  business. The main goal behind this project was to help people avoid rush and get their favorite food delivered at their doorstep easily with a simple and hassle-free process.\n\nWhat do you like best about AppsChopper?\nThese people are dedicated, detailed and patient in their work there's no doubt in that. But what impressed us was, there were some immediate changes which we wanted to make before launching the app. These people took that pain and invested their weekend and delivered what they promised; \"Quality work with 100% client satisfaction\"\n\nWhat do you dislike about AppsChopper?\nWe are too much happy with their work. So we don't think there's anything to dislike about AppsChopper\n\nRecommendations to others considering AppsChopper:\nI highly recommend AppsChopper to all the people who are looking for developing mobile app for thier business.\n\nWhat problems is AppsChopper solving and how is that benefiting you?\nOur app after release got decent downloads and people liked the concept and are happily using the app for ordering food online.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-03-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1963731"
+            },
+            {
+                "review_id": 1816304,
+                "review_title": "Pool of Good and Talented People!!",
+                "review_content": "Describe the project or task AppsChopper helped with:\nI was looking for an app for our military personals to feel special and build and app specially for them to avail added benefits. An app where military members can browse and find hotels, restaurants, etc. across US that offer special discounts and best deals exclusively for military personals. After we hired AppsChopper, They understood my thought process easily and suggested to go with Cross platform development as we were bit low on budget. They developed the app within shared time period. The app was developed with features like strict validation on login for military personals only, browse hotels, hotel details, categories, location, sort, filter, deals, hotel booking, notifications etc.\n\nWhat do you like best about AppsChopper?\nTheir module of work was great. They have good knowledge of technology, as well as they works with owner's mentality so I can say that overall workflow was impressive.\n\nWhat do you dislike about AppsChopper?\nI didn't find any reason to dislike them. They are a team of dynamic people who work with owner's mentality.\n\nRecommendations to others considering AppsChopper:\nI would Highly recommend AppsChopper to everyone !!",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Nick G.",
+                    "reviewer_job_title": "Finance Analyst",
+                    "reviewer_link": "https://www.g2.com/users/239e94b6-a376-4e6f-a60f-94a108280e03"
+                },
+                "publish_date": "2019-02-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1816304"
+            },
+            {
+                "review_id": 1897598,
+                "review_title": "We hired the best company in the market.",
+                "review_content": "Describe the project or task AppsChopper helped with:\nWe came to AppsChopper for getting our education mobile app for iOS and android platforms. We were sure about the concept and they did the rest.\n\nWhat do you like best about AppsChopper?\nThey coded the app well, it loads quick, have great performance and the maintenance is pretty low.\n\nWhat do you dislike about AppsChopper?\nNothing as such, we had a very smooth work flow.\n\nRecommendations to others considering AppsChopper:\nAppsChopper is the best company for providing web and mobile application development. Just go with them without a second thought.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Umadatt U.",
+                    "reviewer_job_title": "Team Lead Manager",
+                    "reviewer_link": "https://www.g2.com/users/146abcea-c6fc-4a4c-85d1-f2a258ae42e6"
+                },
+                "publish_date": "2019-03-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1897598"
+            },
+            {
+                "review_id": 1929501,
+                "review_title": "Highly Recommended Company",
+                "review_content": "Describe the project or task AppsChopper helped with:\nI was looking for an app development firm that can deliver on our business model in least time with proficiency. We picked them based on their past experience in transportation business and the quality of app designs of their portfolio. I liked their work a lot, the quality of code was clean, delivery was on time and communication was on-spot.\n\nWhat do you like best about AppsChopper?\nThe team which was assigned to my project was honest, hard working as well as they gave us a lot no of recommendation for our app. It gave me immense pleasure working with such a great team.\n\nWhat do you dislike about AppsChopper?\nTheir team was par from my expectation. They didn't give me a single reason to dislike them in the whole 5 weeks journey.\n\nRecommendations to others considering AppsChopper:\nHighly recommended",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-03-14",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1929501"
+            },
+            {
+                "review_id": 1415116,
+                "review_title": "Nice App Agency with Good Business Understanding",
+                "review_content": "Describe the project or task AppsChopper helped with:\nAppsChopper helped us in building our mobile application for car grooming service. The app was strategized, designed, developed and is maintained by their team.\n\nWhat do you like best about AppsChopper?\nPeople, their team is amazing. They never disappointed me, weather it was request for change or the delivery on time. They always responded with great solutions and planned execution.\n\nWhat do you dislike about AppsChopper?\nThe communication tool, they used Basecamp which I know is good but I prefer to use my mails.\n\nRecommendations to others considering AppsChopper:\nGood bunch of techie people, you may consult them for your apps.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Devon M.",
+                    "reviewer_job_title": "Entrepreneur",
+                    "reviewer_link": "https://www.g2.com/users/d556e5eb-dac3-4c5a-90e0-510ba8d820ae"
+                },
+                "publish_date": "2018-12-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1415116"
+            },
+            {
+                "review_id": 1415513,
+                "review_title": "Great team of Design and Development Professionals",
+                "review_content": "Describe the project or task AppsChopper helped with:\nThey helped us in building our mobile app for shuttle booking service.\n\nWhat do you like best about AppsChopper?\nTheir team was enthusiastic, they accepted our challenge to build the app within a small time span of 8 weeks, which we liked the most.\n\nWhat do you dislike about AppsChopper?\nDesigns were great, but the branding was something I was not really happy with, but later realized their view, which was more professional.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Matthew L.",
+                    "reviewer_job_title": "Product Owner",
+                    "reviewer_link": "https://www.g2.com/users/861cc71b-d04a-49dc-ac36-f5827542e666"
+                },
+                "publish_date": "2018-12-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1415513"
+            },
+            {
+                "review_id": 1457296,
+                "review_title": "Technically Sound Developers Agency",
+                "review_content": "Describe the project or task AppsChopper helped with:\nI am a designer myself, and hired AppsChopper for development of my photo editing application. I shared the design and concept, and they coded, tested and published the app.\n\nWhat do you like best about AppsChopper?\nTheir team is technically very sound and always ready to clear your doubts, be it the most generic ones.\n\nWhat do you dislike about AppsChopper?\nTheir team was small then, they they probably have increased by now.\n\nRecommendations to others considering AppsChopper:\nThey agency have great development skills and executes as per timeline.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "David S.",
+                    "reviewer_job_title": "Senior Business Analyst",
+                    "reviewer_link": "https://www.g2.com/users/e7060a51-fa94-4d4a-83ee-b638cc5157b4"
+                },
+                "publish_date": "2018-12-28",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appschopper/reviews/appschopper-review-1457296"
+            }
+        ]
+    },
+    "error": null
+}

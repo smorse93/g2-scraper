@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 25090,
+        "product_name": "Accounting Business Solutions by JCS",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d28e20d11d1e698b21e7651f028fc0bb/accounting-business-solutions-by-jcs.jpg",
+        "g2_link": "https://www.g2.com/products/accounting-business-solutions-by-jcs/reviews",
+        "what_is": "Accounting Business Solutions provides quality support and implementation services for Sage & Intuit Software.",
+        "product_description": "Accounting Business Solutions provides quality support and implementation services for Sage & Intuit Software.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 19957,
+        "seller": "JCS",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/accounting-business-solutions-by-jcs/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Sage 50 Resellers",
+                "category_link": "https://www.g2.com/categories/sage-50-resellers"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "B2BGateway EDI",
+                "competitor_link": "https://www.g2.com/products/b2bgateway-edi/reviews",
+                "competitor_rating": 1.8,
+                "competitor_reviews": 3
+            },
+            {
+                "competitor_name": "DSD Business Systems",
+                "competitor_link": "https://www.g2.com/products/dsd-business-systems/reviews",
+                "competitor_rating": 3,
+                "competitor_reviews": 1
+            },
+            {
+                "competitor_name": "Sage Software Solutions",
+                "competitor_link": "https://www.g2.com/products/sage-software-solutions/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 1
+            },
+            {
+                "competitor_name": "BrainSell Technologies",
+                "competitor_link": "https://www.g2.com/products/brainsell-technologies/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 1
+            },
+            {
+                "competitor_name": "CRM Systems",
+                "competitor_link": "https://www.g2.com/products/crm-systems/reviews",
+                "competitor_rating": null,
+                "competitor_reviews": null
+            },
+            {
+                "competitor_name": "LMB Software Services",
+                "competitor_link": "https://www.g2.com/products/lmb-software-services/reviews",
+                "competitor_rating": null,
+                "competitor_reviews": null
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/accounting-business-solutions-by-jcs/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 4144915,
+                "review_title": "Knowledgeable in accounting and manufacturing",
+                "review_content": "Describe the project or task Accounting Business Solutions by JCS helped with:\n***** 5 star company, very responsive, experienced, helpful in guiding us from a disjointed system into a single solution. Shirley\n\nWhat do you like best about Accounting Business Solutions by JCS?\nThey showed up, asked lots of questions and discovered some issues we did not even realize we had. Putting systems in place they included our staff to make sure they  understood how our operations worked.\n\nWhat do you dislike about Accounting Business Solutions by JCS?\nNothing :) they had so many of our answers\n\nWhat problems is Accounting Business Solutions by JCS solving and how is that benefiting you?\nTime saving steps and better information are the benefits",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2020-03-10",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accounting-business-solutions-by-jcs/reviews/accounting-business-solutions-by-jcs-review-4144915"
+            }
+        ]
+    },
+    "error": null
+}

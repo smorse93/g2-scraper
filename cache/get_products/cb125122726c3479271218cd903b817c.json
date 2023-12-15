@@ -1,0 +1,511 @@
+{
+    "data": {
+        "product_id": 1076,
+        "product_name": "Accenture",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8dca881a328f977740e4b957ae668966/accenture.png",
+        "g2_link": "https://www.g2.com/products/accenture/reviews",
+        "what_is": "Consulting and Implementation Practice.",
+        "product_description": "Consulting and Implementation Practice.",
+        "positioning_against_competitor": null,
+        "rating": 4.2,
+        "reviews": 102,
+        "company_id": 796,
+        "seller": "Accenture",
+        "company_phone": "+1 312-842-5012",
+        "company_location": "Dublin",
+        "company_founded_year": 1989,
+        "company_annual_revenue": "$43,200,000",
+        "company_ownership": "NYSE:ACN",
+        "discussions_link": "https://www.g2.com/products/accenture/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Accenture",
+        "number_of_followers_on_twitter": 544919,
+        "linkedin": "https://www.linkedin.com/company/accenture",
+        "number_of_employees_on_linkedin": 542914,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "https://www.g2.com/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "AWS Consulting Services",
+                "category_link": "https://www.g2.com/categories/aws-consulting-services"
+            },
+            {
+                "category_name": "Oracle Consulting Services",
+                "category_link": "https://www.g2.com/categories/oracle-consulting-services"
+            },
+            {
+                "category_name": "SAP Consulting Services",
+                "category_link": "https://www.g2.com/categories/sap-consulting-services"
+            },
+            {
+                "category_name": "Cloud Migration Services",
+                "category_link": "https://www.g2.com/categories/cloud-migration-services"
+            },
+            {
+                "category_name": "Adobe Consulting Services",
+                "category_link": "https://www.g2.com/categories/adobe-consulting-services"
+            },
+            {
+                "category_name": "ServiceNow Consulting Services",
+                "category_link": "https://www.g2.com/categories/servicenow-consulting-services"
+            },
+            {
+                "category_name": "Google Consulting Services",
+                "category_link": "https://www.g2.com/categories/google-consulting-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Capgemini Services",
+                "competitor_link": "https://www.g2.com/products/capgemini-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 20
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "PricewaterhouseCoopers (PwC)",
+                "competitor_link": "https://www.g2.com/products/pricewaterhousecoopers-pwc/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 34
+            },
+            {
+                "competitor_name": "Tata Consultancy Services",
+                "competitor_link": "https://www.g2.com/products/tata-consultancy-services/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 31
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-pluralsight-skills",
+                "competitor_name": "Pluralsight Skills",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_85e88c913727aa0f19f45535b2420264/pluralsight-skills.jpeg"
+            },
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-capgemini-services",
+                "competitor_name": "Capgemini Services",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_51823a7f61425db62a496fa03d4988c2/capgemini-services.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-wipro",
+                "competitor_name": "Wipro",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_2274424818d8fac41c175c51ba9e67cc/wipro.jpg"
+            }
+        ],
+        "star_distribution": {
+            "1": 1,
+            "2": 3,
+            "3": 9,
+            "4": 33,
+            "5": 56
+        },
+        "g2_reviews_link": "https://www.g2.com/products/accenture/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 222082,
+                "review_title": "Sherpas in the Cloud",
+                "review_content": "Describe the project or task Accenture helped with:\nSherpas came in and learned a new UX platform called Skuid and implemented it for a fin serv customer. Throughout the courtship with a new partner you always wonder if they like you as much as you like them. The feeling was mutual in this case as we each brought very different skill sets to the table to best serve the shared customer.\n\nWhat do you like best about Accenture?\nIt's always great to meet good people who work for cool companies, and it's even better when customers trust them. These guys are trustworthy and professional. Also their willingness to take on a new UX platform as a challenge and learn it and own it stood out to us from other partners we have worked alongside.\n\nWhat do you dislike about Accenture?\nNothing really to dislike about these guys. Maybe ... if I have to answer, they are resistant to having all employees buy Skuid licenses, as well as have all engineering resources take our formalized training program and get certified.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Andy G.",
+                    "reviewer_job_title": "Financial Planning and Analysis Manager",
+                    "reviewer_link": "https://www.g2.com/users/5278fc7d-cf0e-45fc-bceb-043b751efc09"
+                },
+                "publish_date": "2017-01-13",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-222082"
+            },
+            {
+                "review_id": 68630,
+                "review_title": "Quick to do work but shallow about needs.",
+                "review_content": "What do you like best about Accenture?\nThey were very friendly and made sure their contact information was available for us to talk to them as needed. They had a fast turnaround time for the work given to them.They have many skills under their roof. They assigned people on our time zone to work with us.\n\nWhat do you dislike about Accenture?\nWhile they had given us lines of communications they didn't respond to us in a timely manner. When an update was to be delivered there was a non response from the project manager and developer. Emails and phone calls were not returned at all. We had to contact a VP to get back to us and it took a day to get back to us. They were fast to move on working but they missed details of the work needed to be done. For example we needed an excel script made but the developer worked on OSX and the macro did not function as well on Windows. No one else was assigned that could do it natively on Windows, it did not work very smoothly on a Windows computer, an in house person had to fix it.\n\nRecommendations to others considering Accenture:\nThey should look to other vendors as they do not seem to offer very good communication or support. They should demand the people working on their project use the same environment as their own to ensure the work is compatible with the systems. Get contact information from executives and managers of the people you are working with if they become non communicative.\n\nDo your own homework, they offered up solutions that were more expensive to the cost of the project when a little leg work would have solved it without additional cost.",
+                "review_rating": 1.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2015-10-29",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-68630"
+            },
+            {
+                "review_id": 211729,
+                "review_title": "Yes to Cloud Sherpas!",
+                "review_content": "Describe the project or task Accenture helped with:\nCloud Sherpas helped us with a contracting and accounting project that we were handling with outside companies.\n\nWhat do you like best about Accenture?\nThe consultants at Cloud Sherpas as wonderful! They are excellent in customer service and always ready to address and needs. They make your projects their goals and make you feel like a priority!\n\nWhat do you dislike about Accenture?\nThere is not anything that I dislike about the consulting company, they get their jobs done.\n\nRecommendations to others considering Accenture:\nWhen considering get them a chance before making any final decisions.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Ashley C.",
+                    "reviewer_job_title": "Education Center Coordinator",
+                    "reviewer_link": "https://www.g2.com/users/9b38cf53-966f-435e-bb61-77483290a4a1"
+                },
+                "publish_date": "2016-12-21",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-211729"
+            },
+            {
+                "review_id": 8684254,
+                "review_title": "Good organization to start your career",
+                "review_content": "What do you like best about Accenture?\nBest thing about Accenture is that they care about thier employees and provide different trainings for free and support you as long as you are with them.Also you will be able to participate in different CSR activities which is something I enjoyed a lot. Cultural activities within the organization is a great initiative.\n\nWhat do you dislike about Accenture?\nThey can improve upon the trainings quality by incorporating qualified trainers also they should try to raise the initial CTC offered to freshers here in India.\n\nRecommendations to others considering Accenture:\nAccenture is a good company for freshers bit i would say experienced candidate should definitely look upon other options while considering to join them as job security has gone down in these years.\n\nWhat problems is Accenture solving and how is that benefiting you?\nI have started my career with Accenture and it was a great experience working with them. Once you are hired as freshers they will enroll you in 2 months trainings as per you module.I will say training was average and it's something they can improve upon.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Saurabh C.",
+                    "reviewer_job_title": "Senior Consultant",
+                    "reviewer_link": "https://www.g2.com/users/17109f0f-e912-4ca3-ba49-e468a45fdba3"
+                },
+                "publish_date": "2023-10-02",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8684254"
+            },
+            {
+                "review_id": 8589408,
+                "review_title": "Great experience with highly experienced consultants",
+                "review_content": "What do you like best about Accenture?\nThey are experts in all matters relating to HR Consulting. Be it the functional aspect like curent state analysis or implementing some software for you. I'm  amazed by the amazing team of consultants. Though we used only the hr consulting, im sure they can provide you a similar experience  on other areas as well.\n\nWhat do you dislike about Accenture?\nSome junior folks in the team are untrained and have no knowledge about tye product but add upto the cost whil implementing a software or providing any other service.\n\nWhat problems is Accenture solving and how is that benefiting you?\nAccenture helped us in implementing service now for raising tickets relating to all queries or notifying the team on an issue. This was a completely new tool for us and they implemented it without much hassel.",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "Karishma S.",
+                    "reviewer_job_title": "Human Resources Transformation Consultant - WFA",
+                    "reviewer_link": "https://www.g2.com/users/c4c8f9c0-8236-49f1-b061-3455cc387d60"
+                },
+                "publish_date": "2023-09-11",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8589408"
+            },
+            {
+                "review_id": 8681670,
+                "review_title": "Reliable and Integration for Business",
+                "review_content": "What do you like best about Accenture?\nIts provide happy environment to employee, comney moto is like grow together, take care every employee , paying good salary and service to employee in all domains.\n\nWhat do you dislike about Accenture?\nNothing as dislike , its a good compney who takes care cilents as well as employees\n\nRecommendations to others considering Accenture:\nBeat place to work, best service base compney.\n\nWhat problems is Accenture solving and how is that benefiting you?\nIt is a global professional service compnay its provide sevices to business  to compnies as well as govrnment to built there digital core. aceleraste revenue growth optimize there operations,enhance citizene servcie.Its also provide could and data secqurity.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ranjeet M.",
+                    "reviewer_job_title": "Assistant Manager",
+                    "reviewer_link": "https://www.g2.com/users/a586700d-227f-442e-85b5-484d9494936a"
+                },
+                "publish_date": "2023-09-30",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8681670"
+            },
+            {
+                "review_id": 8301803,
+                "review_title": "Knowledgeable staff and quite good contractors",
+                "review_content": "What do you like best about Accenture?\nThe staff at Accenture is quite knowledgeable and has quite an expertise in technology. They have been working with us for quite some time, and the managers there are also well aware of the expectations\n\nWhat do you dislike about Accenture?\nSometimes, the staff becomes a little too lenient and unprofessional in terms of proactiveness, so somebody has to keep a status check to not let them falter back.\n\nRecommendations to others considering Accenture:\nQuite a good service provider, with good employees, you can definitely choose Accenture for your business needs.\n\nWhat problems is Accenture solving and how is that benefiting you?\nAccenture is our partner, providing us with employees on a contract basis for various projects in the organization. They have been part of some very critical and client-centric projects, and their expertise is helping my company achieve goals in time.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Sonal G.",
+                    "reviewer_job_title": "Staff Engineer",
+                    "reviewer_link": "https://www.g2.com/users/sonalgrover4"
+                },
+                "publish_date": "2023-07-10",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8301803"
+            },
+            {
+                "review_id": 8611999,
+                "review_title": "Accenture - SAP",
+                "review_content": "What do you like best about Accenture?\nAccenture is good in terms with SAP because they know where to fix certain issues and easily provide faster feedbacks when we encounter problem that is really complex.\n\nWhat do you dislike about Accenture?\nSometimes there are a lot of downtime which slows down the processes in solving complex deals and hopefully they are going to fix that in the future to lessen the downtime.\n\nRecommendations to others considering Accenture:\nN/A\n\nWhat problems is Accenture solving and how is that benefiting you?\nIt helps the integration of the third party applications and mostly for data management. It made easier for solve business problems and handle the issues easily.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "John Mark G.",
+                    "reviewer_job_title": "Chat Support Representative",
+                    "reviewer_link": "https://www.g2.com/users/87fe8057-e55a-4350-b989-c8244003d315"
+                },
+                "publish_date": "2023-09-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8611999"
+            },
+            {
+                "review_id": 8356514,
+                "review_title": "accenture review",
+                "review_content": "What do you like best about Accenture?\nVery professional and experiences global resources that are able to provide information and advise on how to implement SAP successfully for a global company and enterprise\n\nWhat do you dislike about Accenture?\nChallenging to work is large global off shore team that is available during US central hours so it requires a lot of time and effort to find the best approach for communciation and deliverables\n\nRecommendations to others considering Accenture:\nProvide better communication and technical tools for documentations and sharing information.  Leverage microsoft teams to store information and share information.\n\nWhat problems is Accenture solving and how is that benefiting you?\nI used accenture for large scale sap global implementations.  They have a lot of experience with global new SAP implementations and provided many implementation services from planning to implementation.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Monte J.",
+                    "reviewer_job_title": "Principal Supply Chain Architect",
+                    "reviewer_link": "https://www.g2.com/users/441c1ace-9966-4c79-b379-3890f150d4ba"
+                },
+                "publish_date": "2023-07-25",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8356514"
+            },
+            {
+                "review_id": 8609392,
+                "review_title": "Accenture Review",
+                "review_content": "What do you like best about Accenture?\nThe indsutry knowledge the consultants take to ensure they are familiar with every solution a customer needs to get the desired outcome.\n\nWhat do you dislike about Accenture?\nNothing too bad, the reps I have worked with are really precise, but do have a delay when asking questions.\n\nRecommendations to others considering Accenture:\nIf anyone is looking to involve consultants that take time out to understand various products, it can help any organization achieve more.\n\nWhat problems is Accenture solving and how is that benefiting you?\nConsulting work from accenture to make ease of doing business relatively easy as they have industry professionals.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Naveed M.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/b4aaf1ce-520d-42ce-a5df-231a7eacd5fc"
+                },
+                "publish_date": "2023-09-13",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8609392"
+            },
+            {
+                "review_id": 8404451,
+                "review_title": "Accenture",
+                "review_content": "What do you like best about Accenture?\nI like Accenture very much as they do work innovatively and workplace is also good.\nThere are many learning and development opportunities.\nThey provide good services.\n\nWhat do you dislike about Accenture?\nThere is nothing to dislike.\nThey provide different insurance services like health insurance, vision , dental insurance and life insurance. There work is unique.\nSo this is beneficial for us.\n\nRecommendations to others considering Accenture:\nI would like to recommend Accenture to others also.\n\nWhat problems is Accenture solving and how is that benefiting you?\nAccenture solve complex problems. They provide different insurance services like health insurance, vision , dental insurance and life insurance. There work is unique.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Neha Y.",
+                    "reviewer_job_title": "Team Lead",
+                    "reviewer_link": "https://www.g2.com/users/7097f0c6-700a-49d6-93ee-307387568909"
+                },
+                "publish_date": "2023-08-04",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8404451"
+            },
+            {
+                "review_id": 8359721,
+                "review_title": "Perfect consultant for your biz dev needs",
+                "review_content": "What do you like best about Accenture?\nIt has a full spectrum of infrastructure managed services. It help stabilize, optimize and manage your business development needs. It reduced IT help desk resolution and handling time.\n\nWhat do you dislike about Accenture?\nThe customer service is not par. You get delayed responses and that creates window for deflux of workflow. Sometimes we need constant support and provision to our area of interest.\n\nWhat problems is Accenture solving and how is that benefiting you?\nHelping in lead generation, from their authentic pool of original data source. The service provided by Accenture is at global level so the data sets you work with is huge.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Niraj S.",
+                    "reviewer_job_title": "Senior Game Developer",
+                    "reviewer_link": "https://www.g2.com/users/f1fbdae9-71fe-4e9c-b45a-df41fb1b7ddd"
+                },
+                "publish_date": "2023-07-26",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8359721"
+            },
+            {
+                "review_id": 8544078,
+                "review_title": "Recommended for fresh graduates",
+                "review_content": "What do you like best about Accenture?\nI really love the benefits and robust training they provide for their employees.\n\nWhat do you dislike about Accenture?\nThe low compensation for fresh grads. I suggest they offer their employees a competitive package, especially for new grads.\n\nRecommendations to others considering Accenture:\nYou might consider Accenture because it provides competitive benefits for its employees and is good for fresh grads. Initial step or pathway for career growth.\n\nWhat problems is Accenture solving and how is that benefiting you?\nI think they are constantly improving regarding the benefits they provide.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Jellie Mae  O.",
+                    "reviewer_job_title": "Junior Developer",
+                    "reviewer_link": "https://www.g2.com/users/c03b3b00-0c74-487f-a902-1eb7a04d0fdd"
+                },
+                "publish_date": "2023-08-30",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8544078"
+            },
+            {
+                "review_id": 7466706,
+                "review_title": "Accenture - a great place to work",
+                "review_content": "",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Akash J.",
+                    "reviewer_job_title": "Student",
+                    "reviewer_link": "https://www.g2.com/users/d86815ad-a17f-4e44-9c72-04ed544d49c7"
+                },
+                "publish_date": "2022-12-18",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-7466706"
+            },
+            {
+                "review_id": 8370757,
+                "review_title": "Excellent Service Provider",
+                "review_content": "What do you like best about Accenture?\nThe convenience and professionalism of all service provider i have worked with. They are beyond excellent and with high standards that every company has to have.\n\nWhat do you dislike about Accenture?\nMaybe the cost but so far you get what you paid for so its worth it.\n\nRecommendations to others considering Accenture:\nMaybe vost efficieny wise\n\nWhat problems is Accenture solving and how is that benefiting you?\nIt enables to manage everything i needed with just one company cause they have all departments that can provide you services like consultancy, techincal, marketing.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jeremiah W.",
+                    "reviewer_job_title": "Professional Freelancer",
+                    "reviewer_link": "https://www.g2.com/users/7c3f2688-3385-441d-9808-b7ed1146bac4"
+                },
+                "publish_date": "2023-07-28",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8370757"
+            },
+            {
+                "review_id": 7675127,
+                "review_title": "Company - Accenture",
+                "review_content": "What do you like best about Accenture?\nIt provides an accurate diagnosis and guides us in the right way for personal growth.\n\nThe best aspect of the company's growth and expansion was the expert consulting on the necessary information.\n\nAnd it was excellent to be able to increase productivity through a variety of instances we hadn't considered and effective consulting.\n\nWhat do you dislike about Accenture?\nDeciphering the statement of work might be difficult and take some time when contracting. Additionally, they take longer than their rivals to resolve disputes about delivery terms.\n\nRecommendations to others considering Accenture:\nNever work for money; always be yourself and do what you love. By making wise decisions for your life, make work your lifestyle and the main source of your enjoyment.\n\nWhat problems is Accenture solving and how is that benefiting you?\nData analytics hiring, remote work opportunities, and customer service positions. What matters to me is remote work and an emphasis on creative solutions. Accenture's core business is providing professional services and consulting to organisations that want to operate at their very best while achieving effective, measurable results. At the time our team deployed it, the data platform served all of those purposes and more.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "AVINASH K.",
+                    "reviewer_job_title": "Data Coordinator",
+                    "reviewer_link": "https://www.g2.com/users/d0b7967b-f027-46c7-bba9-97b3d9867207"
+                },
+                "publish_date": "2023-02-04",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-7675127"
+            },
+            {
+                "review_id": 7666568,
+                "review_title": "Experiencing Accenture's Exceptional Service Delivery",
+                "review_content": "What do you like best about Accenture?\nAccenture is known for its:\n\nExpertise: Accenture has a deep pool of experts across various industries and domains, providing clients with the necessary knowledge and skills to solve complex business problems.\n\nCustomization: Accenture offers customized solutions that are tailored to meet the specific needs and requirements of each client, helping them achieve their desired outcomes.\n\nTechnology capabilities: Accenture has a strong technology focus, utilizing innovative technologies to drive digital transformation and solve business problems.\n\nGlobal presence: With a global network of offices and delivery centers, Accenture provides clients with a seamless, integrated experience, regardless of location.\n\nStrong track record: Accenture has a proven track record of delivering successful outcomes for clients, making them a trusted partner for businesses looking to drive growth and improve performance.\n\nWhat do you dislike about Accenture?\nsome potential downsides that clients and customers may face while using Accenture's services:\n\nCost: Accenture's services can be expensive compared to other service providers, which may not be feasible for some small businesses and organizations.\n\nBureaucracy: Accenture is a large organization with a complex structure, which can sometimes result in bureaucratic processes and slow decision-making.\n\nLack of personal touch: With a large team of consultants, some clients may feel like they are not receiving a personalized experience, which can be important for building a strong and trusting relationship.\n\nDependence on Accenture: Accenture's solutions and services are designed to be highly integrated and dependent on their expertise and technology capabilities, which can make it difficult for clients to transition away from Accenture if needed.\n\nWhat problems is Accenture solving and how is that benefiting you?\nAccenture is a global professional services company that provides consulting, technology, and outsourcing services to various industries and clients. They help their clients solve business problems by providing customized solutions that address their specific challenges and needs, leveraging their expertise and technology capabilities. Accenture's services aim to improve efficiency, effectiveness, and competitiveness for their clients, helping them achieve their goals and drive growth.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Rishav R.",
+                    "reviewer_job_title": "Software Developer",
+                    "reviewer_link": "https://www.g2.com/users/rishavraj543256"
+                },
+                "publish_date": "2023-02-02",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-7666568"
+            },
+            {
+                "review_id": 8356821,
+                "review_title": "Outstanding Business",
+                "review_content": "What do you like best about Accenture?\nThe effectiveness and the reliability it supports to its clients.\n\nWhat do you dislike about Accenture?\nI think its just cost and the standards is so high that employing people is such a problem.\n\nWhat problems is Accenture solving and how is that benefiting you?\nProvides the most effective strategy needed for the client and excellent relevant services provided and assigned by the group of consultant. It provides all services needed.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Hazel P.",
+                    "reviewer_job_title": "Freelance Product Designer",
+                    "reviewer_link": "https://www.g2.com/users/a094dddb-8b73-4679-bf34-0d461c71cad0"
+                },
+                "publish_date": "2023-07-27",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8356821"
+            },
+            {
+                "review_id": 8604347,
+                "review_title": "Great place",
+                "review_content": "What do you like best about Accenture?\nDiversity and inclusion is at its best at Accenture\n\nWhat do you dislike about Accenture?\nCertainly level of micro management which is not good\n\nRecommendations to others considering Accenture:\nNa\n\nWhat problems is Accenture solving and how is that benefiting you?\nIn all possible ways, great support and problem solving",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ragul R.",
+                    "reviewer_job_title": "Data Scientist - Mobility Innovations",
+                    "reviewer_link": "https://www.g2.com/users/d1a748cb-fa0a-4aff-b9e6-142464544d7e"
+                },
+                "publish_date": "2023-09-13",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8604347"
+            },
+            {
+                "review_id": 8174817,
+                "review_title": "Unleashing Digital Potential and Driving Business Success means- Accenture",
+                "review_content": "What do you like best about Accenture?\nGlobal presence, expertise, collaborative approach and technology capabilities provide the best services, which are essential not only for ours but also for other companies as well.\n\nWhat do you dislike about Accenture?\nCost, Communication and coordination. The pricing structure may not be accessible to all businesses, particularly those seeking more cost-effective solutions, due to global presence sometimes its difficult to coordinate with different clients.\n\nRecommendations to others considering Accenture:\nI will say go for efficiency and END result rather than think about the cost.\n\nWhat problems is Accenture solving and how is that benefiting you?\nDigital Transformation- It assists us in developing and implementing digital strategies, optimizing operations, and integrating new technologies; it also helps to identify opportunities for disruptive innovation and guides us to transform our business models.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-06-10",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8174817"
+            },
+            {
+                "review_id": 8286431,
+                "review_title": "Excellent group of vendor profesional",
+                "review_content": "What do you like best about Accenture?\nTheir talent sourcing, they match the skills we were looking for in a sales Person and fulfilled our headcount demands with great and committed talent. Also a diverse group\n\nWhat do you dislike about Accenture?\nPerhaps the rotation of personnel, given the \"vendor\" titled some resources adopt their engagement to Accenture could easily change sometimes we had to start from scratch with someone new too often\n\nWhat problems is Accenture solving and how is that benefiting you?\nSales targets overachieved with resources and program management from Accenture staff, they also have a great motivativated team and aligned to our strategy quicky",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-05",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8286431"
+            },
+            {
+                "review_id": 8198315,
+                "review_title": "Ex employee of Accenture",
+                "review_content": "What do you like best about Accenture?\nWork culture and employee satisfactory policies\n\nWhat do you dislike about Accenture?\nThere was nothing to dislike . however , there is always scope of improvement\n\nRecommendations to others considering Accenture:\nYes I recommend this company to my friends/colleagues as they have wide variety of projects with latest technologies\n\nWhat problems is Accenture solving and how is that benefiting you?\nI started my career with Accenture and worked there for 4.5 years.\nThe experience was great",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Heena A.",
+                    "reviewer_job_title": "Senior Technical Analyst",
+                    "reviewer_link": "https://www.g2.com/users/5851cd20-d65b-42c3-be67-d968bbb2dbe8"
+                },
+                "publish_date": "2023-06-09",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-8198315"
+            },
+            {
+                "review_id": 7452382,
+                "review_title": "Had a great experience working with Accenture team!",
+                "review_content": "What do you like best about Accenture?\nWe got the resources at a very affordable price as per the project cost and we are very satisfied with the outcome. The dedication of the team is really commendable.\n\nWhat do you dislike about Accenture?\nNothing as of now as I have worked on multiple projects with Accenture now and it seems we are one team now. They are the best!\n\nRecommendations to others considering Accenture:\nAccenture is one of the best IT companies that one can work with. If you are looking for dedicated resources then they have the best resources.\n\nWhat problems is Accenture solving and how is that benefiting you?\nWe were looking for the dedicated resource for MS Dynamics and looking for the same in market but weren't able to get the experienced resources in budget. Finally, we had a chance to discuss with Accenture team and had a great experience working with their team.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Chirag V.",
+                    "reviewer_job_title": "M",
+                    "reviewer_link": "https://www.g2.com/users/c09894c8-b5a4-419d-9873-19c2843634f6"
+                },
+                "publish_date": "2022-12-02",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-7452382"
+            },
+            {
+                "review_id": 7703398,
+                "review_title": "A great consulting firm: Accenture",
+                "review_content": "What do you like best about Accenture?\nAccenture is a massive organization with reliable information that permits them to give master counseling administrations in information examination and programming, settling on them an extraordinary decision.\n\nWhat do you dislike about Accenture?\nWe want extra administration and activity, yet there is joint effort or grinding with working-level staff.\n\nEverybody requirements to move together towards a shared objective.\n\nRecommendations to others considering Accenture:\nAccenture is an incredible group to accomplish, depending on your association's size and financial plan.\n\nWhat problems is Accenture solving and how is that benefiting you?\nThey facilitate execution/innovation conveyance projects by acquiring gifted SMEs rapidly and effectively. They additionally can scale and support arrangements long haul.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Harshit A.",
+                    "reviewer_job_title": "Rail Signalling Engineer",
+                    "reviewer_link": "https://www.g2.com/users/b69d9cd8-90cd-487c-b1d5-73b9582d8890"
+                },
+                "publish_date": "2023-02-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-7703398"
+            },
+            {
+                "review_id": 7438309,
+                "review_title": "Wish me luck!",
+                "review_content": "What do you like best about Accenture?\nInternships and mentorship programs for entry- level employment opportunities that really sell me on the company. The pay is above average if I can land the position.\n\nWhat do you dislike about Accenture?\nHere's hoping that I will get considered for a callback from upper management, recruiter, 9r scheduler. I haven't worked much 2ith this brands partners. Community engagement will be my strategy to focus on.\n\nRecommendations to others considering Accenture:\nBe yourself and follow what you love, so as to never work to make money. Make work your lifestyle and make it the dominant aspect of your happiness by implementing good choices for your life.\n\nWhat problems is Accenture solving and how is that benefiting you?\nEmployee hiring and remote jobs in data analytics as well as customer service roles. Remote work and a focus on innovative solutions is what is important to me.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Laura R.",
+                    "reviewer_job_title": "Independent Contractor",
+                    "reviewer_link": "https://www.g2.com/users/finiteinfinety88"
+                },
+                "publish_date": "2022-11-29",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accenture/reviews/accenture-review-7438309"
+            }
+        ]
+    },
+    "error": null
+}

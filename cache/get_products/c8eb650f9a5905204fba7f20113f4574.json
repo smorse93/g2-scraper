@@ -1,0 +1,111 @@
+{
+    "data": {
+        "product_id": 1226,
+        "product_name": "Advent Global",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d6fd028a749fcb1b22bb39ab1e27c214/advent-global.jpg",
+        "g2_link": "https://www.g2.com/products/advent-global/reviews",
+        "what_is": "International systems integrator specializing in ERP",
+        "product_description": "International systems integrator specializing in ERP",
+        "positioning_against_competitor": null,
+        "rating": 2.5,
+        "reviews": 1,
+        "company_id": 916,
+        "seller": "Advent Global Solutions",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": 1997,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/advent-global/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": "https://www.linkedin.com/company/advent-global-solutions",
+        "number_of_employees_on_linkedin": 372,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "SAP Consulting Services",
+                "category_link": "https://www.g2.com/categories/sap-consulting-services"
+            },
+            {
+                "category_name": "Mobility Consulting",
+                "category_link": "https://www.g2.com/categories/mobility-consulting"
+            },
+            {
+                "category_name": "Other Solution Consulting",
+                "category_link": "https://www.g2.com/categories/other-solution-consulting"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "Wipro",
+                "competitor_link": "https://www.g2.com/products/wipro/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 41
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            },
+            {
+                "competitor_name": "Vision33",
+                "competitor_link": "https://www.g2.com/products/vision33/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 35
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/advent-global/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 224550,
+                "review_title": "Review of Advent Global",
+                "review_content": "Describe the project or task Advent Global helped with:\nAdvent Global helps to simplify portfolio management, performance management, portfolio accounting, reconciliation, reporting, and client management. The way it puts all individuals, both internal and external, on the same platform is extremely helpful and saves a lot of time. You can customize the dashboards however works best for you, which allows for the utmost efficiency.\n\nWhat do you like best about Advent Global?\nAdvent Global's reporting capabilities are superior.\n\nWhat do you dislike about Advent Global?\nI can't think of any aspects of Advent Global that I dislike. It is a great program and a huge help!",
+                "review_rating": 2.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-01-17",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/advent-global/reviews/advent-global-review-224550"
+            }
+        ]
+    },
+    "error": null
+}

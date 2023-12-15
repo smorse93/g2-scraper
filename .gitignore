@@ -54,7 +54,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 
@@ -62,7 +61,7 @@ db.sqlite3
 instance/
 .webassets-cache
 
-# Bose stuff:
+# Botasaurus stuff:
 build/
 
 # Sphinx documentation
@@ -104,3 +103,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+tasks/
+
+profiles/
+
+output/
+error_logs/
+
+create_cache.py
+
+create_cache.py

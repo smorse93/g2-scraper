@@ -1,0 +1,111 @@
+{
+    "data": {
+        "product_id": 24254,
+        "product_name": "ARGONAUT",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_07ed3a23b5c14c83fde439798895d1f4/argonaut.jpeg",
+        "g2_link": "https://www.g2.com/products/argonaut/reviews",
+        "what_is": "Argonaut is an advertising agency. Argonaut surprises and delights the world with work that drives business results and leaves a dent in culture.",
+        "product_description": "Argonaut is an advertising agency. Argonaut surprises and delights the world with work that drives business results and leaves a dent in culture.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 19461,
+        "seller": "ARGONAUT Inc.",
+        "company_phone": null,
+        "company_location": "San Francisco, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/argonaut/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/WeAreArgonaut",
+        "number_of_followers_on_twitter": 1282,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Digital Marketing",
+                "category_link": "https://www.g2.com/categories/digital-marketing"
+            },
+            {
+                "category_name": "Branding Agencies",
+                "category_link": "https://www.g2.com/categories/branding-agencies"
+            },
+            {
+                "category_name": "Traditional Advertising",
+                "category_link": "https://www.g2.com/categories/traditional-advertising"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "KlientBoost",
+                "competitor_link": "https://www.g2.com/products/klientboost/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 345
+            },
+            {
+                "competitor_name": "INFUSEmedia",
+                "competitor_link": "https://www.g2.com/products/infusemedia/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 221
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 188
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "CIENCE",
+                "competitor_link": "https://www.g2.com/products/cience/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 168
+            },
+            {
+                "competitor_name": "SmartSites",
+                "competitor_link": "https://www.g2.com/products/smartsites/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 165
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/argonaut/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7911976,
+                "review_title": "Impressed by ARGONAUT's Knowledge and Expertise in Brand Building",
+                "review_content": "What do you like best about ARGONAUT?\nThe team at ARGONAUT was professional, responsive, and incredibly knowledgeable about brand building and also very much communicative and collaborative, ensuring that we were involved every step of the way.\n\nWhat do you dislike about ARGONAUT?\nThere is nothing to be disliked i am totally impressed with their work.\n\nRecommendations to others considering ARGONAUT:\nhere\n\nWhat problems is ARGONAUT solving and how is that benefiting you?\nI recently worked with ARGONAUT to develop my company's brand strategy and I have to say, I'm extremely impressed with the results. From the very beginning, the team at ARGONAUT was professional, responsive, and incredibly knowledgeable about brand building. They were able to distill our message down to its essence and create a brand identity that really resonated with our target audience. Our new brand identity has already helped us stand out in a crowded market, and I'm confident that it will continue to drive success for us in the years to come. I would highly recommend ARGONAUT to any company looking to build a strong, impactful brand.\"",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-04-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/argonaut/reviews/argonaut-review-7911976"
+            }
+        ]
+    },
+    "error": null
+}

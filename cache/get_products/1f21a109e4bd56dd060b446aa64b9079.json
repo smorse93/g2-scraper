@@ -1,0 +1,111 @@
+{
+    "data": {
+        "product_id": 24271,
+        "product_name": "6degrees Integrated Communications",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7aa32d26641a654f0b9b2962a09e398e/6degrees-integrated-communications.png",
+        "g2_link": "https://www.g2.com/products/6degrees-integrated-communications/reviews",
+        "what_is": "6degrees Integrated Communications is a fully integrated marketing agency with deep roots in retail and digital.",
+        "product_description": "6degrees Integrated Communications is a fully integrated marketing agency with deep roots in retail and digital.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1,
+        "company_id": 19445,
+        "seller": "MDC Partners",
+        "company_phone": null,
+        "company_location": "Brooklyn, New York",
+        "company_founded_year": 1980,
+        "company_annual_revenue": "$1,199",
+        "company_ownership": "NASDAQ:MDCA",
+        "discussions_link": "https://www.g2.com/products/6degrees-integrated-communications/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/MDCPartners",
+        "number_of_followers_on_twitter": 5131,
+        "linkedin": "https://www.linkedin.com/company/mdc-partners/",
+        "number_of_employees_on_linkedin": 1554,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Digital Marketing",
+                "category_link": "https://www.g2.com/categories/digital-marketing"
+            },
+            {
+                "category_name": "Social Media Marketing (SMM) Companies",
+                "category_link": "https://www.g2.com/categories/social-media-marketing-smm-companies"
+            },
+            {
+                "category_name": "Experiential Marketing Agencies",
+                "category_link": "https://www.g2.com/categories/experiential-marketing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "KlientBoost",
+                "competitor_link": "https://www.g2.com/products/klientboost/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 345
+            },
+            {
+                "competitor_name": "INFUSEmedia",
+                "competitor_link": "https://www.g2.com/products/infusemedia/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 221
+            },
+            {
+                "competitor_name": "DashClicks",
+                "competitor_link": "https://www.g2.com/products/dashclicks/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 212
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 187
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "CIENCE",
+                "competitor_link": "https://www.g2.com/products/cience/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 168
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/6degrees-integrated-communications/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7660327,
+                "review_title": "Great Service",
+                "review_content": "What do you like best about 6degrees Integrated Communications?\nThe fantastic communication & delivery of service.\n\nWhat do you dislike about 6degrees Integrated Communications?\nNothing to dislike, all services were provided.\n\nRecommendations to others considering 6degrees Integrated Communications:\nA fantastic company to work with.\n\nWhat problems is 6degrees Integrated Communications solving and how is that benefiting you?\nGreat communication & Services with wonderful displays.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Jonathan C.",
+                    "reviewer_job_title": "Cloud Infrastructure Consultant at Inobits Consulting",
+                    "reviewer_link": "https://www.g2.com/users/17fdab42-ac45-419d-80af-bc2516bfad94"
+                },
+                "publish_date": "2023-02-01",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/6degrees-integrated-communications/reviews/6degrees-integrated-communications-review-7660327"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 28497,
+        "product_name": "AppXpertise",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b18c9e3e87bbe2a7c28fd7e05137d94f/appxpertise.png",
+        "g2_link": "https://www.g2.com/products/appxpertise/reviews",
+        "what_is": "AppXpertise is a professional staffing and consulting firm providing exceptional talent in the areas of Information Technology, Finance & Accounting, Engineering, and Health Information Technology.",
+        "product_description": "AppXpertise is a professional staffing and consulting firm providing exceptional talent in the areas of Information Technology, Finance & Accounting, Engineering, and Health Information Technology.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 22478,
+        "seller": "AppXpertise",
+        "company_phone": null,
+        "company_location": "La Mirada, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/appxpertise/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/appxpertiseinc",
+        "number_of_followers_on_twitter": 8,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 85
+            },
+            {
+                "competitor_name": "Blueprint Expansion",
+                "competitor_link": "https://www.g2.com/products/blueprint-expansion/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/appxpertise/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 3189366,
+                "review_title": "Recommendation for appxpertise",
+                "review_content": "Describe the project or task AppXpertise helped with:\nIt deliverers successful apps and strategic revenue growth,also it designs highly intiative apps and cloud solutions that incorporate the latest and development uses mobile or desktop cloud coding platforms to achieve high performing interfaces\n\nWhat do you like best about AppXpertise?\nIt influence on user at the front to promote the desire to share and grow users ,also it actively use technology for its website which include Google apps, Google maps for business\n\nWhat do you dislike about AppXpertise?\nThe programme has never displayed any problem,  it is  satisfying\n\nRecommendations to others considering AppXpertise:\nIt's the best and it's growth and development is awesome ,it's satisfying.\n\nWhat problems is AppXpertise solving and how is that benefiting you?\nIt has increase production ,it  promotes growth and development in business,and it is time saving",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Mibei J.",
+                    "reviewer_job_title": "Information Technology",
+                    "reviewer_link": "https://www.g2.com/users/dc2fcc80-addd-4846-930d-2ee005b7d31a"
+                },
+                "publish_date": "2019-09-13",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appxpertise/reviews/appxpertise-review-3189366"
+            }
+        ]
+    },
+    "error": null
+}

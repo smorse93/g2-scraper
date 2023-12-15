@@ -1,0 +1,107 @@
+{
+    "data": {
+        "product_id": 23053,
+        "product_name": "Allen & Overy",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b18916a737977b5fb6d3d0896d3258a6/allen-overy.jpg",
+        "g2_link": "https://www.g2.com/products/allen-overy/reviews",
+        "what_is": "Global legal perspectives from Allen & Overy, an international law firm.",
+        "product_description": "Global legal perspectives from Allen & Overy, an international law firm.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1,
+        "company_id": 18819,
+        "seller": "Allen & Overy",
+        "company_phone": null,
+        "company_location": "London, England",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/allen-overy/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AllenOvery",
+        "number_of_followers_on_twitter": 38624,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Corporate Law Firms",
+                "category_link": "https://www.g2.com/categories/corporate-law-firms"
+            },
+            {
+                "category_name": "Intellectual Property (IP) Law",
+                "category_link": "https://www.g2.com/categories/intellectual-property-ip-law"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Cooley",
+                "competitor_link": "https://www.g2.com/products/cooley/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 4
+            },
+            {
+                "competitor_name": "King & Spalding",
+                "competitor_link": "https://www.g2.com/products/king-spalding/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 4
+            },
+            {
+                "competitor_name": "Alston & Bird",
+                "competitor_link": "https://www.g2.com/products/alston-bird/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 1
+            },
+            {
+                "competitor_name": "Morgan, Lewis & Bockius LLP",
+                "competitor_link": "https://www.g2.com/products/morgan-lewis-bockius-llp/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 2
+            },
+            {
+                "competitor_name": "Faegre Baker Daniels",
+                "competitor_link": "https://www.g2.com/products/faegre-baker-daniels/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 2
+            },
+            {
+                "competitor_name": "Cleary Gottlieb Steen & Hamilton",
+                "competitor_link": "https://www.g2.com/products/cleary-gottlieb-steen-hamilton/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 2
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/allen-overy/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8950601,
+                "review_title": "Pros & Cons of Allen & Overy",
+                "review_content": "What do you like best about Allen & Overy?\nThey have a significant international footprint, providing legal service across various region. They know for their expertise in diverse legal area, often handling complex and high profile cases\nthey also embrace techological adancements to streamline legal processes and enhance cleint service,\n\nWhat do you dislike about Allen & Overy?\nI don't think that there is any dislike about Allen & Overy, But it is costly but I think they are providing best service as compare to their competitior, So it's all worth it .\n\nRecommendations to others considering Allen & Overy:\nI would like to recommend this product to all As I have found this whole setup very positive. Must try once\n\nWhat problems is Allen & Overy solving and how is that benefiting you?\nAllen & Overy benefitting is diffrent ways:\n1) They provide high quality leagal advice and support across varoius sector, aidding Individuals and companies in navigating legal complex matters\n2) they also providing global reach with a vast international network",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Karan  S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/014f419d-10c9-40b7-af1d-a1cdfdad8ca9"
+                },
+                "publish_date": "2023-11-30",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/allen-overy/reviews/allen-overy-review-8950601"
+            }
+        ]
+    },
+    "error": null
+}

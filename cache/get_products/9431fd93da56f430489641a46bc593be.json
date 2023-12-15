@@ -1,0 +1,107 @@
+{
+    "data": {
+        "product_id": 22044,
+        "product_name": "Apex Systems",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1cb3d747a7cd0ca54cbd81556e06053c/apex-systems.png",
+        "g2_link": "https://www.g2.com/products/apex-systems/reviews",
+        "what_is": "Apex Systems is a staffing and recruting platform that provides organizations with IT professionals for contract, contract-to-hire, and direct placements to clients in mid-market, and emerging companies.",
+        "product_description": "Apex Systems is a staffing and recruting platform that provides organizations with IT professionals for contract, contract-to-hire, and direct placements to clients in mid-market, and emerging companies.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 17807,
+        "seller": "Apex Systems",
+        "company_phone": null,
+        "company_location": "Glen Allen, VA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/apex-systems/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/ApexSystems",
+        "number_of_followers_on_twitter": 3107,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            },
+            {
+                "category_name": "Infor Consulting Services",
+                "category_link": "https://www.g2.com/categories/infor-consulting-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 85
+            },
+            {
+                "competitor_name": "Victory Lap",
+                "competitor_link": "https://www.g2.com/products/victory-lap/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/apex-systems/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 4656871,
+                "review_title": "Apex is very useful for our core business",
+                "review_content": "Describe the project or task Apex Systems helped with:\nWe are currently adding Apex to various customer systems.  One main use is a calendar/search tool for all our course offerings by category and teaching venue for hundreds of thousands of school employees to find needed training classes from over our 8 counties of schools.  From the other 19 state regions,  school employees further out from us also attend virtual classes or travel to us for in-person classes that will eventually exist again.\n\nWhat do you like best about Apex Systems?\nApex allows us to customize our services to our website for our customers.  We also are working towards moving more of our systems to the cloud with the Apex systems being used more and more.\n\nWhat do you dislike about Apex Systems?\nMy boss and my teammates that are Developers have not voiced any dislikes.\n\nRecommendations to others considering Apex Systems:\nApex use has proven superior to systems that our developers have used in the past.\n\nWhat problems is Apex Systems solving and how is that benefiting you?\nApex is allowing us to make our websites easier for our customers to find what they are looking for from us, and helped us to advance our mobile-friendly access.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Glenn B.",
+                    "reviewer_job_title": "Applications System Analyst",
+                    "reviewer_link": "https://www.g2.com/users/7e1111f9-db60-41c1-adfb-ba2d3c84e1ef"
+                },
+                "publish_date": "2021-03-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apex-systems/reviews/apex-systems-review-4656871"
+            }
+        ]
+    },
+    "error": null
+}

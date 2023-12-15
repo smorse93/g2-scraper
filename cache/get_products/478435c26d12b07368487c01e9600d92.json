@@ -1,0 +1,133 @@
+{
+    "data": {
+        "product_id": 22039,
+        "product_name": "Aquent",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a077cd453af57f5dc83405aef2deb441/aquent.jpeg",
+        "g2_link": "https://www.g2.com/products/aquent/reviews",
+        "what_is": "Aquent is a workforce services company, operating the world's largest marketing and creative staffing firm that has been providing comprehensive benefits to its talent since 1993. Founded in a dorm room in 1986, Aquent now employs 10,000 people each year across eight countries. Aquent's other business units include Aquent Studios, Vitamin T, Scout, RoboHead, and Gymnasium.",
+        "product_description": "Aquent is a platform that provide a contract and contract-to-hire staffing services allow companies to add technical expertise to their marketing and creative departments, as well as increase the bandwidth of their in-house teams.",
+        "positioning_against_competitor": null,
+        "rating": 4.3,
+        "reviews": 3,
+        "company_id": 17802,
+        "seller": "Aquent",
+        "company_phone": null,
+        "company_location": "Boston, MA",
+        "company_founded_year": 1986,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/aquent/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Aquent",
+        "number_of_followers_on_twitter": 21253,
+        "linkedin": "https://www.linkedin.com/company/4433/",
+        "number_of_employees_on_linkedin": 3365,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 85
+            },
+            {
+                "competitor_name": "Blueprint Expansion",
+                "competitor_link": "https://www.g2.com/products/blueprint-expansion/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 2
+        },
+        "g2_reviews_link": "https://www.g2.com/products/aquent/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 4770062,
+                "review_title": "Nothing less of AMAZING!",
+                "review_content": "Describe the project or task Aquent helped with:\nThe team (shout out to Amaraj and Charlotte) at Aquent were absolutely amazing! After getting in contact with them on a Tuesday, they had arranged four interviews for me within 24 hours. All the companies I interviewed with aligned with what I wanted in a company.\n\nAmaraj was available throughout the process, including switching my visa (which was a highly complex process). Whether it was early morning or late night, Amaraj was there to put me at ease and lead me on the path to success.\n\nIf your're looking for a role in PR, you will 100% find your ideal role with the help of Aquent.\n\nWhat do you like best about Aquent?\nHow friendly Amaraj was - everytime I spoke to her, it was like speaking to a close friend.\n\nWhat do you dislike about Aquent?\nThe team is lovely! They make the whole process easy.\n\nWhat problems is Aquent solving and how is that benefiting you?\nN/A",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Niamh H.",
+                    "reviewer_job_title": "Business Manager",
+                    "reviewer_link": "https://www.g2.com/users/1c3802c0-0774-45a7-b566-1760f936ca2f"
+                },
+                "publish_date": "2021-05-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aquent/reviews/aquent-review-4770062"
+            },
+            {
+                "review_id": 4480178,
+                "review_title": "Aquent has been a great addition to our MarTech stack for project management",
+                "review_content": "Describe the project or task Aquent helped with:\nWe started it for our creative team, to manage their projects but have since added other teams to the platform. It's now how we manage projects and program tied to campaigns, data, social media, web, technology and others.\n\nWhat do you like best about Aquent?\nIt's versatile and able to adapt to our needs.\n\nWhat do you dislike about Aquent?\nDoesn't integrate out of the box with any of our other platforms (Adobe InDesign) or have a robust editorial calendar feature for building out social media posts and tracking measurement, etc.\n\nWhat problems is Aquent solving and how is that benefiting you?\nTracking projects, tasks, reviews and overall work loads across multiple marketing teams.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2020-11-18",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aquent/reviews/aquent-review-4480178"
+            },
+            {
+                "review_id": 225700,
+                "review_title": "I used them to hire product and UI/UX candidates",
+                "review_content": "Describe the project or task Aquent helped with:\nHelped with hiring a product manager and UI/UX candidate.\n\nWhat do you like best about Aquent?\nThe candidates I got from them were very qualified for the positions I had especially in a very tight market.\n\nWhat do you dislike about Aquent?\nThe candidates were very expensive and often out of our budget even thought budget had been discussed.\n\nRecommendations to others considering Aquent:\nBe clear on what you want and the budget you have to work with; otherwise you'll get candidates that may be great but are MORE than what you really need.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-01-18",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aquent/reviews/aquent-review-225700"
+            }
+        ]
+    },
+    "error": null
+}

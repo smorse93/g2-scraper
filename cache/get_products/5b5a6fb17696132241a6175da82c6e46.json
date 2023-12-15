@@ -1,0 +1,130 @@
+{
+    "data": {
+        "product_id": 1098,
+        "product_name": "Apex IT",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_eeb9c8dccd3e138e48d5ad48c7df10cd/apex-it.jpg",
+        "g2_link": "https://www.g2.com/products/apex-it/reviews",
+        "what_is": "Apex IT is a global application systems integrator and implementation consultancy working with Oracle and Salesforce.com technologies.",
+        "product_description": "Apex IT is a global application systems integrator and implementation consultancy working with Oracle and Salesforce.com technologies.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 2,
+        "company_id": 815,
+        "seller": "Apex IT",
+        "company_phone": null,
+        "company_location": "Cottage Grove, MN",
+        "company_founded_year": 1997,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/apex-it/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/ApexITPartner",
+        "number_of_followers_on_twitter": 282,
+        "linkedin": "https://www.linkedin.com/company/apex-it",
+        "number_of_employees_on_linkedin": 117,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "https://www.g2.com/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "Digital Transformation Consulting",
+                "category_link": "https://www.g2.com/categories/digital-transformation-consulting"
+            },
+            {
+                "category_name": "Cloud Consulting",
+                "category_link": "https://www.g2.com/categories/cloud-consulting"
+            },
+            {
+                "category_name": "Oracle Consulting Services",
+                "category_link": "https://www.g2.com/categories/oracle-consulting-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Access Global Group",
+                "competitor_link": "https://www.g2.com/products/access-global-group/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 88
+            },
+            {
+                "competitor_name": "SevenPoints",
+                "competitor_link": "https://www.g2.com/products/sevenpoints/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 70
+            },
+            {
+                "competitor_name": "Magna5",
+                "competitor_link": "https://www.g2.com/products/magna5/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "g2_reviews_link": "https://www.g2.com/products/apex-it/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7643025,
+                "review_title": "Strategic Connoissuer",
+                "review_content": "What do you like best about Apex IT?\nThe creative mindset doesn't confine to traditional boundaries and coming up with new approaches to achieve the targets set. I would specifically applaud their top-notch all-in-one Customer Management analytics.\n\nWhat do you dislike about Apex IT?\nThe only thing I would like to mention is they should add PPC (Pay Per Click), and SEO which come under Digital Marketing because with every moment passing, Sales and Support have started going in parallel with each other.\n\nRecommendations to others considering Apex IT:\nIf you are looking for profound Global  Strategic Implementation geeks, add ApexIT to your bucket.\n\nWhat problems is Apex IT solving and how is that benefiting you?\nMy experience with ApexIT has been wonderful because of its strategic mindset. When you are in a management role and running a business, it's really hard to trust someone who can take the burden off your shoulders pertinent to Consulting. The biggest benefit so far I am availing is its (HRM) Human Resource Management in finding me the right talent, which has helped me to focus on the milestones and get fruitful results.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Shayan H.",
+                    "reviewer_job_title": "Executive Trainer - Customer Success",
+                    "reviewer_link": "https://www.g2.com/users/b75c2957-c5f5-44d2-9fc0-3982d6e7c4c2"
+                },
+                "publish_date": "2023-01-26",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apex-it/reviews/apex-it-review-7643025"
+            },
+            {
+                "review_id": 165231,
+                "review_title": "Great Software. ",
+                "review_content": "Describe the project or task Apex IT helped with:\nSmooth process with connection between both parties.\n\nWhat do you like best about Apex IT?\nAble to customize buttons throughout software.\n\nWhat do you dislike about Apex IT?\nNeed to create a brand new template - even if only one additional button needs to be added.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-01-06",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apex-it/reviews/apex-it-review-165231"
+            }
+        ]
+    },
+    "error": null
+}

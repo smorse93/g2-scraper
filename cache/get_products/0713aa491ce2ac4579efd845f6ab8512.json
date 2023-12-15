@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 28433,
+        "product_name": "AimHire Staffing",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5ac93476837d1c0478f4384b7666eb0a/aimhire-staffing.png",
+        "g2_link": "https://www.g2.com/products/aimhire-staffing/reviews",
+        "what_is": "AimHire is a local premier recruiting firm that provides professional contract, contract-to-hire, and direct-hire placement for businesses in Denver.",
+        "product_description": "AimHire is a local premier recruiting firm that provides professional contract, contract-to-hire, and direct-hire placement for businesses in Denver.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 22421,
+        "seller": "AimHire Staffing",
+        "company_phone": null,
+        "company_location": "Englewood, Co",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/aimhire-staffing/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/DenverJobSearch",
+        "number_of_followers_on_twitter": 1143,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 84
+            },
+            {
+                "competitor_name": "Blueprint Expansion",
+                "competitor_link": "https://www.g2.com/products/blueprint-expansion/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/aimhire-staffing/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 312562,
+                "review_title": "Great company with dedicated employees",
+                "review_content": "Describe the project or task AimHire Staffing helped with:\nI've been a user of both the DTC and Downtown branches.  And both of them are filled with attentive staff with a real desire to help people looking for the right fit.\n\nWhat do you like best about AimHire Staffing?\nThey have a wide range of areas to go into and really do an excellent job of selling you and your strengths.\n\nWhat do you dislike about AimHire Staffing?\nNothing.  Keep up the great work guys!!!\n\nRecommendations to others considering AimHire Staffing:\nIf you are looking for a hiring company that work FOR you day and night, these are the guys for you.\n\nWith the Denver market the way it is, jobs are hard to come by, and when they do come, they go FAST.  Be prepared to move as fast as these guys and you will do VERY well",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Matt P.",
+                    "reviewer_job_title": "Key Account Manager",
+                    "reviewer_link": "https://www.g2.com/users/034125f9-d164-4cc1-be0e-e3c0f1fd2b32"
+                },
+                "publish_date": "2017-06-27",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aimhire-staffing/reviews/aimhire-staffing-review-312562"
+            }
+        ]
+    },
+    "error": null
+}

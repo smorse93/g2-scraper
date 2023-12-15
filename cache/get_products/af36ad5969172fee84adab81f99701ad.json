@@ -1,0 +1,118 @@
+{
+    "data": {
+        "product_id": 26986,
+        "product_name": "Applied Software",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_650740fb1aff4c0829510cfd9c91964e/applied-software.jpg",
+        "g2_link": "https://www.g2.com/products/applied-software/reviews",
+        "what_is": "Applied Software Technology, Inc. is a premier design technology firm serving the AEC, ENI and Manufacturing industries.",
+        "product_description": "Applied Software Technology, Inc. is a premier design technology firm serving the AEC, ENI and Manufacturing industries.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 2,
+        "company_id": 20102,
+        "seller": "Applied Software Technology, Inc.",
+        "company_phone": null,
+        "company_location": "Atlanta, GA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/applied-software/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Applied_SW",
+        "number_of_followers_on_twitter": 3635,
+        "linkedin": "https://www.linkedin.com/company/35742",
+        "number_of_employees_on_linkedin": 148,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Autodesk Channel Partners",
+                "category_link": "https://www.g2.com/categories/autodesk-channel-partners"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "CDW Hardware",
+                "competitor_link": "https://www.g2.com/products/cdw-hardware/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 27
+            },
+            {
+                "competitor_name": "AutoCAD",
+                "competitor_link": "https://www.g2.com/products/cad-gulf-llc-autocad/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 23
+            },
+            {
+                "competitor_name": "Imaginit Technologies",
+                "competitor_link": "https://www.g2.com/products/imaginit-technologies/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 4
+            },
+            {
+                "competitor_name": "Insight",
+                "competitor_link": "https://www.g2.com/products/insight-insight/reviews",
+                "competitor_rating": 3.5,
+                "competitor_reviews": 12
+            },
+            {
+                "competitor_name": "TATA Technologies",
+                "competitor_link": "https://www.g2.com/products/tata-technologies/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 1
+            },
+            {
+                "competitor_name": "U.S. CAD",
+                "competitor_link": "https://www.g2.com/products/u-s-cad/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 1
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "g2_reviews_link": "https://www.g2.com/products/applied-software/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 3807834,
+                "review_title": "Best place to get Autodesk software",
+                "review_content": "Describe the project or task Applied Software helped with:\nI have worked with ASTI for the past 10 years. Every time I have worked with ASTI they have been nothing but helpful!\n\nWhat do you like best about Applied Software?\nThey have great customer service! If I call with an issue it takes minutes for them to get back to me. They also have great software that helps make my job easier.\n\nWhat do you dislike about Applied Software?\nThere is not a downside of using ASTI they have been helpful every step of the way.\n\nRecommendations to others considering Applied Software:\nIf you are looking for a new provider of your Autodesk software I would give ASTI a call! They are helpful every step of the way.\n\nWhat problems is Applied Software solving and how is that benefiting you?\nCurrently, ASTI is helping us with all of our Autodesk software and training and we are working with them on BlueBeam.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-12-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/applied-software/reviews/applied-software-review-3807834"
+            },
+            {
+                "review_id": 1198736,
+                "review_title": "Applied Software jump started our switch to Fabrication in Revit ",
+                "review_content": "Describe the project or task Applied Software helped with:\nWhen we moved to Revit we needed to find a partner that was able to provide the fabrication content and database management tools that would make us successful - we found that the Value Pack and the continuing services that ASTI offers were the correct choice for our company.\n\nWhat do you like best about Applied Software?\nI appreciate the timely responses and involvement that the team at ASTI maintains. When I need an answer they are readily available.\n\nWhat do you dislike about Applied Software?\nI would like to see the development of a web based application that provides spooling and BOM data.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Eli G.",
+                    "reviewer_job_title": "CAD Operator",
+                    "reviewer_link": "https://www.g2.com/users/b951b471-3263-4cd6-962d-15311ec7e084"
+                },
+                "publish_date": "2018-11-19",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/applied-software/reviews/applied-software-review-1198736"
+            }
+        ]
+    },
+    "error": null
+}

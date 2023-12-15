@@ -1,0 +1,111 @@
+{
+    "data": {
+        "product_id": 22748,
+        "product_name": "Analytix Solutions",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_17ab86c2ee4f84b8134fd1433a9fba17/analytix-solutions.jpg",
+        "g2_link": "https://www.g2.com/products/analytix-solutions/reviews",
+        "what_is": "Analytix Solutions is a firm that provides financial solutions such as bookkeeping and accounting services for small to mid-sized businesses.",
+        "product_description": "Analytix Solutions is a firm that provides financial solutions such as bookkeeping and accounting services for small to mid-sized businesses.",
+        "positioning_against_competitor": null,
+        "rating": 3,
+        "reviews": 1,
+        "company_id": 18325,
+        "seller": "Analytix Solutions",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/analytix-solutions/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/analytixsoln",
+        "number_of_followers_on_twitter": 581,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Accounting Firms",
+                "category_link": "https://www.g2.com/categories/accounting-firms"
+            },
+            {
+                "category_name": "Payroll Services",
+                "category_link": "https://www.g2.com/categories/payroll-services"
+            },
+            {
+                "category_name": "Bookkeeping Services",
+                "category_link": "https://www.g2.com/categories/bookkeeping-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "ADP Payroll Services",
+                "competitor_link": "https://www.g2.com/products/adp-payroll-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 228
+            },
+            {
+                "competitor_name": "Pilot",
+                "competitor_link": "https://www.g2.com/products/pilot/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 80
+            },
+            {
+                "competitor_name": "Bench",
+                "competitor_link": "https://www.g2.com/products/bench/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 75
+            },
+            {
+                "competitor_name": "QuickBooks Live Bookkeeping",
+                "competitor_link": "https://www.g2.com/products/quickbooks-live-bookkeeping/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 78
+            },
+            {
+                "competitor_name": "Baker Tilly",
+                "competitor_link": "https://www.g2.com/products/baker-tilly-baker-tilly/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 66
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/analytix-solutions/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7519340,
+                "review_title": "When accounting was always the issue.",
+                "review_content": "What do you like best about Analytix Solutions?\nThe lesser time taken by their team to respond and cumulatively responding to the query and resolving it suggesting the proper solutions.\n\nWhat do you dislike about Analytix Solutions?\nThey can definitely change their pricing for betterment of the business. And I believe their customers will be happier in such case.\n\nRecommendations to others considering Analytix Solutions:\nIf any body in the business who wants hassle free accounting service should definitely opt for them.\n\nWhat problems is Analytix Solutions solving and how is that benefiting you?\nIt sucks when bookeeping becomes tiresome and with lots of data pouring into the system it's not possible to look after everything with an equal eye.\nAnalytix helped me very much in this.\nI hope it's doing the same for other people and organisations out there.",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "Tushar B.",
+                    "reviewer_job_title": "Content Creator",
+                    "reviewer_link": "https://www.g2.com/users/5cde181d-ac8e-4883-a8a1-f48efe0edbf7"
+                },
+                "publish_date": "2022-12-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/analytix-solutions/reviews/analytix-solutions-review-7519340"
+            }
+        ]
+    },
+    "error": null
+}

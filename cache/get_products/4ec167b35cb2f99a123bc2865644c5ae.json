@@ -1,0 +1,136 @@
+{
+    "data": {
+        "product_id": 2585,
+        "product_name": "Aptum",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0b3ef69db90ba28df68a5929cb641921/aptum.png",
+        "g2_link": "https://www.g2.com/products/aptum/reviews",
+        "what_is": "As businesses are faced with exponentially expanding volumes of information, and data becomes an integral part of their infrastructure, technology platforms must help harness the power of the data to catalyze better decision making, risk evaluation and customer engagement.\n\nAptum enables customers to unlock the potential of their data infrastructure to drive tangible business outcomes and maximize the value of their technology investments.\n\nWith solutions encompassing Data Center, Cloud, and Connectivity, Aptum offers genuine choice and adaptability combined with international reach spanning North America, Latin America and Europe. In Canada, Aptum is the first neutral host provider of turnkey small cell connectivity, augmenting an extensive fiber metro network across Toronto and Montreal.\n\nPartnering with Aptum gives customers access to deep technical expertise from initial consultation, through architecture and design, to ongoing management, support and optimization. Built on a 20-year heritage helping customers maximize new technologies to store, manage, move and secure their critical data, Aptum provides true hybrid infrastructure solutions internationally, with consistency, compliancy and data security.",
+        "product_description": "Leading provider of managed hosting & cloud services with datacenters in US, Canada & UK. Download our Map of the Internet",
+        "positioning_against_competitor": null,
+        "rating": 3.7,
+        "reviews": 3,
+        "company_id": 1881,
+        "seller": "Cogeco Peer 1",
+        "company_phone": null,
+        "company_location": "Toronto, Canada",
+        "company_founded_year": 1999,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/aptum/discuss",
+        "supported_languages": "English, French, Spanish",
+        "twitter": "https://twitter.com/AptumTech",
+        "number_of_followers_on_twitter": 7737,
+        "linkedin": "https://www.linkedin.com/company/cogecopeer1/",
+        "number_of_employees_on_linkedin": 85,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Managed Services",
+                "category_link": "https://www.g2.com/categories/managed-services"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/121863/Untitled.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "AWS Managed Services",
+                "competitor_link": "https://www.g2.com/products/aws-managed-services/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 345
+            },
+            {
+                "competitor_name": "CloudTask",
+                "competitor_link": "https://www.g2.com/products/cloudtask/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 165
+            },
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Spaulding Ridge",
+                "competitor_link": "https://www.g2.com/products/spaulding-ridge/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 40
+            },
+            {
+                "competitor_name": "Navisite Services",
+                "competitor_link": "https://www.g2.com/products/navisite-services/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 34
+            },
+            {
+                "competitor_name": "Carabiner Group",
+                "competitor_link": "https://www.g2.com/products/carabiner-group/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 33
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 1,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/aptum/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 890588,
+                "review_title": "No issues while using ",
+                "review_content": "What do you like best about Aptum?\nWe did not ever have any downtime during our time.\n\nWhat do you dislike about Aptum?\nIt was hard to get ahold of people, but that might have been our plan. Possibly could pay for quicker response times.\n\nWhat problems is Aptum solving and how is that benefiting you?\nCloud hosting",
+                "review_rating": 2.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-09-21",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aptum/reviews/aptum-review-890588"
+            },
+            {
+                "review_id": 95957,
+                "review_title": "Peer 1 hosting ",
+                "review_content": "What do you like best about Aptum?\npeer 1 offered really great hosting and service.   I was able to get up and running very quickly and the service was stable.\n\nWhat do you dislike about Aptum?\nPrice.  Peer 1 simply wasn't competitively priced.  The pricing was higher than other services but the service didn't seem like it was that much better.\n\nRecommendations to others considering Aptum:\ni would higher recommend Peer 1 fo those who don't mind paying a slightly higher price.  The service is solid and service is excellent.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2016-02-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aptum/reviews/aptum-review-95957"
+            },
+            {
+                "review_id": 115049,
+                "review_title": "Hosted Many Sites",
+                "review_content": "What do you like best about Aptum?\nEasy to implement/get a site hosted, great people to work with.\n\nWhat do you dislike about Aptum?\npricing for certain clients was too much. But once convinced of value... its an easy sell.\n\nRecommendations to others considering Aptum:\nA great resource for any ecomm site, agency, brand. We have been very happy w/ them, and will continue to use them for sure!\n\nWhat problems is Aptum solving and how is that benefiting you?\nsite outages, storage, ability to store sites w/ many SKU's",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2016-04-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aptum/reviews/aptum-review-115049"
+            }
+        ]
+    },
+    "error": null
+}

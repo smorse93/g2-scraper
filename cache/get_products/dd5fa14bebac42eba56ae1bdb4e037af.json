@@ -1,0 +1,108 @@
+{
+    "data": {
+        "product_id": 14341,
+        "product_name": "99 Robots",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_498725e16cb83d3acc3a1066cd685632/99-robots.png",
+        "g2_link": "https://www.g2.com/products/99-robots/reviews",
+        "what_is": "99 Robots develops WordPress plugins to market your startup and help you grow your audience. Get access to our entire WordPress plugin library for only $49/month.",
+        "product_description": "99 Robots develops WordPress plugins to market your startup and help you grow your audience. Get access to our entire WordPress plugin library for only $49/month.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 12239,
+        "seller": "99 Robots",
+        "company_phone": null,
+        "company_location": "New York, NY",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/99-robots/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/99Robots",
+        "number_of_followers_on_twitter": 5899,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Website Design",
+                "category_link": "https://www.g2.com/categories/website-design"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/29432/99_20Robots_Screenshot-1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/29433/99_20Robots_Screenshot-2.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/29434/99_20Robots_Screenshot-3.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "The Free Website Guys",
+                "competitor_link": "https://www.g2.com/products/the-free-website-guys/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 672
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 187
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "SmartSites",
+                "competitor_link": "https://www.g2.com/products/smartsites/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 165
+            },
+            {
+                "competitor_name": "DSS",
+                "competitor_link": "https://www.g2.com/products/dss/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 98
+            },
+            {
+                "competitor_name": "SmartBug Media",
+                "competitor_link": "https://www.g2.com/products/smartbug/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 60
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/99-robots/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 1238497,
+                "review_title": "99 Robots",
+                "review_content": "What do you like best about 99 Robots?\nI love how 99 Robots' services can be scaled to meet the needs of businesses of any size. They truly offer opportunities for large, medium, and small businesses. and their customer support is amazing. I've been very pleased with all my interactions with 99 Robots.\n\nWhat do you dislike about 99 Robots?\nThere's really nothing to dislike; their plugins are very user-friendly and intuitive, their customer support is on point, and their services are especially good for new businesses that aren't sure how to launch their marketing efforts, or for fast-growing businesses that need to keep up with their growing scale.\n\nWhat problems is 99 Robots solving and how is that benefiting you?\n99 Robots has helped me explore different types of marketing tools that I would never have thought were available to me before. Initially, I lacked experience in the marketing field and was reluctant to experiment with different marketing tools that I knew nothing about. 99 Robots makes it easy to explore and grow.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Freya C.",
+                    "reviewer_job_title": "Content Writer",
+                    "reviewer_link": "https://www.g2.com/users/c3a63e5a-a744-4486-8fb8-db162f70e16c"
+                },
+                "publish_date": "2018-11-26",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/99-robots/reviews/99-robots-review-1238497"
+            }
+        ]
+    },
+    "error": null
+}

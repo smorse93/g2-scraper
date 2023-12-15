@@ -1,0 +1,164 @@
+{
+    "data": {
+        "product_id": 22094,
+        "product_name": "Agent Anything",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_492fdfdee91cab0dd6a9b6efd157bbdf/agent-anything.jpeg",
+        "g2_link": "https://www.g2.com/products/agent-anything/reviews",
+        "what_is": "Agent Anything is a platform that allow people and companies post small jobs, tasks, and errands to a skilled but student workforce.",
+        "product_description": "Agent Anything is a platform that allow people and companies post small jobs, tasks, and errands to a skilled but student workforce.",
+        "positioning_against_competitor": null,
+        "rating": 3.9,
+        "reviews": 4,
+        "company_id": 17854,
+        "seller": "Agent Anything",
+        "company_phone": null,
+        "company_location": "N/A",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/agent-anything/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Agent_Anything",
+        "number_of_followers_on_twitter": 1,
+        "linkedin": "https://www.linkedin.com/company/2387839",
+        "number_of_employees_on_linkedin": 1,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "On-Demand Staffing Services",
+                "category_link": "https://www.g2.com/categories/on-demand-staffing-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Upshift",
+                "competitor_link": "https://www.g2.com/products/upshift/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 43
+            },
+            {
+                "competitor_name": "Taskrabbit",
+                "competitor_link": "https://www.g2.com/products/taskrabbit/reviews",
+                "competitor_rating": 3.4,
+                "competitor_reviews": 27
+            },
+            {
+                "competitor_name": "Thumbtack",
+                "competitor_link": "https://www.g2.com/products/thumbtack/reviews",
+                "competitor_rating": 3.5,
+                "competitor_reviews": 57
+            },
+            {
+                "competitor_name": "Jobble",
+                "competitor_link": "https://www.g2.com/products/jobble/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 3
+            },
+            {
+                "competitor_name": "Wonolo",
+                "competitor_link": "https://www.g2.com/products/wonolo/reviews",
+                "competitor_rating": 3.8,
+                "competitor_reviews": 20
+            },
+            {
+                "competitor_name": "Amazon Mechanical Turk",
+                "competitor_link": "https://www.g2.com/products/amazon-mechanical-turk/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 28
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/agent-anything-vs-upshift",
+                "competitor_name": "Upshift",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_1d8cad75d3676a34ee343438b89e3988/upshift.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/agent-anything-vs-taskrabbit",
+                "competitor_name": "Taskrabbit",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_9151d6578f32165ee641db37cc2f3322/taskrabbit.jpg"
+            },
+            {
+                "link": "https://www.g2.com/compare/agent-anything-vs-thumbtack",
+                "competitor_name": "Thumbtack",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_bb487be551c0717712203a6d6cd29e01/thumbtack.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 2,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/agent-anything/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8320467,
+                "review_title": "Very Good",
+                "review_content": "What do you like best about Agent Anything?\nThe information is very good structured and easy to digest\n\nWhat do you dislike about Agent Anything?\ndo not allow operations by forcing certain actions that are difficult even to understand and a poor quality email system\n\nRecommendations to others considering Agent Anything:\nJust try it out\n\nWhat problems is Agent Anything solving and how is that benefiting you?\nTo make quality reviews",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Oliver G.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/ec5c8278-88ca-488c-8031-20e24663db00"
+                },
+                "publish_date": "2023-07-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/agent-anything/reviews/agent-anything-review-8320467"
+            },
+            {
+                "review_id": 884978,
+                "review_title": "Straight forward and easy to use.",
+                "review_content": "Describe the project or task Agent Anything helped with:\nHelped me post jobs to provide students with work to get a pay check\n\nWhat do you like best about Agent Anything?\nThe software itself is very user friendly and easy to learn\n\nWhat do you dislike about Agent Anything?\nSometimes it can run a little slow. However that could just be my computer.\n\nRecommendations to others considering Agent Anything:\nSometimes can be slow but it could just be my computer that is slow.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-03-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/agent-anything/reviews/agent-anything-review-884978"
+            },
+            {
+                "review_id": 892555,
+                "review_title": "Your experience may vary",
+                "review_content": "Describe the project or task Agent Anything helped with:\nWe needed help building desks and doing some moving for our office. We saw this as a cheaper alternative to something like Taskrabbit\n\nWhat do you like best about Agent Anything?\nsimple and easy to find someone. we work close to a campus so there were plenty of options of people to pick from\n\nWhat do you dislike about Agent Anything?\nthe worker was not on time and not professional. the person that came each time was less mature than the workers that we were getting from taskrabbit and honestly we would rather pay more to deal with someone more mature",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "Katey  Y.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/00bc99c3-18bb-4800-85fa-7d1088903e5d"
+                },
+                "publish_date": "2018-09-23",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/agent-anything/reviews/agent-anything-review-892555"
+            },
+            {
+                "review_id": 887713,
+                "review_title": "Customer service representative.",
+                "review_content": "Describe the project or task Agent Anything helped with:\nThe product is very interesting, and there's lots of growth potential in this space. Overall, the engineers are very smart people who are doing their best to make the company succeed. Work Market's office is located 4 short blocks from Penn Station, making commuting a breeze. Free catered lunch is provided once a week, and it's usually pretty good.\n\nWhat do you like best about Agent Anything?\nBrilliant management team. Transparency into everything from hiring decisions to finances. Options for mobility within the organization. Engineers get to work with all the latest tech. Company is growing, addressable market is huge.\n\nWhat do you dislike about Agent Anything?\nSales often oversells the product to customers on pieces of the roadmap they know won't be available for another six months to a year. Customer success managers are more tier 1 support than part of the sales process, they like to just push problems onto engineering.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-09-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/agent-anything/reviews/agent-anything-review-887713"
+            }
+        ]
+    },
+    "error": null
+}

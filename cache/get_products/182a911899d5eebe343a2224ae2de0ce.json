@@ -1,0 +1,134 @@
+{
+    "data": {
+        "product_id": 3452,
+        "product_name": "ArcherPoint",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0a2bd1ca947491a86ec4790e97d4fecc/archerpoint.png",
+        "g2_link": "https://www.g2.com/products/archerpoint/reviews",
+        "what_is": "ArcherPoint, Inc., is a Microsoft Certified Solution Provider and LS Retail Diamond partner, providing modern workplace solutions, including Microsoft Dynamics 365 Business Central, Dynamics NAV, LS Retail, Azure, Dynamics 365 Sales, Microsoft 365, and Power Platform to companies throughout North America and Europe. \n\nArcherPoint's certified, experienced professionals collaborate with clients to design, implement, and support solutions tailored to their unique requirements--from back-office accounting to supply chain, inventory, and warehouse management. We serve multiple industries, including manufacturing, distribution, retail, hospitality, food and beverage, professional services, and large equipment rental. Our  experts provide full-service ERP implementation, integration, development, 24/7 support, and upgrade services. ArcherPoint is dedicated to helping companies realize true business value by giving them access to world-class ERP and cloud solutions that will grow with them to meet their needs now and in the future. www.archerpoint.com",
+        "product_description": "ArcherPoint specializes exclusively in business solutions built on Microsoft Dynamics NAV--formerly Navision--that deliver real value.",
+        "positioning_against_competitor": null,
+        "rating": 4.8,
+        "reviews": 2,
+        "company_id": 2557,
+        "seller": "ArcherPoint",
+        "company_phone": null,
+        "company_location": "Lawrenceville, Georgia",
+        "company_founded_year": 2002,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/archerpoint/discuss",
+        "supported_languages": "English, Hindi, Spanish",
+        "twitter": "https://twitter.com/ArcherPointInc",
+        "number_of_followers_on_twitter": 1659,
+        "linkedin": "https://www.linkedin.com/company/archerpoint/",
+        "number_of_employees_on_linkedin": 152,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "IT Outsourcing",
+                "category_link": "https://www.g2.com/categories/it-outsourcing"
+            },
+            {
+                "category_name": "Microsoft Dynamics 365 Business Central Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-365-business-central-resellers"
+            },
+            {
+                "category_name": "Microsoft Dynamics NAV Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-nav-resellers"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/29962/ArcherPoint_Screenshot-1.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/64875/DynamicsNAV-BusinessCentral1280x720.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 110
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Pax8",
+                "competitor_link": "https://www.g2.com/products/pax8/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 65
+            },
+            {
+                "competitor_name": "Magna5",
+                "competitor_link": "https://www.g2.com/products/magna5/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "g2_reviews_link": "https://www.g2.com/products/archerpoint/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 4526076,
+                "review_title": "MS Dynamics Partner you need",
+                "review_content": "Describe the project or task ArcherPoint helped with:\nArcherPoint helped our company with our NAV 2009 upgrade project to Dynamics 365 BC 16.1 in 2020. The migration and go live process was smooth and exceeded our expectations. The ArcherPoint team was professional, experienced, asked the right questions, provided exactly the solution we needed; not only that, they delivered on time and under budget. So look no further; if you are looking to get the job done right once, you need ArcherPoint.\n\nWhat do you like best about ArcherPoint?\nProfessionalism, Documentations, Negotiated Pricing, Quick response time, prompt delivery and as promised. Our project was on schedule, resources were well aligned when needed. The solutions ArcherPoint provided were very professional and properly resolved the issues. When I asked for documentation on the solution after the implementation, ArcherPoint provided the professional document as expected.\n\nWhat do you dislike about ArcherPoint?\nI do not have anything I don't like working with ArcherPoint. From the account manager, project manager, solution architect, analyst and developers, all of them are well experienced and professional.\n\nWhat problems is ArcherPoint solving and how is that benefiting you?\nOur BC upgrade, Data migration, as well as a small customization to do batch invoicing. ArcherPoint delivered them smoothly. We have a budget that we need to fit the project into without breaking the bank, ArcherPoint team was able to tailored with us and agreed to a plan that both sides can accept to take.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Stork H.",
+                    "reviewer_job_title": "Executive Director of Technology",
+                    "reviewer_link": "https://www.g2.com/users/cd88edc4-e818-46af-8453-50bbfd576b6d"
+                },
+                "publish_date": "2020-12-17",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/archerpoint/reviews/archerpoint-review-4526076"
+            },
+            {
+                "review_id": 3495482,
+                "review_title": "Conversion to Dynamics 365 Business Central (In-process)",
+                "review_content": "Describe the project or task ArcherPoint helped with:\nArcherPoint was selected to help our firm move to a fully integrated Business Management system, from two very different and independent systems, which he have out-grown.\n\nWhat do you like best about ArcherPoint?\nI have found the ArcherPoint team members to be both responsive to our questions and concerns and patient in explaining the details of various aspects of the overall project and Dynamics 365 Business Central's features and capabilities, to our employees, who have very diverse backgrounds and very different levels of computer, accounting and business experience.\n\nWhat do you dislike about ArcherPoint?\nIn the beginning of the project, I think that there were some issues with communication between our team members and those of ArcherPoint.  Part-way through the project, there was an internal change within ArcherPoint, when our Project Manager left ArcherPoint.  I believe that since that change occurred, the overall communication and progress of the project has improved.\n\nRecommendations to others considering ArcherPoint:\nI believe the most important consideration when picking any firm to assist in a Business Management implementation, is to have plenty of discussions up front.  Schedule an on-site meeting with ArcherPoint's project assessment team and after reviewing their written proposal, spend the money and take the time to meet with them again to go over the proposal, on-site, with ArcherPoint team members.\n\nI think that having a follow-up visit by the ArcherPoint team, where they can demonstrate (using Business Central) how the various items of the overall project will be met with Dynamics 365 Business Central, is an essential step, before approving and moving forward with the project.  We did not request a follow-up, on-site meeting and I believe, as a result, it took our team more time, initially, to fully understand the scope of the project we had taken-on and its inherent limitations.\nI believe ArcherPoint would have been happy to schedule a follow-up, on-site visit, to review their proposal with them, had we requested.  I believe a follow-up, on-site meeting, would have allowed our firm to begin the project with a clearer understanding of what we were taking on, internally, with the project and I believe we would have made different decisions in the beginning, which would have sped up the project and eliminated initial frustration, our team members experienced.\n\nI believe the cost and time for the follow-up, on-site meeting, would have been recouped, with savings in better initial decisions, on our part, regarding the features and functions we needed, and the division of responsibilities and tasks between our team members and ArcherPoints.  A project like this is inherently costly, but it is important to also remember the adage, \"Time is Money,\" and ArcherPoint has the experience and resources to help minimize both, for firms, implementing a Business Management solution.\n\nWhat problems is ArcherPoint solving and how is that benefiting you?\nWith ArcherPoint's experience, knowledge, help, and guidance, we are combining two disparate systems, one for wholesale operations and the other a POS system, into one integrated Business Management platform.  Dynamics 365 Business Central is not only allowing us to have a single inventory database for all on-hand and on-order inventory, but it is helping to automate numerous other internal processes, which are currently being handled by a variety of Excel Spreadsheets, individual employee's personal notes,  and our employee's personal knowledge of what and how tasks are to be completed.  While we have not yet gone \"live,\" as we move closer to that goal, I am seeing the current employee's engagement in the project increase and have noticed an underlying excitement about the improvements the individual employees will experience within their own job functions and responsibilities when fully using Dynamics 365 Business Central.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Neldon R.",
+                    "reviewer_job_title": "Controller/Project Manager",
+                    "reviewer_link": "https://www.g2.com/users/ec827f94-0c93-4e8d-bc0f-06ac28b3e273"
+                },
+                "publish_date": "2019-10-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/archerpoint/reviews/archerpoint-review-3495482"
+            }
+        ]
+    },
+    "error": null
+}

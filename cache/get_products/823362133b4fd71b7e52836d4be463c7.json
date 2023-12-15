@@ -1,0 +1,111 @@
+{
+    "data": {
+        "product_id": 23058,
+        "product_name": "Andersen Tax LLC",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6a37cc5846f6c708b5c71033daf6792d/andersen-tax-llc.jpeg",
+        "g2_link": "https://www.g2.com/products/andersen-tax-llc/reviews",
+        "what_is": "Andersen Tax provides a wide range of tax, valuation, financial advisory and related consulting services to individual and commercial clients.",
+        "product_description": "Andersen Tax provides a wide range of tax, valuation, financial advisory and related consulting services to individual and commercial clients.",
+        "positioning_against_competitor": null,
+        "rating": 4,
+        "reviews": 1,
+        "company_id": 18571,
+        "seller": "Andersen Tax LLC",
+        "company_phone": null,
+        "company_location": "San Francisco, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/andersen-tax-llc/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Tax Services",
+                "category_link": "https://www.g2.com/categories/tax-services"
+            },
+            {
+                "category_name": "Accounting Firms",
+                "category_link": "https://www.g2.com/categories/accounting-firms"
+            },
+            {
+                "category_name": "409A Valuations Providers",
+                "category_link": "https://www.g2.com/categories/409a-valuations-providers"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Pilot",
+                "competitor_link": "https://www.g2.com/products/pilot/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 80
+            },
+            {
+                "competitor_name": "Bench",
+                "competitor_link": "https://www.g2.com/products/bench/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 75
+            },
+            {
+                "competitor_name": "Baker Tilly",
+                "competitor_link": "https://www.g2.com/products/baker-tilly-baker-tilly/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 66
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "PricewaterhouseCoopers (PwC)",
+                "competitor_link": "https://www.g2.com/products/pricewaterhousecoopers-pwc/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 34
+            },
+            {
+                "competitor_name": "inDinero",
+                "competitor_link": "https://www.g2.com/products/indinero/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 32
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/andersen-tax-llc/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 852113,
+                "review_title": "Very knowledgeable, great consultants, sometimes lack attention to detail",
+                "review_content": "Describe the project or task Andersen Tax LLC helped with:\nAssistance with tax preparation and tax consulting for a U.S. multinational corporation\n\nWhat do you like best about Andersen Tax LLC?\nVery knowledgeable experts, very helpful with mergers & acquisitions, international tax issues, etc.\n\nWhat do you dislike about Andersen Tax LLC?\nSometimes lack attention to detail - they get the difficult concepts correct but make sometimes make careless errors on tax returns",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-08-21",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/andersen-tax-llc/reviews/andersen-tax-llc-review-852113"
+            }
+        ]
+    },
+    "error": null
+}

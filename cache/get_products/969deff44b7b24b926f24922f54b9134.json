@@ -1,0 +1,240 @@
+{
+    "data": {
+        "product_id": 22417,
+        "product_name": "Armanino",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_41425f0fb9d64e150ba88b5c4b29d707/armanino.png",
+        "g2_link": "https://www.g2.com/products/armanino/reviews",
+        "what_is": "Armanino is one of the top 25 largest independent accounting and business consulting firms in the US. You can count on Armanino to think strategically, to provide sound insights that lead to positive action. We address not only your compliance issues, but your underlying business challenges -- assessing opportunities, weighing risks, and exploring the practical implications of both your short- and long-term decisions.  Armanino provides best practice consulting along with software selection, implementation, integration and strategy for Enterprise Resource Planning (ERP), Customer Relationship Management (CRM), Business Intelligence (BI), Financial Planning and Analysis (FP&A) solutions and more. We are constantly looking at adding new service lines, technology solutions and specialized expertise that will help advance our clients' business goals. \n\nWe are a nationwide leader in serving privately-held companies, as well as, nonprofit organizations and public entities. We provide technology solutions and consulting, audit, tax,  business outsourcing, strategy services and risk assurance and advisory. Our technology focus and global services are key aspects of our service lines. We work with clients in a large range of industries including technology, manufacturing, nonprofit, real estate, professional and financial services, life sciences, cannabis, healthcare and more. \n\nOur offices are located in major cities across the country and we have consultants on the ground at key locations across the Nation. We provide global services in more than 100 countries through Moore - one of the world's major accounting and consulting organizations.",
+        "product_description": "Armanino is an independent accounting and business consulting firm that provides technology solutions and consulting, audit, tax, business outsourcing, strategy services and risk assurance and advisory.",
+        "positioning_against_competitor": null,
+        "rating": 4.1,
+        "reviews": 8,
+        "company_id": 18859,
+        "seller": "Armanino LLP",
+        "company_phone": null,
+        "company_location": "San Ramon, CA",
+        "company_founded_year": 1969,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/armanino/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/ArmaninoLLP",
+        "number_of_followers_on_twitter": 2778,
+        "linkedin": "https://www.linkedin.com/company/14546/",
+        "number_of_employees_on_linkedin": 2660,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "https://www.g2.com/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "Digital Transformation Consulting",
+                "category_link": "https://www.g2.com/categories/digital-transformation-consulting"
+            },
+            {
+                "category_name": "Cloud Consulting",
+                "category_link": "https://www.g2.com/categories/cloud-consulting"
+            },
+            {
+                "category_name": "Business Intelligence (BI) Consulting",
+                "category_link": "https://www.g2.com/categories/business-intelligence-bi-consulting"
+            },
+            {
+                "category_name": "Cybersecurity Consulting",
+                "category_link": "https://www.g2.com/categories/cybersecurity-consulting"
+            },
+            {
+                "category_name": "Sage Intacct Channel Partners",
+                "category_link": "https://www.g2.com/categories/sage-intacct-channel-partners"
+            },
+            {
+                "category_name": "Workday Consulting Services",
+                "category_link": "https://www.g2.com/categories/workday-consulting-services"
+            },
+            {
+                "category_name": "Microsoft Dynamics 365 Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-365-resellers"
+            },
+            {
+                "category_name": "Auditing Services",
+                "category_link": "https://www.g2.com/categories/auditing-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Skaled",
+                "competitor_link": "https://www.g2.com/products/skaled/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 110
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Access Global Group",
+                "competitor_link": "https://www.g2.com/products/access-global-group/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 88
+            },
+            {
+                "competitor_name": "Pilot",
+                "competitor_link": "https://www.g2.com/products/pilot/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 80
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 5
+        },
+        "g2_reviews_link": "https://www.g2.com/products/armanino/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8951257,
+                "review_title": "AMAZING TEAM THAT IS GEARED TO A CUSTOMER'S SELF SUFFICIENCY!",
+                "review_content": "What do you like best about Armanino?\ntHE RESPONSIVENESS AND ATTENTETION TO DETAIL.\n\nWhat do you dislike about Armanino?\nNOTHING THEY FULLY VALUE AND TAKE CARE OF THEIR CUSTOMERS\n\nRecommendations to others considering Armanino:\ngIVE THEM AN OPPORTUNITY THEIR WORK SPEAKS FOR THE COMPANY WITH NO ILL INTENT\n\nWhat problems is Armanino solving and how is that benefiting you?\nARMANINO IS OUR sAGE INTACCT PARTNER AND IMPLEMENTATION TEAM.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Noel R.",
+                    "reviewer_job_title": "Sales rep",
+                    "reviewer_link": "https://www.g2.com/users/fb6ac599-b277-4c14-bfaf-bea819b9d61d"
+                },
+                "publish_date": "2023-11-30",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-8951257"
+            },
+            {
+                "review_id": 8738448,
+                "review_title": "Armanino: A comprehensive solution for Prpfessional Services firms",
+                "review_content": "What do you like best about Armanino?\nAutomation.\nCollaboration.\nReporting.\nSecurity.\nTracking and billing process.\n\nWhat do you dislike about Armanino?\nComplexity.\nLack of features.\nCost.\nCustomer Service\n\nWhat problems is Armanino solving and how is that benefiting you?\nImproving efficiency wne productivity.\nReducing errors and risk.\nImproving visibility and control.\nUsed to improve its audit process.\nTracking project cost and profitability.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Mukul T.",
+                    "reviewer_job_title": "Business Analyst",
+                    "reviewer_link": "https://www.g2.com/users/3d29489b-51b9-4b44-a3a4-533ac248b466"
+                },
+                "publish_date": "2023-10-18",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-8738448"
+            },
+            {
+                "review_id": 8643049,
+                "review_title": "Great partnership experience!",
+                "review_content": "What do you like best about Armanino?\nArmanino is very receptive and easy to work with.\n\nWhat do you dislike about Armanino?\nI have not run into any scenarios with Armanino that were negative or anywhere close to negative.\n\nWhat problems is Armanino solving and how is that benefiting you?\nArmanino is one of our top Microsoft Dynamics Partners. They do a great job of assisting all of our customers that we share that utilize both Cavallo SalesPad and Microsoft Dynamics GP and 365 Business Central.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-21",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-8643049"
+            },
+            {
+                "review_id": 4299932,
+                "review_title": "They are not your advocates.",
+                "review_content": "Describe the project or task Armanino helped with:\nIntacct Implementation\n\nWhat do you like best about Armanino?\nOur system is technically working and their post-implementation support has been pretty good.\n\nWhat do you dislike about Armanino?\nThe implementation team and the sales team constantly underestimated time requirements. They didn't utilize our full contracted services with Intacct, leaving out entire add-ons that we will now cancel on our contract renewal (they recommended these add-ons and then didn't utilize them in the implementation!) Some part is our own fault, we came into the project largely ignorant of what the system could do (we were not experts in a brand new software, go figure) and relied solely on Armanino to help us implement and migrate, which they did finally achieve, but we missed every single deadline and missed our full implementation deadline by months. We still have integrations that are not complete and their development team is largely unresponsive at this point (a year later). There were points in the implementation where they were taking so much time to do things that we asked them to show us how to do it so we could do it for them. The same thing happened with some of the integrations, their team took literally months to throw together a simple integration which was only completed by OUR TEAM in the end. They are order takers and you need know exactly what you want down to the very technical level or your implementation will be a train wreck. They are not trying to fill in the gaps for you or providing advice. A lot of our problems stemmed from our team \"not knowing what we didn't know\" and Armanino making no effort to help us maximize the system. We walked into the implementation saying that we didn't want to directly copy our old system (which was decades old), but we wanted to maximize Intacct in all of its modern glory. Instead, we largely copied our system because the only question they know how to ask is \"How are you doing it now?\"\n\nRecommendations to others considering Armanino:\nFind another company.\n\nWhat problems is Armanino solving and how is that benefiting you?\nArmanino helped facilitate the implementation of a system that has helped us automate several processes and helped us clean up financials, but the way that Armanino went about it was possibly the most inefficient I've ever seen.",
+                "review_rating": 0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-07-14",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-4299932"
+            },
+            {
+                "review_id": 4364323,
+                "review_title": "Great Implementation Company",
+                "review_content": "Describe the project or task Armanino helped with:\nThey assisted with implementing our Sage Intacct Software. They were able to set up our chart of accounts and our custom financial reports. They sticked with us until everything was perfect.\n\nWhat do you like best about Armanino?\nThey make the system very easy to implement. Take all the guess work out and very detailed. They provide lots of training materials and testing materials.\n\nWhat do you dislike about Armanino?\nExtra cost to implement but well worth it to confirm correct setup.\n\nWhat problems is Armanino solving and how is that benefiting you?\nAble to easily implement our software and test all factors. They had a very thorough walk through that ensured we would have no problems after set up.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jessica M.",
+                    "reviewer_job_title": "Controller",
+                    "reviewer_link": "https://www.g2.com/users/2b33d22a-012e-4ac9-97a3-ea9e86068b85"
+                },
+                "publish_date": "2020-09-25",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-4364323"
+            },
+            {
+                "review_id": 3048452,
+                "review_title": "The Resource Group (TRG)",
+                "review_content": "Describe the project or task Armanino helped with:\nThe Resource Group (TRG) implemented Dynamics GP in 2010 as well as 2 subsequent upgrades.  Based on changing need, the recommended Sage Intacct to us in 2016 and implemented the ERP in late 2017. Additionally the company provides consulting support under an annual support agreement.\n\nWhat do you like best about Armanino?\nThe consultants are very knowledgeable about the products they service.  They take time to understand the needs of their customers and offer sound advice.  The consultants are very responsive to  requests for assistance or information and have demonstrated excellent follow up on outstanding issues with the software provider.\n\nWhat do you dislike about Armanino?\nI appreciate the request for dislikes in this survey, but find the \"required\" status for this response unnecessary.  Issues that we have had with TRG, that could constitute a dislike,  were never serious, did not jeopardize our on-going relationship and most importantly, addressed by TRG management.\n\nWhat problems is Armanino solving and how is that benefiting you?\nOur move to Sage Intacct was predicated on a better timesheet system.  The system has worked very well.  Another need was to include project expenses within the General Ledger.  TRG's recommendation has solved this issue.  Sage Intacct is out of the box with no customization, so TRG provides solutions to us to make the system work for our unique requirements.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-08-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-3048452"
+            },
+            {
+                "review_id": 2948845,
+                "review_title": "TRG - Sage Intacct",
+                "review_content": "Describe the project or task Armanino helped with:\nThe Resource Group helped our office implement Sage Intacct.\n\nWhat do you like best about Armanino?\nTRG is very responsive and on knowledgeable.\n\nWhat do you dislike about Armanino?\nOur group had no downsides when working with The Resource Group\n\nRecommendations to others considering Armanino:\nFrom sales, to implementation tech, to customer service, The Resource Group has been great to work with.\n\nWhat problems is Armanino solving and how is that benefiting you?\nWe moved away from QuickBooks and Dynamics GP to a new GL solution, Sage Intacct. The TRG team was been knowledgeable and helpful throughout the conversion process. They had an organized process for us to follow during implementation and have been able to assist with any follow up questions that we have.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-08-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-2948845"
+            },
+            {
+                "review_id": 719291,
+                "review_title": "Intacct implementation",
+                "review_content": "Describe the project or task Armanino helped with:\nImplementation of Intacct for non-profit entity\n\nWhat do you like best about Armanino?\nThe had a good template and model for implementing Intacct. Have good experience doing non-profit implementations.\n\nWhat do you dislike about Armanino?\nOverall was very satisfied with them. Maybe a bit more collaborative or advice on how not to just convert to Intacct but how to maximize its utility.\n\nRecommendations to others considering Armanino:\nHave a good idea of scope of what you are wanting to do. They do have a lot of experience with Intacct implementations and have several different implementation models depending on project complexity.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-05-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/armanino/reviews/armanino-review-719291"
+            }
+        ]
+    },
+    "error": null
+}

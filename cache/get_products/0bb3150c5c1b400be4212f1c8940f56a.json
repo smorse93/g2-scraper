@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 22360,
+        "product_name": "Agile IT",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4b6548d67dbfbda38419dabf0865ddde/agile-it.jpeg",
+        "g2_link": "https://www.g2.com/products/agile-it/reviews",
+        "what_is": "Agile IT is an IT service that help companies implement and connect cloud technologies that maximize business value and keep them ahead of the curve.",
+        "product_description": "Agile IT is an IT service that help companies implement and connect cloud technologies that maximize business value and keep them ahead of the curve.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 18054,
+        "seller": "Agile IT",
+        "company_phone": null,
+        "company_location": "San Diego, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/agile-it/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Agile_IT",
+        "number_of_followers_on_twitter": 9038,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 110
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            },
+            {
+                "competitor_name": "Collectiv",
+                "competitor_link": "https://www.g2.com/products/collectiv/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 37
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/agile-it/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8554700,
+                "review_title": "Cloud Migration and Security",
+                "review_content": "What do you like best about Agile IT?\nAgile IT is having a strong customer support system and the quickly reply to the queries. Their on boarding support is fabulous and there was not issue while migrating data from one system to other.\n\nWhat do you dislike about Agile IT?\nTraining is required to use this system and once you are well versed with this system then it is of great help. I do not fins any other issues with htis system.\n\nRecommendations to others considering Agile IT:\nthose who want to switch their  cloud system should surely opt for agile.\n\nWhat problems is Agile IT solving and how is that benefiting you?\nAgile was providing cloud services and was helping in keeping the data secure . The agile IT safe and secue system to store data and manage other process in business.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jagmeet S.",
+                    "reviewer_job_title": "Mold Flow Analyst",
+                    "reviewer_link": "https://www.g2.com/users/b5e45083-6eb0-47c8-9788-2980ae7c87fd"
+                },
+                "publish_date": "2023-09-01",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/agile-it/reviews/agile-it-review-8554700"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,107 @@
+{
+    "data": {
+        "product_id": 2876,
+        "product_name": "Ampush",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_cffcd0bfe7cfa02a077421a0034482d5/ampush.jpg",
+        "g2_link": "https://www.g2.com/products/ampush/reviews",
+        "what_is": "Ampush gets advertisers the best results on Facebook and Twitter. Our fully-managed advertising solutions combine powerful software with human insights and execution to achieve business goals across the entire customer lifecycle. Ampush is based in San Francisco with offices in Chicago and New York.",
+        "product_description": "Social technology Facebook sPMD helping enterprises achieve ROI with Facebook Ads.",
+        "positioning_against_competitor": null,
+        "rating": 4,
+        "reviews": 1,
+        "company_id": 3784,
+        "seller": "Ampush",
+        "company_phone": null,
+        "company_location": "San Francisco, CA",
+        "company_founded_year": 2009,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/ampush/discuss",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/ampush",
+        "number_of_followers_on_twitter": 5654,
+        "linkedin": "https://www.linkedin.com/company/ampush",
+        "number_of_employees_on_linkedin": 120,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Digital Marketing",
+                "category_link": "https://www.g2.com/categories/digital-marketing"
+            },
+            {
+                "category_name": "Mobile Marketing Companies",
+                "category_link": "https://www.g2.com/categories/mobile-marketing-companies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "KlientBoost",
+                "competitor_link": "https://www.g2.com/products/klientboost/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 345
+            },
+            {
+                "competitor_name": "INFUSEmedia",
+                "competitor_link": "https://www.g2.com/products/infusemedia/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 221
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 188
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "CIENCE",
+                "competitor_link": "https://www.g2.com/products/cience/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 168
+            },
+            {
+                "competitor_name": "SmartSites",
+                "competitor_link": "https://www.g2.com/products/smartsites/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 165
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/ampush/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 83818,
+                "review_title": "Ampush Review",
+                "review_content": "What do you like best about Ampush?\nAmpush has a very easy to use UI that clearly displays all of the information, campaign levers, reporting, etc.  If familiar with other social platforms, you'll be able to use with ease.  There are also several different options of granularity for targeting and reporting that help to find niche audiences and report back to client\n\nWhat do you dislike about Ampush?\nThe optimization capabilities are rather weak.  Most changes need to be manual and there are very few auto updates or optimizations that perform well for direct response campaigns.  If you are using many different creatives and ads, then it will be difficult to track performance and make optimizations or updates in real time.  Although Ampush has left the service business, it's still rather poor.\n\nRecommendations to others considering Ampush:\nBe sure to ask about all of their social offerings and product road map to ensure you can leverage all of your efforts in one place.\n\nWhat problems is Ampush solving and how is that benefiting you?\nWe've found several different creative formats to help increase user engagement, which in turn has helped to increase our return on investment for advertising spend.  The mobile capabilities have also helped to strengthen our knowledge of that space and how our users interact.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2016-01-06",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ampush/reviews/ampush-review-83818"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,107 @@
+{
+    "data": {
+        "product_id": 24242,
+        "product_name": "adam&eveDDB",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_447722ecae2760d6bbc2d33e1e0ef21e/adam-eveddb.jpg",
+        "g2_link": "https://www.g2.com/products/adam-eveddb/reviews",
+        "what_is": "adam&eveDDB is a creative communications agency made up of people from advertising, design, content, digital, media and social strategy.",
+        "product_description": "adam&eveDDB is a creative communications agency made up of people from advertising, design, content, digital, media and social strategy.",
+        "positioning_against_competitor": null,
+        "rating": 2,
+        "reviews": 1,
+        "company_id": 18142,
+        "seller": "WPP",
+        "company_phone": null,
+        "company_location": "London, London",
+        "company_founded_year": 1971,
+        "company_annual_revenue": "$13,234",
+        "company_ownership": "LSE:WPP",
+        "discussions_link": "https://www.g2.com/products/adam-eveddb/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/WPP",
+        "number_of_followers_on_twitter": 129827,
+        "linkedin": "https://www.linkedin.com/company/8236/",
+        "number_of_employees_on_linkedin": 73239,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Digital Marketing",
+                "category_link": "https://www.g2.com/categories/digital-marketing"
+            },
+            {
+                "category_name": "Traditional Advertising",
+                "category_link": "https://www.g2.com/categories/traditional-advertising"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "KlientBoost",
+                "competitor_link": "https://www.g2.com/products/klientboost/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 345
+            },
+            {
+                "competitor_name": "INFUSEmedia",
+                "competitor_link": "https://www.g2.com/products/infusemedia/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 221
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 187
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "CIENCE",
+                "competitor_link": "https://www.g2.com/products/cience/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 168
+            },
+            {
+                "competitor_name": "SmartSites",
+                "competitor_link": "https://www.g2.com/products/smartsites/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 165
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 1,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/adam-eveddb/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 5219529,
+                "review_title": "Adam & eve review",
+                "review_content": "What do you like best about adam&eveDDB?\nEase of use, highly explanatory tools for beginners to get creative work out to work force\n\nWhat do you dislike about adam&eveDDB?\nRequires user to also have their own ideas to make work flow better\n\nWhat problems is adam&eveDDB solving and how is that benefiting you?\nCreativity pitfalls that we had before are no longer present",
+                "review_rating": 2,
+                "reviewer": {
+                    "reviewer_name": "Chey L.",
+                    "reviewer_job_title": "Supervisor",
+                    "reviewer_link": "https://www.g2.com/users/884a72ab-c21b-47e1-a222-6dae443e3964"
+                },
+                "publish_date": "2021-12-21",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/adam-eveddb/reviews/adam-eveddb-review-5219529"
+            }
+        ]
+    },
+    "error": null
+}

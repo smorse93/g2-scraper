@@ -1,0 +1,133 @@
+{
+    "data": {
+        "product_id": 959,
+        "product_name": "101Data",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_638fc2959f9aead58abfcf7251c6c216/101data.jpg",
+        "g2_link": "https://www.g2.com/products/101data/reviews",
+        "what_is": "101 Data Solutions is a innovative data storage consultancy, we manage data not storage",
+        "product_description": "101 Data Solutions is a innovative data storage consultancy, we manage data not storage",
+        "positioning_against_competitor": null,
+        "rating": 4.2,
+        "reviews": 3,
+        "company_id": 713,
+        "seller": "101Data",
+        "company_phone": null,
+        "company_location": "Bristol, Avon",
+        "company_founded_year": 2006,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/101data/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/101DataSolution",
+        "number_of_followers_on_twitter": 252,
+        "linkedin": "https://www.linkedin.com/company/2739066",
+        "number_of_employees_on_linkedin": 8,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Data Security Services",
+                "category_link": "https://www.g2.com/categories/data-security-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Cybriant",
+                "competitor_link": "https://www.g2.com/products/cybriant/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 34
+            },
+            {
+                "competitor_name": "OneNeck IT Solutions",
+                "competitor_link": "https://www.g2.com/products/oneneck-it-solutions/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 25
+            },
+            {
+                "competitor_name": "Centric Consulting",
+                "competitor_link": "https://www.g2.com/products/centric-consulting/reviews",
+                "competitor_rating": 3.8,
+                "competitor_reviews": 16
+            },
+            {
+                "competitor_name": "Sophos Professional Services",
+                "competitor_link": "https://www.g2.com/products/sophos-professional-services/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 14
+            },
+            {
+                "competitor_name": "7 Layer Solutions",
+                "competitor_link": "https://www.g2.com/products/7-layer-solutions-inc-7-layer-solutions/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 15
+            },
+            {
+                "competitor_name": "Sirius",
+                "competitor_link": "https://www.g2.com/products/sirius/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 7
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 2,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/101data/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 5427212,
+                "review_title": "Best data management tool !",
+                "review_content": "Describe the project or task 101Data helped with:\n101Data is a great alternative to Alteryx that helped me all with data-related problems. Dealing with huge amounts of data, modeling and optimizing it was necessary and 101Data was the solution.\n\nWhat do you like best about 101Data?\nThe tool is very user-friendly and kind of intuitive. The fact that it could be used easily on the very first go is what I liked best.\n\nWhat do you dislike about 101Data?\nI found the tool to be perfect. Usually, customer support is an issue with tools but that wasn't a problem with 101Data.\n\nWhat problems is 101Data solving and how is that benefiting you?\nThe major problem that 101Data helps solve is managing and optimizing data pipelines. With the layer of security that 101Data brings in, business problems are easier to solve.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Shivam S.",
+                    "reviewer_job_title": "SDE I (Analyst)",
+                    "reviewer_link": "https://www.g2.com/users/shivamsinghal0610"
+                },
+                "publish_date": "2022-03-15",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/101data/reviews/101data-review-5427212"
+            },
+            {
+                "review_id": 5442315,
+                "review_title": "Data Management Tool",
+                "review_content": "Describe the project or task 101Data helped with:\nI like the speed with which it processes data and its ease of use. A vast range of data needs visualisation and with the amount of data we have and increasing always, it becomes very helpful\n\nWhat do you like best about 101Data?\nI like the speed with which it processes data and its ease of use. It comes with multiple solutions to cater to different categories. The support system is good and they work well to understand customer needs\n\nWhat do you dislike about 101Data?\nIt can get very complicated when trying to perform more complex actions\n\nWhat problems is 101Data solving and how is that benefiting you?\nIt comes with multiple solutions to cater to different categories. The support system is good and they work well to understand customer needs. It is a nice beneficial product",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-03-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/101data/reviews/101data-review-5442315"
+            },
+            {
+                "review_id": 5060939,
+                "review_title": "Great user interface!",
+                "review_content": "Describe the project or task 101Data helped with:\nI used it for data design and implementation,  data storage, and data optimization. Their service helped me organize my data to ensure it meets my business needs and answers my business questions.\n\nWhat do you like best about 101Data?\nI like the fact that it is so user-friendly and easy to use. Also, the company's customer support is available 24/7 and is easily accessible.\n\nWhat do you dislike about 101Data?\nI do not dislike anything so far. 10/10!\n\nWhat problems is 101Data solving and how is that benefiting you?\nI am ensuring all my data is converted into usable forms that can be easily integrated into my business purposes. Additionally, 101Data helped me confirm my data is coming through a robust and secure pipeline and being saved in safe storage online.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-10-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/101data/reviews/101data-review-5060939"
+            }
+        ]
+    },
+    "error": null
+}

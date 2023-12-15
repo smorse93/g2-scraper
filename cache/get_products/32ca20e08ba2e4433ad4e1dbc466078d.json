@@ -1,0 +1,128 @@
+{
+    "data": {
+        "product_id": 1259,
+        "product_name": "A5",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_b62474956455707dbc779a7ee5b96db0/a5.jpg",
+        "g2_link": "https://www.g2.com/products/a5/reviews",
+        "what_is": "A5 guides businesses through their Digital Transformation journey with a focus on Campaign-to-Cash.\n\nAs leading solutions providers and systems implementers, we modernize your business processes through our strategic methodology using industry-leading platforms such as Oracle, Salesforce, Apttus, and Anaplan.",
+        "product_description": "At A5, our purpose is to help businesses streamline their processes, improve efficiency and drive revenue using the latest digital technologies, in order to serve their customers and employees better.",
+        "positioning_against_competitor": null,
+        "rating": 2.5,
+        "reviews": 2,
+        "company_id": 945,
+        "seller": "A5",
+        "company_phone": null,
+        "company_location": "Pleasanton, CA",
+        "company_founded_year": 2004,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/a5/discuss",
+        "supported_languages": "English, Hindi, Spanish",
+        "twitter": "https://twitter.com/theA5corp",
+        "number_of_followers_on_twitter": 319,
+        "linkedin": "https://www.linkedin.com/company/a5corp/",
+        "number_of_employees_on_linkedin": 220,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "https://www.g2.com/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "Oracle Consulting Services",
+                "category_link": "https://www.g2.com/categories/oracle-consulting-services"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/90775/20180927-160139-_1_.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/90776/20180925-095722-_1_.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/90778/SalesForce-Graphic-1-_1_.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/90779/unnamed.jpg"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Access Global Group",
+                "competitor_link": "https://www.g2.com/products/access-global-group/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 88
+            },
+            {
+                "competitor_name": "SevenPoints",
+                "competitor_link": "https://www.g2.com/products/sevenpoints/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 70
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/a5/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 6505512,
+                "review_title": "well-supported and well-documented",
+                "review_content": "Describe the project or task A5 helped with:\nAfter trying a variety of alternative document/e-sign systems, my company switched to A5 Documents (and A5 Sign). Every week, we utilize it to develop and deliver hundreds of internal and external papers. The easy-to-use connectivity with A5 Sign, which allowed us to email e-sign papers, was very beneficial.\n\nSetting up and configuring A5 for our individual needs took some time, but with the help of comprehensive user instructions, we were masters of the platform in no time. Furthermore, anytime we've had an issue that we couldn't resolve on our own, the support team has been able to quickly identify and execute a solution for us.\n\nWhat do you like best about A5?\nThis product is easy to use, particularly if you already use Google Docs for file storage or other paperwork. It took less than a day to design a template, integrate Salesforce logic, set up the signature add-on, and make the functionality available for our users. Moreover, it allows us to load relevant list data into the template, save the combined document as a PDF, and more.\n\nWhat do you dislike about A5?\nOnly one configuration issue I faced as the admin was the Sandbox issue after a sandbox refresh: workflow referring to the A5 DocAction object requires a manual update in the sandbox environment. And I must say that the support that we received with workarounds etc was excellent. Besides some config issues, everything about A5 is incredible.\n\nRecommendations to others considering A5:\nEay to install and set up, and the integration with Google Docs makes amending the merge document a really simple process. I'd gladly suggest it to anyone. Just go for it!\n\nWhat problems is A5 solving and how is that benefiting you?\nIn our organization, we've been utilizing this to generate donation receipts in Google Drive. It accomplishes exactly what we need it to do. Their website's customer support and FAQ area are both really useful and they seem to be constantly updating the latter with new articles. Salesforce's UI is simple to use, and its lessons are straightforward. We'd been looking for the proper document production technology for a long time and are thrilled to have discovered it. There's no need for a code and there's no requirement for a certain number of users. We did everything ourselves, and their customer service crew was always willing to assist.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Sushant Kumar 1.",
+                    "reviewer_job_title": "Senior Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/6941e58a-cd34-415a-96d5-e24b7c7929bd"
+                },
+                "publish_date": "2022-04-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/a5/reviews/a5-review-6505512"
+            },
+            {
+                "review_id": 4597129,
+                "review_title": "Most Unprofessional Team I've Ever Worked With",
+                "review_content": "Describe the project or task A5 helped with:\nSalesforce CPQ implementation\n\nWhat do you like best about A5?\nIf you are desperate to implement CPQ, they'll do it for you\n\nWhat do you dislike about A5?\nThe consultants from A5 that were put on our CPQ project were extremely unprofessional. In meetings they were disorganized, argued with each other, and interrupted us (the client) multiple times. Meetings lacked agendas, goals, deliverables and led to increased confusion.\n\nWhat problems is A5 solving and how is that benefiting you?\nEasier quote to cash",
+                "review_rating": 0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-02-12",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/a5/reviews/a5-review-4597129"
+            }
+        ]
+    },
+    "error": null
+}

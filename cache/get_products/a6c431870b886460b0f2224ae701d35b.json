@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 28143,
+        "product_name": "Akvelon",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_73b07d737a9d5b5843e8ba7a0cb643fa/akvelon.png",
+        "g2_link": "https://www.g2.com/products/akvelon/reviews",
+        "what_is": "Akvelon provides cutting-edge products and solutions that span multiple technology domains.",
+        "product_description": "Akvelon provides cutting-edge products and solutions that span multiple technology domains.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1,
+        "company_id": 22151,
+        "seller": "Akvelon",
+        "company_phone": null,
+        "company_location": "Bellevue, WA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/akvelon/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AkvelonInc",
+        "number_of_followers_on_twitter": 1383,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "IT Outsourcing",
+                "category_link": "https://www.g2.com/categories/it-outsourcing"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Magna5",
+                "competitor_link": "https://www.g2.com/products/magna5/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "InfoObjects",
+                "competitor_link": "https://www.g2.com/products/infoobjects/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 53
+            },
+            {
+                "competitor_name": "Teravision Technologies",
+                "competitor_link": "https://www.g2.com/products/teravision-technologies/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 33
+            },
+            {
+                "competitor_name": "Designli",
+                "competitor_link": "https://www.g2.com/products/designli/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 32
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/akvelon/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 2124060,
+                "review_title": "Amazing ",
+                "review_content": "Describe the project or task Akvelon helped with:\nI love this company, they are consistent and proactive software development company!\n\nWhat do you like best about Akvelon?\nTheir tactics and strategies in finding business solutions is always professional\n\nWhat do you dislike about Akvelon?\nthere is nothing i dislike about their services\n\nRecommendations to others considering Akvelon:\nnot applicable\n\nWhat problems is Akvelon solving and how is that benefiting you?\nfinding new hires for my company was painless, they have an amazing recruiting team. However deadlines was also always met.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-04-18",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/akvelon/reviews/akvelon-review-2124060"
+            }
+        ]
+    },
+    "error": null
+}

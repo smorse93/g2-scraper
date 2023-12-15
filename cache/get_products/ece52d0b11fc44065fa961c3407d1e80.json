@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 21047,
+        "product_name": "Adly",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d2a708eaa66f0de77f47fb533f6d8bac/adly.jpg",
+        "g2_link": "https://www.g2.com/products/adly/reviews",
+        "what_is": "Adly is a Celebrity Social Advertising Platform that help brands partner with influencers and celebrities to reach more of their target audience to generate leads and drive sales.",
+        "product_description": "Adly is a Celebrity Social Advertising Platform that help brands partner with influencers and celebrities to reach more of their target audience to generate leads and drive sales.",
+        "positioning_against_competitor": null,
+        "rating": 3,
+        "reviews": 1,
+        "company_id": 17104,
+        "seller": "Adly",
+        "company_phone": null,
+        "company_location": "Los Angeles, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/adly/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Adly",
+        "number_of_followers_on_twitter": 10264,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Social Media Marketing (SMM) Companies",
+                "category_link": "https://www.g2.com/categories/social-media-marketing-smm-companies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "DashClicks",
+                "competitor_link": "https://www.g2.com/products/dashclicks/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 212
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "SmartSites",
+                "competitor_link": "https://www.g2.com/products/smartsites/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 165
+            },
+            {
+                "competitor_name": "OpenMoves",
+                "competitor_link": "https://www.g2.com/products/openmoves/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 111
+            },
+            {
+                "competitor_name": "Disruptive Advertising",
+                "competitor_link": "https://www.g2.com/products/disruptive-advertising/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 103
+            },
+            {
+                "competitor_name": "Belkins",
+                "competitor_link": "https://www.g2.com/products/belkins/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 85
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 0,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/adly/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 725524,
+                "review_title": "Adly for Social Media and Business",
+                "review_content": "What do you like best about Adly?\nHelps to boost your social media presence by connecting further with the audience and maintaining engagement\n\nWhat do you dislike about Adly?\nThe network grows with more company connections and entrepreneurs so they should advertise their services more\n\nRecommendations to others considering Adly:\nGive it a try and it will at least help you with the behind the scenes of things\n\nWhat problems is Adly solving and how is that benefiting you?\nMostly used for gaining a social media presence and learning from experts and their strategies.",
+                "review_rating": 3,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-05-31",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/adly/reviews/adly-review-725524"
+            }
+        ]
+    },
+    "error": null
+}

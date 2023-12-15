@@ -1,0 +1,487 @@
+{
+    "data": {
+        "product_id": 23031,
+        "product_name": "Algoworks",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_06b0d68875d6ccfa415380c3884d1031/algoworks.jpg",
+        "g2_link": "https://www.g2.com/products/algoworks/reviews",
+        "what_is": "We are glad to announce that we are now a Salesforce Gold Consulting Partner and a Salesforce Talent Alliance Member. Algoworks is a B2B IT services provider company that has expertise in key areas of Salesforce CRM and Mobility, including Software Product Engineering. \nBeing a Salesforce Consulting Partner/ISV Partner and rated 5.0/5.0 on AppExchange, we provide clients with access to our Salesforce experts for their administrative and development needs, be it customizing SFDC to business processes, integrating it with third-party systems, upgrading to lightning experience and Force.com App Development.",
+        "product_description": "Algoworks is a global outsourced IT Services company and our business is to make the offshore strategy work for ISVs and software enabled companies.",
+        "positioning_against_competitor": null,
+        "rating": 4.7,
+        "reviews": 23,
+        "company_id": 18552,
+        "seller": "Algoworks",
+        "company_phone": null,
+        "company_location": "Noida, Uttar Pradesh",
+        "company_founded_year": 2006,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/algoworks/discuss",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/algoworks",
+        "number_of_followers_on_twitter": 4952,
+        "linkedin": "https://www.linkedin.com/company/202809/",
+        "number_of_employees_on_linkedin": 724,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "https://www.g2.com/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "WordPress Developers",
+                "category_link": "https://www.g2.com/categories/wordpress-developers"
+            },
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "E-Commerce Development",
+                "category_link": "https://www.g2.com/categories/e-commerce-development"
+            },
+            {
+                "category_name": "iOS Developers",
+                "category_link": "https://www.g2.com/categories/ios-developers"
+            },
+            {
+                "category_name": "Cloud Consulting",
+                "category_link": "https://www.g2.com/categories/cloud-consulting"
+            },
+            {
+                "category_name": "Android Developers",
+                "category_link": "https://www.g2.com/categories/android-developers"
+            },
+            {
+                "category_name": "Business Intelligence (BI) Consulting",
+                "category_link": "https://www.g2.com/categories/business-intelligence-bi-consulting"
+            },
+            {
+                "category_name": "PHP Developers",
+                "category_link": "https://www.g2.com/categories/php-developers"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/71134/expirable-direct-uploads_2F3870f2ef-2f77-4d91-96a0-2e3046da8cb5_2FSalesforce-2.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/71140/expirable-direct-uploads_2F09211ab7-b550-4e96-9e36-76b1158b4ed7_2FAWOM.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/71131/expirable-direct-uploads_2F080472fa-bbd7-413b-a09e-c451f60b43e1_2FAlgoworks_Case_Study.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/71141/expirable-direct-uploads_2F29994851-dfb9-4dd9-b791-d58a33ab0761_2FCase-Manager.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "The Free Website Guys",
+                "competitor_link": "https://www.g2.com/products/the-free-website-guys/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 672
+            },
+            {
+                "competitor_name": "SmartSites",
+                "competitor_link": "https://www.g2.com/products/smartsites/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 165
+            },
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Skaled",
+                "competitor_link": "https://www.g2.com/products/skaled/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Net Solutions",
+                "competitor_link": "https://www.g2.com/products/net-solutions/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 23
+            },
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 110
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/algoworks-vs-net-solutions",
+                "competitor_name": "Net Solutions",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_d3b1e678ac74752e62bc7fd35a61e854/net-solutions.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/algoworks-vs-coastal-cloud",
+                "competitor_name": "Coastal Cloud",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_6a9b75e3edd43acfda650160c4d9bda4/coastal-cloud.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/algoworks-vs-onesix",
+                "competitor_name": "OneSix",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_281c3999d453871ab37da4108a9ec3ac/onesix.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 4,
+            "5": 19
+        },
+        "g2_reviews_link": "https://www.g2.com/products/algoworks/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7643847,
+                "review_title": "Review of algoworks",
+                "review_content": "What do you like best about Algoworks?\nIt's services, it provides lot of services\n\nWhat do you dislike about Algoworks?\nThere is nothing to dislike about it, there developers are quite good\n\nWhat problems is Algoworks solving and how is that benefiting you?\nIt's a one of the top digital transform company, it offers services in Salesforce, web technologies development",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Prateek U.",
+                    "reviewer_job_title": "Associate software developer",
+                    "reviewer_link": "https://www.g2.com/users/68a72b4d-3a4b-4028-8995-bda21791b9a2"
+                },
+                "publish_date": "2023-01-27",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-7643847"
+            },
+            {
+                "review_id": 6501220,
+                "review_title": "Best in the Industry for App Development",
+                "review_content": "Describe the project or task Algoworks helped with:\nAlgoworks helped in website and app development. They provide an end-to-end solution which translates into giving the task to them and forgetting as they will come back with outstanding solutions.\n\nWhat do you like best about Algoworks?\nThe customer support offered by them was rock solid. They accounted for our requests and made necessary changes as and when needed. Keeping the customer's needs a priority made us feel valued.\n\nWhat do you dislike about Algoworks?\nThe time taken by the team was a bit high, but in the end, the quality justified the duration. We were pretty satisfied with the result, so we do not have many complaints.\n\nWhat problems is Algoworks solving and how is that benefiting you?\nOur team lacks the technical and coding skills required to develop and operate apps and websites. These shortcomings were taken care of by the team. Even after the end of the project, their continued support is highly appreciated.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-05-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-6501220"
+            },
+            {
+                "review_id": 4623348,
+                "review_title": "Totally worth it! Impressive dedication.",
+                "review_content": "Describe the project or task Algoworks helped with:\nWe partnered with Algoworks in a bid to outsource a client project.\nOur client was a media company that needed to re-evaluate their marketing workflows and needed some automation on the Marketing Cloud in that regard. We followed and researched a few companies with a dedicated team of consultants and specialists for Salesforce Marketing Cloud projects. We found Algoworks and the customer testimonials showed their expertise in that direction.\n\nWhat do you like best about Algoworks?\nAlgoworks was very forthcoming in how they were going to approach the project and there were no hidden costs.\n\nWhat do you dislike about Algoworks?\nAbsolutely nothing. They are an awesome team.\n\nWhat problems is Algoworks solving and how is that benefiting you?\nOur clients were very happy and based on their reviews, we have generated many new leads. The client business multiplied many folds due to better marketing they have been able to do with the help of solutions provided by Algoworks. The manual work of client's employees has been decreased to the minimal amount with the help of automation solution designed by Algoworks.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ashwani M.",
+                    "reviewer_job_title": "Chief Executive Officer @ Appific.co",
+                    "reviewer_link": "https://www.g2.com/users/b52ac4ef-93ab-4a00-9a83-3033545545d4"
+                },
+                "publish_date": "2021-02-26",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-4623348"
+            },
+            {
+                "review_id": 4636774,
+                "review_title": "Excellent, Quality work. Highly appreciated.",
+                "review_content": "Describe the project or task Algoworks helped with:\nWe contacted Algoworks for implementation around Salesforce CPQ. We wanted to streamline the revenue visibility for one of our clients.\n\nWhat do you like best about Algoworks?\nWe found Algoworks as the most popular Salesforce consultant on AppExchange, and now we know why. They have an impeccable understanding of the subject matter and approach the project with razor-sharp intelligence.\n\nWhat do you dislike about Algoworks?\nThey were great. Nothing to dislike at all.\n\nRecommendations to others considering Algoworks:\nThey are an awesome team. They met each and every expectation. You'll be happy with the results.\n\nWhat problems is Algoworks solving and how is that benefiting you?\nWe are a services company and needed Salesforce implementation on a client project regarding CPQ. We found Algoworks as the Most Popular Salesforce consultant on AppExchange, so we contacted them. We needed to streamline revenue visibility and quote configuration, functionality to be integrated into the workflow.\nAlgoworks did a great job and our clients were happy with the value they received. We have been able to maintain a long-term relationship with our client, so, a win there as well.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Mudit A.",
+                    "reviewer_job_title": "Chief Operating Officer",
+                    "reviewer_link": "https://www.g2.com/users/86cdc30b-85ba-4cf9-b1e5-381576249be5"
+                },
+                "publish_date": "2021-03-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-4636774"
+            },
+            {
+                "review_id": 4544115,
+                "review_title": "Very responsive and refreshingly Innovative",
+                "review_content": "Describe the project or task Algoworks helped with:\nAlgoworks helped us to integrate Salesforce onto our existing community software platform. They discovered a lot of gaps and performed a major code inspection. They also identified new features that enhanced the efficiency of the platform.\n\nThe team resolved diverse issues with our database in addition to handling new module development. The project was completed as per the scheduled timeline, with major releases at an unprecedented pace, enabling the product to go live fast. We were impressed with their high-quality code.\n\nWhat do you like best about Algoworks?\nThe best thing I found was the level of detail with which they planned the implementation.\n\nWhat do you dislike about Algoworks?\nNothing at all.\nEven as we tried to ramp it up, they quickly adapted to our expectations and the team was always flexible.\n\nRecommendations to others considering Algoworks:\nPlease go ahead. They are an awesome team and can scale your projects so  efficiently that you may not have envisioned yourself. We liked working with this enthusiastic lot.\n\nWhat problems is Algoworks solving and how is that benefiting you?\nWe worked with them to build some Salesforce integration into our existing system. Being a community of Salesforce experts, we wanted to develop a system that could provide guidance to our visitors on how to choose the right solution and the right team to work with. The problems were solved using Community Cloud in a way that we're glad to have discovered while working with them.\n\nThey also created a roadmap for us, so that we could scale it up and customize it further in the future, which was unique.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Pooja R.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/cb6eeaff-0918-47bf-834e-32486bde3e74"
+                },
+                "publish_date": "2021-01-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-4544115"
+            },
+            {
+                "review_id": 4622425,
+                "review_title": "Highly recommended. Creative and flexible.",
+                "review_content": "Describe the project or task Algoworks helped with:\nWe discovered Algoworks through their blog on technical integrations on a Salesforce community platform. We enlisted their help for an e-commerce integration solution and have been working continuously with them since.\n\nWhat do you like best about Algoworks?\nI've never encountered a scenario where they weren't able to help or find a suitable solution.\nTheir flexibility and creativity in finding solutions is impressive.\n\nWhat do you dislike about Algoworks?\nAlgoworks has proved to be a wonderful technology partner. There isn't a single thing to dislike.\n\nRecommendations to others considering Algoworks:\nYes, their flexibility and creativity in finding solutions is impressive.\n\nWhat problems is Algoworks solving and how is that benefiting you?\nAlgoworks provided us with a custom Salesforce integration solution with WooCommerce and PayPal.\nThey helped us realize more potential and opportunities across the e-commerce platform.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Shyam R.",
+                    "reviewer_job_title": "Senior Salesforce Engineer",
+                    "reviewer_link": "https://www.g2.com/users/fb4af983-5e20-4eef-a2c0-84aea1bee958"
+                },
+                "publish_date": "2021-02-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-4622425"
+            },
+            {
+                "review_id": 3318972,
+                "review_title": "Positive experience with Algoworks",
+                "review_content": "Describe the project or task Algoworks helped with:\nMobile development for a startup in stealth mode.\n\nWhat do you like best about Algoworks?\nIt was pleasant working with them.  They are very well organized. They received my product requirements and did a great job breaking down and understanding every product features.  The estimates were reasonable. Then they proceeded to create milestones and sprints.  As far as technical skills, they can handle it.  Everyday I received an update via Basecamp.  Manish Attri was the project lead and did a great job sticking to my schedule and helped clear up any confusion.  I was happy with the output and would use them again.\n\nWhat do you dislike about Algoworks?\nNothing at the moment. There's always ups and downs but we worked together to remedy the problems that come up.\n\nRecommendations to others considering Algoworks:\nTo get the best estimate, make sure you create a well detail product requirement document.\n\nWhat problems is Algoworks solving and how is that benefiting you?\nI was looking for a mobile development shop that could help me build my dating event app.  They are great at execution and problem solving.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Nazair K.",
+                    "reviewer_job_title": "Founder",
+                    "reviewer_link": "https://www.g2.com/users/fd0526d5-6f4c-40a7-9731-5c0988305daf"
+                },
+                "publish_date": "2019-10-02",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-3318972"
+            },
+            {
+                "review_id": 3189382,
+                "review_title": "A great company to work with.",
+                "review_content": "Describe the project or task Algoworks helped with:\nAlgoworks helped us build an amazing eCommerce platform. The team's capability to cater to the minute technicalities that went into the project is praise-worthy. They offered easy integration with Salesforce, easy customization, and great consultation services.\n\nWhat do you like best about Algoworks?\nThey have awesome work ethics and house an amazing technical team.\n\nWhat do you dislike about Algoworks?\nThere is nothing to dislike about Algoworks\n\nRecommendations to others considering Algoworks:\nHighly recommended\n\nWhat problems is Algoworks solving and how is that benefiting you?\nThey helped us tackle a big problem that we were facing which was to set up Analytics and drive relative insights. they also helped with an easy customization process.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Sudhanshu D.",
+                    "reviewer_job_title": "Founder",
+                    "reviewer_link": "https://www.g2.com/users/4dbc3e4b-8533-4e81-b142-d4192c1e3fe8"
+                },
+                "publish_date": "2019-09-13",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-3189382"
+            },
+            {
+                "review_id": 2064247,
+                "review_title": "One of the best team I worked with",
+                "review_content": "Describe the project or task Algoworks helped with:\nAlgoworks helped us to migrate from our old CRM  software to Salesforce. We were stuck with an old customer relationship management software for quite a long time and were looking to upgrade it or migrate to some other better option. Algoworks did the job for us.\n\nWhat do you like best about Algoworks?\nTeam Algoworks was very helpful on every step of the project, they were always available to consult us and suggest the best suitable solutions. The project was completed within the given time-frame and they were totally in-budget too. I visited the office of Algoworks  once and I would love to say that these people are very friendly.\n\nWhat do you dislike about Algoworks?\nI can't think of anything that I dislike about Algoworks.\n\nRecommendations to others considering Algoworks:\nWe highly recommend Algoworks to all the companies who want to get services around Salesforce.\n\nWhat problems is Algoworks solving and how is that benefiting you?\nWe worked on CRM migration with Algoworks and these people were really co-operative. After the migration we have experienced many positive changes in our customer relationship management. Algoworks completed the project within the expected time-frame and the service was excellent too.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ridhima S.",
+                    "reviewer_job_title": "Self Employed",
+                    "reviewer_link": "https://www.g2.com/users/b7149570-da43-4370-8afa-49515c04948c"
+                },
+                "publish_date": "2019-04-08",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-2064247"
+            },
+            {
+                "review_id": 879188,
+                "review_title": "Salesforce consulting tools",
+                "review_content": "Describe the project or task Algoworks helped with:\nits helped our team track and maintain our circuits records tied to our vendors\n\nWhat do you like best about Algoworks?\nits fairly comprehensive.  I haven't heard anyone from our team having negative things to say about the service or their experiences they've had\n\nWhat do you dislike about Algoworks?\nnone so far, the PO  is usually the person who receives feedback but I haven't heard anything",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Yee C.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/6e606fbd-9b11-4440-853d-033a10ae658c"
+                },
+                "publish_date": "2018-09-17",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-879188"
+            },
+            {
+                "review_id": 455885,
+                "review_title": "An amazing development company to work with!",
+                "review_content": "Describe the project or task Algoworks helped with:\nA platform for people interested in learning about Salesforce, sharing ideas around it, and building a strong community of Salesforce lovers. It is a forum, a blog/infographic/video posting platform, and an app showcasing portal, all in one place.\n\nWhat do you like best about Algoworks?\nThey met deadlines and worked efficiently to deliver the project. Their task managing skills are amazing. They are always ready with robust solutions and are well versed with the technologies that we needed help in. We had a spectacular experience with Algoworks and would love to work with them in the future.\n\nWhat do you dislike about Algoworks?\nI did not find anything worth disliking about the company. It is hard to point out mistakes when a team is hard working and honest. I had one of the best experiences with them.\n\nRecommendations to others considering Algoworks:\nAlgoworks has a highly responsible team. They are almost always available to communicate with you. They deliver their work within deadline and give a spectacular experience. The proactive members of the team made it easy to come up with accurate solutions. They are honest and accountable people to work with.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Vivek P.",
+                    "reviewer_job_title": "Business Head",
+                    "reviewer_link": "https://www.g2.com/users/0f94dde8-1779-46a7-88bc-e0bbeb946dc9"
+                },
+                "publish_date": "2017-11-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-455885"
+            },
+            {
+                "review_id": 472991,
+                "review_title": "A great company to work with!",
+                "review_content": "Describe the project or task Algoworks helped with:\nWe hired Algoworks for one of our clients who needed help in allowing their customers to connect their Salesforce instance with their main billing platform.\n\nWhat do you like best about Algoworks?\nAlgoworks has a skilled team. They have immense knowledge of the domain. The way they understood the requirement with such ease was applaudable.\n\nWhat do you dislike about Algoworks?\nThere was nothing to dislike, we had good experience with them.\n\nRecommendations to others considering Algoworks:\nI will highly recommend Algoworks because they provide quick support.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Sachin B.",
+                    "reviewer_job_title": "Co-Founder and CEO",
+                    "reviewer_link": "https://www.g2.com/users/3f7c2710-acb0-46f3-aa6e-6f2efdcc909f"
+                },
+                "publish_date": "2017-11-21",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-472991"
+            },
+            {
+                "review_id": 517197,
+                "review_title": "Experienced mobile app development at a fair price",
+                "review_content": "Describe the project or task Algoworks helped with:\nWe were looking to implement a small application that allowed our internal employees check pertinent information about our operations. We worked with Algoworks to create just an app. They were extremely helpful throughout the entire process and was able to deliver to us a mobile app that met all of our expectations.\n\nWhat do you like best about Algoworks?\nThe best part about Algoworks is their commitment to the customer. Everyone we worked with was extremely friendly and guided us through the entire process. All of our questions were answered and they made sure we were always kept abreast of any changes or developments.\n\nWhat do you dislike about Algoworks?\nThe only part we disliked was the time-frame it took to complete the project. However, we definitely understand that they are extremely busy and may not be able to commit to an aggressive timeline.\n\nRecommendations to others considering Algoworks:\nI highly recommend giving Algoworks a try. They are a great company!",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-01-02",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-517197"
+            },
+            {
+                "review_id": 517200,
+                "review_title": "Great Communication!",
+                "review_content": "Describe the project or task Algoworks helped with:\nAlgoworks provided end-to-end design and development for a new platform that was seeking to launch an MVP product to generate crowdfunding interest.\n\nWhat do you like best about Algoworks?\nCommunication is the most important thing since we are an offshore company, and Algoworks has been fantastic in that regard.\n\nWhat do you dislike about Algoworks?\nWe have only worked with them for a month, so it is the early days, but so far I cannot say if there is a need for improvement. Nothing comes to mind. I'm really happy with their communication and quality of work. There have been a couple of variations in the way that I was going along with things, and they have been accommodating without any extra cost. So far, it's been a great journey.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-12-21",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-517200"
+            },
+            {
+                "review_id": 512895,
+                "review_title": "A Great opportunity to with the company",
+                "review_content": "Describe the project or task Algoworks helped with:\nAlgoworks has a great team which provides on-time delivery, great support and meets delivery deadlines. They are ready with concrete solutions and have a great team to work with. It is a thrilling experience for the team and company.\n\nWhat do you like best about Algoworks?\nAlgoworks is sincere and dedicated to work with my company from the start. They have always met deadlines and are proactive to solve problems.\n\nWhat do you dislike about Algoworks?\nFrom my experience, I feel there is nothing that is to be disliked about the company. It had made deliveries in time and had the best support.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Sudheer R.",
+                    "reviewer_job_title": "Big Data Developer",
+                    "reviewer_link": "https://www.g2.com/users/0a384b32-9f1d-4ce9-a5d1-2e069003a8c3"
+                },
+                "publish_date": "2017-12-19",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-512895"
+            },
+            {
+                "review_id": 477964,
+                "review_title": "Had a fantastic experience working with Algoworks!",
+                "review_content": "Describe the project or task Algoworks helped with:\nOne of our clients, who is a healthcare service provider, needed a Salesforce community based web and mobile solution. They wanted a web portal that was user friendly, and wanted to connect physicians, patients, corporations and insurance providers associated with them on a single platform.\n\nWhat do you like best about Algoworks?\nAlgoworks has a great working environment. Their way of managing tasks is amazing. We never faced any delay of work from their side. They are hard working people and their work reflects professionalism.\n\nWhat do you dislike about Algoworks?\nNothing. Working with them was a great experience.\n\nRecommendations to others considering Algoworks:\nI would highly recommend Algoworks for their quality of work.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Akshat J.",
+                    "reviewer_job_title": "Founder & Director",
+                    "reviewer_link": "https://www.g2.com/users/2f62e4da-1e1e-48d2-aed5-692bf2816131"
+                },
+                "publish_date": "2017-11-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-477964"
+            },
+            {
+                "review_id": 473951,
+                "review_title": "Hard working team, positive people",
+                "review_content": "Describe the project or task Algoworks helped with:\nWe hired Algoworks for a construction company who wanted Inventory management, quote management and document management through Salesforce. As they were using a software already, they needed added capabilities in their solution to interact intelligently and in real time.\n\nWhat do you like best about Algoworks?\nThe team manages projects amazingly and their way of working is great. They delivered our project in time. They are very hardworking and honest people.\n\nWhat do you dislike about Algoworks?\nI did not dislike anything. No complaints from Algoworks at all.\n\nRecommendations to others considering Algoworks:\nHighly recommended company. Their way of working and managing projects is appreciable.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Aliyah M.",
+                    "reviewer_job_title": "Contributing Author",
+                    "reviewer_link": "https://www.g2.com/users/0dc43975-586e-469e-b2b3-ffa29b963571"
+                },
+                "publish_date": "2017-11-22",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-473951"
+            },
+            {
+                "review_id": 477945,
+                "review_title": "Great service, had an amazing experience!",
+                "review_content": "Describe the project or task Algoworks helped with:\nOur client who is a telecommunication service provider was using SharePoint as a content management tool, and Microsoft 365 suite for calculating quotes, generating proposal, and creating invoices. They needed a single solution to accomplish all the tasks on a same platform and reduce the count of number-of-actions-per-process for all their business processes. They also wanted a platform to keep track of their potential opportunities and relationships with current customers.\n\nWhat do you like best about Algoworks?\nThey have extensive knowledge and know how to manage such complicated projects.\n\nWhat do you dislike about Algoworks?\nI did not find any flaw and was very happy with the project. Nothing to dislike.\n\nRecommendations to others considering Algoworks:\nAlgoworks is highly recommended from my side. They are great with Salesforce projects.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Mudit S.",
+                    "reviewer_job_title": "Director Product and Growth",
+                    "reviewer_link": "https://www.g2.com/users/79e9b167-6a44-48a0-ac82-2823fba55786"
+                },
+                "publish_date": "2017-11-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-477945"
+            },
+            {
+                "review_id": 474714,
+                "review_title": " A great company!",
+                "review_content": "Describe the project or task Algoworks helped with:\nOur client wanted to speed up their lead gathering process. They were using NetSuite as their original CRM platform since they were more interested in NetSuite's resource management capabilities.\n\nWhat do you like best about Algoworks?\nThey are very skilled in their work. They carry immense knowledge of the domain.\n\nWhat do you dislike about Algoworks?\nEverything was perfect about Algoworks. Didn't dislike anything.\n\nRecommendations to others considering Algoworks:\nI highly recommend Algoworks to everyone. Had a great time working with them.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Raghu Raaj S.",
+                    "reviewer_job_title": "Founder",
+                    "reviewer_link": "https://www.g2.com/users/962842aa-518d-4076-a99d-ce15e764041a"
+                },
+                "publish_date": "2017-11-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-474714"
+            },
+            {
+                "review_id": 478186,
+                "review_title": "i can find anything i want suggest my cidea's lett anithing be created add any idea or find recource",
+                "review_content": "Describe the project or task Algoworks helped with:\nit' directly overflow of networking and growing every minute trough computer to smartphone to to tablet\n\nWhat do you like best about Algoworks?\ncombining a more efficiant system coonecting multinationals company's the system networking platform so accesable for antone any age\n\nWhat do you dislike about Algoworks?\noffcource we will be constantly updating wish is good\n\nRecommendations to others considering Algoworks:\nAvailable in i-tunes store",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "peter d.",
+                    "reviewer_job_title": "CEO",
+                    "reviewer_link": "https://www.g2.com/users/c9fd3c01-413f-485d-ad2c-44931429581f"
+                },
+                "publish_date": "2017-11-28",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-478186"
+            },
+            {
+                "review_id": 474194,
+                "review_title": "One of the best companies to work with!",
+                "review_content": "Describe the project or task Algoworks helped with:\nMy client, an E-Commerce company, was already using Salesforce for tracking their customer leads. They were using a separate computer telephony system to call their customers. They needed an integrated solution to keep track of their leads and for receiving and sending calls to these leads.\n\nWhat do you like best about Algoworks?\nAlgoworks has great management skills. They are punctual with project delivery.\n\nWhat do you dislike about Algoworks?\nThere is nothing to dislike about Algoworks. They were perfect!\n\nRecommendations to others considering Algoworks:\nI highly recommend Algoworks to others. Had a good experience with them.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jay S.",
+                    "reviewer_job_title": "Founder & Director",
+                    "reviewer_link": "https://www.g2.com/users/03af7859-604e-4918-bf54-c9c8ab5820fd"
+                },
+                "publish_date": "2017-11-22",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-474194"
+            },
+            {
+                "review_id": 520722,
+                "review_title": "Algoworks ",
+                "review_content": "Describe the project or task Algoworks helped with:\nThey are provinding performance testing support.\n\nWhat do you like best about Algoworks?\nThey provide great service and support throughout the process.\n\nWhat do you dislike about Algoworks?\nSo far they have been very supportive with our team.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-12-26",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-520722"
+            },
+            {
+                "review_id": 212358,
+                "review_title": "Algoworks",
+                "review_content": "Describe the project or task Algoworks helped with:\nGood platform to build apps without having any devlelopment experience. It makes life alot easier and less time consuming\n\nWhat do you like best about Algoworks?\nmakes life easier for app development, No more having to hire off shore resources\n\nWhat do you dislike about Algoworks?\nIt is a big expensive and often times their support isnt the best",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "Philip T.",
+                    "reviewer_job_title": "SVP of Publisher Development",
+                    "reviewer_link": "https://www.g2.com/users/b8d41b20-d7d9-48f4-9385-ff328f77ab16"
+                },
+                "publish_date": "2016-12-21",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/algoworks/reviews/algoworks-review-212358"
+            }
+        ]
+    },
+    "error": null
+}

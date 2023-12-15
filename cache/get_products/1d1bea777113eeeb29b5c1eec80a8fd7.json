@@ -1,0 +1,135 @@
+{
+    "data": {
+        "product_id": 22373,
+        "product_name": "Affirma Consulting",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5c7a9c591cfac60ba64f9f8da1a7356f/affirma-consulting.jpeg",
+        "g2_link": "https://www.g2.com/products/affirma-consulting/reviews",
+        "what_is": "Affirma is a full-service technology services agency specializing in Cloud, Data & Analytics, SharePoint, Office 365, Infrastructure, Custom Development, Visual Design, and Marketing Services. We focus on delivering true, measurable business value to our clients and have a passion for customer satisfaction.\n\nFor the past 17 years, Affirma has worked on thousands of projects for top companies including Microsoft, the Seattle Art Museum, Children's Hospital, Starbucks, Blue Nile, TreeTop, MoneyTree, and many more.",
+        "product_description": "Affirma is a service technology consultancy that provide expertise in Mobile, Cloud, Business Intelligence, SharePoint, Technology Infrastructure, Custom Development, Visual Design, Staffing Services, CRM, and Marketing Automation.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 18060,
+        "seller": "Affirma Consulting",
+        "company_phone": null,
+        "company_location": "Bellevue, WA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/affirma-consulting/discuss",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/affirmaconsult",
+        "number_of_followers_on_twitter": 386,
+        "linkedin": "https://www.linkedin.com/company/87677",
+        "number_of_employees_on_linkedin": 400,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "HubSpot Consulting Services",
+                "category_link": "https://www.g2.com/categories/hubspot-consulting-services"
+            },
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "https://www.g2.com/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            },
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "User Experience (UX) Design Services",
+                "category_link": "https://www.g2.com/categories/user-experience-ux-design-services"
+            },
+            {
+                "category_name": "Android Developers",
+                "category_link": "https://www.g2.com/categories/android-developers"
+            },
+            {
+                "category_name": "Business Intelligence (BI) Consulting",
+                "category_link": "https://www.g2.com/categories/business-intelligence-bi-consulting"
+            },
+            {
+                "category_name": "Marketing Automation Consulting",
+                "category_link": "https://www.g2.com/categories/marketing-automation-consulting"
+            },
+            {
+                "category_name": "Cross-Platform Developers",
+                "category_link": "https://www.g2.com/categories/cross-platform-developers"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "https://www.g2.com/products/webdew/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 187
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "https://www.g2.com/products/webfx/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 176
+            },
+            {
+                "competitor_name": "CIENCE",
+                "competitor_link": "https://www.g2.com/products/cience/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 168
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/affirma-consulting/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 6735049,
+                "review_title": "Great experience with Affirma",
+                "review_content": "What do you like best about Affirma Consulting?\nPersonalized attention and attention to detail. Laid everything out in layment terms.\n\nWhat do you dislike about Affirma Consulting?\nNothing really! The pricing could have been lower but that's about it. Consulting is always expensive.\n\nRecommendations to others considering Affirma Consulting:\nHave someone refer you.\n\nWhat problems is Affirma Consulting solving and how is that benefiting you?\nHelped with our HubSpot questions - very knowledgeable and trusting. Took time to listen to us. Helped with productivity. Led with empathy.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Anna M.",
+                    "reviewer_job_title": "Email Template Designer",
+                    "reviewer_link": "https://www.g2.com/users/cb503a0f-70a3-4df2-9b76-391d43269269"
+                },
+                "publish_date": "2022-06-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/affirma-consulting/reviews/affirma-consulting-review-6735049"
+            }
+        ]
+    },
+    "error": null
+}

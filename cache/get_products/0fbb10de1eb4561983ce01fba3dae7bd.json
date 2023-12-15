@@ -1,0 +1,108 @@
+{
+    "data": {
+        "product_id": 2673,
+        "product_name": "Aphidas",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6d3eff3a59c6ae9f108444b2d0a40b48/aphidas.jpg",
+        "g2_link": "https://www.g2.com/products/aphidas/reviews",
+        "what_is": "Aphidas is a cloud solution provider offering both products and professional services to help enterprises accelerate their adoption of cloud computing.",
+        "product_description": "Aphidas is a cloud solution provider offering both products and professional services to help enterprises accelerate their adoption of cloud computing.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 1953,
+        "seller": "Aphidas",
+        "company_phone": null,
+        "company_location": "Dubai, UAE.",
+        "company_founded_year": 2009,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/aphidas/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/aphidas1",
+        "number_of_followers_on_twitter": 213,
+        "linkedin": "https://www.linkedin.com/company/aphidas",
+        "number_of_employees_on_linkedin": 14,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "https://www.g2.com/categories/salesforce-consulting-services"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/29885/Aphidas_screenshot1.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/29886/Aphidas_screenshot2.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/29887/Aphidas_screenshot3.jpg"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Access Global Group",
+                "competitor_link": "https://www.g2.com/products/access-global-group/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 88
+            },
+            {
+                "competitor_name": "SevenPoints",
+                "competitor_link": "https://www.g2.com/products/sevenpoints/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 70
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/aphidas/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 2134814,
+                "review_title": "Awesome CRM Implementer, provider and consultancy.",
+                "review_content": "Describe the project or task Aphidas helped with:\nAphidas has successfully assisted my clients to easily implement and customize salesforce.com within the shortest time possible. The company also provided a wide range of both Mobile and PC based software solutions to my clients for Aura ATS , for asset management and tracking, marketing analysis, accounting and inventory management, Bank Facility Management services, Material Requirement Planning.\n\nWhat do you like best about Aphidas?\nIn my line of work as an IT consultant, I usually recommend Aphidas to my clients because of its reputation and quality services they offer. Aphidas is the leading partner of choice for salesforce.com implementation and what i like about the company is they are responsive, knowledgeable and extremely professional. Apart from being a leading salesforce.com implementer the company also provide a wide range of both Mobile and PC based software. Some of these solutions are;\n1. Aura ATS , for asset management and tracking\n2. Aura MAS, for marketing analysis\n3.Aura AIMS, for Accountsand inventory management.\n4. Aura BFM, Bank Facility Management System\n5.Aura MRP, Material Requirement Planning System\n\nWhat do you dislike about Aphidas?\nApart from being an excellent solutions provider, in my view one disadvantage is the fact that the solutions The company provide is that it can be quite expensive for start up organizations.\n\nRecommendations to others considering Aphidas:\nI strongly recommend Aphidas to those organizations seeking a consultancy firm in CRM implementation, Business process automation and business cloud solutions.\n\nWhat problems is Aphidas solving and how is that benefiting you?\nAphidas has enabled my clients and their organizations successfully automate business processes thus increasing service delivery, reducing costs and improving operations of the business in general.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Andrew K.",
+                    "reviewer_job_title": "Information Technology Business Consultant",
+                    "reviewer_link": "https://www.g2.com/users/81c3703f-012a-4d4a-85cb-792448617c02"
+                },
+                "publish_date": "2019-04-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/aphidas/reviews/aphidas-review-2134814"
+            }
+        ]
+    },
+    "error": null
+}

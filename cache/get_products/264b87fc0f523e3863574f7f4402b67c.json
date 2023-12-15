@@ -1,0 +1,111 @@
+{
+    "data": {
+        "product_id": 23048,
+        "product_name": "AccessPoint",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_40e83557c44156389f2b839fe1c67b97/accesspoint.jpeg",
+        "g2_link": "https://www.g2.com/products/accesspoint/reviews",
+        "what_is": "AccessPoint is an professional employer organization (PEO) that provides a multitude of human-resource services to companies across all industries.",
+        "product_description": "AccessPoint is an professional employer organization (PEO) that provides a multitude of human-resource services to companies across all industries.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 18563,
+        "seller": "AccessPoint",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/accesspoint/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Payroll Services",
+                "category_link": "https://www.g2.com/categories/payroll-services"
+            },
+            {
+                "category_name": "Benefits Consulting",
+                "category_link": "https://www.g2.com/categories/benefits-consulting"
+            },
+            {
+                "category_name": "Health & Safety",
+                "category_link": "https://www.g2.com/categories/health-safety"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "ADP Payroll Services",
+                "competitor_link": "https://www.g2.com/products/adp-payroll-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 228
+            },
+            {
+                "competitor_name": "AWS Management Tools",
+                "competitor_link": "https://www.g2.com/products/aws-management-tools/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 66
+            },
+            {
+                "competitor_name": "Lumity Benefits Solution",
+                "competitor_link": "https://www.g2.com/products/lumity-benefits-solution/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 64
+            },
+            {
+                "competitor_name": "ADP Comprehensive Services",
+                "competitor_link": "https://www.g2.com/products/adp-comprehensive-services/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 51
+            },
+            {
+                "competitor_name": "Zenefits Services",
+                "competitor_link": "https://www.g2.com/products/zenefits-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 31
+            },
+            {
+                "competitor_name": "Insperity Workforce Optimization",
+                "competitor_link": "https://www.g2.com/products/insperity-workforce-optimization/reviews",
+                "competitor_rating": 3.7,
+                "competitor_reviews": 30
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/accesspoint/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 482256,
+                "review_title": "Importance of g2crowd",
+                "review_content": "Describe the project or task AccessPoint helped with:\nAccess point helps companies to get the details or informations of the employees\n\nWhat do you like best about AccessPoint?\nWhat I like best is the fact you could keep informations of employees\n\nWhat do you dislike about AccessPoint?\nWhat I dislike is the fact that it's difficult to master at first\n\nRecommendations to others considering AccessPoint:\nAccess point is the best you could use to compile the information of your employees and also know how to manage their health and safety",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ejiro S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/5dcbac4a-be9e-44db-9c7e-3d0c21ae151f"
+                },
+                "publish_date": "2017-11-30",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accesspoint/reviews/accesspoint-review-482256"
+            }
+        ]
+    },
+    "error": null
+}

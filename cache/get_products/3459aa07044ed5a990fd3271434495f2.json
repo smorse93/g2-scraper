@@ -1,0 +1,126 @@
+{
+    "data": {
+        "product_id": 23964,
+        "product_name": "AccelCRM",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_52ce5aa95774e3ed898f2d76bbbaaef0/accelcrm.jpg",
+        "g2_link": "https://www.g2.com/products/accelcrm/reviews",
+        "what_is": "AccelCRM is dedicated to being your trusted resource for a CRM implementation that keep your business running smoothly and efficiently.",
+        "product_description": "AccelCRM is dedicated to being your trusted resource for a CRM implementation that keep your business running smoothly and efficiently.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 2,
+        "company_id": 19218,
+        "seller": "AccelCRM",
+        "company_phone": null,
+        "company_location": "Edegem, Belgium",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/accelcrm/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AccelCRM",
+        "number_of_followers_on_twitter": 13,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "Infor Consulting Services",
+                "category_link": "https://www.g2.com/categories/infor-consulting-services"
+            },
+            {
+                "category_name": "Infor CRM Resellers",
+                "category_link": "https://www.g2.com/categories/infor-crm-resellers"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 110
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "Wipro",
+                "competitor_link": "https://www.g2.com/products/wipro/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 41
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 2
+        },
+        "g2_reviews_link": "https://www.g2.com/products/accelcrm/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7634666,
+                "review_title": "Best CRM solutions",
+                "review_content": "What do you like best about AccelCRM?\nThe implementation and the training services they provide are a little complex. Having such a large variety of working in different domains they are little messed up with the working.\n\nWhat do you dislike about AccelCRM?\nThere is nothing to dislike, but they can improve their system and the visual layout of their services and solutions. It is little difficult to find all the services which are availble.\n\nWhat problems is AccelCRM solving and how is that benefiting you?\nIt helps to develops CRM solutions. It let me manage my customers and their requirements to be resolved quickly with answers provided by AccelCRM. This also helps me to get the perfect and domain-specific oriented solutions.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Vikash K.",
+                    "reviewer_job_title": "Frontend Developer",
+                    "reviewer_link": "https://www.g2.com/users/3427b1d8-f2d0-44d3-94dc-7499174c0c59"
+                },
+                "publish_date": "2023-01-24",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accelcrm/reviews/accelcrm-review-7634666"
+            },
+            {
+                "review_id": 7635320,
+                "review_title": "AccelCRM best solution provider",
+                "review_content": "What do you like best about AccelCRM?\nThe best about AccelCRM is its domain expertise-based solutions. The way the take solutions and its management is great. It also have a very good team to work with them.\n\nWhat do you dislike about AccelCRM?\nThere is not so much things to dislike, but one thing that could be noticed is that they are little slow in the process of execution of the problem. Other than that everything is good.\n\nWhat problems is AccelCRM solving and how is that benefiting you?\nAccelCRM is helping us get the quick and best solution in the manufacturing domain. It helps us to find suitable suggestions and solutions depending on our use case.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Vishakha K.",
+                    "reviewer_job_title": "Graduate Engineering Trainee",
+                    "reviewer_link": "https://www.g2.com/users/a17b276a-0539-4365-b189-676181ad1d8f"
+                },
+                "publish_date": "2023-01-25",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/accelcrm/reviews/accelcrm-review-7635320"
+            }
+        ]
+    },
+    "error": null
+}

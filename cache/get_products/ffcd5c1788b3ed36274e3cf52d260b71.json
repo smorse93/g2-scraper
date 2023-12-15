@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 27105,
+        "product_name": "Ariel",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0a31d005cf819a6cea6dcddc83ed1527/ariel.png",
+        "g2_link": "https://www.g2.com/products/ariel/reviews",
+        "what_is": "Our customized sales training curriculum teaches salespeople to adopt a problem solving orientation both internally and when interacting with clients.",
+        "product_description": "Our customized sales training curriculum teaches salespeople to adopt a problem solving orientation both internally and when interacting with clients.",
+        "positioning_against_competitor": null,
+        "rating": 4,
+        "reviews": 1,
+        "company_id": 21273,
+        "seller": "Ariel",
+        "company_phone": null,
+        "company_location": "Westport, CT",
+        "company_founded_year": 1992,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/ariel/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/TheBaronGroup",
+        "number_of_followers_on_twitter": 102,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Sales Training",
+                "category_link": "https://www.g2.com/categories/sales-training"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Winning by Design",
+                "competitor_link": "https://www.g2.com/products/winning-by-design/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 718
+            },
+            {
+                "competitor_name": "SuccessCOACHING",
+                "competitor_link": "https://www.g2.com/products/successcoaching/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 744
+            },
+            {
+                "competitor_name": "JBarrows Sales Training",
+                "competitor_link": "https://www.g2.com/products/jbarrows-sales-training/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 383
+            },
+            {
+                "competitor_name": "SaaSy Sales Leadership",
+                "competitor_link": "https://www.g2.com/products/saasy-sales-leadership/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 235
+            },
+            {
+                "competitor_name": "Growth Molecules, Customer Success",
+                "competitor_link": "https://www.g2.com/products/growth-molecules-customer-success/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 108
+            },
+            {
+                "competitor_name": "Sandler Training",
+                "competitor_link": "https://www.g2.com/products/sandler-training/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 97
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/ariel/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 309344,
+                "review_title": "Excellent PResentation on Consultative Selling",
+                "review_content": "Describe the project or task Ariel helped with:\nThe Baron Group presented a class on Consultative selling skills for our organization.\n\nWhat do you like best about Ariel?\nThere were a lot of hands on exercises and role playing which helped make the training effective\n\nWhat do you dislike about Ariel?\nThere was nothing that I did not like about the training",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Azam O.",
+                    "reviewer_job_title": "Vice President - Sales, Marketing, Engineering & Business Development",
+                    "reviewer_link": "https://www.g2.com/users/2442233d-43d3-4cad-926e-fe0d61860763"
+                },
+                "publish_date": "2017-06-13",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ariel/reviews/ariel-review-309344"
+            }
+        ]
+    },
+    "error": null
+}

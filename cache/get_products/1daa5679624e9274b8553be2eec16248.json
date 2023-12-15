@@ -1,0 +1,91 @@
+{
+    "data": {
+        "product_id": 28501,
+        "product_name": "Aptitive",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5894de7a0d40eb3360be28dad0a07ef2/aptitive.jpg",
+        "g2_link": "https://www.g2.com/products/aptitive/reviews",
+        "what_is": "Aptitive is a Chicago-based data, analytics, and data science consulting firm that helps companies to unlock the power of their data. Our consultants work with organizations to understand their business goals and help them access and analyze the data they need to achieve them.\n\nOur services cover the full ecosystem of data management including:\n\nData Strategy\nData Modernization and Warehousing \nAnalytics & Business Intelligence\nApplication & Data Integration\nData Science & Machine Learning\n\nIf you need an expert team to help you manage and take action on your data, contact Aptitive at info@aptitive.com or visit www.aptitive.com",
+        "product_description": "Aptitive is a Chicago based IT consulting firm with solutions focusing on the management, design, and development of data-centric projects. Derived from the words aptitude and innovative, Aptitive believes high aptitude consultants bring innovative solutions to empower companies with technology and solve business problems.",
+        "positioning_against_competitor": null,
+        "rating": null,
+        "reviews": "No reviews available",
+        "company_id": 22482,
+        "seller": "Aptitive",
+        "company_phone": null,
+        "company_location": "Chicago, IL",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/aptitive/discuss",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/aptitive",
+        "number_of_followers_on_twitter": 169,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "IT Outsourcing",
+                "category_link": "https://www.g2.com/categories/it-outsourcing"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/149274/A-Modern-Data-Ecosystem-For-An-Analytics-And-Valuation-Platform.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/149275/REAL-TIME-ANALYTICS-FOR-HEALTHCARE-STAFFING.png"
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "https://www.g2.com/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 162
+            },
+            {
+                "competitor_name": "Magna5",
+                "competitor_link": "https://www.g2.com/products/magna5/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "InfoObjects",
+                "competitor_link": "https://www.g2.com/products/infoobjects/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 53
+            },
+            {
+                "competitor_name": "Teravision Technologies",
+                "competitor_link": "https://www.g2.com/products/teravision-technologies/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 33
+            },
+            {
+                "competitor_name": "Designli",
+                "competitor_link": "https://www.g2.com/products/designli/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 32
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/aptitive/reviews#reviews",
+        "initial_reviews": []
+    },
+    "error": null
+}

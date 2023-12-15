@@ -1,0 +1,111 @@
+{
+    "data": {
+        "product_id": 3499,
+        "product_name": "Alithya Microsoft Practice EDGE",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4ccc8a91a0563c04553c4519e8fbcdd0/alithya-microsoft-practice-edge.png",
+        "g2_link": "https://www.g2.com/products/alithya-microsoft-practice-edge/reviews",
+        "what_is": "Alithya's Microsoft practice covers a wide array of capabilities, including Dynamics, Azure, business analytics, digital solutions, advanced analytics, application development and architecture. Focused on business outcomes, our combined companies have delivered Microsoft solutions to over 1,200 clients. Alithya's global offering is to deliver strategy and digital technology services in addition to implementing ERP and integrated solutions. Our clients, covering a large spectrum of sectors, entrust Alithya with their strategic projects across Banking, Investment and Insurance, Energy, Manufacturing, Retail and Distribution, Telecommunications, Transportation, Professional services, Healthcare and Government sectors.",
+        "product_description": "Alithya Microsoft Practice EDGE Microsoft Gold ERP & CRM Partner Delivering Value to Manufacturers",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 18037,
+        "seller": "Alithya",
+        "company_phone": null,
+        "company_location": "Montreal, Canada",
+        "company_founded_year": 1992,
+        "company_annual_revenue": "$279",
+        "company_ownership": "TSX:ALYA",
+        "discussions_link": "https://www.g2.com/products/alithya-microsoft-practice-edge/discuss",
+        "supported_languages": "English, French",
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "https://www.g2.com/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "Microsoft Dynamics CRM Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-crm-resellers"
+            },
+            {
+                "category_name": "Microsoft Dynamics AX Resellers",
+                "category_link": "https://www.g2.com/categories/microsoft-dynamics-ax-resellers"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "https://www.g2.com/products/alta-vista-technology/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 110
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Pax8",
+                "competitor_link": "https://www.g2.com/products/pax8/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 65
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/alithya-microsoft-practice-edge/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 6789296,
+                "review_title": "Alithya is your preferred partner when implementing Azure services!",
+                "review_content": "What do you like best about Alithya Microsoft Practice EDGE?\nTo be honest I really like the breadth of knowledge, services and products that Alithya offers. Their consultancy has been very helpful in getting us set up for success\n\nWhat do you dislike about Alithya Microsoft Practice EDGE?\nCurrently I dont have any major complaints or concerns with our partnership, so any dislikes are pending. Things have gone as smoothly as possible thus far, and hopefully will remain so.\n\nRecommendations to others considering Alithya Microsoft Practice EDGE:\nEnsure that you have a clear use case and business support for any spending or implementation.\n\nWhat problems is Alithya Microsoft Practice EDGE solving and how is that benefiting you?\nAs my organization is begining its journey into the cloud, and specifically working with Microsoft Azure - Alithya has emerged as a strong partner for my organization and team. I have attended a number of free Microsoft partnered trainings that Alithya has led which was super helpful. As well we do have a partnership with them on our current Azure implementation.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-06-28",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alithya-microsoft-practice-edge/reviews/alithya-microsoft-practice-edge-review-6789296"
+            }
+        ]
+    },
+    "error": null
+}

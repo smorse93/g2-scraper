@@ -1,0 +1,530 @@
+{
+    "data": {
+        "product_id": 27568,
+        "product_name": "3Play Media",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4ddb0404268a4e3686dfa90aa3ad09a6/3play-media.png",
+        "g2_link": "https://www.g2.com/products/3play-media/reviews",
+        "what_is": "We help our customers create compliant, accessible, and engaging videos, offering a range of services including closed captioning, live captioning, audio description, and translation. We serve more than 10,000 customers and process more than 7,000 hours of videos each month. \n\nOur goal is to make video accessibility easy, flexible, and scalable for our customers and aim to simplify video compliance processes by focusing on future-proofing, scalability, and automation. We provide a user-friendly platform, flexible workflows, custom APIs, and integrate seamlessly with a multitude of video players, platforms, and lecture capture systems. Our video search plugins and suite of tools save time and cut costs. \n\nWe've designed a seamless, fuss-free experience for our customers. Implementation is fast, requires minimal training, and can easily be provisioned for additional users and departments at any time. Everything is web-based and there is no software to install.\n\nOur commitment to innovation has led to 8 patents (granted and pending)-all of which focus on making our processes more efficient and less expensive. We have won numerous awards, including the 2016 Reader's Choice Award for best Closed Captioning Solution and ranked as the #1 closed captioning solution on G2 crowd.",
+        "product_description": "3Play Media provides a more technologically advanced and cost-effective captioning, audio description, and subtitling solution. We work with more than 2,000 customers across media & entertainment, enterprise and educational institutions. Our methods allow us to reduce the cost and simplify the process, while maintaining premium quality levels. We provide all major caption formats, efficient workflows, an API, and fast turnaround. 3Play Media was borne out of MIT in 2007 and operates in Boston, MA.",
+        "positioning_against_competitor": "When it comes to video compliance, we take special care to ensure our customers have peace of mind. We are dedicated to being our customers' video accessibility advisor and provide all necessary services for what customers need now - and in the future.\n\n3Play Media's secure, cloud-based, and user-friendly platform provides many capabilities for uploading, monitoring, downloading, and editing. We support large organizations with numerous users and allow for flexible billing, operational, technical, and reporting requirements.\n\nCustomers receive high-quality services rooted in forward-thinking innovation. With guaranteed 99% caption accuracy or higher, customers can always rest easy. We specialize in processing complex video content and have developed numerous technologies and trained our staff to achieve the best quality under all circumstances.  \n\nWe offer a wide range of turnaround options, including a 2-hour turnaround for urgent projects. We have SLAs on quality, deadlines, and support: so customers can \"set it and forget it.\"",
+        "rating": 4.6,
+        "reviews": 195,
+        "company_id": 21647,
+        "seller": "3Play Media",
+        "company_phone": null,
+        "company_location": "Boston, Massachusetts",
+        "company_founded_year": 2007,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/3play-media/discuss",
+        "supported_languages": "English, Spanish",
+        "twitter": "https://twitter.com/3playmedia",
+        "number_of_followers_on_twitter": 3628,
+        "linkedin": "https://www.linkedin.com/company/251283/",
+        "number_of_employees_on_linkedin": 633,
+        "product_website": "http://www.3playmedia.com/services-features/overview/",
+        "company_website": "http://www.3playmedia.com",
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Multimedia Localization",
+                "category_link": "https://www.g2.com/categories/multimedia-localization"
+            },
+            {
+                "category_name": "Transcription Services",
+                "category_link": "https://www.g2.com/categories/transcription-services"
+            },
+            {
+                "category_name": "Closed Captioning Services",
+                "category_link": "https://www.g2.com/categories/closed-captioning-services"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/111858/Login-Page.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/61389/My-Files-Page.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/111856/Integrations-with-3Play-Media.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/61393/Pricing-and-Plans.png"
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=Imo9jTMEKTc",
+            "https://www.youtube.com/watch?v=Y9lfT9nsnQ0",
+            "https://www.youtube.com/watch?v=cS1B_JAomYs",
+            "https://www.youtube.com/watch?v=W5G4N6zAy9o",
+            "https://www.youtube.com/watch?v=ByDmY6eW4Do"
+        ],
+        "download_links": [],
+        "pricing_plans": [
+            {
+                "plan_name": "Transcription",
+                "plan_description": "Easy to use and reliable transcription services brought to you by professional transcriptionists and innovative technology.",
+                "plan_features": [
+                    "99% Accuracy Guaranteed",
+                    "Flexible Turnaround",
+                    "20+ Languages",
+                    "Technical Glossary"
+                ]
+            },
+            {
+                "plan_name": "Captioning",
+                "plan_description": "Highly accurate, reliable, and simply integrated captionspowered by 3Play Media technology and professional captioners.",
+                "plan_features": [
+                    "99% Accuracy Guaranteed",
+                    "FCC, Section 508, WCAG, and ADA Compliance",
+                    "Flexible Turnarounds and Workflows",
+                    "20+ Languages"
+                ]
+            },
+            {
+                "plan_name": "Localization",
+                "plan_description": "We offer translation in 40+ languages, subtitles, live translation, and more - all with customizable workflows and 5-star support.",
+                "plan_features": [
+                    "Professional Linguists",
+                    "Integrate with Major Video Platforms",
+                    "Custom Translation Profile",
+                    "Multiple Output Formats"
+                ]
+            },
+            {
+                "plan_name": "Live Captioning",
+                "plan_description": "Highly accurate, reliable, and easy-to-schedule real-time captions powered by 3Play Media technology and professional captioners.",
+                "plan_features": [
+                    "On-Demand Scheduling",
+                    "Self-Serve Customization",
+                    "In-Platform Visibility",
+                    "Resilient Failover & Peace of Mind"
+                ]
+            },
+            {
+                "plan_name": "Audio Description",
+                "plan_description": "High-quality and competitively priced audio description services for online video.",
+                "plan_features": [
+                    "Multiple Output Formats",
+                    "Easy Order Management"
+                ]
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "Alconost",
+                "competitor_link": "https://www.g2.com/products/alconost/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 134
+            },
+            {
+                "competitor_name": "Adobe Closed Captioning",
+                "competitor_link": "https://www.g2.com/products/adobe-closed-captioning/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 15
+            },
+            {
+                "competitor_name": "BLEND Localization",
+                "competitor_link": "https://www.g2.com/products/blend-localization/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 46
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/3play-media-vs-rev",
+                "competitor_name": "Rev",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_3e4b7970c9d8febd15d4637a48256478/rev.JPG"
+            },
+            {
+                "link": "https://www.g2.com/compare/3play-media-vs-adobe-closed-captioning",
+                "competitor_name": "Adobe Closed Captioning",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_a4d4e1479785300c7d82396ec02fe12e/adobe-closed-captioning.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/3play-media-vs-verbit",
+                "competitor_name": "Verbit",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_605637e8b0a64ab0fc9bf35f6c848e5b/verbit.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 1,
+            "3": 1,
+            "4": 38,
+            "5": 155
+        },
+        "g2_reviews_link": "https://www.g2.com/products/3play-media/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 5092873,
+                "review_title": "Pima College Review of 3Play",
+                "review_content": "Describe the project or task 3Play Media helped with:\nWe continually send videos for captioning that we don't have time or workforce to complete in a timely fashion.\n\nWhat do you like best about 3Play Media?\nQuick turnaround, usually at 98-99% accuracy.  The ease of use of the website is a great help and the ability to get the output in a variety of formats has come in handy more than once.\n\nWhat do you dislike about 3Play Media?\nThere have been a few missed deadlines and if a language other than English is requested for a dual language video, the English is disregarded.  At least the English captioners made an attempt to caption the Spanish.\n\nRecommendations to others considering 3Play Media:\nWhile I am not on the Accounts Payable side of things, 3Play seems to work well with our school on that end.  We have used them for many years and will continue to do so.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nQuick turnaround of video captions, especially after the pandemic hit. All of our classes went online and there were a large number of students that needed captioning.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Eric S.",
+                    "reviewer_job_title": "Disability Laboratory Specialist",
+                    "reviewer_link": "https://www.g2.com/users/d707c446-2560-4980-8d77-44616ae92d13"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-5092873"
+            },
+            {
+                "review_id": 3903333,
+                "review_title": "Great source for captions!",
+                "review_content": "Describe the project or task 3Play Media helped with:\nWe had last minute notice that a student with a hearing impairment needed and was going to use a video in his presentation.  Of course the video that he located was not captioned.  3Play was able to caption it and with short turn around it was in the student's email well before his presentation.\n\nWhat do you like best about 3Play Media?\nCustomer Service at 3Play is responsive, efficient, and helpful.  They will guide you through the process and are ready to jump in if something becomes confusing.  I appreciate the fact that the customer has many different options for uploading videos.\n\nWhat do you dislike about 3Play Media?\nSome of the menus could be more intuitive.  Like all software and services, there are periodic changes to the website which can be confusing at first.\n\nRecommendations to others considering 3Play Media:\nI would recommend visiting the site and learning about the process of submitting videos before you actually need the video.  This will save time and you'll be able to upload the videos and make the request earlier.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nWith 3Play we can very quickly caption videos for our students.  This company is great for providing last-minute requests of captioned videos.  Their free webinars on ADA related issues are also informative and helpful.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jenny C.",
+                    "reviewer_job_title": "CATE Lab Coordinator",
+                    "reviewer_link": "https://www.g2.com/users/11549c92-ebe8-4fca-946e-50e6286ee66f"
+                },
+                "publish_date": "2023-09-13",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-3903333"
+            },
+            {
+                "review_id": 8210708,
+                "review_title": "Simple and speedy",
+                "review_content": "What do you like best about 3Play Media?\nQuick response turn around time. Typically, I can have my work captioned in a week or less, and I appreciate that they provide an expedited option for those times when we're working against tight deadlines.\n\nWhat do you dislike about 3Play Media?\nI find it inconvenient when videos are archived after a certain period. For instance, we previously added closed captions in English to a series of videos. A few years later, when we had the resources to add Spanish subtitles to the same videos, the process of unarchiving and making these changes proved to be challenging. I had to engage 3play customer support to assist in this task.\n\nRecommendations to others considering 3Play Media:\nAccessibility is a universal best practice, and 3Play simplifies the process.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n3play provides a user-friendly platform for accessibility for our educational videos, catering to individuals with disabilities, their families, and the professionals involved in their lives.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Erica D.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/26b61ea5-9f5d-4019-9628-0d55c519b5e0"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8210708"
+            },
+            {
+                "review_id": 8633699,
+                "review_title": "3Play Media solving our AODA law accessibility issues",
+                "review_content": "What do you like best about 3Play Media?\nThe ease of the user interface to submit orders, the quick turnaround times and the ability to rush requests. I really like how I am notified about everything in the account.\n\nWhat do you dislike about 3Play Media?\nThere is nothing that we dislike about 3Play Media. But we do wish the French translation would be cheaper outside of machine translations.\n\nRecommendations to others considering 3Play Media:\nI would highly recomend 3Play if you are looking to solve accesibilty issues for public facing videos. Especially for those located in Canada and need to abide to the new AODA law.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n3Play media is helping us with solving our video accesibilty issues (AODA law, in Canada) by ensuring that all videos that are public facing has the accessibilty like closed captioning and transcripts to accompany the video.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Craig R.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/e47dce5d-2ff9-4b01-b742-72cd89e00811"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8633699"
+            },
+            {
+                "review_id": 8664127,
+                "review_title": "Excellent Option",
+                "review_content": "What do you like best about 3Play Media?\nThe variety of services is the best. Within a big business there are a diverse population of global employees. To have a large amount of offerings at a low price brings a lot of value.\n\nWhat do you dislike about 3Play Media?\nI wish 3 Play had more instructions and user facing material to guide a user through the service 3 Play offers. When creating videos or subtitles, going over the various types of downloadable file types and their use cases for newer users needing captions.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n3 Play allows users to choose from a myriad of transciption options. A key piece is the point of contact, if something is wrong, 3 Play will reach out and let your organization know.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Erick J.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/614ea3c4-35de-4020-8919-554b847e4794"
+                },
+                "publish_date": "2023-09-26",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8664127"
+            },
+            {
+                "review_id": 8663997,
+                "review_title": "RELIABLE CAPTION HOUSE EAGER TO HELP",
+                "review_content": "What do you like best about 3Play Media?\nWhat I like most about 3play is the customer support. We work in mass volume and most times with short turn around. no matter the askk or issue 3play is always eager and willing to help. with real people! its not just an automated message. and if you are assigned a manager, you can contact them directly which is a major plus.\n\nWhat do you dislike about 3Play Media?\nFor the most part 3play has been awesome. but if i had to list downsides they would be:\n- scc files sometimes get rejected by clients due to lag.\n- files may not come in time before the weekened and then we have to wait until monday for assistance.\n- can not delete files (only archive)\n\nRecommendations to others considering 3Play Media:\nuse this site for caption. they have plety of options. easy to use. super helpful. they even send guides your way. even if an issue arises customer support is on top of it for the most part.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\ni do not have a business problem per say, but what i will say is that the options and tools provided on the site are super user friendly for both us and our clients.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8663997"
+            },
+            {
+                "review_id": 8659366,
+                "review_title": "3Play Media Services",
+                "review_content": "What do you like best about 3Play Media?\nTheir turnaround time is good. Their support team is very friendly and responsive.\n\nWhat do you dislike about 3Play Media?\nAudio descriptions are new to the industry so the quality of these need to be improved without 3Play requiring the client to have to refine the audio description.\n\nRecommendations to others considering 3Play Media:\nResesarch how easy it is to revise a captions already completed by the vendor when new accessibility laws are released. Review all of the services being offered and their quality, especially for audio descriptions or new requirements that are on the horizon.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n3Play Media creates captioning for our videos which helps our team maintain accessibility standards and allows us to be more productive. We use them about 5-20 times per month depending on our current project needs. It's very easy to submit an order then download the caption, as well as edit the caption when needed.\n\nIt's also nice that there is an option to have a temporary link for partners who don't have a 3Play account to directly edit captions which makes for an efficient workflow as we don't have to middle manage. There are a lot of features in the style of captioning, the final format output, and service tiers.",
+                "review_rating": 2.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-25",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8659366"
+            },
+            {
+                "review_id": 8635181,
+                "review_title": "Audio Descriptions for Big Project",
+                "review_content": "What do you like best about 3Play Media?\nThe upsides are the high quality overall and the quick turnaround when we needed to change our order\n\nWhat do you dislike about 3Play Media?\nThe only downside was that it was obvious when different people (AI?) did the AD. Nothing was wrong; the voice just wasn't 100% consistent. This wasn't a problem for us.\n\nRecommendations to others considering 3Play Media:\nTalk to them in advance to figure out what your needs are.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nMy company was working on a very big project with around 150 video clips that needed audio descriptions and closed captions related to an important test for our stakeholders. The AD had to read a very specific way, as test scores can be impacted by how these video clips are interpreted. 3Play did a great job providing the AD and then, when we had issues, they fixed the problems very quickly, even setting up a conference call with very short notice to help us help ourselves. When we needed to upgrade from Standard to Extended on quite a few videos, they did this for us with a very quick turnaround.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-20",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8635181"
+            },
+            {
+                "review_id": 8657816,
+                "review_title": "Quality Captioning Service",
+                "review_content": "What do you like best about 3Play Media?\nTurnaround time options are the best feature about 3Play Media.\n\nWhat do you dislike about 3Play Media?\nThe servies can get a little pricey, but the quality is worth the price.\n\nRecommendations to others considering 3Play Media:\nIf you are in need of additional captioning support, 3Play Media has an easy platform that will allow you to add multiple videos for captioning and select the turnaround time that best suits your needs. They have been an amazing support system for my program and we intend to keep using their services.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n3Play Media offers captioning services with multiple options for turnaround times, and also provide audio description services. They can provide captions in Spanish if needed, and allow us to pay as we go.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Morgan M.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/783edcd0-3b6d-43f1-b527-8eb0a7d16165"
+                },
+                "publish_date": "2023-09-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8657816"
+            },
+            {
+                "review_id": 8634411,
+                "review_title": "Easy to use captioning service",
+                "review_content": "What do you like best about 3Play Media?\nI like that 3Play provides both the .srt caption file and the .docx transcript file and we can offer this textual interpretation in multiple formats. The platform for uploading and ordering transcription is easy to use; files are easy to categorize and retrieve; and it's very easy to tweak or make edits to captions, as the platform will flag any words or phrases it's not sure of. We are a highly technical program (clinical research/healthcare) and the captioners are excellent at interpreting acronyms and medical terminology.\n\nWhat do you dislike about 3Play Media?\nWe've had some issues with invoicing and payment that I think could have been more easily resolved by a more attentive service rep. In fairness though, I work for a large university and their process for working with vendors is probably pretty cumbersom.\n\nRecommendations to others considering 3Play Media:\nThe 3Play Media captioners are typically speedy. Often they get products back to you before the stated turnaround time. I always give myself enough lead time to choose the discounted \"slower\" delivery date (instead of the \"standard time\"), but usually they deliver pretty quickly anyway.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nI run an online graduate program, and accessibility best practices and ADA standards require that we provide transcripts/captions for classes. The transcripts are also particularly useful for learners whose first language is not English, as well as neurodiverse learners.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8634411"
+            },
+            {
+                "review_id": 5093020,
+                "review_title": "My favorite captioning go-to!",
+                "review_content": "Describe the project or task 3Play Media helped with:\nI have used 3Play for closed captioning for many projects. Integration with various presentation formats is generally flawless.\n\nWhat do you like best about 3Play Media?\nI rarely have to make corrections in 3Play's output.  I love their cusomer portal, and its organizational capabilities.  Customer service is always courteous and works with me to find solutions to unusual situations.\n\nWhat do you dislike about 3Play Media?\nNot really a dislike, but this still holds true:  In order to create captions that require two languages, we had to order English and Polish, then combine the SRT files manually by ourselves. It would be nice if there was a process for this, as we had to be charged twice for the length of each video- one in English, the other in Polish. The instructor spoke both languages. We may have to do more foreign language courses in the future.\n\nRecommendations to others considering 3Play Media:\nYou get what you pay for, and even if you feel 3Play's prices are higher, that's exactly why!  There is nothing about this captioning provider that I don't like!\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nI rarely have problems, but when I do their customer support team is on it as soon as I report it.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-5093020"
+            },
+            {
+                "review_id": 8645124,
+                "review_title": "Great service - but there are areas of improvement still pending",
+                "review_content": "What do you like best about 3Play Media?\n- Easy to use interface, particularly the ability to allow internal stakeholders access to review/edit\n- Integration into YouTube channel feed makes finalized captions very easy to publish.\n\nWhat do you dislike about 3Play Media?\n- Transcription editor does not have good implementation - unable to find/replace multiple word patterns, which is necesary for improved editing\n- Customer support seems to fall back on \"not my problem, your problem\" communications too often.\n- No easy feature to implement comprehensive glossaries and branding terms, resulting in extra steps being required internally to finalized captions for technical communities.\n\nRecommendations to others considering 3Play Media:\nIf you're looking for a streamlined way to generate accessible captioning for videos, 3Play is very good at this.\nIf you are a more technical organization with specific terminology and branding needs, you will have take additional steps to clean your content up for your audience before publishing.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n- Streamlining accessible-compliant captioning workflows\n- Publishing integration with YouTube",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-21",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8645124"
+            },
+            {
+                "review_id": 8646351,
+                "review_title": "Product is worth the money.",
+                "review_content": "What do you like best about 3Play Media?\nThe quality of the product and ease of use are two items I like best.\n\nWhat do you dislike about 3Play Media?\nWe've only been using 3Play for a couple of years and have been passed off to our 3rd account rep now.  I knew the first one was leaving, but the 2nd, I had no clue and had questions outstanding.\n\nThere have also been several times recently where I've had to reach out to customer service to get a transcript or caption moving again as it had stalled.\n\nRecommendations to others considering 3Play Media:\nThe end product is well-produced and customer service is responsive when you have an issue.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n3Play is providing transcripts, captions and audio description files for a variety of media files for our Company.  They provide a very easy to understand process to select accessible media options, upload and review these files.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-10-03",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8646351"
+            },
+            {
+                "review_id": 8218141,
+                "review_title": "Very Good Service from 3Play Media",
+                "review_content": "What do you like best about 3Play Media?\nThey do a very good job of transcribing the audio from the videos I send and converting it to closed captioning in the videos.  Once I receive the draft product back, it is simple to edit and correct any typos or mistakes in the script.\n\nWhat do you dislike about 3Play Media?\nI really haven't found anything.  They are very easy to work with.  There have only been one technical issue with a video, which was resolved immediately.\n\nRecommendations to others considering 3Play Media:\nMake sure you ask about all closed captioning formats.  I was not aware of everything that was available when I first started using 3Play Media.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nWe currently have a requirement that all online training/videos must have closed captioning.  Initially, I was manually adding closed captioning to the videos and online training we create.  That is very labor intensive and was not a good use of my time.  Since I have found and used 3Play Media, it have saved me a tremendous amount of time and costs a fraction of what it did when I added it manually.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jerome Z.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/9565d500-509f-4071-83c3-281326226174"
+                },
+                "publish_date": "2023-06-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8218141"
+            },
+            {
+                "review_id": 8210886,
+                "review_title": "Subtitle placement is perhaps not their long suit",
+                "review_content": "What do you like best about 3Play Media?\n3Play's transcription service is absolutely amazing. If this is done without human intervention, I am scared of AI.\n\nWhat do you dislike about 3Play Media?\nThe caption placement, with human input, seems very stilted and even minimally comprehensible at times. I find myself spending hour upon hour making revisions.\n\nRecommendations to others considering 3Play Media:\nI would recommend 3Play wholeheartedly, but I would warn them not to think that, because it is pricey, it does the whole job. There is still a need to go through the subtitles to fill in any gaps (or \"INAUDIBLE\" words), to correct for mistakes in speach recognition, and most of all to ensure that the subtitle placements make sense and provide the readers a comfortable, easy-to-follow facsimile of the presentation. It's not that I would expect BBC quality, but the last word of a sentence dangling on to a new caption, sentences broken without any regard for sense, such things make you doubt that the placement service is worth what it costs.  Which is not to say it's not a big help.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nPreparing online presentations for consumption by the general public is more time-consuming than anyone realizes. 3Play is our major partner in this arduous process.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Paul H.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/5d672d10-d0be-4ae1-b5e0-09f8bfe4c57b"
+                },
+                "publish_date": "2023-06-13",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8210886"
+            },
+            {
+                "review_id": 8196527,
+                "review_title": "Doing it right!",
+                "review_content": "What do you like best about 3Play Media?\nThe transcription accuracy is near perfect, and the audio descriptions with their player is unmatched. When our group tried out other services and finally found 3Play, it was a no-brainer. They had everything we needed, and their quality was the best we had seen.\n\nWhat do you dislike about 3Play Media?\nIt is difficult to think of something we dislike about 3Play. If there is one thing I would like to see, it would be more features when it comes to the layout and design of their player. Functionally, it works great. However, since it is embedded using an iframe, it can be a little tricky to keep it mobile-friendly.\n\nRecommendations to others considering 3Play Media:\nBy all means, check out the other providers out there. That way, you can be confident in choosing 3Play.  They're doing it right.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nTranscripts, Captioning, and Audio Descriptions for accessible videos. We hold online workshops and record most of them. As a State/County organization, our materials need to be accessible for those with impairments. Before 3Play we weren't able to post many of our video resources. We had to rely on other means to come up with the captioning, which wasn't very accurate and took a lot of extra work and manpower to make corrections and finalize. With 3Play, we are now able to post just about every workshop we record with ease!",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "David E.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/f5794e0b-0f40-41ed-aed4-88e94b6bbc0c"
+                },
+                "publish_date": "2023-06-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8196527"
+            },
+            {
+                "review_id": 8195768,
+                "review_title": "Many services in one place",
+                "review_content": "What do you like best about 3Play Media?\nAs a non profit, our budgets are small and we need things quickly.  3Play is affordable and can provide transcriptions quickly.  I also like that after an event that 3Play has captioned, you can ask them to make the captions 100% accurate for a very small fee.  It saves my staff time and is done quickly.  I also like that you can add common words prior to the live sessions to increase accuracy.\n\nWhat do you dislike about 3Play Media?\nWhile 3Play works directly with Zoom for webinars, if you do not use the email 3Play sends to start captioning, it can be a little tricky.  It is still possible but takes a few more steps.\n\nRecommendations to others considering 3Play Media:\nWhile the live captioning costs a bit more than the regular captioning, the higher accuracy (especially if you put common words in first) is well worth it!\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nOur biggest need is captioning and transcription.  3Play offers live captioning for our live web meetings which offers a higher accuracy rate and the cost is affordable. We also use 3Play to caption and transcribe other videos we use.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Sonia S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/1276a7e8-df4f-48f9-b914-43effba211f8"
+                },
+                "publish_date": "2023-06-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8195768"
+            },
+            {
+                "review_id": 8195325,
+                "review_title": "Efficient Resource for Captions",
+                "review_content": "What do you like best about 3Play Media?\nI love the speed at which my caption requests are fulfilled. I can always count on 3Play Media for prompt responses to my needs. The caption service is often accurate, and also handles long-form content well. Plus, it is easy to make corrections if necessary.\n\nWhat do you dislike about 3Play Media?\nSometimes transcripts could be more accurately done. 3Play Media tends to do well with sources that are clear, but struggles to keep up with common vernacular like \"ums\" and \"uhs.\"\n\nRecommendations to others considering 3Play Media:\nIf you're in a pinch, go for it. 3Play offers the fastest turnaround time I have seen for captioning service (yes, even for long-form media), and makes it easy to correct any mistakes! I have not been disappointed by using this service.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nThe biggest problem 3Play Media has helped me solve is time. While I have had to make small corrections to 3Play Media transcripts, they are worth the quick turnaround time for all of my captioning needs.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Drea G.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/80535604-7d8f-48be-9436-023211156b4f"
+                },
+                "publish_date": "2023-06-08",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8195325"
+            },
+            {
+                "review_id": 8633508,
+                "review_title": "Quality Consistent Subtitles & Translations",
+                "review_content": "What do you like best about 3Play Media?\nLove the options to choose different turnaround times for subtitles based on my needs, and all the helpful translation options. But the ability to simply click a button to postback to YouTube makes my life much easier!\n\nWhat do you dislike about 3Play Media?\nEditing flagged translation excerpts is cumbersome and hard to do; I wish this was simpler. I would also like more information about the quality of translations.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\n3Play Media makes the entire process of ordering & posting subtitles for my YouTube videos easy. Also, the ability to order translations in various languages is fantastic, too!",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Alexis S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/93703b64-550d-405e-b878-ec6fede86549"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8633508"
+            },
+            {
+                "review_id": 8642749,
+                "review_title": "3PlayMedia is an easy to use captioning and transcription service",
+                "review_content": "What do you like best about 3Play Media?\nI like that 3PlayMedia's platform for ordering captions is easy to use and customer service is quick and responsive. Because it is so easy to use, one does not need much training to get started.\n\nWhat do you dislike about 3Play Media?\nSometimes, it takes a while to upload a video to 3PlayMedia, but that is only if the video is very large. There is a GB limit on the video that you can upload, so one would just need to be aware of that.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nI needed to caption the videos of an online course that I helped create so that our videos are accessible to all learners. I, personally, have heard that learners around the world appreciate the captions, especially if English is not their first language.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-21",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8642749"
+            },
+            {
+                "review_id": 8633319,
+                "review_title": "3Play Media has been our go-to captioning platform.",
+                "review_content": "What do you like best about 3Play Media?\nI like that I can easily upload a potential project to get a cost estimate and timeline before making a decision.\n\nWhat do you dislike about 3Play Media?\nWe've found that their per-minute cost is higher than other similiar human captioning services.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nWe first started using 3Play Media's captioning services because of its integration with Panopto. We've continued turning to 3Play separate from this integration for a variety of accessibility services since. Their platform is easy to use and the process, price and timeline are clearly outlined. Highly recommend.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Krista V.",
+                    "reviewer_job_title": "Executive Director",
+                    "reviewer_link": "https://www.g2.com/users/7b8bee3d-19e3-4528-a9f9-05d5ca54b940"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8633319"
+            },
+            {
+                "review_id": 8663931,
+                "review_title": "A needed service delivered well",
+                "review_content": "What do you like best about 3Play Media?\nThe ease of use for the service that is integrated within our current toolset.\n\nWhat do you dislike about 3Play Media?\nThe service is expensive but the quality does not improve with the expense, just the time it takes to deliver the captions (rate per minute is higher when fast turnaround time is needed)\n\nRecommendations to others considering 3Play Media:\nTry it out, and you'll see that it is high quality and value.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nWe have a requirement to provide captions to recordings for ADA compliance accommodations, and 3Play has been able to make that easy for us. We use an integration with our recording software that makes it easy to caption and bill for the service we need, at differing service levels depending on budget and need.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-26",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8663931"
+            },
+            {
+                "review_id": 8195482,
+                "review_title": "A Great Experience Across The Board",
+                "review_content": "What do you like best about 3Play Media?\nReal Video Production Co. did our homework, and 3Play Media was by far the most affordable and fastest option for our translating needs.\n\nWhat do you dislike about 3Play Media?\nWe had to jump through an extra hoop of translating the native .SRT file through an additional service to get the subtitle file back to english for editing.\n\nRecommendations to others considering 3Play Media:\nI suggest doing your research, and seeing what services are out there and if they satisfy your needs.  3Play was just so easy, quick, and accurate for the price.  It was the right translation service for us given the constraints of our budget.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nWe produced videos for an international client and needed translations and transcriptions generated to turn around quick edits. 3Play Media made that possible.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Daniel S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/eeaf370d-a602-4ada-b385-a2a5f61346d5"
+                },
+                "publish_date": "2023-06-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8195482"
+            },
+            {
+                "review_id": 8214567,
+                "review_title": "MANY subtitles produced very efficiently",
+                "review_content": "What do you like best about 3Play Media?\n3Play Media integrates well with most of our online systems. This means that the workflow for producing subtitled content is very straightforward for our institution.\n\nThe internal editor on the 3Play website is also excellent to use compared to other software I have tried, so making simple adjustments (to usually very good transcripts) is very simple.\n\nWhat do you dislike about 3Play Media?\nThe cost can be quite high for rough, uncut video content for which an early transcript can help with the editing process. This doesn't necessarily need to be 'final' quality, so a draft price for early transcripts would be beneficial.\n\nRecommendations to others considering 3Play Media:\nMake sure that you are giving yourself plenty of time to produce subtitles/transcripts for your videos. This will mean that you can have them produced at a much cheaper (non-expediated) rate.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nIn order for our online video content to be accessibility compliant, subtitles and transcripts must be provided. The accuracy of 3Play output is extremely high, and we can trust what they return is generally good enough to go online with our content.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-06-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8214567"
+            },
+            {
+                "review_id": 8200174,
+                "review_title": "Best tool to manage videos and transcriptions",
+                "review_content": "What do you like best about 3Play Media?\nOne of the notable aspects of 3Play Media is its commitment to delivering accurate captions, transcripts, and audio descriptions. Their technology and processes strive to ensure high-quality results, which can be crucial for accessibility compliance and providing an inclusive experience for all users.\n\nWhat do you dislike about 3Play Media?\nhe software's interface appeared cluttered and unintuitive, making it challenging for users to navigate and locate essential features. The placement of certain buttons and menus seemed arbitrary and did not align with common design patterns that users are accustomed to. This resulted in a steep learning curve for new users and an inefficient workflow for experienced ones.\n\nWhat problems is 3Play Media solving and how is that benefiting you?\nAccessibility Compliance: One of the primary problems that 3Play Media addresses is ensuring accessibility compliance for digital media content. Laws and regulations, such as the Americans with Disabilities Act (ADA) and the Web Content Accessibility Guidelines (WCAG), require that organizations make their online content accessible to individuals with disabilities. 3Play Media's services, such as captioning, transcription, and audio description, help organizations meet these compliance requirements, ensuring equal access to their content for individuals with hearing or visual impairments.\n\nInclusivity: By providing accurate captions, transcripts, and audio descriptions, 3Play Media promotes inclusivity in multimedia content. This benefits individuals with disabilities by enabling them to consume and engage with video and audio content effectively. Inclusivity is not only important for compliance but also for creating an inclusive user experience that caters to a diverse audience.\n\nImproved User Experience: Adding captions, transcripts, and audio descriptions to multimedia content enhances the user experience for all users, not just those with disabilities. Captions, for example, can be valuable in noisy environments, for non-native speakers, or in situations where audio cannot be played. Transcripts provide a searchable and navigable text version of the content, allowing users to quickly find specific information. Audio descriptions enable individuals with visual impairments to understand the visual elements of video content. These enhancements contribute to a more engaging and user-friendly experience for a broader audience.\n\nTime and Resource Efficiency: For organizations and content creators, manually transcribing and captioning multimedia content can be time-consuming and resource-intensive. 3Play Media's services automate these processes, saving time and effort for users. By outsourcing these tasks to 3Play Media, organizations can focus on their core activities while ensuring that their content is accessible and compliant.\n\nIntegration and Workflow Streamlining: 3Play Media offers integrations with popular video platforms, learning management systems, content management systems, and video players. This integration capability streamlines the workflow for users, allowing them to easily incorporate captioning and transcription services into their existing systems and processes. This reduces the friction of managing and implementing accessibility features and simplifies the overall content creation and distribution workflow.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-06-09",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/3play-media/reviews/3play-media-review-8200174"
+            }
+        ]
+    },
+    "error": null
+}

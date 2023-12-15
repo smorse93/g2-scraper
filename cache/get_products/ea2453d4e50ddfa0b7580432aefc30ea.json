@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 22996,
+        "product_name": "Applicon",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_257920bed5d95d0187d0a22aa0c08602/applicon.jpg",
+        "g2_link": "https://www.g2.com/products/applicon/reviews",
+        "what_is": "Applicon specializes in consultancy services and the development of business software.",
+        "product_description": "Applicon specializes in consultancy services and the development of business software.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1,
+        "company_id": 18518,
+        "seller": "Applicon",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/applicon/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "SAP Consulting Services",
+                "category_link": "https://www.g2.com/categories/sap-consulting-services"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "https://www.g2.com/products/accenture/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "https://www.g2.com/products/ibm-consulting/reviews",
+                "competitor_rating": 3.9,
+                "competitor_reviews": 61
+            },
+            {
+                "competitor_name": "Wipro",
+                "competitor_link": "https://www.g2.com/products/wipro/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 41
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "https://www.g2.com/products/cognizant/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 39
+            },
+            {
+                "competitor_name": "Vision33",
+                "competitor_link": "https://www.g2.com/products/vision33/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 35
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/applicon/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 4301344,
+                "review_title": "An amazing application for all social-media maneuver.",
+                "review_content": "Describe the project or task Applicon helped with:\nTo comprehend social media news accounts was never easy before this application. It's matchless in working, arranging data, musical accompaniment to social reports, and guidance to the business. Meetings can be arranged for all clients even video call is a good feature to communicate with all fellows. Emails and messages are well prepared and graphics are customized to the clients. The whole work can be done in a single sitting.\n\nWhat do you like best about Applicon?\nTo comprehend social media news accounts was never easy before this application. It's matchless in working, arranging data, musical accompaniment to social reports, and guidance to the business. Meetings can be arranged for all clients even video call is a good feature to communicate with all fellows. Emails and messages are well prepared and graphics are customized to the clients. The whole work can be done in a single sitting.\n\nWhat do you dislike about Applicon?\nA good tracker to tag and find the pricing detail, but some reviews from the company should be clear enough for clients. So, they can have a better decision about buying any product. A good application to find clients, but it's not easy sometimes to get clients on demand so this can be done by upgrading its version.\n\nWhat problems is Applicon solving and how is that benefiting you?\nWhat a safe and beneficial application to see clients and tagging the desired cost. It's an easygoing and flexible software to communicate with guests from all over the world. At that place is nothing hard to find all information is easily fixed and available anytime. Highly authorized application to operate in collaboration. My business meetings and dealings are on time and all production is sounding at ease.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Norelle  L.",
+                    "reviewer_job_title": "Program and Project Manager",
+                    "reviewer_link": "https://www.g2.com/users/aee7502a-1340-400a-8c1d-068805098c94"
+                },
+                "publish_date": "2020-07-14",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/applicon/reviews/applicon-review-4301344"
+            }
+        ]
+    },
+    "error": null
+}

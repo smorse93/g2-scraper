@@ -1,0 +1,118 @@
+{
+    "data": {
+        "product_id": 22078,
+        "product_name": "AppleOne Employment Services",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_df607b5fb51e0d2383f3be2585f2c583/appleone-employment-services.jpg",
+        "g2_link": "https://www.g2.com/products/appleone-employment-services/reviews",
+        "what_is": "AppleOne Employment Services is a full-service employment company. We view the career seeker as a client and offer total employment resources to our clients no matter where they are in their career.",
+        "product_description": "AppleOne Employment Services is a full-service employment company. We view the career seeker as a client and offer total employment resources to our clients no matter where they are in their career.",
+        "positioning_against_competitor": null,
+        "rating": 2.3,
+        "reviews": 2,
+        "company_id": 22390,
+        "seller": "ACT 1 Group, Inc.",
+        "company_phone": null,
+        "company_location": "Torrance, CA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/appleone-employment-services/discuss",
+        "supported_languages": null,
+        "twitter": null,
+        "number_of_followers_on_twitter": null,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Staffing Agencies",
+                "category_link": "https://www.g2.com/categories/staffing-agencies"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Hirewell",
+                "competitor_link": "https://www.g2.com/products/hirewell/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 311
+            },
+            {
+                "competitor_name": "Candidate Labs",
+                "competitor_link": "https://www.g2.com/products/candidate-labs/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 295
+            },
+            {
+                "competitor_name": "Supersourcing",
+                "competitor_link": "https://www.g2.com/products/supersourcing/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Sales Talent",
+                "competitor_link": "https://www.g2.com/products/sales-talent/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 85
+            },
+            {
+                "competitor_name": "Blueprint Expansion",
+                "competitor_link": "https://www.g2.com/products/blueprint-expansion/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 68
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/appleone-employment-services/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 1552586,
+                "review_title": "The best place for JOB PLACEMENT!!!",
+                "review_content": "Describe the project or task AppleOne Employment Services helped with:\nI've worked with Apple One Agency for years!  They've always found me high paying jobs that match my skill level and areas of expertise!\n\nWhat do you like best about AppleOne Employment Services?\nI love the flexibility of working for an agency as it keeps the work interesting and very challenging all at the same time.\n\nWhat do you dislike about AppleOne Employment Services?\nOnly thing i may dislike is the last minute calls after 9am which is rare.  Normally if I haven't heard from the agency before 9am, i will assume that i have a free day.\n\nRecommendations to others considering AppleOne Employment Services:\nmost definitely!!",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-01-11",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appleone-employment-services/reviews/appleone-employment-services-review-1552586"
+            },
+            {
+                "review_id": 893018,
+                "review_title": "No Work",
+                "review_content": "Describe the project or task AppleOne Employment Services helped with:\nI was looking for work as a temporary and did all the testing with high points and passed all with flying colors but agency was difficult to work with.\n\nWhat do you like best about AppleOne Employment Services?\nWhat I liked best was the location as it was closer then most agencies in the area.\n\nWhat do you dislike about AppleOne Employment Services?\nNot being placed and the employees who worked there not being attentive and organized or concerned.",
+                "review_rating": 0.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-09-24",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/appleone-employment-services/reviews/appleone-employment-services-review-893018"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,107 @@
+{
+    "data": {
+        "product_id": 23055,
+        "product_name": "Alston & Bird",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_ccd7c7e248aed20b7264f9d3064d79ab/alston-bird.jpeg",
+        "g2_link": "https://www.g2.com/products/alston-bird/reviews",
+        "what_is": "Alston & Bird is an AmLaw 50 firm.",
+        "product_description": "Alston & Bird is an AmLaw 50 firm.",
+        "positioning_against_competitor": null,
+        "rating": 5,
+        "reviews": 1,
+        "company_id": 18842,
+        "seller": "Alston & Bird",
+        "company_phone": null,
+        "company_location": "Atlanta, GA",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/alston-bird/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AlstonBirdLLP",
+        "number_of_followers_on_twitter": 6724,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Corporate Law Firms",
+                "category_link": "https://www.g2.com/categories/corporate-law-firms"
+            },
+            {
+                "category_name": "Intellectual Property (IP) Law",
+                "category_link": "https://www.g2.com/categories/intellectual-property-ip-law"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "King & Spalding",
+                "competitor_link": "https://www.g2.com/products/king-spalding/reviews",
+                "competitor_rating": 4.4,
+                "competitor_reviews": 4
+            },
+            {
+                "competitor_name": "Cooley",
+                "competitor_link": "https://www.g2.com/products/cooley/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 4
+            },
+            {
+                "competitor_name": "Allen & Overy",
+                "competitor_link": "https://www.g2.com/products/allen-overy/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 1
+            },
+            {
+                "competitor_name": "Morgan, Lewis & Bockius LLP",
+                "competitor_link": "https://www.g2.com/products/morgan-lewis-bockius-llp/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 2
+            },
+            {
+                "competitor_name": "Faegre Baker Daniels",
+                "competitor_link": "https://www.g2.com/products/faegre-baker-daniels/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 2
+            },
+            {
+                "competitor_name": "Baker Botts",
+                "competitor_link": "https://www.g2.com/products/baker-botts/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 2
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/alston-bird/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8794162,
+                "review_title": "A legitimate solution",
+                "review_content": "What do you like best about Alston & Bird?\nAlston & Bird is a recognised, dependable & client centric provider of legal services. Keeping customer satisfaction on priority, offering a user-friendly platform, strong use in frequency and implementation assistance and good customer support. A wide range of features, and seamless integration abilities they carry. Also effectively addresses various legal requirements and uphold a consistent level of excellence in their service offerings.\n\nWhat do you dislike about Alston & Bird?\nThere should be an improvement in UI design.\n\nRecommendations to others considering Alston & Bird:\nIt is highly recommendable for one who don't want to loose and looking for a betterment of their organisation.\n\nWhat problems is Alston & Bird solving and how is that benefiting you?\nIt solves legal compliances which helps in reducing penalties and fines.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Abhinav k.",
+                    "reviewer_job_title": "Security Engineer",
+                    "reviewer_link": "https://www.g2.com/users/d2c622c0-888b-4701-9299-e29c27a03da1"
+                },
+                "publish_date": "2023-11-01",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alston-bird/reviews/alston-bird-review-8794162"
+            }
+        ]
+    },
+    "error": null
+}

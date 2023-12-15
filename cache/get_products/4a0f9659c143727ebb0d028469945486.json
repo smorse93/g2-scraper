@@ -1,0 +1,107 @@
+{
+    "data": {
+        "product_id": 22773,
+        "product_name": "Alvarez & Marsal",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_81102c9038b29ced9aaff81ab0dc0109/alvarez-marsal.jpg",
+        "g2_link": "https://www.g2.com/products/alvarez-marsal/reviews",
+        "what_is": "A&M is a professional services firm that delivers performance improvement, turnaround management and business advisory services to organizations seeking to transform operations, catapult growth and accelerate results through decisive action.",
+        "product_description": "A&M is a professional services firm that delivers performance improvement, turnaround management and business advisory services to organizations seeking to transform operations, catapult growth and accelerate results through decisive action.",
+        "positioning_against_competitor": null,
+        "rating": 4.5,
+        "reviews": 1,
+        "company_id": 18348,
+        "seller": "Alvarez & Marsal",
+        "company_phone": null,
+        "company_location": "New York, NY",
+        "company_founded_year": null,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/alvarez-marsal/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/alvarezmarsal",
+        "number_of_followers_on_twitter": 6834,
+        "linkedin": null,
+        "number_of_employees_on_linkedin": null,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Management Consulting",
+                "category_link": "https://www.g2.com/categories/management-consulting"
+            },
+            {
+                "category_name": "Financial Consulting",
+                "category_link": "https://www.g2.com/categories/financial-consulting"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Skaled",
+                "competitor_link": "https://www.g2.com/products/skaled/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Bench",
+                "competitor_link": "https://www.g2.com/products/bench/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 75
+            },
+            {
+                "competitor_name": "Baker Tilly",
+                "competitor_link": "https://www.g2.com/products/baker-tilly-baker-tilly/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 66
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "Spaulding Ridge",
+                "competitor_link": "https://www.g2.com/products/spaulding-ridge/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 40
+            },
+            {
+                "competitor_name": "PricewaterhouseCoopers (PwC)",
+                "competitor_link": "https://www.g2.com/products/pricewaterhousecoopers-pwc/reviews",
+                "competitor_rating": 4.1,
+                "competitor_reviews": 34
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/alvarez-marsal/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 1357086,
+                "review_title": "I love working with Alvarez & Marsal ",
+                "review_content": "Describe the project or task Alvarez & Marsal helped with:\nAlvarez and Marsal prepared a business valuation report for our firm and they did a great job with the quality and presentation of their work. It was easy to follow, well articulated and their software generated professional quality reports that we can use.\n\nWhat do you like best about Alvarez & Marsal?\nI like the professionalism and the quality of work prepared by Alvarez & Marsal. That is important for ours and their reputation and no one wants to be caught flat-footed with lousy reports or sloppy work. Luckily, we had a pleasant experience.\n\nWhat do you dislike about Alvarez & Marsal?\nI do not like how their software does not brand their products and reports everywhere. Property branded reports should have headers, footers, logos and color schemes that coincide and go well together. It also makes the reports look nicer for presentation purposes. I recommend that they incorporate this in their letterhead and reports in Word and Excel.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-12-13",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/alvarez-marsal/reviews/alvarez-marsal-review-1357086"
+            }
+        ]
+    },
+    "error": null
+}

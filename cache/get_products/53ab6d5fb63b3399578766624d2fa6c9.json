@@ -1,0 +1,103 @@
+{
+    "data": {
+        "product_id": 22119,
+        "product_name": "Allegis Global Solutions",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_69f206727296112e8405f8983c680c12/allegis-global-solutions.jpeg",
+        "g2_link": "https://www.g2.com/products/allegis-global-solutions/reviews",
+        "what_is": "Allegis Global Solutions is platform that transform the way organization acquires talent by delivering client-focused solutions that make a difference for businesses worldwide, from refining how user manage contingent workforce to strengthening employer brand to recruit top talent,",
+        "product_description": "Allegis Global Solutions is platform that transform the way organization acquires talent by delivering client-focused solutions that make a difference for businesses worldwide, from refining how user manage contingent workforce to strengthening employer brand to recruit top talent,",
+        "positioning_against_competitor": null,
+        "rating": 3.5,
+        "reviews": 1,
+        "company_id": 17878,
+        "seller": "Allegis Global Solutions",
+        "company_phone": null,
+        "company_location": "Hanover, Maryland",
+        "company_founded_year": 2001,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/allegis-global-solutions/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/AllegisGlobal",
+        "number_of_followers_on_twitter": 8279,
+        "linkedin": "https://www.linkedin.com/company/allegis-global-solutions",
+        "number_of_employees_on_linkedin": 3020,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Recruitment Process Outsourcing (RPO)",
+                "category_link": "https://www.g2.com/categories/recruitment-process-outsourcing-rpo"
+            }
+        ],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "SecureVision",
+                "competitor_link": "https://www.g2.com/products/securevision/reviews",
+                "competitor_rating": 4.8,
+                "competitor_reviews": 494
+            },
+            {
+                "competitor_name": "Korn Ferry",
+                "competitor_link": "https://www.g2.com/products/korn-ferry/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 29
+            },
+            {
+                "competitor_name": "Lucas James Talent Partners",
+                "competitor_link": "https://www.g2.com/products/lucas-james-talent-partners/reviews",
+                "competitor_rating": 4.9,
+                "competitor_reviews": 32
+            },
+            {
+                "competitor_name": "ADP RPO",
+                "competitor_link": "https://www.g2.com/products/adp-rpo/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 10
+            },
+            {
+                "competitor_name": "Comeet Elastic Recruiting",
+                "competitor_link": "https://www.g2.com/products/comeet-elastic-recruiting/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 17
+            },
+            {
+                "competitor_name": "Rocket Recruiting",
+                "competitor_link": "https://www.g2.com/products/rocket-recruiting/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 9
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 0
+        },
+        "g2_reviews_link": "https://www.g2.com/products/allegis-global-solutions/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 240562,
+                "review_title": "Allegis Review",
+                "review_content": "Describe the project or task Allegis Global Solutions helped with:\nWe use Allegis for staff augmentation in various fields. They will get the job details from me, communicate that information to the recruiter, then deliver qualified resumes within a couple days.\n\nWhat do you like best about Allegis Global Solutions?\nUsually send over qualified candidates. They get resumes over very quickly. Always keeping me updated on the progress. Friendly sales individuals.\n\nWhat do you dislike about Allegis Global Solutions?\nThey often times try to avoid HR and go straight to the hiring managers. Even after explaining this numerous times. They tend to be more expensive then other firms.\n\nRecommendations to others considering Allegis Global Solutions:\nEnsure you communicate the ground rules before moving forward. Ensure you know what the fee structure is as well.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-02-13",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/allegis-global-solutions/reviews/allegis-global-solutions-review-240562"
+            }
+        ]
+    },
+    "error": null
+}
