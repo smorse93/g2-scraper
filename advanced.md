@@ -25,7 +25,7 @@ You can easily run the scraper in Gitpod, a browser-based development environmen
 
 For further help, contact us on WhatsApp. We'll be happy to help you out.
 
-[![Contact Us on WhatsApp](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/mwa.png)](https://wa.me/message/3WED4FYQRDPNE1)
+[![Contact Us on WhatsApp](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/mwa.png)](https://api.whatsapp.com/send?phone=918295042963&text=Hi,%20I%20would%20like%20to%20learn%20more%20about%20your%20products.)
 
 ## Love It? [Star It! ⭐](https://github.com/omkarcloud/g2-scraper/stargazers)
 
