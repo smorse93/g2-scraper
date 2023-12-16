@@ -6,7 +6,7 @@ You can easily run the scraper in Gitpod, a browser-based development environmen
 
 1. Visit [this link](https://gitpod.io/#https://github.com/omkarcloud/g2-scraper) and sign up using your GitHub account.
    
-   ![Gitpod Sign Up](https://github.com/omkarcloud/g2-scraper/assets/53407137/f498dda8-5352-4f7a-9d70-c717859670d4.png)
+   ![Gitpod Sign Up](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/open-in-gitpod.png)
   
 2. Once Signed Up, Open it in Gitpod.   
 
