@@ -142,7 +142,7 @@ G2.get_products(products, key="YOUR_API_KEY")
 python main.py
 ```   
 
-The first 50 products are free. After that, you can upgrade to the Pro Plan for scraping 1,000 products @ $9.
+The first 50 products are free. After that, you can upgrade to the Pro Plan to scrape 1,000 products for $9.
 
 ### ❓ How Are You Different from Your Competitors?
 
