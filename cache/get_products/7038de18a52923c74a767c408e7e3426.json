@@ -1,0 +1,553 @@
+{
+    "data": {
+        "product_id": 3066,
+        "product_name": "Laserfiche",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6a0e444726214c93f33d1663470ac9e0/laserfiche.jpg",
+        "g2_link": "https://www.g2.com/products/laserfiche/reviews",
+        "what_is": "Laserfiche is the leading SaaS provider of enterprise content management (ECM) and business process automation. Through powerful workflows, electronic forms, document management and analytics, Laserfiche accelerates how business gets done.\n\nLaserfiche pioneered the paperless office with enterprise content management more than 30 years ago. Today, Laserfiche is innovating with cloud, machine learning and AI to enable organizations in more than 80 countries to transform into digital businesses.",
+        "product_description": "Laserfiche is a leading global provider of enterprise content management software empowering organizations to take control of information and business processes.",
+        "positioning_against_competitor": "Laserfiche was named an industry leader in Nucleus Research's ECM Technology Value Matrix 2018. The analyst group reported that Laserfiche has a client retention rate of greater than 90 percent, finding that users choose Laserfiche for its user friendly interface, sophisticated functionality and superior customer support. Customers in every industry--including government, education, financial services and manufacturing--use Laserfiche(r) to boost productivity, scale their business and deliver digital-first customer experiences.",
+        "rating": 4.7,
+        "reviews": 700,
+        "company_id": 2280,
+        "seller": "Laserfiche",
+        "company_phone": null,
+        "company_location": "Long Beach, California",
+        "company_founded_year": 1987,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/laserfiche/discuss",
+        "supported_languages": "Arabic, German, English, French, Italian, Portuguese, Vietnamese, Chinese (Simplified)",
+        "twitter": "https://twitter.com/laserfiche",
+        "number_of_followers_on_twitter": 4932,
+        "linkedin": "https://www.linkedin.com/company/19414/",
+        "number_of_employees_on_linkedin": 412,
+        "product_website": "https://www.laserfiche.com/",
+        "company_website": "https://www.laserfiche.com/",
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Cloud Content Collaboration",
+                "category_link": "https://www.g2.com/categories/cloud-content-collaboration"
+            },
+            {
+                "category_name": "Online Form Builder",
+                "category_link": "https://www.g2.com/categories/online-form-builder"
+            },
+            {
+                "category_name": "AP Automation",
+                "category_link": "https://www.g2.com/categories/ap-automation"
+            },
+            {
+                "category_name": "Business Process Management",
+                "category_link": "https://www.g2.com/categories/business-process-management"
+            },
+            {
+                "category_name": "Robotic Process Automation (RPA)",
+                "category_link": "https://www.g2.com/categories/robotic-process-automation-rpa"
+            },
+            {
+                "category_name": "Enterprise Content Management (ECM)",
+                "category_link": "https://www.g2.com/categories/enterprise-content-management-ecm"
+            },
+            {
+                "category_name": "Digital Process Automation (DPA)",
+                "category_link": "https://www.g2.com/categories/digital-process-automation-dpa"
+            },
+            {
+                "category_name": "OCR",
+                "category_link": "https://www.g2.com/categories/ocr"
+            },
+            {
+                "category_name": "Document Scanning",
+                "category_link": "https://www.g2.com/categories/document-scanning"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/98316/Homescreen.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/98927/G2Crowd---forms.PNG",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/98318/BusinessProcessMetrics.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/100185/Records-Management.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/98926/G2Crowd---web-client.PNG",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/100476/Workflow3-2.png"
+        ],
+        "videos": [
+            "https://fast.wistia.net/embed/iframe/zto0p03qtn",
+            "https://fast.wistia.net/embed/iframe/3t2jk0ovty",
+            "https://fast.wistia.net/embed/iframe/73e46n6uwn",
+            "https://fast.wistia.net/embed/iframe/62p719738l",
+            "https://fast.wistia.net/embed/iframe/xpgh5srw9g",
+            "https://fast.wistia.net/embed/iframe/lv33ke08tk"
+        ],
+        "download_links": [
+            "https://www.g2.com/products/laserfiche/reviews#",
+            "https://www.g2.com/products/laserfiche/reviews#",
+            "https://www.g2.com/products/laserfiche/reviews#",
+            "https://www.g2.com/products/laserfiche/reviews#",
+            "https://www.g2.com/products/laserfiche/reviews#"
+        ],
+        "pricing_plans": [
+            {
+                "plan_name": "Laserfiche Cloud Starter",
+                "plan_description": "Support paperless goals with a proven document management system. Starts at 1 user.",
+                "plan_features": [
+                    "Import, store & organize files, bulk import emails and files, full-text search, customizable metadata, Microsoft 365 integration",
+                    "Collaborate across content, simultaneous document editing, document versioning, external file sharing, annotations",
+                    "Manage access to information, fine-grained access controls, redactions, offline mobile access"
+                ]
+            },
+            {
+                "plan_name": "Laserfiche Cloud Professional",
+                "plan_description": "Transform end-to-end processes with powerful automation and integration tools. Starts at 5 users.",
+                "plan_features": [
+                    "Import, store & organize files, bulk import emails and files, full-text search, customizable metadata, Microsoft 365 integration",
+                    "Collaborate across content, simultaneous document editing, document versioning, external file sharing, annotations",
+                    "Manage access to information, fine-grained access controls, redactions, offline mobile access",
+                    "Automate business processes, workflow and approval automation, process template library, robotic process automation, task management, rules management",
+                    "Build & customize forms, electronic forms and surveys, form approval routing, custom themes",
+                    "Auto-classify & auto-file documents, batch scanning, image processing, document routing",
+                    "Gain business insights, process reporting and monitoring, bottleneck analysis"
+                ]
+            },
+            {
+                "plan_name": "Laserfiche Cloud Business",
+                "plan_description": "Scale across departments with extensive administration & compliance features. Starts at 25 users.",
+                "plan_features": [
+                    "Import, store & organize files, bulk import emails and files, full-text search, customizable metadata, Microsoft 365 integration",
+                    "Collaborate across content, simultaneous document editing, document versioning, external file sharing, annotations",
+                    "Manage access to information, fine-grained access controls, redactions, offline mobile access",
+                    "Automate business processes, workflow and approval automation, process template library, robotic process automation, task management, rules management",
+                    "Build & customize forms, electronic forms and surveys, form approval routing, custom themes",
+                    "Auto-classify & auto-file documents, batch scanning, image processing, document routing",
+                    "Gain business insights, process reporting and monitoring, bottleneck analysis",
+                    "Address Compliance, records lifecycle management, automated records retention, advanced audit trail reporting, legal holds, watermarks",
+                    "Enable customer engagement, customer-initiated processes, external-facing surveys, public content hosting",
+                    "Onboard users at scale, on-demand user provisioning, bulk user management"
+                ]
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "DocuWare",
+                "competitor_link": "https://www.g2.com/products/docuware/reviews",
+                "competitor_rating": 4.5,
+                "competitor_reviews": 219
+            },
+            {
+                "competitor_name": "OnBase",
+                "competitor_link": "https://www.g2.com/products/onbase/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 170
+            },
+            {
+                "competitor_name": "Revver",
+                "competitor_link": "https://www.g2.com/products/revver/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 355
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/laserfiche-vs-onbase",
+                "competitor_name": "OnBase",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_8100c74cbf552ee03a79dbbe66f176d5/onbase.jpg"
+            },
+            {
+                "link": "https://www.g2.com/compare/laserfiche-vs-m-files",
+                "competitor_name": "M-Files",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_06018155420e099d3969ff1d73e217cf/m-files.jpg"
+            },
+            {
+                "link": "https://www.g2.com/compare/laserfiche-vs-microsoft-microsoft-sharepoint",
+                "competitor_name": "Microsoft SharePoint",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_95bef45acb27c43d4d1d84d299c45192/microsoft-microsoft-sharepoint.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 3,
+            "2": 0,
+            "3": 9,
+            "4": 117,
+            "5": 571
+        },
+        "g2_reviews_link": "https://www.g2.com/products/laserfiche/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8714861,
+                "review_title": "Fantastic Business Process Automation software that is easy to learn and use",
+                "review_content": "What do you like best about Laserfiche?\nLaserfiche is a very robust business process automation and enterprise content management software suite. It is relatively quick and easy to get the system up and going as well as create new processes for your organization. Laserfiche is used daily in our organization to process various types of documents and perform approval processes. It is intergrated with handful of our business applications using SQL, API's, etc.\n\nWhat do you dislike about Laserfiche?\nThere is a small lack of technical documentation for complicated configurations. Laserfiche Support is always helpful when these situations occur. The Laserfiche documentation has also been getting ramped up recently in this regard.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nLaserfiche solves a lot of problems for our organization. The largest issue currently is processing invoices. Invoices are brought into Laserfiche and assigned to various approvers, while also being GL coded, and sent to our ERP system for payment.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Blake S.",
+                    "reviewer_job_title": "Senior Analyst - Business Systems",
+                    "reviewer_link": "https://www.g2.com/users/385f472b-89e5-43aa-9f42-81092d85feb4"
+                },
+                "publish_date": "2023-10-10",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8714861"
+            },
+            {
+                "review_id": 8746597,
+                "review_title": "Great software with continual improvement",
+                "review_content": "What do you like best about Laserfiche?\nThe software is already amazing, but the developer clearly strives to continue improving it by having frequent customer feedback sessions. It's used daily by inexperienced users after minimal training. The developer is very active in their public forums to provide support as needed, on top of a broad provider base who also give great support. The software is capable of connecting to multiple database sources via ODBC, which allows for an external system of record and lookup lists to standardize user entry. Installing, updating, and maintaining the software is fairly straightforward, as is utilizing it for low-code development of processes.\n\nWhat do you dislike about Laserfiche?\nKnowing what version of software is currently installed, compared to the latest version available.\nReporting on Forms Processes is subpar.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nAlong with document management, we are beginning to use Laserfiche to digitize and automate various approval processes - transitioning from PDFs that move along the approval chain manually with the file being copied and emails for each step to allowing the system to notify approvers without any user being involved.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-10-19",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8746597"
+            },
+            {
+                "review_id": 945843,
+                "review_title": "Laserfiche is cheaper and has a smaller IS/IT footprint",
+                "review_content": "What do you like best about Laserfiche?\nThe ability to create my own Forms and business processes! I only depend on IS when I get stuck. There's also a fabulous Laserfiche community (Laserfiche Answers) out there willing to assist me solve the more technical or complex issues. Actually, even when I was new, they would be happy to answer the silly questions too.\n\nWhat do you dislike about Laserfiche?\nNot being able to store the native files with the PDF/TIF record. I work in a world where we are constantly revising documents. Having the Word file readily available with the record would be a huge benefit. There are some things that should be simpler to implement, but those are far and few.\n\nRecommendations to others considering Laserfiche:\nYou will require a dedicated person to support the product. If implementing Forms, once it catches on, you may require a team of people to implement the processed to be automated.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nGathering signatures. Holding people accountable for their tasks. Easy search and retrieval. We implemented a very complex design change request process that reports out daily, pings users that have delinquent tasks, and allows managers to see where tasks for their teams are in the process. Standardization and control!",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Gloria S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/8bfd2b52-ac51-42b1-98a2-98a8191c3a1d"
+                },
+                "publish_date": "2023-07-18",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-945843"
+            },
+            {
+                "review_id": 8241693,
+                "review_title": "LaserFich Forms and Workflow provided us with a secure method of automating manual processes",
+                "review_content": "What do you like best about Laserfiche?\nPomona Unified School District worked with ECS, our value-added reseller, to automate several manual processes in our student enrollment and transfers department.  The simple-to-use GUI allowed us to rapidly create the necessary intake forms and route them to the appropriate people for approval.  The documents end up in the same repository we're already using to store these forms in a digital format.  Permissions are granular enough to allow the necessary staff quick access to the documents based on contextual metadata searches.  It's a real time saver with the added benefit of tracking the form throughout the entire process.  No more finger-pointing or missing forms.\n\nWhat do you dislike about Laserfiche?\nIt seems the new forms wysiwyg designer is slowly being improved upon.  This means that not everything you want to do in the forms designer is available quite yet.  I like the ability to control where the form fields are located on the page, but I look forward to having all the customization options available.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nBefore automating, forms were getting lost or held up by multiple copies showing up at different times.  We also couldn't identify where the form was in the workflow process at any given time or who had it for how long.  With the forms automation from LaserFiche, we know exactly where the form is at any time.  It highlighted where improvements could be made and identified those on top of things.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Gino P.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/b25415ae-316d-459f-8696-a170c96652c4"
+                },
+                "publish_date": "2023-06-21",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8241693"
+            },
+            {
+                "review_id": 8352299,
+                "review_title": "Very Happy With Laserfiche for over 10 Years",
+                "review_content": "What do you like best about Laserfiche?\nBeing able to create our own folders, templates so we can process and store all of our documents. We have been using Laserfiche since 2012 and just recently updated to the new version just over a month ago.  The tools provided are very helpful with searching and finding the documents we need quickly.\n\nWhat do you dislike about Laserfiche?\nThere are no \"downsides\" Laserfiche works really well. If we ever have an issue we can just call and everyone is always nice and helpful.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nLaserfiche helps store and manage all of our cases. We no longer have to dig through our case folders to find a case that is a few years old or older, it is right at our fingertips.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Starla S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/a9927e17-aa17-4745-bb02-b7e189930e73"
+                },
+                "publish_date": "2023-07-24",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8352299"
+            },
+            {
+                "review_id": 5328465,
+                "review_title": "A Fantastic Software With Infinite Capabilities!",
+                "review_content": "What do you like best about Laserfiche?\nI am the ECM Specialist for my organization, so I appreciate the detail that is available for managing records. Workflows and automation and metadata really changes the game for me, especially since I'm new in this field!\n\nWhat do you dislike about Laserfiche?\nWhereas I feel confident with the basic functions of Laserfiche, I am somewhat overwhelmed by the depth of technical know-how needed for the back-end of things.\n\nRecommendations to others considering Laserfiche:\nReally make use of Laserfiche's resources and videos for development! I never realized how many were available and only truly saw it during Empower.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nWe are a Financial Institution, and we utilize Laserfiche forms to collect information. Primarily, however, we utilize Laserfiche to store our documents securely. We are moving to use the Record Management feature with the record series, and this is daunting but exciting!",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Amy F.",
+                    "reviewer_job_title": "ECM Specialist",
+                    "reviewer_link": "https://www.g2.com/users/77e00941-f12c-4a19-9195-4ab76d959ccb"
+                },
+                "publish_date": "2023-06-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-5328465"
+            },
+            {
+                "review_id": 5324888,
+                "review_title": "Centralized Document Management Done Right",
+                "review_content": "What do you like best about Laserfiche?\nLaserfiche takes the guesswork out of managing your documents. It shines a light on the benefit of a centralized document management system versus a network drive or other cloud-based storage.\n\nWhat do you dislike about Laserfiche?\nNothing, I love this product. It has been a lifesaver for us.\n\nRecommendations to others considering Laserfiche:\nThere is no other market tool that provides a system that manages a document's life cycle as completely as Laserfiche.  When considering their system, make sure to look at the Workflow piece, Laserfiche Forms, and Records Management as part of your solution; they work so well together that it is difficult to think of using their system without those pieces.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nWe are taking people out of the document management process.  The primary benefit is that people can focus on more value-adding work instead of spending time tracking paper, filing paper, and storing paper.  A document's life cycle should be managed electronically; not a burden people have to work.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Brenda D.",
+                    "reviewer_job_title": "Information Data Analyst",
+                    "reviewer_link": "https://www.g2.com/users/6ccd6b28-b802-484f-9975-60f36d2d7b89"
+                },
+                "publish_date": "2023-04-20",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-5324888"
+            },
+            {
+                "review_id": 4349844,
+                "review_title": "Laserfiche Business Processes",
+                "review_content": "What do you like best about Laserfiche?\nLaserfiche makes automation of business processes straightforward and effective.  Laserfiche Forms is intuitive and easy to use.  Combined with Laserfiche Workflow, you're using a powerful tool.   We also use Workflow on its own and it has improved efficiency and accuracy.  We use several products that are very useful, including Quick Fields and Import Agent.  We recently started using Laserfiche as a public portal for citizens to find information.\n\nWhat do you dislike about Laserfiche?\nThe price point is a little high for local government and the products are not all bundled.  Organizations with  a lot of users will spend more for licenses.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nInitially, document storage was a big problem and Laserfiche has greatly reduced the need for physical space. This also eliminated the need for employees to take time to physically look for files and eliminated misplaced files.  It has become much more than that - integration with third party apps and improved workflow, for example.  Our implementation of Forms has been very beneficial to our organization and is used by all departments across the county.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Shannon F.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/d88a047d-78f0-4fe8-b1d7-6a31e0ecb724"
+                },
+                "publish_date": "2023-04-04",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-4349844"
+            },
+            {
+                "review_id": 7908566,
+                "review_title": "Laserfiche Transformed Accounts Payable",
+                "review_content": "What do you like best about Laserfiche?\nLaserfiche is by far the best document management system out there for anyone who needs to automate and/or simplify their document storage system. For my org, it improved movement of documents between folders, tagging of documents with metadata, building reusable searches easily, and document retention.\n\nWhat do you dislike about Laserfiche?\nLaserfiche, like many tech platforms out there right now, is going through a transition from offering on-premises platforms, to offering a more cloud based service. As a result, many of their offerings still must cater to both types of customers, leaving their resources and development of new features accommodating both. My org itself is making the move to cloud, and with every important tech upgrade, there of course important technical and financial considerations. However, I am hopeful the switch will be relatively seamless. And once everyone else does the same, we'll be able to upgrade together and rely on the Laserfiche experts.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nLaserfiche is solving our invoice entry and document storage process. Before, because we are a governmental branch, we used to have vaults of boxes of several years worth of invoices stored away. With Laserfiche, we are able to scan these documents in to our repository, tag them, and find them so much more quickly than we were able to before. We still have some boxes (due to law), but Laserfiche has solved our retention process, making it easy to know what to keep, and when to get rid of things.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Joseph A. M.",
+                    "reviewer_job_title": "Oracle Funtional Lead",
+                    "reviewer_link": "https://www.g2.com/users/61e41e2a-bf5f-4430-a442-19036a87b1fa"
+                },
+                "publish_date": "2023-04-04",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-7908566"
+            },
+            {
+                "review_id": 7055271,
+                "review_title": "Respond Quickly With Laserfiche",
+                "review_content": "What do you like best about Laserfiche?\nDocument archiving is fantastic, but the ability to type in a word and search for it within a specific framework makes looking for historical records a quick and easy task. Keeping historical records in one location and being able to search them quickly and effortlessly is a timesaver.  Both staff and clients expect and receive responses, and Laserfiche enables me to provide them accurately and efficiently.  Couldn't do my job well without it.\n\nWhat do you dislike about Laserfiche?\nI don't know if Laserfiche will ever be evolved enough to OCR script writing, but it would have been great to have it.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nOther departments have come to depend on my ability to search historic records and provide copies of them.  Laserfiche enables me to search, download, and email documents without delay, and without the need to print, copy, and interoffice or deliver them.  Although I'm not familiar with everything Laserfiche can do, I do know that it is a lifesaver for me on a daily basis.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-06-14",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-7055271"
+            },
+            {
+                "review_id": 4237990,
+                "review_title": "Professional user for the past 3 years",
+                "review_content": "What do you like best about Laserfiche?\nThere are a few things that I like about Laserfiche. One would be the common sense logic that it uses for all of Laserfiche's suite of products. It is kind of impressive that with all of the various programs under the Laserfiche umbrella, that all are very user-friendly in their own individual ways. You can do anything and everything from an automation standpoint that you need to do. The other thing is Laserfiche's extensive list of support and resources for people such as myself, who never had that much experience with the software and can reach out for assistance at any given time. Not only that, but all of the resources are top quality and reputable. I am very big on customer service and Laserfiche marks very high in that regard.\n\nWhat do you dislike about Laserfiche?\nThis is more or less a personal preference, but all of the products are not as customizable as others. Essentially, the suite of products are uniform in some ways and not all ways. An example would be how Admin console can control some aspects of Laserfiche, but not all. Some things are stand alone and it would be nice to have a central hub for everything. Just how the Laserfiche repository holds all the data there, it would be nice to have an admin console that controls all aspects of the Laserfiche environment in one place. The only other thing would be with the elearning platform that there should be a standard Laserfiche course that is offered to all of its customers. I think this would help in giving everyone the same ground level experience  and similar point of reference with Laserfiche users. As well, this would help promote the Laserfiche learning tracks to become certified Gold, Platinum or whatever.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nLess clutter and more organization by using this paperless system. Seamless processes for previously mundane or redundant processes. The easy implementation of Laserfiche architecture and being able to deploy business wide. Finally, being able to access all the information that you need in one central, secure repository is a great thing that people take for granted, until a solution comes along and provides the option for you. Now, I do not know how I could work without it.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-06-14",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-4237990"
+            },
+            {
+                "review_id": 8168669,
+                "review_title": "Laserfiche makes it easy to have a big impact!",
+                "review_content": "What do you like best about Laserfiche?\nLaserfiche is so intuitive and makes it easy to have a big impact on your organization. It makes processes easier, faster, and more compliant. There have been many times that I've been trying to use another system that purports to offer the same features, and it's always more difficult or labor-intensive - I'm always thinking, \"This would be so much easier in Laserfiche!\" I can't recommend it enough.\n\nWhat do you dislike about Laserfiche?\nI do wish they were continuing to support their desktop client rather than pushing the web-based version, and it would be nice if the functionality of their Workflow product were instead incorporated into their Forms product, but those are minor quibbles.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nIt's automating processes that were formerly paper- or PDF-based. It makes it easier for our users/customers to complete a process, it makes the routing foolproof, and it ensures that information submitted is compliant and stored in an easy-to-access and organized way.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Faith S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/c85e9f05-0e6c-43e2-baed-4bbe2edd1b49"
+                },
+                "publish_date": "2023-06-01",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8168669"
+            },
+            {
+                "review_id": 4349680,
+                "review_title": "Improve your day-to-day operations.",
+                "review_content": "What do you like best about Laserfiche?\nIt is straightforward to assemble your processes in the different tools that Laserfiche has; its main asset is how intuitive it is to use. Other solutions are much more complex to use. Laserfiche in its basic functionalities is super easy to use.\n\nWhat do you dislike about Laserfiche?\nWhat I like least about Laserfiche is the administrative part when you use the Laserfiche Directory Server, it is very good for large companies but it adds many steps to the creation and administration of user accounts in small installations\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nWe have used it to store all the documents of the different companies, automate the online application processes, automatically process (without human intervention) permit applications, and process invoices and internal methods (HR, accounts payable, etc.)",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ricardo C.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/f8e8eb1f-1efb-45e5-9b9c-91bcfd7d7005"
+                },
+                "publish_date": "2023-05-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-4349680"
+            },
+            {
+                "review_id": 8393897,
+                "review_title": "User friendly Platform",
+                "review_content": "What do you like best about Laserfiche?\nThe ability to advanced searches is paramount as a Records Technician.  the ease of use in the program allows all levels of experience to have a positive experience with it\n\nWhat do you dislike about Laserfiche?\nWhen downloading documents, you need to click on eack line of Metadata instead of being able to hit the return and continue on.  this is cumbersome when downloading mass files.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nThe amount of time several staff members spend on gettting Records ready for the public has been affecting production.  Being able to digitize everything into laserfiche will allow us to make the records public, therefore easing the time for staff members.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-08-02",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8393897"
+            },
+            {
+                "review_id": 4291489,
+                "review_title": "Records Tech",
+                "review_content": "What do you like best about Laserfiche?\nThat it is user friendly and you can customize your screen how you like it. I also like that it is easy to set up folders and correct mistakes. The searching feature is very robust and makes it nice to be able to find documents electronically instead of searching through boxes of paper. Laserfiche import agent is also really nice, it will bring documents into Laserfiche and pair them together along with name the documents and apply a template. Being able to link a document together is also really nice so that you can find everything that may be associated to that document.  We also utilize tags, this helps us easily be able to grab things for litigation or to fulfill an open records request.  Templates are another feature I like, we use templates for all correspondence and contracts, this makes it easy to run reports for management when they need to know which contracts are about to expire. We utilize templates in some of our workflows as well for accounting to pair up invoices with the bill of lading. The templates make it much easier to find those documents. Laserfiche also has really good customer service, anytime we have needed help they have been very knowledgeable and quick to help solve any questions or issues that we have. Another pro is that when you scan a document into Laserfiche it doesn't modify the quality of the document unless you turn on the features for it do so (like despekle, rotate, etc).\n\nWhat do you dislike about Laserfiche?\nThat is doesn't alert you if a document is already in the system. That it is unable to read hand written text, this would be a really nice feature in working with our old documents and being able to find things that may not be titled very well.  It would also be nice if it would make you name a document before being able to save it into the repository, this would help cut down on users being able to save untitled documents.  There really isn't a lot to list for dislikes because they have so many positives to offer.\n\nRecommendations to others considering Laserfiche:\nJust go for it! The workflow and import agent are also so worth it and helps save time and man power.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nWe use Laserfiche to automate processes. We are also in the process of setting up our retention schedule. I have realized that Laserfiche is capable of handling everything to where there really is no other need for different software. It can route things for signatures and file the appropriately into the system so that you don't ever have to really touch paper. Another benefit of Laserfiche is that you can give everyone access but lock down things that you don't want everyone to be able to have access to.  You can also give the public access to view certain things if you wish which may help cut down on some open records requests. Laserfiche has made life much easier to respond to litigation or open records requests, we can easily search and find what we need to be able to respond with out having to go dig through actual paper.  It saves money not having to buy filing cabinets to store all the paper in and is very user friendly.  You can't mess it up and that's nice for our users that sometimes get a little to mouse happy or setting happy.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Brenna D.",
+                    "reviewer_job_title": "Records Technician",
+                    "reviewer_link": "https://www.g2.com/users/9098891c-f843-465f-86d0-13f8715687f0"
+                },
+                "publish_date": "2023-04-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-4291489"
+            },
+            {
+                "review_id": 4612971,
+                "review_title": "Laserfiche is an awesome system and has been a key component in my career development and path.",
+                "review_content": "What do you like best about Laserfiche?\nI love that Laserfiche is simple enough that someone without a huge technical background can use it. Using Laserfiche I have been apart of several organization wide implemenations covering areas such as Records Management, Financial Aid processing, Workforce Development.\n\nWhat do you dislike about Laserfiche?\nNone of the issues mentioned below are deal breakers just a combination of issues I have seen in my experience using Laserfiche.\n\n1. Forms needs more extensive customizations for emails and for task and re-assignments.\n2. Public-facing forms with required fields have been coming with all the required fields empty.\n3. Random periods of system slowness have plagued our environment.\n\nRecommendations to others considering Laserfiche:\nI would suggest that you make sure when setting up your environment that you go a little beyond the recommended specs. Laserfiche, depending on the amount of users in place and processes and/or workflows running can bog down a system. We initially went with the exact minimum specs and found ourself increasing all of them within a year of implementation.\n\nI would also recommend getting those who you may potentially use Laserfiche involved early in the discovery process. In my past experience this will make those future implementations go alot smoother.\n\nAlso, try your best to become a direct customer with Laserfiche rather than a reseller or VAR. Nothing against our reseller, but I just feel alot more confident in the speed of problems resolution when you can have a direct line of contact with Laserfiche instead of having a middle man for support.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nCurrently we have completely automating a Survey submission and data entry process for our Air Quality department. Our Workforce department is about 85% automated with the use of Laserfiche. This has allowed us to reach and services more clients across North Central Texas.\n\nOur records retention program has vastly improved with the use of Laserfiche Transparent Records Management. Our records are automatically cut-off based on pre-determined cutoffs that match our compliance requirements. This also assists us with our legal matters as items that frozen due to litigation can be done quickly and efficiently.\nWe were able to reduce storage costs by 50% by scanning documents that we were paying an offsite vendor to maintain.\n\nThrough public portal and the Laserfiche app were able to successfully transition our workforce operations to 85% remote. This allowed us to continue to serve our communities despite the Covid-19 pandemic shutting down most of our serviced areas.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-04-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-4612971"
+            },
+            {
+                "review_id": 3575231,
+                "review_title": "Laserfiche Eliminated Our File Room",
+                "review_content": "What do you like best about Laserfiche?\nWe can access any information in a matter of seconds using the search function.  The fact that the information is available from anywhere makes the product that much more appealing.\n\nWhat do you dislike about Laserfiche?\nWe haven't found any disadvantages or dislikes.  It has helped us tremendously.\n\nRecommendations to others considering Laserfiche:\nLook no further.  This is the solution!\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nWe have eliminated our need for a file room and essentially gone \"paperless\".  The document retrieval process is so much more simple and quicker than it has ever been.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Tripp B.",
+                    "reviewer_job_title": "Director of Communications and Technology",
+                    "reviewer_link": "https://www.g2.com/users/0d9ed91f-61b9-4ac1-bf2a-1a2e6c061fb6"
+                },
+                "publish_date": "2023-06-26",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-3575231"
+            },
+            {
+                "review_id": 7912671,
+                "review_title": "Scalable and effective solution to enterprise content management.",
+                "review_content": "What do you like best about Laserfiche?\nLaserfiche provides the tools necessary to securely store documents, automate business processes. As a mid-sized credit union, Laserfiche has allowed us to improve several business processes like employee vacation requests, member onboarding and accounts payable processing.\n\nWhat do you dislike about Laserfiche?\nLike any other ECM, the security management of Laserfiche can become a burdensome task; however, with the right knowledge and tools, you can become effective at managing this.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nLaserfiche helps to store documents in a manner that is controllable from a security perspective, while providing powerful searching tools to find the documents you need.  We have been able to move from importing documents into Laserfiche to generating documents in Laserfiche, bringing the entire document life to Laserfiche - from generation to disposition.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Tyler F.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/7fa90f47-e2b8-4f67-8178-b2c75ae30853"
+                },
+                "publish_date": "2023-04-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-7912671"
+            },
+            {
+                "review_id": 8863747,
+                "review_title": "Happy with Laserfiche",
+                "review_content": "What do you like best about Laserfiche?\nWonderful, helping staff. Easy to understand. Addresses issues that arise promptly.\n\nWhat do you dislike about Laserfiche?\nNothing comes to mind. I haven't come across any issues.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nThey are helping with Records Management and Folder Structure. I'm newer to the program and am learning along the way.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ashley A.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/dcf83037-d0f1-410f-9d2e-43d755dc3e80"
+                },
+                "publish_date": "2023-11-21",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8863747"
+            },
+            {
+                "review_id": 7055475,
+                "review_title": "Love Laserfiche",
+                "review_content": "What do you like best about Laserfiche?\nLaserfiche is very helpful to us for keeping us organized.  We use the workflows to move things along and make notifications.  Everyone now can easily find things, do what they need, and move it to the next process.\n\nWhat do you dislike about Laserfiche?\nIt would be nice if workflows and pdf forms were easier to make and modify - we have to have a laserfiche tech do them for us.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nBefore we had actual job folders - everyone who had something to do with the job process would physically have the folder then pass it along.  You never knew where the job folder was.  Now we know where in the process everything is.  We also are paperless - no more filing cabinets.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-06-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-7055475"
+            },
+            {
+                "review_id": 8280705,
+                "review_title": "Helped us adjust easily and quickly to working from home when COVID-19 pandemic hit",
+                "review_content": "What do you like best about Laserfiche?\nThey are responsive and there are multiple ways to get help on your own, like online Help articles, videos and Community posts (Laserfiche Answers).\n\nWhat do you dislike about Laserfiche?\nIt's not cheap. Our contacts at Laserfiche are in another time zone.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nLaserfiche is helping us to reduce the need for paper storage and making our processes faster by no longer requiring paper forms, which were delivered/mailed, taking longer to get approvals and other tasks done.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Mandi W.",
+                    "reviewer_job_title": "IT Specialist",
+                    "reviewer_link": "https://www.g2.com/users/3e793ae8-b971-419a-b446-ecad165a7554"
+                },
+                "publish_date": "2023-07-03",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8280705"
+            },
+            {
+                "review_id": 8169333,
+                "review_title": "New User in an existing environment",
+                "review_content": "What do you like best about Laserfiche?\nIt is getting very straight forward to use and build forms. Most of the administration is similar to tools we use now such as Active Directory. Forms is a simple drag and drop system that allows all of our users to get involved instead of a central command structure.\n\nWhat do you dislike about Laserfiche?\nLaserfiche can be intimidating to tackle at first but once you get things going it is really straight forward. The Laserfiche concerence is a good way to learn but this year it was a little short.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nWe are able to have an interactive repository of our important documents. This makes them searchable by many fields that we can customize or use by default. This has helped us become more efficient in our document searches.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Christian P.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/5179fee0-6da4-4f1d-9bbe-ba3198c29b38"
+                },
+                "publish_date": "2023-06-01",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8169333"
+            },
+            {
+                "review_id": 4962650,
+                "review_title": "In order for Laserfiche to be used effectively to its fullest extent, a lot of training is required.",
+                "review_content": "What do you like best about Laserfiche?\nVery flexible. OCR is very accurate. Learning a lot from Aspire courses.\n\nWhat do you dislike about Laserfiche?\nIn order for Laserfiche to be successful, the organization needs to purchase a lot of additional modules. Can be very expensive. Lack of support after initial installation from the vendor. Requires a lot of IT support which is difficult for smaller organizations. I often feel like I'm not using Laserfiche to its full potential and I don't know how to improve and increase my organization's use. I also feel like we are paying for modules or features we aren't using.\n\nRecommendations to others considering Laserfiche:\nTake the Laserfiche Certification Program - Aspire. Make sure you have a lot of support from IT.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nImprove open government by making records more accessible to employees. More employees are able to search the repository for records without needing to request the Records Manager to search for the records. Another benefit is being able to perform Freedom of Information searches quicker.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-04-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-4962650"
+            },
+            {
+                "review_id": 8165518,
+                "review_title": "Laserfiche facilitate full automation for a number of organizational processes",
+                "review_content": "What do you like best about Laserfiche?\nI like the integration between Laserfiche Forms, Laserfiche Workflow, and the Laserfiche Repository. More specifically, the easy of use in building out functional wireframes within forms that can easily be connected to our internal data sources has been of great value.\n\nWhat do you dislike about Laserfiche?\nthe licensing and permissioning structure can sometimes be a bit difficult to navigate but once you get the understanding of it, it flows quite seamlessly.\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nit is allowing us to quickly digitize forms to capture data and facilitates the processing of that data.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Astroberto L.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/cf3280c5-d0fe-4f29-ac13-3821f8e9a840"
+                },
+                "publish_date": "2023-05-31",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8165518"
+            },
+            {
+                "review_id": 8170295,
+                "review_title": "Great experience using laserfiche",
+                "review_content": "What do you like best about Laserfiche?\nPerformance, they way we can rapidily integrate and get workflows going on, users love the experience and the feel of the application, it can also be usen on mobile tablets or computers thats give flexibility to the use of if\n\nWhat do you dislike about Laserfiche?\nThe audit trail needs to be better, the offline files when its pdf needs to be better it still has some bugs, also the updating on the cloud version should be done on not working hours\n\nWhat problems is Laserfiche solving and how is that benefiting you?\nWe are getting suppliers infomration, technical records for our aviation mechanics and pilots , HR vacations actions, hiring a new employee. Overtime . On all of them we are using forms to sign an approve everything this gives us tracking of all our actions.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Rodolfo G.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/f5aec59b-75a6-444d-a990-250024dfed52"
+                },
+                "publish_date": "2023-06-01",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/laserfiche/reviews/laserfiche-review-8170295"
+            }
+        ]
+    },
+    "error": null
+}

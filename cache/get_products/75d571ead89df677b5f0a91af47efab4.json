@@ -1,0 +1,543 @@
+{
+    "data": {
+        "product_id": 74085,
+        "product_name": "Apify",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_24edee887587ffe7a53ba2e7317f0df3/apify.png",
+        "g2_link": "https://www.g2.com/products/apify/reviews",
+        "what_is": "Meet the full-stack platform for web scraping, data extraction, and automation. Built by developers for developers.\n\n+ Apify Store\nOver 1,600 pre-built scrapers for web scraping or automation projects. Scrape social media, Google Maps, Google Search, YouTube, and more.\n\n+ Develop with open-source tools\nSimplify scraping with Crawlee, our popular open-source library for building reliable scrapers in Node.js. Or use the new Apify Python SDK.\n\n+ Rely on your favorite libraries\nApify works great with both Python and JavaScript. Use Scrapy, Selenium, Playwright or Puppeteer.\n\n+ Turn your code into an Apify Actor\nActors are serverless microapps that are easy to develop, run, share, and integrate. The infrastructure, proxies, and storages are ready to go.\n\n+ Deploy to the cloud\nNo configuration required. Use a single CLI command or build directly from GitHub. \n\n+ Run your Actors\nStart from Apify Console, CLI, via API, or schedule your actor to start at any time.\n\n+ Never get blocked\nUse our large pool of datacenter and residential proxies. Rely on smart IP address rotation with human-like browser fingerprints.\n\n+ Store and share crawling results\nUse distributed queues of URLs to crawl. Store structured data or binary files. Export datasets in Excel, CSV, JSON, JSONL, XML, RSS, or HTML table.\n\n+ Monitor performance over time\nInspect all Actor runs, their logs, and runtime costs. Listen to events and get custom automated alerts.\n\n+ Plug your Actors into any workflow\nConnect to hundreds of apps right away using ready-made integrations, or set up your own with webhooks and our API.\n\n+ Publish your Actors\nJoin hundreds of developers who share their Actors on Apify Store and earn money.",
+        "product_description": "Apify is a web scraping and automation platform and turn websites into an API.",
+        "positioning_against_competitor": "Apify has a strong unique value proposition in both web scraping and automation, thanks to our powerful cloud-based platform.\n\nFast turnaround for complex projects\nThe combination of the flexibility of the Apify platform, the number of pre-existing actors in Apify Store, and our open-source tooling, enable Apify developers to deliver solutions for even more complicated projects to customers faster than our competitors.\n\nOpen-source tools mean no vendor lock-in\nAll our solutions are based on our open-source libraries and Apify SDK, which gives customers the peace of mind that they will not be vendor-locked, as they can always move their solutions outside of the Apify platform.",
+        "rating": 4.8,
+        "reviews": 107,
+        "company_id": 54277,
+        "seller": "Apify",
+        "company_phone": null,
+        "company_location": "Praha, Hlavni mesto Praha",
+        "company_founded_year": 2015,
+        "company_annual_revenue": null,
+        "company_ownership": null,
+        "discussions_link": "https://discord.com/invite/jyEM2PRvMU",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/apify",
+        "number_of_followers_on_twitter": 2089,
+        "linkedin": "https://www.linkedin.com/company/10608457/",
+        "number_of_employees_on_linkedin": 82,
+        "product_website": "https://apify.com/",
+        "company_website": "https://apify.com/",
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Lead Mining",
+                "category_link": "https://www.g2.com/categories/lead-mining"
+            },
+            {
+                "category_name": "Robotic Process Automation (RPA)",
+                "category_link": "https://www.g2.com/categories/robotic-process-automation-rpa"
+            },
+            {
+                "category_name": "Data Extraction",
+                "category_link": "https://www.g2.com/categories/data-extraction"
+            },
+            {
+                "category_name": "Proxy Network",
+                "category_link": "https://www.g2.com/categories/proxy-network"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/161070/apify-console-screenshot.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/161071/apify-store-screenshot.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/161072/crawlee-screenshot.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/183747/google-maps-scraper.png",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/183748/google-search-scraper.png"
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=8uvHH-ocSes",
+            "https://www.youtube.com/watch?v=col_4Y34Z8U",
+            "https://www.youtube.com/watch?v=vKRuNIYGkBc",
+            "https://www.youtube.com/watch?v=uZ0LYBCjvd4",
+            "https://www.youtube.com/watch?v=J43AX9wu-NI"
+        ],
+        "download_links": [
+            "https://www.g2.com/products/apify/reviews#",
+            "https://www.g2.com/products/apify/reviews#",
+            "https://www.g2.com/products/apify/reviews#",
+            "https://www.g2.com/products/apify/reviews#",
+            "https://www.g2.com/products/apify/reviews#"
+        ],
+        "pricing_plans": [
+            {
+                "plan_name": "Free",
+                "plan_description": "The easiest way to get started with Apify. No credit card required.",
+                "plan_features": [
+                    "$5 platform credits",
+                    "Residential proxies: $15/GB",
+                    "Datacenter proxies: 20 IPs included  then $1/IP",
+                    "Discord support"
+                ]
+            },
+            {
+                "plan_name": "Starter",
+                "plan_description": "Cost-effective plan for freelancers, developers, and students.",
+                "plan_features": [
+                    "$49 platform credits",
+                    "Residential proxies: $13/GB",
+                    "Datacenter proxies: 30 IPs included  then $1/IP",
+                    "Chat support"
+                ]
+            },
+            {
+                "plan_name": "Scale",
+                "plan_description": "Ideal for smaller teams working together on projects that need to scale on demand.",
+                "plan_features": [
+                    "$499 platform credits",
+                    "Residential proxies: $11/GB",
+                    "Datacenter proxies: 200 IPs included  then $0.8/IP",
+                    "Chat support with priority"
+                ]
+            },
+            {
+                "plan_name": "Business",
+                "plan_description": "For companies that expect to run demanding, extensive, and long-term scraping projects.",
+                "plan_features": [
+                    "$999 platform credits",
+                    "Residential proxies: $10/GB",
+                    "Datacenter proxies: 500 IPs  then $0.6/IP",
+                    "Account manager"
+                ]
+            },
+            {
+                "plan_name": "Enterprise",
+                "plan_description": "Get a complete end-to-end solution with a service level agreement direct from world-class experts.",
+                "plan_features": [
+                    "Custom platform credits",
+                    "Custom pricing for all proxies",
+                    "Personal tech support",
+                    "Dedicated account manager"
+                ]
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "Fivetran",
+                "competitor_link": "https://www.g2.com/products/fivetran/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 365
+            },
+            {
+                "competitor_name": "Bright Data",
+                "competitor_link": "https://www.g2.com/products/bright-data/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 165
+            },
+            {
+                "competitor_name": "UiPath: Robotics Process Automation (RPA)",
+                "competitor_link": "https://www.g2.com/products/uipath-robotics-process-automation-rpa/reviews",
+                "competitor_rating": 4.6,
+                "competitor_reviews": 6377
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/apify-vs-bright-data",
+                "competitor_name": "Bright Data",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_9d7645872b9abb68923fb7e2c7c9d834/bright-data.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/apify-vs-browse-ai",
+                "competitor_name": "Browse AI",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_1ad81d01aa16fa4305a5ed219a15236b/browse-ai.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/apify-vs-zyte",
+                "competitor_name": "Zyte",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_15c60cd64a116c7e95b64f430b983ec3/zyte.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 1,
+            "4": 13,
+            "5": 93
+        },
+        "g2_reviews_link": "https://www.g2.com/products/apify/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8470507,
+                "review_title": "A developer friendly scraping solution",
+                "review_content": "What do you like best about Apify?\nCertainly! The aspect I find most appealing about Apify is how effortlessly it facilitates the creation of Apify actors. This functionality significantly reduces the complexity typically associated with building web scraping and automation tools. The process of developing these actors feels intuitive and user-friendly, even for individuals with varying levels of coding expertise.\n\nApify's approach to creating actors simplifies the journey from writing the code to deploying a functional application. With the platform's user-friendly interface and detailed documentation, I found it surprisingly easy to translate my scraping requirements into functional actors. The availability of pre-built libraries and templates further accelerates the development process, allowing me to leverage established coding practices and patterns.\n\nThe ease of creating Apify actors isn't just limited to the initial setup. The platform continues to impress during subsequent stages as well. Once the actor is crafted, the process of deploying it is seamless, ensuring that my code runs efficiently without the need for extensive configurations. This convenience drastically reduces the time and effort required to get a scraping or automation task up and running.\n\nIn essence, the simplicity of creating Apify actors empowers developers like me to focus on the core functionality of our scraping projects rather than getting bogged down by the intricacies of infrastructure and deployment. This feature undoubtedly enhances productivity and encourages more developers to explore the possibilities of web scraping and browser automation, even if they might not have extensive experience in these areas.\n\nWhat do you dislike about Apify?\nOne aspect I find slightly unfavorable about Apify is the pricing, especially from the perspective of hobbyists like myself. While the platform undoubtedly offers a range of valuable features and functionalities, the cost might pose a barrier for individuals who are exploring web scraping and automation on a smaller scale or as a hobby. As someone looking to experiment and learn, a more budget-friendly pricing structure for hobbyist users would be greatly appreciated.\n\nWhat problems is Apify solving and how is that benefiting you?\nApify is addressing the challenge of efficiently converting website scraping scripts into functional APIs, and this solution has been immensely beneficial for me. Previously, transforming scraping scripts into APIs was a time-consuming and intricate process, involving various technical considerations such as infrastructure setup, deployment, and maintenance. Apify streamlines this entire procedure, allowing me to easily convert my scraping scripts into functional APIs without delving into the complexities of server setup and management.\n\nBy offering a platform that automates the deployment and hosting of these APIs, Apify has significantly reduced the effort required on my part. This not only saves time but also eliminates the need for me to have a deep understanding of server configurations and networking. The solution effectively bridges the gap between web scraping and API creation, enabling me to quickly and efficiently convert my scraping projects into accessible and usable APIs.\n\nUltimately, Apify's capability to solve the challenge of converting scraping scripts into APIs has streamlined my workflow, enhanced efficiency, and opened up new possibilities for utilizing the data I extract from websites. It has empowered me to focus more on the creative aspects of my projects and less on the technical intricacies, thereby enriching my overall experience in web scraping and automation.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Abdurrachman M.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/05a0dd59-776c-42b8-a765-307101f0b99f"
+                },
+                "publish_date": "2023-08-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8470507"
+            },
+            {
+                "review_id": 8764824,
+                "review_title": "The Developer's Swiss Army Knife",
+                "review_content": "What do you like best about Apify?\nWhat I absolutely love about Apify is the community and ecosystem around it. The Apify Store is a treasure trove of pre-built Actors that can save you a ton of time. It's like having a team of experts contributing to your project.\n\nWhat do you dislike about Apify?\nOne could argue that the learning curve is a bit steep, but that's because Apify offers a rich set of features designed to tackle complex problems. The investment in learning pays off as you become proficient in automating even the most intricate tasks.\n\nWhat problems is Apify solving and how is that benefiting you?\nI use Apify for automating tests, scraping e-commerce websites, and monitoring web pages for changes. It's incredibly flexible, making it a one-stop-shop for many of my development needs.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jiri N.",
+                    "reviewer_job_title": "Sales & Marketing Manager",
+                    "reviewer_link": "https://www.g2.com/users/53882e67-3ec1-4bd7-80da-7885dec4da5c"
+                },
+                "publish_date": "2023-10-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8764824"
+            },
+            {
+                "review_id": 8554637,
+                "review_title": "Changed the direction of my business",
+                "review_content": "What do you like best about Apify?\nI had no idea of web scraping. Once I learned about it and looked at a few of the players I landed on Apify. Building lists of prospects in minutes has been an absolute game-changer.\n\nWhat do you dislike about Apify?\nYou could say the cost makes it a bit hard to swallow but if I consider the amount of time it saves me every month then it is a non-starter. Getting started with Apify and learning what an actor is and finding the right one for your purpose takes some time.\n\nWhat problems is Apify solving and how is that benefiting you?\nI consult with local businesses on how they can best use the Internet to grow their business. One of the pieces of information I deliver my clients is a market overview; all their competitors analyzed and the results presented in a for they can understand. Apify actors make this simple.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Andrew M.",
+                    "reviewer_job_title": "Digital Sherpa",
+                    "reviewer_link": "https://www.g2.com/users/f1f22825-2523-4913-af5d-6c8ab325fa5d"
+                },
+                "publish_date": "2023-09-01",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8554637"
+            },
+            {
+                "review_id": 8396897,
+                "review_title": "The most easy-to-use scrapper tool",
+                "review_content": "What do you like best about Apify?\nOne of the best features of Apify is their own free scrapers. They provide a variety of ready-made solutions for common web scraping tasks, such as extracting product information, reviews and posts from popular websites. These scrapers are easy to use and save a lot of developer's time.\n\nWhat do you dislike about Apify?\nThere is a huge gap between the free usage limit (5 USD/MONTH) and the minimum balance to up (49 USD/MONTH). This means that if you want to use more than the free limit (like 7-8 USD/MONTH), you have to pay a lot more than you actually need.\n\nWhat problems is Apify solving and how is that benefiting you?\nWe use Apify to easily get posts, reviews and other data from popular websites and services, without developing, supporting and wasting time for our personal scrappers. Apify is a powerful web scraping and automation platform that allows us to extract any information we need from the web, with minimal coding and maintenance.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Dmitry .",
+                    "reviewer_job_title": "Chief Technology Officer",
+                    "reviewer_link": "https://www.g2.com/users/evilcore29"
+                },
+                "publish_date": "2023-08-03",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8396897"
+            },
+            {
+                "review_id": 6662567,
+                "review_title": "Best in Social Media scrapper",
+                "review_content": "What do you like best about Apify?\nThis review is important for all people related to Social media. Found it on product hunt somehow and I am using Apify since starting of 2022 for social media related data collection, scrapping content, User details and more via complete automation. I use zapier, Make.com and n8n for these tasks by integrating apify in it and this saves me a lot of time and money by not compromising anything. It just outperforms my expectations. Highly recommended for scrapping anything you like.\n\nWhat do you dislike about Apify?\nThe proxy thing in apify is quite consumed more of my credit than data scrapping, also it gives errors sometimes like you are exceeding memory usage, even when using only one scrapping actor with 25 % of memory used in each task.\n\nRecommendations to others considering Apify:\nIf you want to automate your data scrapping process you can make a custom order for creating a scapper for your use case.\n\nWhat problems is Apify solving and how is that benefiting you?\nI was using manual scrappers like chrome and edge extension while risking personal and sensitive data, Now i realized that with use of apify and its proxy i can scrape my social media needs without sacrificing such details. Instagram and tiktok in social, google maps and linkedin in business data scrapping are the best.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Prem P.",
+                    "reviewer_job_title": "Automation Expert",
+                    "reviewer_link": "https://www.g2.com/users/8499f4ce-e920-4dbf-b93c-030a4d869858"
+                },
+                "publish_date": "2023-07-06",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-6662567"
+            },
+            {
+                "review_id": 8257766,
+                "review_title": "Incredibly powerful and underrated automation service",
+                "review_content": "What do you like best about Apify?\nApify's pricing is very fair and flexible. Especially compared to other automation companies, Apify constantly releases helpful new features tailored to developers. Apify's web scraping academy is the single best education course from a brand I've ever seen, and it seems like every time I log onto Apify, there's something new to appreciate. I consider Apify the best automation option for small - mid-sized companies\n\nWhat do you dislike about Apify?\nThere's nothing I dislike about Apify, but if I had to say something that could be improved, the pricing could be a bit more flexible. It's very flexible as it is, but it would be even better if we could customize how many computer units, proxies, and gigs of RAM we want to pay for.\n\nWhat problems is Apify solving and how is that benefiting you?\nApify is my go-to vendor for serverless RPA solutions. I plan to eventually provide consulting for smaller businesses wanting to automate their processes, and Apify will be my recommendation for every single business I help. I use their web scraping library Crawlee whenever I need to extract any kind of data from websites.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Andrew D.",
+                    "reviewer_job_title": "RPA Developer",
+                    "reviewer_link": "https://www.g2.com/users/c3611cad-5884-4034-ac7f-8830648ba99b"
+                },
+                "publish_date": "2023-06-26",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8257766"
+            },
+            {
+                "review_id": 8684693,
+                "review_title": "Multiple solutions for you to choose from",
+                "review_content": "What do you like best about Apify?\nThere are many solutions that allow you to have access to the information you need, with broad coverage and multiple possibilities.\n\nWhat do you dislike about Apify?\nIt seems to me that it has a lot of potential for use, however, there are certain very technical terms in the description of the actors and in the description of the payment packages that, for someone who is not a technology developer, is very difficult to understand.\n\nWhat problems is Apify solving and how is that benefiting you?\nWith the new rise of social networks and online pages to monitor, the need to capture information and automate processes increases.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Sandra Carolina B.",
+                    "reviewer_job_title": "Consultora de Monitoreo y Stakeholders",
+                    "reviewer_link": "https://www.g2.com/users/8b89d011-af33-4af0-b6f1-7748b956039f"
+                },
+                "publish_date": "2023-10-01",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8684693"
+            },
+            {
+                "review_id": 8162238,
+                "review_title": "Great Platform",
+                "review_content": "What do you like best about Apify?\nI like how they implemented a one-stop center for scrapers.\n\nWhat do you dislike about Apify?\nMaybe it is quite expensive if we scrape in large scale.\n\nWhat problems is Apify solving and how is that benefiting you?\nApify is a web scraping and automation platform that turns websites into an API. It helps users to extract data from websites that do not have a REST API, automate tasks that involve interacting with web pages, and scale up web scraping and automation projects with cloud infrastructure and proxies. Users can save time and money by using pre-existing actors in Apify Store or building their own with open-source tools. They can also get reliable and structured data from any website without getting blocked, connect to hundreds of apps with ready-made integrations or custom webhooks and API, and share their actors with other developers and earn money.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "MUHAMMAD RAFIK AZLAN S.",
+                    "reviewer_job_title": "Founder",
+                    "reviewer_link": "https://www.g2.com/users/f36ab601-8182-44f2-8276-b51620eb9525"
+                },
+                "publish_date": "2023-05-31",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8162238"
+            },
+            {
+                "review_id": 8763303,
+                "review_title": "Probably the most versatile web scraping platform",
+                "review_content": "What do you like best about Apify?\nThe best thing about Apify is its versatility. Whether you're working with Python or JavaScript, the platform accommodates your needs. It's like having a toolbox that's always equipped with the right tool for the job.\n\nWhat do you dislike about Apify?\nInitially, the range of options can feel overwhelming, but that's actually a strength. Once you get the hang of it, you realize that the platform's comprehensive features allow you to tailor solutions to specific problems, making your life easier in the long run.\n\nWhat problems is Apify solving and how is that benefiting you?\nApify solves the problem of time-consuming manual data collection and task automation. By using Apify, I can set up a workflow once and let it run, saving me countless hours. This allows me to focus on more creative aspects of development, enhancing both my productivity and job satisfaction.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-10-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8763303"
+            },
+            {
+                "review_id": 8635620,
+                "review_title": "Very good experience overall",
+                "review_content": "What do you like best about Apify?\nEasy of use;\nMany available options for APIs;\nYou can develop your own APIs and sell them in the marketplace;\n\nWhat do you dislike about Apify?\nInfraestructure costs add up fast, it gets significantly lower with large scale, but prototyping can become expensive.\n\nWhat problems is Apify solving and how is that benefiting you?\nApify allows me to quickly implement my ideas by abstracting many of the logic with APIs.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Antonio L.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/efa97341-153e-493d-bc00-2112cad76acc"
+                },
+                "publish_date": "2023-09-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8635620"
+            },
+            {
+                "review_id": 8972539,
+                "review_title": "Get the result in no time.",
+                "review_content": "What do you like best about Apify?\nI don't need to worry about getting blocked or banned it handles everything and you can get the results\n\nWhat do you dislike about Apify?\nSome leads are expensive in cost and I have to get this\n\nWhat problems is Apify solving and how is that benefiting you?\nIt is making my life easier to get the data as per my need",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Surendra T.",
+                    "reviewer_job_title": "Freelance Software Developer - Web Scraping / Backend Developer",
+                    "reviewer_link": "https://www.g2.com/users/3d232fba-4e03-4979-8c3c-632e17c4f9f5"
+                },
+                "publish_date": "2023-12-06",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8972539"
+            },
+            {
+                "review_id": 8482675,
+                "review_title": "this is a good solution when I doing my research project, it save me a lot of time",
+                "review_content": "What do you like best about Apify?\ncapture the multiple Google Popular Times data for multiple places,\nit can allow me to set up the scheduling for me to capture the data over 20 places\n\nWhat do you dislike about Apify?\nno automation function to download multiple files at the same time, need to access the result one by one to download the result files\n\nWhat problems is Apify solving and how is that benefiting you?\nsince we don't have much budget for this research project, Apify representative was very nice to offer me special plan for their service to save my money.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-15",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8482675"
+            },
+            {
+                "review_id": 8540745,
+                "review_title": "excelente plataforma",
+                "review_content": "What do you like best about Apify?\nMe gusta lo intuitiva que es la plataforma, tambien el entorno que nos brinda, en especial con actores que son totalmente utiles y una respuesta en consola que in facil de comprender.\n\nWhat do you dislike about Apify?\nQue el limite es muy bajo, me gustaria que se incrementara el limite.\n\nWhat problems is Apify solving and how is that benefiting you?\nExtraer informacion de sitios web para lo cual es ideal, me hace mas facil la obtencion y estandarizacion de datos. para tener un buen manejo de la informacion.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Jhaddyn O.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/cc225d74-1c98-4760-ab48-ae25ba352c72"
+                },
+                "publish_date": "2023-08-29",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8540745"
+            },
+            {
+                "review_id": 7483560,
+                "review_title": "Amazing service, we use it daily within our business",
+                "review_content": "",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Mike C.",
+                    "reviewer_job_title": "Director",
+                    "reviewer_link": "https://www.g2.com/users/mikecoombe"
+                },
+                "publish_date": "2022-12-26",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7483560"
+            },
+            {
+                "review_id": 7554109,
+                "review_title": "Easy to use, easy to scrap",
+                "review_content": "What do you like best about Apify?\nI used it to scrap booking and google map , it was user-friendly and the result was perfect for what I was looking for.\nI have to say it is very user-friendly compared to what I used before\n\nWhat do you dislike about Apify?\nI do not dislike it, but I was looking for something to scrap, but can't find it on apify (google URLs + scrap telephone number) , and I did not find it; maybe there is a way to do it ?\nMaybe a chat with an expert could have been great to find out if it was possible\n\nWhat problems is Apify solving and how is that benefiting you?\nScraping google map and booking, it took me too long to get it done manually, so i can win a lot of time with apify , I still have to try other tools to scrap and it will give me other ideas",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Thomas G.",
+                    "reviewer_job_title": "Expert Sales B2b",
+                    "reviewer_link": "https://www.g2.com/users/65bf5099-be9c-4713-9bb3-522ed7991428"
+                },
+                "publish_date": "2023-01-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7554109"
+            },
+            {
+                "review_id": 7521186,
+                "review_title": "Great scrapers and fantastic support!!",
+                "review_content": "What do you like best about Apify?\nBetween the awesome platform, the fantastic scrapers and the epic customer service, Apify is an absolute force.  I'm in the process of building my own technology company right now, so one big aspect of that is setting up an array of software systems for the management/administrative side of things.  And unfortunately I've run into a disappointingly long list of complicated platforms that have poor UX/UI, and I've also run into a wide range of poor/limited customer service.\n\nBut my experience with Apify, and specifically Tsveta, has been a wonderful breath of fresh air.  She's responsive, helpful, knowledgeable, communicates clearly, and best of all, deploys a suitable amount of empathy.  The Actors (scrapers) are also awesome, and I've barely scratched the surface of what this platform contains.  I can see myself getting a bit addicted to scraping.  It's intensely satisfying, lol.  Happy Scraping!!\n\nWhat do you dislike about Apify?\nSometimes the individual Actors (scrapers) break, and you have to wait for them to get fixed, which causes some delays.\n\nBUT, that's the nature of software, and they're scraping live systems/platforms, which have their own development roadmaps and ever-changing API's.  So it's likely a game of continuously monitoring and updating their Actors.  This is where Apify's customer service really shines.  They're super quick to dig into an issue and get it resolved.\n\nWhat problems is Apify solving and how is that benefiting you?\nI'm building a community marketplace that needs to scale across Canada fairly fast, and try to connect with thousands of businesses that match my ICP.  If I wasn't able to capture these by scraping, I would have had to pay for lists, work with economic development organization across Canada to slowly pull out the data from NAICS (and some of them might have charged as well), or I would have had to sleuth them manually.  This would have been a much longer, tedious and gross path to scale.  But after just a couple hours of scraping, I have over 10k businesses I can start reaching out to.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Conor P.",
+                    "reviewer_job_title": "Founder & CEO",
+                    "reviewer_link": "https://www.g2.com/users/480d916e-84af-45b7-af5f-155d872b6546"
+                },
+                "publish_date": "2022-12-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7521186"
+            },
+            {
+                "review_id": 7518754,
+                "review_title": "Apify a great platform for scraping data",
+                "review_content": "What do you like best about Apify?\nThe Apify platform allows users to extract data from websites, process it, and store it in a structured manner. It offers a wide range of tools and services for web scraping, including a point-and-click web scraper, a low-level API for more advanced scraping tasks, and a library of prebuilt crawlers for common scraping scenarios.\n\nHere are some pros of using Apify:\n\nEase of use: The point-and-click web scraper is intuitive and easy to use, even for users with no coding experience.\n\nScalability: Apify's cloud-based infrastructure allows users to scale their scraping tasks quickly without requiring complex setup or maintenance.\n\nSpeed: Apify's web scrapers can run concurrently, making it possible to scrape large volumes of data quickly.\n\nExtensibility: Users can write custom code to extend the functionality of Apify's web scrapers or build their custom crawlers using the low-level API.\n\nWhat do you dislike about Apify?\nHere are some cons of using Apify:\n\nComplexity: The low-level API and custom crawler functionality may be too complex for simple web scraping or programming users.\n\nDependency on third-party services: Some of Apify's features, such as its proxy service, rely on external providers, which may introduce additional cost or reliability concerns.\n\nWhat problems is Apify solving and how is that benefiting you?\nIn terms of data mining and analysis, Apify can extract structured data from websites that can then be analyzed or integrated into other systems.\n\nAutomating repetitive tasks on the web with Apify: Apify can be used to automate repetitive tasks on the web, such as filling out forms and clicking buttons.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Shahid I.",
+                    "reviewer_job_title": "Owner",
+                    "reviewer_link": "https://www.g2.com/users/6bf859fa-0880-4290-b87c-4b8087efb085"
+                },
+                "publish_date": "2022-12-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7518754"
+            },
+            {
+                "review_id": 7876038,
+                "review_title": "Apify review",
+                "review_content": "What do you like best about Apify?\nApify helps in automation data scrapping and writing and running my codes which we can deploy on our cloud storage so easily,this unique features makes best suitable for coders to use it in all way.\n\nWhat do you dislike about Apify?\nApify plans and pricing are higher than any other automation,if prices reduces then its the best in my opinion,rather being a best price its cloud storage limit is fixed which is also a major concern in my opinion.\n\nWhat problems is Apify solving and how is that benefiting you?\nI have been a part of samsung company where i had a work for proxy and automation,where we have to deploy our codes on the cloud,so i used apify in that way to write automation code and deploy that code on cloud which i can retrieve whenever i want in future.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "Tarun K.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/aefaf102-3af7-45bd-9e43-81221cc830d7"
+                },
+                "publish_date": "2023-03-31",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7876038"
+            },
+            {
+                "review_id": 7600861,
+                "review_title": "Powerful tool",
+                "review_content": "What do you like best about Apify?\nI highly recommend Apify for anyone looking for a powerful and user-friendly web scraping and automation platform. The tool is incredibly versatile and can handle a wide range of tasks, from simple data extraction to complex web automation. The user interface is intuitive and easy to navigate, making it simple to set up and run even the most complex scraping tasks. Additionally, the customer support team is extremely helpful and responsive, always willing to assist with any questions or issues that may arise. Overall, Apify is an excellent choice for anyone looking to streamline their web scraping and automation needs. 5/5 stars!\n\nWhat do you dislike about Apify?\nIt would be helpful to have a bit more customization of some actors.\n\nWhat problems is Apify solving and how is that benefiting you?\nGetting leads",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Borja O.",
+                    "reviewer_job_title": "Founder",
+                    "reviewer_link": "https://www.g2.com/users/d07301f5-72c9-4bc0-9586-5ab7659e01fe"
+                },
+                "publish_date": "2023-01-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7600861"
+            },
+            {
+                "review_id": 8780441,
+                "review_title": "VERY HELPFUL",
+                "review_content": "What do you like best about Apify?\nThe great variety of APIs, the low cost and the possibility to integrate the APIs with thirdh part services.\n\nWhat do you dislike about Apify?\nNothing comes to mind. Maybe the documentation could get better.\n\nWhat problems is Apify solving and how is that benefiting you?\nContinue with my activities when my requests to some APIs reach its limits, as well as allow non-tech users to make requets.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-10-29",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8780441"
+            },
+            {
+                "review_id": 7683561,
+                "review_title": "Apify has been perfect, does exactly what it is supposed to, this is the real deal!",
+                "review_content": "What do you like best about Apify?\nApify has made web scrapping as easy as it possibly can be. I used to pay people on Fivver to get results; we now do it all in-house for a fraction of the cost!\n\nWhat do you dislike about Apify?\nThere's not much to dislike, it could be considered to have a high need for technical know-how, but all the tutorials online make it super easy to use; I highly recommend it!\n\nWhat problems is Apify solving and how is that benefiting you?\nOur team uses this platform every day to pull hundreds of contacts onto our CRM. It is highly accurate and very easy to use. My job has become easily 10X easier and more productive since finding Apify.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Shane R.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/275d8187-0a87-46da-b9f9-36332f129a4e"
+                },
+                "publish_date": "2023-02-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7683561"
+            },
+            {
+                "review_id": 8244912,
+                "review_title": "Great tool for webscrapper specialists to make money",
+                "review_content": "What do you like best about Apify?\nI can build my code as always, and just put it in the platform, with that I have now a cloud scrapper ready to sell, with api enabled, Its just like magic, and the price is good.\n\nWhat do you dislike about Apify?\nThe input schema could be better, and I think the market for Brazilians is still low, but I'm working on new with my actor.\n\nWhat problems is Apify solving and how is that benefiting you?\nBuild cloud scrappers quickly.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Wanderson S.",
+                    "reviewer_job_title": "Full Stack Developer",
+                    "reviewer_link": "https://www.g2.com/users/00b49173-dda7-43bf-88bc-dcc16db67a84"
+                },
+                "publish_date": "2023-06-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8244912"
+            },
+            {
+                "review_id": 8374213,
+                "review_title": "Easy to use and an incredible range of useful tools.",
+                "review_content": "What do you like best about Apify?\nIt lets you spin up a new service in seconds.\n\nWhat do you dislike about Apify?\nThe only slight problem I had was restarting some of the helpers, but this is dependant upon the tool, not the service itself.\n\nWhat problems is Apify solving and how is that benefiting you?\nIt allows me to be very taregtted in location and organisation type.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-29",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-8374213"
+            },
+            {
+                "review_id": 7802416,
+                "review_title": "Build a Automation Bot instantly using Apify, Simple to use",
+                "review_content": "What do you like best about Apify?\nApify had the best tools like scrapers to build a automation tool to scrape a e-commerce website more easily, It is simple to use, it takes 20 mins to build the entire scraper that might take more than a week using the core languages.\n\nWhat do you dislike about Apify?\nApify's pricing bit more costly, and It didn't robust solution like having a studio for building the scraper, new features hard to find and use, and sometimes we get wrong data from scraping the website due to the ide.\n\nWhat problems is Apify solving and how is that benefiting you?\nWe are a Automation Provider for the Healthcare industry, We are using the Apify for the RPA processes, and use the Data Extraction for extracting the reports of the Health Care informations.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Manokar G.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/6f615c18-85ff-49e7-90b1-0c88b1269056"
+                },
+                "publish_date": "2023-03-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7802416"
+            },
+            {
+                "review_id": 7555691,
+                "review_title": "Super easy way to crawl for data",
+                "review_content": "What do you like best about Apify?\nI needed to crawl a website. There was already a tool built out for me that allowed me to easily select and input the critia that I need and it will just crawl and give me back the data that I needed.\n\nWhat do you dislike about Apify?\nThere's nothing really that I dislike. I needed to crawl a website and instead of building out my own custom tool, I can just start crawling very easily cost-effectively.\n\nWhat problems is Apify solving and how is that benefiting you?\nAs mentioned, I need to crawl a website for public data. I can do manual crawls and use lite tools that can help me collect data by me pointing and clicking. I could have built a custom web crawler. Both of these take quite a bit of time, but Apify allowed me to get exactly what I needed with very little effort.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-01-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/apify/reviews/apify-review-7555691"
+            }
+        ]
+    },
+    "error": null
+}

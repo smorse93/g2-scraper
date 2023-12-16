@@ -1,0 +1,572 @@
+{
+    "data": {
+        "product_id": 287,
+        "product_name": "Box",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_bb2b5da72fbca43e568200ccff1e046e/box.jpg",
+        "g2_link": "https://www.g2.com/products/box/reviews",
+        "what_is": "Simplify your tech stack and save on cost with the Content Cloud: a secure, easy-to-use platform built for the entire content lifecycle, from file creation and sharing, to co-editing, e-signature, classification, and retention. And with 1,500+ best-of-breed integrations, teams work from anywhere across all their favourite apps. Trusted by 100K+ of the world's leading organisations -- including AstraZeneca, JLL, and Nationwide -- Box has been named a Leader by all major industry analyst firms. To read the analyst reports and find out how Box customers achieve a 332% ROI, visit box.com/resources. Founded in 2005, Box is headquartered in Redwood City, CA, with offices across the United States, Canada, Europe, and Asia Pacific. \n\n Protect your content  \n\nKeep your files safe with cloud-native security and compliance capabilities like granular access controls, watermarking, and classification. Stay proactive with Box Shield's machine learning and the ability to set policies that detect threats.  \n\n Empower your people \n\nWith everything from file annotations to automated tasks, teams collaborate anytime, anywhere, on any device, with people inside and outside your business.\n\n Connect your business  \n\nSecurely connect your content to the rest of your tech stack with 1,500+ pre-built integrations. Extend Box to meet your organisation's unique needs using developer tools and APIs.",
+        "product_description": "Box lets you store all of your content online, so you can access, manage and share it from anywhere. Integrate Box with Google Apps and Salesforce and access Box on mobile devices.",
+        "positioning_against_competitor": null,
+        "rating": 4.2,
+        "reviews": 4925,
+        "company_id": 252,
+        "seller": "Box",
+        "company_phone": "+1-650-329-1210",
+        "company_location": "Redwood City, CA",
+        "company_founded_year": 1998,
+        "company_annual_revenue": "$771",
+        "company_ownership": "NYSE:BOX",
+        "discussions_link": "https://support.box.com/hc/en-us/community/topics",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/Box",
+        "number_of_followers_on_twitter": 78279,
+        "linkedin": "https://www.linkedin.com/company/frontline-education/",
+        "number_of_employees_on_linkedin": 946,
+        "product_website": "http://box.com/overview",
+        "company_website": "https://cloud.app.box.com",
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Cloud Content Collaboration",
+                "category_link": "https://www.g2.com/categories/cloud-content-collaboration"
+            },
+            {
+                "category_name": "E-Signature",
+                "category_link": "https://www.g2.com/categories/e-signature"
+            },
+            {
+                "category_name": "Enterprise Content Management (ECM)",
+                "category_link": "https://www.g2.com/categories/enterprise-content-management-ecm"
+            }
+        ],
+        "screenshots": [
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/179278/Box---Content-Cloud-Lifecycle.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/179279/Box---Security.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/179280/Box---Collaboration.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/179281/Box---Integrations.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/179282/Box---Sign.jpg",
+            "https://images.g2crowd.com/cdn-cgi/image/width=366,height=180,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/179283/Box---Workflow.jpg"
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=Zb4KvEslXFk",
+            "https://www.youtube.com/watch?v=wjwPPk7YRR8",
+            "https://www.youtube.com/watch?v=ZCvgMdOoqaE"
+        ],
+        "download_links": [
+            "https://www.g2.com/products/box/reviews#",
+            "https://www.g2.com/products/box/reviews#",
+            "https://www.g2.com/products/box/reviews#"
+        ],
+        "pricing_plans": [
+            {
+                "plan_name": "Business Starter",
+                "plan_description": "Secure file collaboration, storage and native e-signatures for up to 10 users",
+                "plan_features": [
+                    "100 GB of storage",
+                    "2 GB file upload",
+                    "25 file versions",
+                    "Box Sign: 10 docs for e-sign per user per month; Unlimited templates",
+                    "Technical Support during local business hours"
+                ]
+            },
+            {
+                "plan_name": "Business",
+                "plan_description": "Team collaboration for any business",
+                "plan_features": [
+                    "Organization-wide collaboration",
+                    "Unlimited storage",
+                    "Technical Support during local business hours",
+                    "1,500+ integrations like Microsoft Office and Teams, Salesforce, Google Workspace, Slack, and more",
+                    "Box Sign: Unlimited e-signatures via web app*",
+                    "Box Canvas (New)",
+                    "Box Relay: Standard workflow automation",
+                    "Data loss protection",
+                    "*Staged roll-out - available when provisioned in Admin Console"
+                ]
+            },
+            {
+                "plan_name": "Business Plus",
+                "plan_description": "Content management for your entire organization",
+                "plan_features": [
+                    "Unlimited external collaborators",
+                    "Upload files up to 15GB",
+                    "Unlimited storage",
+                    "Technical Support during local business hours",
+                    "1,500+ integrations like Microsoft Office and Teams, Salesforce, Google Workspace, Slack, and more",
+                    "Box Sign: Unlimited e-signatures via web app*",
+                    "Box Canvas (New)",
+                    "Box Relay: Standard workflow automation",
+                    "Data loss protection",
+                    "Advanced search filters",
+                    "Custom metadata and metadata templates",
+                    "*Staged roll-out - available when provisioned in Admin Console"
+                ]
+            },
+            {
+                "plan_name": "Enterprise",
+                "plan_description": "Advanced content management and data protection",
+                "plan_features": [
+                    "Unlimited external collaborators",
+                    "Upload files up to 50GB",
+                    "Unlimited storage",
+                    "Technical Support during local business hours",
+                    "1,500+ integrations like Microsoft Office and Teams, Salesforce, Google Workspace, Slack, and more",
+                    "Box Sign: Unlimited e-signatures via web app*",
+                    "Box Canvas (New)",
+                    "Box Relay: Advanced workflow automation",
+                    "Data loss protection",
+                    "Advanced search filters",
+                    "Custom metadata and metadata templates",
+                    "HIPAA/FedRAMP compliance",
+                    "Document watermarking",
+                    "2FA for external users",
+                    "Password policy enforcement",
+                    "*Staged roll-out - available when provisioned in Admin Console"
+                ]
+            },
+            {
+                "plan_name": "Enterprise Plus",
+                "plan_description": "The power of the Content Cloud in one simple plan",
+                "plan_features": [
+                    "Everything in Enterprise, along with:",
+                    "Upload files up to 150GB",
+                    "Box Shield",
+                    "Box Governance",
+                    "Box Sign: Unlimited e-signatures via web app, and Salesforce**",
+                    "Box Canvas (New)",
+                    "Box Relay",
+                    "Box Shuttle",
+                    "Box Platform",
+                    "Box Zones***",
+                    "Box GxP***",
+                    "Enhanced Services",
+                    "**Staged roll-out - available when provisioned in Admin Console",
+                    "***Available on request"
+                ]
+            }
+        ],
+        "alternatives": [
+            {
+                "competitor_name": "ShareFile",
+                "competitor_link": "https://www.g2.com/products/sharefile/reviews",
+                "competitor_rating": 4.2,
+                "competitor_reviews": 1390
+            },
+            {
+                "competitor_name": "Revver",
+                "competitor_link": "https://www.g2.com/products/revver/reviews",
+                "competitor_rating": 4.3,
+                "competitor_reviews": 355
+            },
+            {
+                "competitor_name": "Laserfiche",
+                "competitor_link": "https://www.g2.com/products/laserfiche/reviews",
+                "competitor_rating": 4.7,
+                "competitor_reviews": 700
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/box-vs-microsoft-onedrive-for-business",
+                "competitor_name": "Microsoft OneDrive",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_790f5095f4e17577cead05669971b794/microsoft-onedrive-for-business.jpg"
+            },
+            {
+                "link": "https://www.g2.com/compare/box-vs-dropbox",
+                "competitor_name": "Dropbox",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_20c010d5090054533c1b561ee4a019f9/dropbox.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/box-vs-sharefile",
+                "competitor_name": "ShareFile",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_906a19c535ada045835a745de7ea15d3/sharefile.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 44,
+            "2": 89,
+            "3": 391,
+            "4": 1685,
+            "5": 2716
+        },
+        "g2_reviews_link": "https://www.g2.com/products/box/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8989366,
+                "review_title": "Simple, effective and very powerful",
+                "review_content": "What do you like best about Box?\nWe migrated over to box 4 years ago and now have over 3k users accessing box daily. The web interface is intuitive and packed with features, but in a way that allows different types of users to either take full advantage or to just use it as a content repository. It's really easy to get users in and working on your content and I particularly appreciate the solid version control and ability to see exactly what's happened/is happening with a given piece of content at any time. Box also integrates with just about anything so in addition to the baked-in features, you can link it with lots of other applications, making the whole experience very seamless. On the admin side, the controls are very straightforward; we found the initial deployment pretty easy and migrating additional data into our instance over the last 4 years has been very simple. With the new data onboarding options, I can see this would be even more straightforward for new customers to move large initial datasets. Our support team at box are helpful and friendly - I enjoy being able to discuss new ideas with them and contributing to the ongoing development of box (where I've already seen several updates related to ideas I've had or supported). Frankly, I can't recommend box enough!\n\nWhat do you dislike about Box?\nThere's isn't anything I specifically dislike about box itself. One challenge we've had is weaning users away from the box drive interface and over to the more powerful web interface. I'm looking forward to some upcoming changes to some of the admin reports which I think are important for anyone with a bigger instance.\n\nWhat problems is Box solving and how is that benefiting you?\nBox allows us to collaborate seamlessly on content all around our global business. The search function (combined with tags and/or metadata) make it easy for people to find what they need and get on with their daily work with minimal fuss. The security of knowing our data are backed up in multuple locations means that we won't lose anything and the ability to assign specific sets of content to specific regions makes it easy to comply with differing client requirements (e.g. if a client requires that their data be stored only in the USA, that's possible). One very important feature for us is the solid access controls which enable different parts of our business to be firewalled from one another - a feature that realistically extends right down to invidual users. We deployed at the end of 2019 and it was a life saver during covid - our old systems would certainly not have been able to cope with such a sudden and large-scale shift in working practices. I also like the simplicity of the waterfall permissions system - it means that, with a little organisation, giving people access to the content they need stays simple and doesn't end up in a rabbit warren of user-level permissions like some other cloud storage solutions do.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Catherine C.",
+                    "reviewer_job_title": "Senior Scientific Director, Team Specialist",
+                    "reviewer_link": "https://www.g2.com/users/847d5d39-a7c8-49b6-b62d-0958ceeb00de"
+                },
+                "publish_date": "2023-12-11",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8989366"
+            },
+            {
+                "review_id": 8838638,
+                "review_title": "Great Sharing Feature",
+                "review_content": "What do you like best about Box?\nSharing with others and controlling the access is much better than Sharepoint. When working with a client we can share files with the client so that they can see only that file. But in Sharepoint sometimes we have to share a folder. The new canvas whiteboard feature is good. Box Notes is good, predefined layouts are perfect. For example: Meeting Agenda, project plans, Project Status, etc. The relay feature is good But not explored much. Need training material to use relay effectively\n\nWhat do you dislike about Box?\nExcel in Box can not be edited simultaneously, 2 people can not edit the Excel file stored in the Box. We need a Box for Windows the local machine app to open Excel. Sometimes we faced, when 2 people were working on excel updates could not save. In that scenario, we have to save it to our local drive and then upload it back to Box.\n\nWhat problems is Box solving and how is that benefiting you?\nThe online file sharing feature is good and we have a better option to control sharing with clients.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Pramod B.",
+                    "reviewer_job_title": "Marketing Consultant",
+                    "reviewer_link": "https://www.g2.com/users/741514e6-c714-4e6b-b990-18f71b04f9a5"
+                },
+                "publish_date": "2023-11-08",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8838638"
+            },
+            {
+                "review_id": 4653637,
+                "review_title": "Online storage option that doesn't lie to you",
+                "review_content": "What do you like best about Box?\nI got 50GB of free storage with the phone I purchased. This is truly free. (unlike mega which gives 15 GB free, but the free storage you earn will expire and if your storage exceeds the 15 GB, you lose data or you have to go for a paid plan). It doesn't just disappear after a year or so. There's a limit to the size per file uploaded, but that is fine.\nThere is an automatic backup option for photos, but I wouldn't switch this on.\nThere's a pdf reader if you upload your projects in pdf format.\nThe starter pack will upgrade you to single file upload size of 2GB.\n\nWhat do you dislike about Box?\nSometimes the upload gets stuck and you have to reupload everything again.\nVideos don't stream properly at times.\n\nWhat problems is Box solving and how is that benefiting you?\nI think a free cloud storage offering 50GB without any ads itself is a great thing. If you want more you could go for paid packs (which are cheaper than most competitors)",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Dr. Binoy N.",
+                    "reviewer_job_title": "Dr",
+                    "reviewer_link": "https://www.g2.com/users/4a66cbe4-bbc2-47e2-9556-a13e4f8a32fb"
+                },
+                "publish_date": "2023-10-05",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-4653637"
+            },
+            {
+                "review_id": 8880111,
+                "review_title": "A Secure and Collaborative Cloud-Based Content Management Platform",
+                "review_content": "What do you like best about Box?\nBox takes data security seriously, employing industry-leading measures to protect your information. All data is encrypted at rest and in transit, and access controls can be configured to restrict access to authorized users only. Additionally, Box offers a variety of data residency options to ensure that your data is stored in a region that meets your compliance requirements.\n\nBox's interface is designed to be easy to use, even for users with limited technical experience. The drag-and-drop functionality makes it simple to upload and organize files, and the search function allows you to quickly find the information you need. Additionally, Box offers a variety of resources, including tutorials and videos, to help you get the most out of the platform.\n\nBox integrates with a variety of third-party applications, making it easy to incorporate it into your existing workflow. For example, you can use Box to automatically save files from Microsoft Office 365 or Google Workspace. Additionally, you can embed Box files into presentations, websites, and other documents.\n\nWhat do you dislike about Box?\nIt has been observed that slow response times from Box's customer support team. This can be frustrating if you need help with a technical issue or if you have a question about your account. However, Box has been working to improve its customer support, and there are now a number of different ways to get help, including phone, email, and live chat.\n\nIt has limited storage space. Msuct increase some storage space foe better user experience.\n\nWhat problems is Box solving and how is that benefiting you?\nI deal with vast amounts of text and code data, which requires secure and reliable storage solutions. Box's cloud-based storage infrastructure provides a secure repository for my training data and generated responses. The encryption at rest and in transit ensures that my sensitive information remains protected from unauthorized access.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Ankush S.",
+                    "reviewer_job_title": "Search Engine Optimization Analyst",
+                    "reviewer_link": "https://www.g2.com/users/0b21f8ce-ca7e-4a99-bf17-bd81f98a449d"
+                },
+                "publish_date": "2023-11-15",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8880111"
+            },
+            {
+                "review_id": 8531282,
+                "review_title": "Using Box.com from 5 years",
+                "review_content": "What do you like best about Box?\nI like the following things about Box:\n\nIt is a cloud-based file-sharing and collaboration platform. This means that I can access my files from anywhere, on any device.\nIt is secure. Box uses a variety of security features to protect my files, including encryption, two-factor authentication, and role-based access control.\nIt is easy to use. The interface is intuitive and easy to learn, even for people with no technical experience.\nIt is scalable. Box can grow with my business, so I don't have to worry about switching to a new file-sharing platform as I grow.\nIt is integrated with other applications. Box integrates with a variety of other applications, such as Microsoft Office, Google Drive, and Salesforce. This makes it easy to share files with others and collaborate on projects.\nHere are some specific features of Box that I like:\n\nThe ability to share files with others. I can easily share files with my team members, clients, and partners.\nThe ability to collaborate on files. I can work on files with others in real-time.\nThe ability to search for files. I can easily find files by name, content, or date.\nThe ability to set permissions for files. I can control who has access to my files and what they can do with them.\nThe ability to automate tasks. I can automate tasks, such as file sharing and notifications.\nOverall, I think Box is a great file-sharing and collaboration platform. It is secure, easy to use, and scalable. I would definitely recommend it to businesses of all sizes.\n\nWhat do you dislike about Box?\nHere are some things that I dislike about Box:\n\nThe pricing can be expensive for businesses with a lot of users. The pricing plans are based on the number of users and the amount of storage space you need. This can be expensive for businesses with a lot of users or who need a lot of storage space.\nThe mobile app can be slow at times. The mobile app is a great way to access your files on the go. However, it can be slow at times, especially when you are trying to access large files.\nThe search function can be inaccurate. The search function is not always accurate. This can be frustrating when you are trying to find a specific file.\nThe user interface can be cluttered. The user interface is not always the most intuitive. This can be frustrating for users who are not familiar with Box.\nThe integration with other applications can be limited. Box integrates with a variety of other applications, but the integration is not always perfect. This can be frustrating for users who want to use Box with their favorite applications.\nOverall, I think Box is a great file-sharing and collaboration platform. However, there are some things that I dislike about it. The pricing can be expensive, the mobile app can be slow, the search function can be inaccurate, the user interface can be cluttered, and the integration with other applications can be limited.\n\nWhat problems is Box solving and how is that benefiting you?\nBox solves a variety of problems for businesses, including:\n\nFile sharing: Box makes it easy to share files with others, both inside and outside of your organization. This can be helpful for collaborating on projects, sharing presentations, or sending documents to clients.\nFile storage: Box provides secure storage for your files, so you can rest assured that they are safe and accessible.\nFile collaboration: Box allows you to collaborate on files in real time, so you can work with others on the same document at the same time. This can save time and improve productivity.\nData security: Box uses a variety of security features to protect your files, including encryption, two-factor authentication, and role-based access control. This helps to prevent unauthorized access to your files.\nCompliance: Box is compliant with a variety of industry standards, so you can be sure that your files are stored in a secure and compliant way.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Muhammad H.",
+                    "reviewer_job_title": "Accountant, Bookkeepers",
+                    "reviewer_link": "https://www.g2.com/users/b101dcb9-10b7-463c-91ac-c8a229e61c94"
+                },
+                "publish_date": "2023-08-27",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8531282"
+            },
+            {
+                "review_id": 8852732,
+                "review_title": "This Cloud is used to Sharing Files Made Easy",
+                "review_content": "What do you like best about Box?\nYo, so I've been using Box.com for a while now, and it's pretty dope!\n\nWhat I like best about Box.com is the seamless file sharing.  Sharing documents and files with friends and colleagues is a piece of cake. No more wrestling with email attachments or dealing with confusing permissions. You just send a link, and boom, they're in. It's like having a secret handshake to your digital stuff. Plus, the collaboration features are a game-changer. Working on projects with my crew is smooth as butter, and it's all in real-time. No more waiting for the latest version to arrive in my inbox. Box.com just makes teamwork feel like a breeze. \n\nWhat do you dislike about Box?\nWhat I'm not too thrilled about with Box.com is the limitations of the free plan.  It's understandable that they need to make a buck, but the free version can feel a bit restricted, especially if you're handling a lot of files. If you need more storage or features, you'll have to shell out some cash. But hey, I guess it's the price for the convenience. And to be honest, it's not crazy expensive. So, it's more like a minor gripe rather than a deal-breaker.\n\nWhat problems is Box solving and how is that benefiting you?\nBox cloud tackles file organization chaos, making my digital life a breeze. No more scattered files; it's like having a virtual librarian. Sharing and collaborating? Super easy. It's my trusty online sidekick. ",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Anjan D.",
+                    "reviewer_job_title": "ReactJS Developer",
+                    "reviewer_link": "https://www.g2.com/users/12f70e53-cf63-4e93-99d3-854cba474845"
+                },
+                "publish_date": "2023-11-10",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8852732"
+            },
+            {
+                "review_id": 8866814,
+                "review_title": "Precision in a Package: The Box Experience",
+                "review_content": "What do you like best about Box?\nBox provides robust collaboration features, allowing multiple users to work on documents simultaneously, comment, and provide feedback.\nIt is known for its strong security measures, including encryption, access controls, and compliance features, making it suitable for businesses that prioritize data protection.\nBox integrates with a variety of third-party applications, streamlining workflows and making it easier for users to connect their Box accounts with other tools they use.\n\nWhat do you dislike about Box?\nDepending on the plan and usage, some users find Box to be relatively expensive compared to other file-sharing and collaboration platforms.\n\nWhat problems is Box solving and how is that benefiting you?\nBox integrates with various third-party applications, creating a more connected and cohesive digital ecosystem. This integration enhances collaboration and provides a seamless experience across different tools.Box facilitates real-time collaboration, ensuring that team members are working on the latest version of a document. Version history tracking helps manage changes effectively.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Kriti S.",
+                    "reviewer_job_title": "Deputy Manager",
+                    "reviewer_link": "https://www.g2.com/users/08ea6154-da39-4259-8439-ea19597a5daf"
+                },
+                "publish_date": "2023-11-13",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8866814"
+            },
+            {
+                "review_id": 8833515,
+                "review_title": "Genuine service quality",
+                "review_content": "What do you like best about Box?\nOne of the conveniences of Box.com is its ability to effortlessly facilitate the sharing of large files with clients, overcoming the common email limitations associated with file size restrictions.\n\nWhat do you dislike about Box?\nI'd like a quicker or even seamless login process for Box.com, and the option to easily share the complete file tree when sharing deeper folders with clients or colleagues. Sometimes, it's not necessary, but having the choice to include the file tree location would be great.\n\nWhat problems is Box solving and how is that benefiting you?\nBox has greatly improved my cloud content collaboration. Its user-friendly interface, effortless file sharing, and features for managing permissions and tracking changes have streamlined our teamwork. The ability to access and edit documents from any device, coupled with robust security, offers flexibility and peace of mind. In essence, Box is now a vital part of my workflow, enhancing the efficiency and effectiveness of teamwork.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Dheeraj P.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/109e57fb-3e06-4e5c-9106-0dc6a23260ba"
+                },
+                "publish_date": "2023-11-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8833515"
+            },
+            {
+                "review_id": 8850170,
+                "review_title": "Useful for when you are not at home or in your office",
+                "review_content": "What do you like best about Box?\nI like that I can collaborate with others and make a document come to life but also save it for future years. I was able to create a very active to do list that I could use each year for a very large project.My department also used it to be able to track lots of incoming phone calls during a heavy traffic time when we did not have a customer service tracking system.\n\nWhat do you dislike about Box?\nIt sometimes can be confusing to explain to novice users how to use more intricate parts of box.\n\nWhat problems is Box solving and how is that benefiting you?\nIt helped my department be able to track thousands of phonecalls and follow up happening over a week time that previously went unrecorded and follow up was challenging.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Heidi S.",
+                    "reviewer_job_title": "Assistant Director",
+                    "reviewer_link": "https://www.g2.com/users/b2303497-0a3c-4d57-842c-99a99e068a0c"
+                },
+                "publish_date": "2023-11-09",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8850170"
+            },
+            {
+                "review_id": 8615994,
+                "review_title": "It was very good experience",
+                "review_content": "What do you like best about Box?\nBox can be used by anybody. One should use this box so that it will help someone to be used in a very such way so it will help everyone about box and how to use it.\n\nWhat do you dislike about Box?\nBox is created One should use this box so that it will help someone to be used in a very such way so it will help everyone about box and how to use it. It should\n\nWhat problems is Box solving and how is that benefiting you?\nOne should use this box so that it will help someone to be used in a very such way so it will help everyone about box and how to use it. It will help everyone to",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Avinash R.",
+                    "reviewer_job_title": "Digital Marketing Specialist",
+                    "reviewer_link": "https://www.g2.com/users/433d6693-d0f3-41d0-b0fe-816f3096fffa"
+                },
+                "publish_date": "2023-09-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8615994"
+            },
+            {
+                "review_id": 8702318,
+                "review_title": "Excellent service with an effortless experience",
+                "review_content": "What do you like best about Box?\nThere are multiple features that I like about Box, so here I am going to share the major ones. I really appreciate how Box provides password-protected files; it helps me share files effortlessly. With Box, I can easily save files and folders to my mobile device, whether it's iOS or Android. In my opinion, Box offers the highest standard of security for my files and folders.\n\nWhat do you dislike about Box?\nSometimes I feel that the mobile app is a little bit slow in comparison. You can expect some inaccuracies with the search function.\n\nWhat problems is Box solving and how is that benefiting you?\nIt helps me to access it from diffrent devices without any hassel. It helps me secure my files and folder and i feel safe for my files and folder. It also benefits me to  handle my file qand folder with all the particularity.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Vanshika .",
+                    "reviewer_job_title": "Client Success Partner",
+                    "reviewer_link": "https://www.g2.com/users/ecc900d9-9777-40c9-8a03-958c3fdffcc5"
+                },
+                "publish_date": "2023-10-06",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8702318"
+            },
+            {
+                "review_id": 8583643,
+                "review_title": "Probably an underutilized product with some great features",
+                "review_content": "What do you like best about Box?\nPersonally, my favorite Box feature is the ability to lock a given document that is shared in a folder with other users while you make changes to that document so that there are not multiple versions floating around that will later need to be somehow integrated. As someone who edits documents for a living, this is incredibly invaluable!\n\nWhat do you dislike about Box?\nNot much that I dislike about Box. It's a thoughtfully built out software that I have used to collaborate with other organizations to write multi-institute grants and it has worked beautifully for us.\n\nWhat problems is Box solving and how is that benefiting you?\nBox is an intuitive and easy-to-use software that allows me to collaborate with other writers across insitutions. When we are working on large projects (like grants) with multiple documents and iterations involved, the ability to collaborate seamlessly (and with the security of knowing it's on the cloud) is priceless.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Anahita V.",
+                    "reviewer_job_title": "Science Writer",
+                    "reviewer_link": "https://www.g2.com/users/71cf3acf-6c6c-46b7-8d28-ade2a9bbbbab"
+                },
+                "publish_date": "2023-09-08",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8583643"
+            },
+            {
+                "review_id": 8546536,
+                "review_title": "Overall experience",
+                "review_content": "What do you like best about Box?\nWhat's easy about Box.com is that you can easily share large files with clients that you would not have been able to otherwise through email when emailing usually has a file sharing limit (typically 20-25MB).\n\nWhat do you dislike about Box?\nI wish there was faster way to log in to box.com, or a way where you don't need to log in at all.  Also, when sharing a folder with a client or colleague, I wish there was a way to show the entire file tree when sharing a deeper folder.  You don't always need to show the file tree, but I wish there was an option where you could share the file tree location.\n\nWhat problems is Box solving and how is that benefiting you?\nWhat's Box.com is solving is that you can easily share large files with clients that you would not have been able to otherwise through email when emailing usually has a file sharing limit (typically 20-25MB).",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-08-30",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8546536"
+            },
+            {
+                "review_id": 8905874,
+                "review_title": "Simple and Spot On!",
+                "review_content": "What do you like best about Box?\nIt is a new product in the market and people or IT engineers like me will take their time to adapt to this new cloud platform.\nIt is simple and on spot at the same time.\n\nWhat do you dislike about Box?\nAs I work in MS cloud platform, I can compare it with my expertise level. Box Cloud Platform still has to work their way to match the services/affordability/efficiency as provided by other giant cloud companies, like Microsoft, Amazon, Google, etc.\n\nWhat problems is Box solving and how is that benefiting you?\nIt helps in managing the devices, content over the internet and ease the process of distributing it to our remote/not in environment employees.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Pankaj B.",
+                    "reviewer_job_title": "Lead Staff Engineer - IT (Product Manager)",
+                    "reviewer_link": "https://www.g2.com/users/f96c8957-1453-447b-ab2f-911fa60b4f05"
+                },
+                "publish_date": "2023-11-21",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8905874"
+            },
+            {
+                "review_id": 8623354,
+                "review_title": "Box Review",
+                "review_content": "What do you like best about Box?\nBox is very good application one should use this for future purposes. Everyone should use this and it will be very helpful for one for future generations. Very knowledgeable\n\nWhat do you dislike about Box?\nIt should be more user interface everyone can use this box application but it can be more greatfull if it will be more User interface. Application can be more modified.\n\nWhat problems is Box solving and how is that benefiting you?\nIt is solving whole problem related to IT industry it is very much helpful for whole company as well. It can be used easily for maintaining data of IT firms on daily basis.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "PRAVEEN R.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/8933b7de-64ea-4cc2-b1a7-8cc6528fc9ca"
+                },
+                "publish_date": "2023-09-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8623354"
+            },
+            {
+                "review_id": 8852243,
+                "review_title": "A simpler alternative to Dropbox",
+                "review_content": "What do you like best about Box?\nThe Box web interface is less cluttered than the one for DropBox. Box works seamlessly with my primary operating environment, macOS, using the Box Sync desktop app.\n\nWhat do you dislike about Box?\nIt adds another icon to my (already) cluttered macOS menu bar.\n\nWhat problems is Box solving and how is that benefiting you?\nIt offers far more online storage (50GB) in its free tier than DropBox does (a measly 2GB), so I can use Box to share more collaborative projects.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Victor P.",
+                    "reviewer_job_title": "Owner",
+                    "reviewer_link": "https://www.g2.com/users/4442a0c8-3a0f-4f6d-b87a-3e1372646320"
+                },
+                "publish_date": "2023-11-10",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8852243"
+            },
+            {
+                "review_id": 8832417,
+                "review_title": "Amazing Content Management",
+                "review_content": "What do you like best about Box?\nSo easy to use, the numbers of features are amazing and it allows to maintain confidentiality of documents or images. Impletementation is super easy and it is easier connect between people inside and outside of the organization making it a frequently used platform.\n\nWhat do you dislike about Box?\nThe customer support takes long time to respond and the integration is quiet a lengthy process.\n\nWhat problems is Box solving and how is that benefiting you?\nOne thing that box solved for me is the E - signatures. It is most beneficial feature of box. Before box, I used to physically sign and then scanned the document for uploading. Box made it a single step and verified as well.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Neenu P.",
+                    "reviewer_job_title": "Project Associate",
+                    "reviewer_link": "https://www.g2.com/users/fcbda896-0c88-432e-a759-3f4c36ec9cac"
+                },
+                "publish_date": "2023-11-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8832417"
+            },
+            {
+                "review_id": 8373191,
+                "review_title": "An exceptional file storage programme",
+                "review_content": "What do you like best about Box?\nOne of the best things about Box is how easy it is to manage and transfer files. You can easily set permissions for individual users or entire groups, and drag and drop files from your computer. Also, the important categories are conveniently listed on the side, so everything stays in order. Whenever you reopen these documents on your device, any changes you make are instantly saved, so you don't have to worry about others editing them.\n\nWhat do you dislike about Box?\nThe fact that shared URLs can expire unexpectedly worries me because it could lead to dangerous situations if we don't know how long they will be accessible. In addition, once we give ownership to someone else, we cannot get those links back until they relinquish control. Users should always know how to create these URL links and how long they will last.\n\nWhat problems is Box solving and how is that benefiting you?\nI use Box to securely store and share documents across my organization. Using it is easy, and I can create folders for specific projects or departments that multiple colleagues can access simultaneously.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Nicole B.",
+                    "reviewer_job_title": "Owner",
+                    "reviewer_link": "https://www.g2.com/users/7ad71b54-3d18-427c-b115-874c0a48bea1"
+                },
+                "publish_date": "2023-07-28",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8373191"
+            },
+            {
+                "review_id": 8596413,
+                "review_title": "Best auditing and reporting software",
+                "review_content": "What do you like best about Box?\nIt is the most simple and secured tool  and easy to use. The best is that it is  accessible from different devices as I work digitally and this has made my life very easy. Now I can finish half the work at the comfort of my home.\n\nWhat do you dislike about Box?\nThere is nothing in specific that I dont like about the box. However maybe it could be a bit more cost friendly and a bit slow with larger files and low internet speeds.\n\nWhat problems is Box solving and how is that benefiting you?\nTime saving is one problem it saved for me as now I can finish my tasks at home after the research  before actually presenting it to my clients hence it gives me for confidence as I feel more prepared with my work.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Pooja Y.",
+                    "reviewer_job_title": "Sales And Marketing Specialist",
+                    "reviewer_link": "https://www.g2.com/users/3b02fdaf-1ba5-487c-af05-38e7e61c35fd"
+                },
+                "publish_date": "2023-09-12",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8596413"
+            },
+            {
+                "review_id": 8307087,
+                "review_title": "Using Box in a Higher Education Fundraising Setting",
+                "review_content": "What do you like best about Box?\nThe upsides of box are that you can collaborate with multiple users in a cloud-based setting. It can have multiple users working within a file as well as a note option. The ability to have all files accessible from any device with an internet connection is a plus.\n\nWhat do you dislike about Box?\nThe downsides are that to collaborate in a file, you must be using the web version of Box. The same goes for using Box notes. Since it is not a program native to Windows, desktop integration can be lacking.\n\nWhat problems is Box solving and how is that benefiting you?\nThe ability to have high storage space limits per user, infinite collaboration, as well as being able to control sharing settings for individual files within directories is paramount.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Greg B.",
+                    "reviewer_job_title": "Class Officer, Undergraduate Reunions, Tulane Fund",
+                    "reviewer_link": "https://www.g2.com/users/9811d244-4e05-4e15-813c-609fdf81bfc0"
+                },
+                "publish_date": "2023-07-11",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8307087"
+            },
+            {
+                "review_id": 1597475,
+                "review_title": "A simple solution",
+                "review_content": "What do you like best about Box?\nIt provides a uniform experience for all team members.  The overall experience is getting better.\n\nWhat do you dislike about Box?\nDesktop sync app requires sync selections to be made using the browser interface, and can be slow to update all users.  Desktop streaming app can be slow to load files, and in-folder preview of files (using the preview pane) only works when the files have been recently used.  Very poor searching when streaming. We had one experience where I stopped the app from loading on a remote computer and it arbitrarily deleted 80% of our files, took 2 days with customer service for them to tell me where to find the files and restore them.\n\nRecommendations to others considering Box:\nBe sure to coordinate use of files in progress to prevent a lot of duplicate files.\n\nWhat problems is Box solving and how is that benefiting you?\nIt is convenient to access files from outside the office, and to share files with other team members without emailing to all and without maintaining an in-house server and VPN on remote computers.  Recently I have been able to successfully share files with others outside the organization.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-12",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-1597475"
+            },
+            {
+                "review_id": 8131610,
+                "review_title": "Box office",
+                "review_content": "What do you like best about Box?\nI like that it's very fast and works great even just logging in and uploading files on the web , it's very convenient in a pick up and go kinda way, uploads are fast and simple\n\nWhat do you dislike about Box?\nWell it can become overbearing on the rules and regulations of sharing and ownership, the verification system could do for an upgrade , I was being redirected a few times out of my own files with error reading I did not have permission to view but hadn't even shared the link with anyone but myself\n\nWhat problems is Box solving and how is that benefiting you?\nWell I'm able to finally get my teams in order and take advantage of my software that includes Microsoft Office along with box drop and a few more features we use , it's putting everything in order lovely which makes for even better business growth",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Michelle H.",
+                    "reviewer_job_title": "Entertainer",
+                    "reviewer_link": "https://www.g2.com/users/dd4c69bc-e2f7-429e-8047-525c3e3f5438"
+                },
+                "publish_date": "2023-05-23",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8131610"
+            },
+            {
+                "review_id": 8867452,
+                "review_title": "Premier Software Marketplace",
+                "review_content": "What do you like best about Box?\nAs G2 is the best premier software marketplace with ease of use and these softwares are easy to implement and they also provide customer support with a great number of features in them and moreover the frequency of using these are quiet high and they are also easy to integrate\n\nWhat do you dislike about Box?\nAs such I don't have anything that I should dislike about this.\n\nWhat problems is Box solving and how is that benefiting you?\nI am using this Box for my E-signatures and with this I don't need to add my signatures everytime as my E-signatures are directly added",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Abhishek M.",
+                    "reviewer_job_title": "Digital Marketing Intern",
+                    "reviewer_link": "https://www.g2.com/users/b2802cb8-3f94-45ee-9779-875afbdf0f13"
+                },
+                "publish_date": "2023-11-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8867452"
+            },
+            {
+                "review_id": 8421769,
+                "review_title": "It couldn't get any easier than Box!",
+                "review_content": "What do you like best about Box?\nI like Box because it makes sharing files extremely easy and intuitive. When you receive a Box invite, you know right where to to and what you will find when you get there!\n\nWhat do you dislike about Box?\nI really can't think of anything I don't like. Its simple to use, easy to understand, a perfect way to communicate with others across the world! Don't change a thing!\n\nWhat problems is Box solving and how is that benefiting you?\nThe problem Box solves for me, as an independent contractor, companies can send me documents quickly and easily without giving me access to stuff I do not need to see or work with.",
+                "review_rating": 5,
+                "reviewer": {
+                    "reviewer_name": "Deon K.",
+                    "reviewer_job_title": "Instructor/Trainer",
+                    "reviewer_link": "https://www.g2.com/users/deon-kula"
+                },
+                "publish_date": "2023-08-08",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8421769"
+            },
+            {
+                "review_id": 8370439,
+                "review_title": "Box for Students: Organize, Collaborate, and Excel in College",
+                "review_content": "What do you like best about Box?\nFirstly, its cloud-based storage makes it easy to access and share files from anywhere, which is convenient for students constantly moving between devices and locations .\n\nSecondly, its collaborative features allow students to work on group projects together in real time, enhancing teamwork and productivity.\n\nLastly, Box's robust security measures ensure that important academic files and data are kept safe and protected.\n\nWhat do you dislike about Box?\nSome students may find Box's interface and feature slightly complex initially, requiring time to learn and navigate efficiently.\n\nWhat problems is Box solving and how is that benefiting you?\nIt provided seamless access to files on all devices so we need not to carry storage drives and also dont have to worry about the OS we are using, just connect to the internet and access the files everywhere.\nVersion control is also widely used by our team which makes it easy to collaborate.",
+                "review_rating": 4,
+                "reviewer": {
+                    "reviewer_name": "Rohan S.",
+                    "reviewer_job_title": "Software Engineer 1",
+                    "reviewer_link": "https://www.g2.com/users/848f752d-5e79-440a-90db-77d345c9ca4b"
+                },
+                "publish_date": "2023-07-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/box/reviews/box-review-8370439"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,16 +1,16 @@
 ## 🤔 Advanced Questions
 
-### ❓ I don't have Python, or I'm facing errors when setting up the scraper on my PC. How to solve it?
+### ❓ I don't have Python installed. How can I run the scraper?
 
 You can easily run the scraper in Gitpod, a browser-based development environment. Set it up in just 5 minutes by following these steps:
 
 1. Visit [this link](https://gitpod.io/#https://github.com/omkarcloud/g2-scraper) and sign up using your GitHub account.
    
-   ![Screenshot (148)](https://github.com/omkarcloud/g2-scraper/assets/53407137/f498dda8-5352-4f7a-9d70-c717859670d4.png)
+   ![Gitpod Sign Up](https://github.com/omkarcloud/g2-scraper/assets/53407137/f498dda8-5352-4f7a-9d70-c717859670d4.png)
   
 2. Once Signed Up, Open it in Gitpod.   
 
-   ![gp-continue](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/gp-continue.png)
+   ![g2 gitpod continue](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-gitpod-continue.png)
 
 3. In the terminal, run the following command to start scraping:
    ```bash
@@ -19,7 +19,7 @@ You can easily run the scraper in Gitpod, a browser-based development environmen
   
 4. Once the scraper has finished running, download the g2 products from the `output` folder.
 
-   ![Screenshot (219)](https://github.com/omkarcloud/g2-scraper/assets/53407137/bade4001-12dc-4191-972e-cba0466f3e3f.png)
+   ![g2 products data download](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-products-data-download.png)
 
 ### ❓ Need More Help or Have Additional Questions?
 

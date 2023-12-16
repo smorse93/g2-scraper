@@ -1,4 +1,4 @@
-![G2 Scraper Feautred Image](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-scraper-feautred-image.png)
+![G2 Scraper Featured Image](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-scraper-featured-image.png)
 
 <div align="center" style="margin-top: 0;">
   <h1>✨ G2 Scraper 🚀</h1>
@@ -78,7 +78,9 @@ python main.py
 
 Find 100 G2 Products in the `output` directory.
 
-![G2 Scraper CSV Result](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-scraping-csv-result.png)
+![G2 Scraper CSV Result](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-scraper-csv-result.png)
+
+*Note: If you don't have Python installed. Follow this Simple FAQ [here](https://github.com/omkarcloud/google-maps-scraper/blob/master/advanced.md#-i-dont-have-python-or-im-facing-errors-when-setting-up-the-scraper-on-my-pc-how-to-solve-it) and you will have your g2 products in next 5 Minutes*
 
 ## 🤔 FAQs
 
@@ -123,10 +125,10 @@ To scrape additional products, follow these steps to use our G2 API with the Fre
 
 2. Then, subscribe to our Free Plan by visiting [this link](https://rapidapi.com/Chetan11dev/api/g2-data-api/pricing).
 
-![Subscribe to Free Plan](TODO: ADD)
+![Subscribe to Free Plan](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-free-subscription.png)
 
 3. Now, copy the API key.
-![Copy the API Key](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/key.png)
+![Copy the API Key](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-api-key.png)
 
 4. Use it in the scraper as follows:
 ```python
