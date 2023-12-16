@@ -80,7 +80,7 @@ Find 100 G2 Products in the `output` directory.
 
 ![G2 Scraper CSV Result](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-scraper-csv-result.png)
 
-*Note: If you don't have Python installed. Follow this Simple FAQ [here](https://github.com/omkarcloud/google-maps-scraper/blob/master/advanced.md#-i-dont-have-python-or-im-facing-errors-when-setting-up-the-scraper-on-my-pc-how-to-solve-it) and you will have your g2 products in next 5 Minutes*
+*Note: If you don't have Python installed. Follow this Simple FAQ [here](https://github.com/omkarcloud/g2-scraper/blob/master/advanced.md#-i-dont-have-python-installed-how-can-i-run-the-scraper) and you will have your g2 products in next 5 Minutes*
 
 ## 🤔 FAQs
 
