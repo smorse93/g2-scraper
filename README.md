@@ -160,11 +160,11 @@ If you need the complete G2 dataset, kindly contact us on WhatsApp. We'll be hap
 
 [![Contact Us on WhatsApp](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/mwa.png)](https://wa.me/message/3WED4FYQRDPNE1)
 
-### ❓ Need More Help or Have Additional Questions?
+<!-- ### ❓ Need More Help or Have Additional Questions?
 
 For further help, contact us on WhatsApp. We'll be happy to help you out.
 
-[![Contact Us on WhatsApp](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/mwa.png)](https://wa.me/message/3WED4FYQRDPNE1)
+[![Contact Us on WhatsApp](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/mwa.png)](https://wa.me/message/3WED4FYQRDPNE1) -->
 
 ## Love It? [Star It! ⭐](https://github.com/omkarcloud/g2-scraper/stargazers)
 
