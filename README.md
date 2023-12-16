@@ -102,6 +102,16 @@ G2.get_products(products)
 python main.py
 ```   
 
+You can also pass the direct links:
+
+```python
+products = [
+  "https://www.g2.com/products/github/reviews", 
+  "https://www.g2.com/products/atom/reviews", 
+  "https://www.g2.com/products/sublime-text/reviews",
+]
+G2.get_products(products)
+```
 ### ❓ What Data Points Are Scraped?
 
 We scrape over 35+ data points, notable among them are:
@@ -114,7 +124,7 @@ We scrape over 35+ data points, notable among them are:
 - Reviews (up to 25 reviews)
 - And many more...
 
-For examples in CSV/JSON format, see [this file](TODO: ADD).
+For examples in CSV/JSON format, see [this file](https://drive.google.com/file/d/1y8z-enPJemBKIcRr98jgDSjC6ZJNP7ha/view?usp=sharing).
 
 ### How to Scrape More Products Using the G2 API?
 

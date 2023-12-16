@@ -42,6 +42,15 @@ def print_data_errors(credits_exhausted, not_subscribed, unknown_error, no_key):
         print(f"Could not get data for {len(no_key)} {name} as you are not subscribed to G2 Data Api. Please subscribe to a free plan by visiting https://rapidapi.com/Chetan11dev/api/g2-data-api/pricing to scrape data.")
 
       
+def extract_product_from_link(x):
+    x= x.strip()
+    if 'g2.com/products/' in x:
+        product = x.split('g2.com/products/')[1]
+        if '/' in product:
+            product = product.split('/')[0]
+        return product
+    return x
+
 
 class G2:
     @staticmethod
@@ -58,6 +67,7 @@ class G2:
         if isinstance(products, str):
             products = [products]  
 
+        products = [extract_product_from_link(product) for product in products]
         result = []
         for product in products:
             data = {"product": product}
