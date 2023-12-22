@@ -164,7 +164,7 @@ The first 50 products are free. After that, you can upgrade to the Pro Plan to s
 
 If you're looking to scrape the entire G2 dataset, which includes over 100,000 products, we offer a special rate of $3.8 per 1,000 products.
 
-Additionally, we will deliver the JSON/CSV files of the Complete G2 Dataset to you.
+The data will be freshly scraped and we will deliver the JSON/CSV files of the Complete G2 Dataset to you within 7 Days.
 
 If you need the complete G2 dataset, kindly contact us on WhatsApp. We'll be happy to help you out.
 
