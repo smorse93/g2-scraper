@@ -31,7 +31,7 @@ def print_data_errors(credits_exhausted, not_subscribed, unknown_error, no_key):
 
     if not_subscribed:
         name = "products" if len(not_subscribed) > 1 else "product"
-        print(f"Could not get data for {len(not_subscribed)} {name} as you are not subscribed to G2 Data Api. Please subscribe to a free plan by visiting https://rapidapi.com/Chetan11dev/api/g2-data-api/pricing to scrape data.")
+        print(f"Could not get data for {len(not_subscribed)} {name} as you are not subscribed to G2 Data Api. Please subscribe to a free plan by visiting https://rapidapi.com/Chetan11dev/api/g2-data-api/pricing")
 
     if unknown_error:
         name = "products" if len(unknown_error) > 1 else "product"
@@ -39,7 +39,7 @@ def print_data_errors(credits_exhausted, not_subscribed, unknown_error, no_key):
 
     if no_key:
         name = "products" if len(no_key) > 1 else "product"
-        print(f"Could not get data for {len(no_key)} {name} as you are not subscribed to G2 Data Api. Please subscribe to a free plan by visiting https://rapidapi.com/Chetan11dev/api/g2-data-api/pricing to scrape data.")
+        print(f"Could not get data for {len(no_key)} {name} as you are not subscribed to G2 Data Api. Please subscribe to a free plan by visiting https://rapidapi.com/Chetan11dev/api/g2-data-api/pricing")
 
       
 def extract_product_from_link(x):

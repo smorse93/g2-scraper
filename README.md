@@ -2,7 +2,7 @@
 
 <div align="center" style="margin-top: 0;">
   <h1>✨ G2 Scraper 🚀</h1>
-  <p>💦 Enjoy the Rain of G2 Products 💦</p>
+  <p>💦 Find G2 Product Details 💦</p>
 </div>
 <em>
   <h5 align="center">(Programming Language - Python 3)</h5>
@@ -33,32 +33,22 @@
   
 ---
 
+## Disclaimer for G2 Scraper Project
+
+By using G2 Scraper, you agree to comply with all applicable local and international laws related to data scraping, copyright, and privacy. The developers of G2 Scraper will not be held liable for any misuse of this software. It is the user's sole responsibility to ensure adherence to all relevant laws regarding data scraping, copyright, and privacy, and to use G2 Scraper in an ethical and legal manner, in line with both local and international regulations.
+
+We take concerns related to the G2 Scraper Project very seriously. If you have any inquiries or issues, please contact Chetan Jain at [chetan@omkar.cloud](mailto:chetan@omkar.cloud). We will take prompt and necessary action in response to your emails.
+
 ## 👉 Explore Our Other Awesome Products
 
 
 - ✅ [Botasaurus](https://github.com/omkarcloud/botasaurus): The All-in-One Web Scraping Framework with Anti-Detection, Parallelization, Asynchronous, and Caching Superpowers.
 
-- ✅ [Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper): Find thousands of new customers personal phone, email, LinkedIn, Twitter and grow your business exponentially.
+- ✅ [Google Maps Scraper](https://github.com/omkarcloud/google-maps-scraper): Discover Search Results from Google Maps.
 
 ---
 
-⚡ Get G2 Products in next 5 Minutes! ⚡
-
-I am G2 Scraper, created to help you scrape Thousands of G2 Products. 🚀
-
-## ⚡ Benefits
-- Scraping G2 provides an overview of emerging market trends. (Great for Investors)
-
-- G2 data offers insights into competitors' products, customer feedback, and market trends for strategic business decisions.
-
-- Reviews and feedback on G2 guide companies in enhancing their products to meet market demands and user expectations.
-
-In the next 5 minutes, you'll witness the magic as I extract G2 Products for you, opening up a world of opportunities.
-
-![G2 Scraper CSV Result](https://raw.githubusercontent.com/omkarcloud/g2-scraper/master/images/g2-scraper-csv-result.png)
-
-Ready to scrape G2 Products? Let's get started! 💼🌍
-
+G2 Scraper helps you scrape G2 Products. 🚀
 
 ## 🚀 Getting Started
 
@@ -169,12 +159,6 @@ The data will be freshly scraped and we will deliver the JSON/CSV files of the C
 If you need the complete G2 dataset, kindly contact us on WhatsApp. We'll be happy to help you out.
 
 [![Contact Us on WhatsApp](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/mwa.png)](https://api.whatsapp.com/send?phone=918295042963&text=Hi,%20I%20would%20like%20to%20learn%20more%20about%20your%20products.)
-
-<!-- ### ❓ Need More Help or Have Additional Questions?
-
-For further help, contact us on WhatsApp. We'll be happy to help you out.
-
-[![Contact Us on WhatsApp](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/mwa.png)](https://api.whatsapp.com/send?phone=918295042963&text=Hi,%20I%20would%20like%20to%20learn%20more%20about%20your%20products.) -->
 
 ## Love It? [Star It! ⭐](https://github.com/omkarcloud/g2-scraper/stargazers)
 
