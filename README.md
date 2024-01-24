@@ -35,7 +35,7 @@
 
 ## Disclaimer for G2 Scraper Project
 
-By using G2 Scraper, you agree to comply with all applicable local and international laws related to data scraping, copyright, and privacy. The developers of G2 Scraper will not be held liable for any misuse of this software. It is the user's sole responsibility to ensure adherence to all relevant laws regarding data scraping, copyright, and privacy, and to use G2 Scraper in an ethical and legal manner, in line with both local and international regulations.
+> By using G2 Scraper, you agree to comply with all applicable local and international laws related to data scraping, copyright, and privacy. The developers of G2 Scraper will not be held liable for any misuse of this software. It is the user's sole responsibility to ensure adherence to all relevant laws regarding data scraping, copyright, and privacy, and to use G2 Scraper in an ethical and legal manner, in line with both local and international regulations.
 
 We take concerns related to the G2 Scraper Project very seriously. If you have any inquiries or issues, please contact Chetan Jain at [chetan@omkar.cloud](mailto:chetan@omkar.cloud). We will take prompt and necessary action in response to your emails.
 
