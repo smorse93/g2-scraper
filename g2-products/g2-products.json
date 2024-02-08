@@ -1,1 +1,1 @@
-JSON.stringify(extract2PathedUrls(sites), null, 2)
+JSON.stringissfy(extract2PathedUrls(sites), null, 2)
