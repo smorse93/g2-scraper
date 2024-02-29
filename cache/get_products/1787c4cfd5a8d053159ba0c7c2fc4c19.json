@@ -1,0 +1,140 @@
+{
+    "data": {
+        "product_id": 62607,
+        "product_name": "Dimension Data",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9199c34a6e2c3022144bd9c90bbbf2c2/deloitte-consulting.jpg",
+        "g2_link": "https://www.g2.com/products/dimension-data/reviews",
+        "what_is": "Dimension Data is a global technology integrator and managed services provider that helps its clients achieve great things and create new possibilities through the use and adoption of technology.",
+        "product_description": null,
+        "positioning_against_competitor": null,
+        "reviews": 3,
+        "rating": 3.2,
+        "medal_image": null,
+        "company_id": 651,
+        "seller": "Dimension Data",
+        "company_phone": null,
+        "company_location": null,
+        "company_founded_year": 1983,
+        "company_annual_revenue": null,
+        "total_revenue_usd_mm": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/dimension-data/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/DiDataMEA",
+        "number_of_followers_on_twitter": 11327,
+        "linkedin": "https://www.linkedin.com/company/dimension-data",
+        "number_of_employees_on_linkedin": 18127,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "IBM Consulting Services",
+                "category_link": "/categories/ibm-consulting-services"
+            },
+            {
+                "category_name": "IBM Security VARs",
+                "category_link": "/categories/ibm-security-vars"
+            }
+        ],
+        "screenshots": [],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "/products/accenture/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "/products/deloitte-consulting/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "IBM Consulting",
+                "competitor_link": "/products/ibm-consulting/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 62
+            },
+            {
+                "competitor_name": "Wipro",
+                "competitor_link": "/products/wipro/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 41
+            },
+            {
+                "competitor_name": "Cognizant",
+                "competitor_link": "/products/cognizant/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 40
+            },
+            {
+                "competitor_name": "Tata Consultancy Services",
+                "competitor_link": "/products/tata-consultancy-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 31
+            }
+        ],
+        "comparisons": [],
+        "star_distribution": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/dimension-data/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 7686273,
+                "review_title": "NOT GIVEN",
+                "review_content": "The only thing I liked about them was Flexibility in workplace\n\n\nThey had alot to dislike. First, management are very unreasonable and have very high expectations. We used to work excessively more hours than expected, especially towards month ends. Their payment is meager in comparison to industry standards and never in time.\n\n\nI can't recommend them to anyone. They are very disappointing!\n\n\nNone. They need a lot of improvements, especially in the management",
+                "review_rating": 1.0,
+                "reviewer": {
+                    "reviewer_name": "Dickson W.",
+                    "reviewer_job_title": "Digital Marketor",
+                    "reviewer_link": "https://www.g2.com/users/b63334b6-4680-4ca5-b0d1-d8d9a92abd63"
+                },
+                "publish_date": "2023-02-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/dimension-data/reviews/dimension-data-review-7686273"
+            },
+            {
+                "review_id": 7686354,
+                "review_title": "NOT GIVEN",
+                "review_content": "Bright future for Technology\nNice Atmosphere\nContinue to look to be on the cutting edge\nHas combined with a number of companies to leverage expertise and experience\nExcellent Flexibility\nContinuous Education\n\n\nI can't think of any. They have a great work-life balance\n\n\nDefinitely, I recommend Dimension data to others who have various professional help required in one place.\n\n\nAll Technologies and Techno-functional problems have been resolved",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Linnet K.",
+                    "reviewer_job_title": "Team Manager",
+                    "reviewer_link": "https://www.g2.com/users/4031c24e-ba60-47fd-ab30-c7d6956c368d"
+                },
+                "publish_date": "2023-02-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/dimension-data/reviews/dimension-data-review-7686354"
+            },
+            {
+                "review_id": 972215,
+                "review_title": "NOT GIVEN",
+                "review_content": "Our project focused on utilizing data to determine new features that may be resourceful for our new system implementation and procedures. Primarily focusing on user-friendly attributes and analysis.\n\n\nThe best aspect of this technology is that it allowed the organization to be able to obtain solid data that was accurate and simple. We were able to easily find the issues with our database by gaining statistical models and arithmetic information from this tool.\n\n\nThe only issue is that the system was most effective for our internal issues rather than being able to expand to a larger network for data analytics.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-10-16",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/dimension-data/reviews/dimension-data-review-972215"
+            }
+        ]
+    },
+    "error": null
+}

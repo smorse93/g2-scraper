@@ -1,0 +1,239 @@
+{
+    "data": {
+        "product_id": 1299,
+        "product_name": "Sirius",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6d931d2412312aff9639fdbd02c2d422/sirius.jpg",
+        "g2_link": "https://www.g2.com/products/sirius/reviews",
+        "what_is": "Sirius is leading national solutions integrator focused on helping organizations transform their business by managing their operations, optimizing their IT, and securing it all. The Sirius team specializes in IT Strategy (Infrastructure and Operations), Security, Business Innovation (Digital and Data), Cloud, and Managed Services. Sirius solutions are built on proven technologies from top strategic partners, and delivered by the brightest minds in the business.",
+        "product_description": null,
+        "positioning_against_competitor": "Sirius provides world-class solutions built on leading technologies, from top strategic partners, and delivered by the brightest minds in the business. Our experience crosses all facets of IT, with solutions for IT Infrastructure & Operations, Security, Business Innovation, and Cloud & Managed Solutions. With a relentless focus on business outcomes, and the right people and partners in place, we help our clients cut costs, increase reliability, ease the burden of management, maximize flexibility, mitigate risk, and improve overall service to the business.",
+        "reviews": 7,
+        "rating": 4.6,
+        "medal_image": null,
+        "company_id": 33752,
+        "seller": "Sirius Computer Solutions",
+        "company_phone": null,
+        "company_location": "San Diego, California",
+        "company_founded_year": 1980,
+        "company_annual_revenue": null,
+        "total_revenue_usd_mm": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/sirius/discuss",
+        "supported_languages": "English",
+        "twitter": "https://twitter.com/SIRIUSXM",
+        "number_of_followers_on_twitter": 313074,
+        "linkedin": "https://www.linkedin.com/company/10951/",
+        "number_of_employees_on_linkedin": 2233,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Digital Transformation Consulting",
+                "category_link": "/categories/digital-transformation-consulting"
+            },
+            {
+                "category_name": "AWS Consulting Services",
+                "category_link": "/categories/aws-consulting-services"
+            },
+            {
+                "category_name": "Amazon Web Services Channel Partners",
+                "category_link": "/categories/amazon-web-services-channel-partners"
+            },
+            {
+                "category_name": "Cloud Migration Services",
+                "category_link": "/categories/cloud-migration-services"
+            },
+            {
+                "category_name": "IT Strategy Consulting",
+                "category_link": "/categories/it-strategy-consulting"
+            },
+            {
+                "category_name": "Managed IT Services",
+                "category_link": "/categories/managed-it-services"
+            },
+            {
+                "category_name": "Managed Security Services (MSSP)",
+                "category_link": "/categories/managed-security-services-mssp"
+            },
+            {
+                "category_name": "Vulnerability Assessment Services",
+                "category_link": "/categories/vulnerability-assessment-services"
+            },
+            {
+                "category_name": "IBM Security VARs",
+                "category_link": "/categories/ibm-security-vars"
+            }
+        ],
+        "screenshots": [],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 166
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "/products/accenture/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "/products/alta-vista-technology/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 111
+            },
+            {
+                "competitor_name": "CDW Hardware",
+                "competitor_link": "/products/cdw-hardware/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 27
+            },
+            {
+                "competitor_name": "Pax8",
+                "competitor_link": "/products/pax8/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 65
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "/products/deloitte-consulting/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 63
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/cdw-hardware-vs-sirius",
+                "competitor_name": "CDW Hardware",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_e9b1b2756c66f7a3fca43e5a56dae17b/cdw-hardware.jpg"
+            },
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-sirius",
+                "competitor_name": "Accenture",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_8dca881a328f977740e4b957ae668966/accenture.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 6
+        },
+        "g2_reviews_link": "https://www.g2.com/products/sirius/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 4083222,
+                "review_title": "NOT GIVEN",
+                "review_content": "They have helped with a number of my network and camera projects\n\n\nI like that we can get on a call and work out what is needed; if more engineering is needed they are quick to get back to me with the results.\n\n\nI can't think of anything at the moment.\n\n\nGreat price on the equipment.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Troy R.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/6b29ad4b-ffc7-40ad-bb33-b1a7e0bca736"
+                },
+                "publish_date": "2022-01-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sirius/reviews/sirius-review-4083222"
+            },
+            {
+                "review_id": 4082422,
+                "review_title": "NOT GIVEN",
+                "review_content": "Sirius is our business partner and vendor for technology solutions. Main projects were networking and system management related. We needed 3rd party expertise to advise us on available options, and validate our own suggestions. Every time we engage with Sirius, they guide us successfully from start to finish. And more importantly, when things happen unexpectedly, they Sirius always is available to quickly get things back on track. For us, a vendor that not only delivers what is requested, but goes above and beyond to provide additional context is important to the overall success and continuous education of the team.\n\n\nSirius is a company with lots of talent. Our main business contact is always willing to help and manages each time to bring the right talent around the table to make us successful as their client. In short, their expertise and skill set, combined with broad industry knowledge, makes them a valuable partner around the table.\n\n\nThere is nothing we dislike. We typically dislike being spammed till death by marketing and sales material, but Sirius is not doing this. Hence we experience the relationship as a mutually beneficial one\n\n\nSirius is a great one-stop shop for all IT needs. Initially a smaller scope vendor for us, their expertise and knowledge, coupled with broad market experience has increased their value and support as business partner significantly. Highly recommended vendor to build a relationship with.\n\n\nWe are solving technically complex projects with products, knowledge and services from Sirius. We have increased our system reliability, simplified ongoing system management and improved operational efficiency with Sirius as partner. Lastly, our investments are driving the value we expected that we had set as a goal for each project.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Maurice L.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/6d38b6f6-225f-4610-95c3-09d856bcb987"
+                },
+                "publish_date": "2020-01-28",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sirius/reviews/sirius-review-4082422"
+            },
+            {
+                "review_id": 4082528,
+                "review_title": "NOT GIVEN",
+                "review_content": "I'm not sure which one this might relate to... VMware licensing, EMC  storage, etc..?\n\n\nThe people -- I love our account manager, Lindsey Hamer and her technical counterpart Joel Cason.  Both are very good at their jobs and very attentive when needed.\n\n\nQuote turn-arounds could be faster.  I'm not sure if the delay comes from the Sirius side or the vendor side, but a lot of times quotes seem to take a lot longer than I would expect.\n\n\nI have found Sirius to be one of the better VARs in the area.  I wouldn't hesitate to consider them if you are looking.  They make sure you're getting the solution you need and not just the thing you thought you wanted.  I rely on them to make sure I'm not making stupid decisions and I rely on them to \"have my back\".\n\n\nSirius helps me with server and storage design and delivery.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2020-01-28",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sirius/reviews/sirius-review-4082528"
+            },
+            {
+                "review_id": 4095008,
+                "review_title": "NOT GIVEN",
+                "review_content": "Configuration and purchase of new IBM Power 9 system.\n\n\nEasy to get answers.  Very helpful at transferring operating system licenses\n\n\nNothing.  Everything went as planned.  Quotes were accurate\n\n\nThe new system is up and running.  We have not had any issues since installing it in August.  It is really fast!",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Lawrence C.",
+                    "reviewer_job_title": "Director of Application Development",
+                    "reviewer_link": "https://www.g2.com/users/9b4aa3a1-ca31-467d-a692-8df6cc6a6a42"
+                },
+                "publish_date": "2020-01-30",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sirius/reviews/sirius-review-4095008"
+            },
+            {
+                "review_id": 4081806,
+                "review_title": "NOT GIVEN",
+                "review_content": "Managed Services\n\n\nAllows our IT Department some freedom from the day to day processes and frees our time up for additional tasks.\n\n\nWe have not had any negative experiences with the Managed Services team.  If there are issues, we have them addressed and get back on track right away.\n\n\nManaged Services",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2020-01-28",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sirius/reviews/sirius-review-4081806"
+            },
+            {
+                "review_id": 4081858,
+                "review_title": "NOT GIVEN",
+                "review_content": "Deploy Meraki Equipment\n\n\nPersonnel is available during project and open to ideas from customer\n\n\nNot everyone is local always nice to work togeter in person\n\n\nLearning new technologies and implementing those solutions",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2020-01-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sirius/reviews/sirius-review-4081858"
+            },
+            {
+                "review_id": 8370,
+                "review_title": "NOT GIVEN",
+                "review_content": "Forsythe has been a company I have used for many years as a vendor and computer loan company.  Their prices are competitive and their support is excellent.\n\n\nLike all vendor's, sometimes it is easier to deal with the manufacturer or primary company, but they will prevent this.\n\n\nIf you are looking for a vendor I would recommend Forsythe, I have dealt with them as partners and as a customer, and in both situations I have been satisfied.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2012-11-16",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/sirius/reviews/sirius-review-8370"
+            }
+        ]
+    },
+    "error": null
+}

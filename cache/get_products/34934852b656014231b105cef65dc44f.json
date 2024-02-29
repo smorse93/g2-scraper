@@ -1,0 +1,514 @@
+{
+    "data": {
+        "product_id": 22426,
+        "product_name": "Deloitte Consulting",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9199c34a6e2c3022144bd9c90bbbf2c2/deloitte-consulting.jpg",
+        "g2_link": "https://www.g2.com/products/deloitte-consulting/reviews",
+        "what_is": "Deloitte is an accounting firms and professional services network that provides audit, tax, consulting, enterprise risk and financial advisory services",
+        "product_description": null,
+        "positioning_against_competitor": null,
+        "reviews": 63,
+        "rating": 4.1,
+        "medal_image": null,
+        "company_id": 798,
+        "seller": "Deloitte",
+        "company_phone": "+1 212 492 4000",
+        "company_location": "New York, NY",
+        "company_founded_year": 1845,
+        "company_annual_revenue": null,
+        "total_revenue_usd_mm": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/deloitte-consulting/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Deloitte",
+        "number_of_followers_on_twitter": 573166,
+        "linkedin": "https://www.linkedin.com/company/1038/",
+        "number_of_employees_on_linkedin": 418888,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "HubSpot Consulting Services",
+                "category_link": "/categories/hubspot-consulting-services"
+            },
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "User Experience (UX) Design Services",
+                "category_link": "/categories/user-experience-ux-design-services"
+            },
+            {
+                "category_name": "AWS Consulting Services",
+                "category_link": "/categories/aws-consulting-services"
+            },
+            {
+                "category_name": "Oracle Consulting Services",
+                "category_link": "/categories/oracle-consulting-services"
+            },
+            {
+                "category_name": "SAP Consulting Services",
+                "category_link": "/categories/sap-consulting-services"
+            },
+            {
+                "category_name": "Google Consulting Services",
+                "category_link": "/categories/google-consulting-services"
+            },
+            {
+                "category_name": "Cybersecurity Consulting",
+                "category_link": "/categories/cybersecurity-consulting"
+            }
+        ],
+        "screenshots": [],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "/products/accenture/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "KPMG",
+                "competitor_link": "/products/kpmg/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 21
+            },
+            {
+                "competitor_name": "PricewaterhouseCoopers (PwC)",
+                "competitor_link": "/products/pricewaterhousecoopers-pwc/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 34
+            },
+            {
+                "competitor_name": "Capgemini Services",
+                "competitor_link": "/products/capgemini-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 21
+            },
+            {
+                "competitor_name": "webdew",
+                "competitor_link": "/products/webdew/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 190
+            },
+            {
+                "competitor_name": "WebFX",
+                "competitor_link": "/products/webfx/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 184
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-deloitte-consulting",
+                "competitor_name": "Accenture",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_8dca881a328f977740e4b957ae668966/accenture.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/deloitte-consulting-vs-kpmg",
+                "competitor_name": "KPMG",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_d92b7d7391816d83ab74c9fe5b74968b/kpmg.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/capgemini-services-vs-deloitte-consulting",
+                "competitor_name": "Capgemini Services",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_51823a7f61425db62a496fa03d4988c2/capgemini-services.png"
+            }
+        ],
+        "star_distribution": {
+            "1": 1,
+            "2": 1,
+            "3": 5,
+            "4": 26,
+            "5": 30
+        },
+        "g2_reviews_link": "https://www.g2.com/products/deloitte-consulting/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 8929307,
+                "review_title": "NOT GIVEN",
+                "review_content": "They were able to align the different teams and departments to help us better understand what matters for each group\n\n\nThey don't go as deep or get into the weeds of day to day work that many organizations require\n\n\nEnsure that they know your business really well and provide specific guidance vs general recommendations\n\n\nWe were deciding which billing platform to use for our subscription business after acquiring a smaller company that we had to integrate",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Poya O.",
+                    "reviewer_job_title": "Revenue Leader",
+                    "reviewer_link": "https://www.g2.com/users/2dc03001-9e62-4b89-b61f-e8534dc8dece"
+                },
+                "publish_date": "2023-11-27",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-8929307"
+            },
+            {
+                "review_id": 8858297,
+                "review_title": "NOT GIVEN",
+                "review_content": "It gave us an opinion for which software suites our requirements\n\n\nHigh prices but it was relatively justified\n\n\nIf you want a professional and correct opinion you have to use this consultancy firm.\n\n\nImplemeting consolidation software",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Richard A.",
+                    "reviewer_job_title": "Goup Finance and Admin Director",
+                    "reviewer_link": "https://www.g2.com/users/5cca6583-d080-483c-b2ce-ea82d5ad4285"
+                },
+                "publish_date": "2023-11-27",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-8858297"
+            },
+            {
+                "review_id": 8546454,
+                "review_title": "NOT GIVEN",
+                "review_content": "They have experts that meet my needs and when I have an issue, somebody is always easily accessible. I believe they have smart people that care working for them.\n\n\nI heard there could be compliance issues in terms of the way information is shared, and the way people with work with clients in the same industry.  Security is very important.\n\n\nMake sure you do your research and pick the consulting company that best suit your needs and have experience in the business.\n\n\nFinancial advice and taxes. A way to manage risk and make the best financial decisions to ensure I get return on investment are important factors that help me build wealth.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-08-30",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-8546454"
+            },
+            {
+                "review_id": 8598074,
+                "review_title": "NOT GIVEN",
+                "review_content": "Diving into details, keeping timelines, and vast knowledge.\n\n\nHighly cost. Sometimes the process got too slow.\n\n\nStart the process as early as possible, we gave it three months and it was on the verge of the renewal date of our SOC2 certification for the next year.\n\n\nSOC2 Type2 accreditation. Deloitte assisted us in getting this across the line with their experienced analyst.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Erez E.",
+                    "reviewer_job_title": "Director of IT and Security",
+                    "reviewer_link": "https://www.g2.com/users/6427176d-58dc-4b84-a747-c3f8859a8d5b"
+                },
+                "publish_date": "2023-09-12",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-8598074"
+            },
+            {
+                "review_id": 7641227,
+                "review_title": "NOT GIVEN",
+                "review_content": "I like that they are a large company that you can trust to accomplish what they need to do. We are confident that the results of an audit reflect how we are doing. There is a website they have set up that tracks everything well.\n\n\nThere is some outsourcing to other countries that sometimes can create confusion - questions that are confusing and different time zones to work with. The auditors could check in on us more often to work harder to build a relationship with us.\n\n\nBuild a relationship with the auditors and make sure to communicate regularly with them. Make sure you are providing them everything that they need.\n\n\nOur company needs to have an auditor to make sure our 10K's and 10Q's are properly filed. They are an established, large company that has found items that help us improve our work.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Shauna T.",
+                    "reviewer_job_title": "Senior Accountant",
+                    "reviewer_link": "https://www.g2.com/users/9a6a0dfb-e9af-45e0-acbd-9b31d4a2fa8e"
+                },
+                "publish_date": "2023-01-30",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7641227"
+            },
+            {
+                "review_id": 8318219,
+                "review_title": "NOT GIVEN",
+                "review_content": "Their services are really good specially legal service.\n\n\nAs i am not sure what is their down side. My experience with them is great.\n\n\nI would like to say please if you need the best go with them.\n\n\nIt helps me solving to scaling my business",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Subhankar S.",
+                    "reviewer_job_title": "Search Engine Optimization Executive",
+                    "reviewer_link": "https://www.g2.com/users/1fd28995-e422-4c64-bf9a-88cbf11eafce"
+                },
+                "publish_date": "2023-07-13",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-8318219"
+            },
+            {
+                "review_id": 8579997,
+                "review_title": "NOT GIVEN",
+                "review_content": "They provide timely and accurate services\n\n\nTheir rates are higher than competitors in the market\n\n\nGo for it\n\n\nIt solves vast array of Consulting practices ranging from audit to assurance",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-12",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-8579997"
+            },
+            {
+                "review_id": 7643118,
+                "review_title": "NOT GIVEN",
+                "review_content": "They are really helpful in helping us to implement salesforce analytics where they have fly in a data scientist from France to assist us to implement predictive modelling in Salesforce\n\n\nPre-covid : It would be good if they can be available onsite for the post production implementation warranty period for the full 30 days.\nNote that they are available off site basis as they need to move on to another project\n\n\nWould highly recommend them\n\n\nBuilding predictive analytics on how likelihood our prospects buying our products , also the churn likelihood and upselling opportunity.\nAlso build CRM workflow process",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "James A.",
+                    "reviewer_job_title": "Analyst",
+                    "reviewer_link": "https://www.g2.com/users/46e94dd1-caeb-4b56-b999-4d97e0171aed"
+                },
+                "publish_date": "2023-01-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7643118"
+            },
+            {
+                "review_id": 8355176,
+                "review_title": "NOT GIVEN",
+                "review_content": "Expertise knowledge on industry,Global presence,Comprehensive Solutions, Digitlisation,Thought Leadership,Collaborative Approach\n\n\nShared services work model, effectiveness of work for few teams, work given to college graduates.\n\n\nWork culture\nEmployee Benefits\nTechnology enhancement\n\n\nBusiness Strategy, Digital Transformation, Risk Management, Financial Advisory, Technology Implementation, Audit Services, Taxation, Client Services, Customer Management",
+                "review_rating": 3.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-25",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-8355176"
+            },
+            {
+                "review_id": 7644638,
+                "review_title": "NOT GIVEN",
+                "review_content": "I love their timely responses, depth of knowledge, and patience when it comes to larger questions\n\n\nCommunication could be more frequent when collaborating on projects.\n\n\nI strongly advise anyone seeking a consulting firm to consider Deloitte\n\n\nDeloitte is providing our company with incredible IT solutions that are allowing us to overcome daily issues and grow on the tech side of our business",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "John M.",
+                    "reviewer_job_title": "IT admin",
+                    "reviewer_link": "https://www.g2.com/users/cf44ab1e-e4be-486c-91cf-37d90b11f3d5"
+                },
+                "publish_date": "2023-01-27",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7644638"
+            },
+            {
+                "review_id": 7230202,
+                "review_title": "NOT GIVEN",
+                "review_content": "Quality consulting at your fingertips.\nHeavily invest in training their consultants in their respective domains.\nThe annual bonus and reviews are good.\nWork environment  varies from team to team.\n\n\nThe cost billed to the client is exorbitant, and the consultant's cut in the process is rather fractional. This may vary from location to location. I am talking specifically of consultants in India.\nThe work environment can sometimes be a little toxic, and this could be subject to the COE you're aligned to.\n\n\nTechnology consulting for multiple domains like servicenow, digital products and salesforce. As a consultant associated with the firm, the company spends a lot on training.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Arun F.",
+                    "reviewer_job_title": "Senior Servicenow Developer",
+                    "reviewer_link": "https://www.g2.com/users/9f56cfa8-463f-469b-bb0f-067bd43e64e1"
+                },
+                "publish_date": "2022-10-19",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7230202"
+            },
+            {
+                "review_id": 7156426,
+                "review_title": "NOT GIVEN",
+                "review_content": "Deloitte has a talent pool with a depth of knowledge and an excellent center of excellence. The project management and presentation skills of consultants are quite good.\n\n\nThey sometimes lack technical expertise directly within the organization and often sublet 3rd party companies or external consultants for technical expertise. Also they are one of the most expensive vendors available.\n\n\nThe quality of work is always good with Deloitte Consulting. One recommendation is always to have post-acceptance criteria, and post-go-live support negotiated clearly and well in advance.\n\n\nDeloitte Consulting is among the biggest consultancy firms in technology implementation and support projects. I was involved with Deloitte for the implementation of CRM within our firm.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Vikram Singh C.",
+                    "reviewer_job_title": "Business Project Lead",
+                    "reviewer_link": "https://www.g2.com/users/b7c6884f-3bf0-4e4f-84f6-b0d23ab28ffa"
+                },
+                "publish_date": "2022-09-30",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7156426"
+            },
+            {
+                "review_id": 7168731,
+                "review_title": "NOT GIVEN",
+                "review_content": "The ease of use, price was high but they made sure to cover everything we needed\n\n\nCost was high, but its a competitive market and you pay for the knowledge.\n\n\nDefinitely do your due diligence but you will find they are worthy of their reputation\n\n\nHelped us implement some software for a client of mine. Made the process very simple, and handled everything from soup to nuts.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-01-06",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7168731"
+            },
+            {
+                "review_id": 5338425,
+                "review_title": "NOT GIVEN",
+                "review_content": "In the year 2014 through 2016, We worked on a project to implement the Cloud SPM solution in our organization, we partnered with Deloitte for the same. The Deloitte  team had good understanding of the technology and the team was able to understand our requirements and helped us with the complete implementation of the product.\n\n\n1. Team's command on technology.\n2. Team was well organized and maintained a good communication channel.\n3. The team was highly professional at work. They were able to understand the requirements and come up with solutions.\n\n\nNothing as such, but I guess the timeline was not met completely. It would have been great if the timely delivery of the work was met. However this could be treated as an area of improvement and not a demerit.\n\n\nDeloitte has some of the best teams available to help its customers. I am sure you will find it great to partner with them.\n\n\nWe were able to implement the variant solution.  Deloitte also helped the in-house team in learning the product. The coding standard followed by Deloitte was in line with the industry standard.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Aurojeet P.",
+                    "reviewer_job_title": "Sr. Solution Owner",
+                    "reviewer_link": "https://www.g2.com/users/caa848c0-5316-4dd6-94f3-f84594b692a1"
+                },
+                "publish_date": "2022-02-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5338425"
+            },
+            {
+                "review_id": 7005518,
+                "review_title": "NOT GIVEN",
+                "review_content": "Timely technical reports that helps in continual improvement\n\n\nNot Applicable in my case. Not Applicable in my case. Not Applicable in my case.\n\n\nHighly technical services\n\n\nEffective Implementation of Nessus",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Dave Q.",
+                    "reviewer_job_title": "Head, Cyber and Information Security Audit",
+                    "reviewer_link": "https://www.g2.com/users/5ac1de39-80b2-42c4-9ab8-d6422d72c787"
+                },
+                "publish_date": "2022-08-18",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7005518"
+            },
+            {
+                "review_id": 7224394,
+                "review_title": "NOT GIVEN",
+                "review_content": "quality of consultants, quality of deliverables\n\n\nnothing that i can think of - very impressed with their delivery\n\n\nn/a\n\n\ndata migration, customer strategy",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-10-18",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-7224394"
+            },
+            {
+                "review_id": 6498295,
+                "review_title": "NOT GIVEN",
+                "review_content": "EDiscovery consulting service, analytics and reporting consulting\n\n\nAwesome team with great skill, always give best out of best to give the gold output with great work culture with positive attitudes and always helping nature, best company for any financial process\n\n\nLess interaction with deloitte application, lots of work process to achieve single or strength deliverable with timeline, most of product less interactive but strong result originated\n\n\nOf course, this the best service provider as big firm, always result oriented and productive work culture bringbto business sucess\n\n\nMany problems related to data processing and analytics towards eDiscovery solutions, review platforms and team make reviewing document more easily available to the attorney's and manger teams",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-04-12",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-6498295"
+            },
+            {
+                "review_id": 5110438,
+                "review_title": "NOT GIVEN",
+                "review_content": "I worked with Deloitte for their Accounting Operations Advisory. I am trying to get my business off the ground and money, and finances are not my strong suit.\n\nWhen I spoke with Deloitte, they showed me how an accountant could help me cut the fat down with monthly expenses to increase the available profit margins.\n\nDeloitte and their consultants truly helped me form my business plan and financials. I don't think I could have done that part of my work without their guidance.\n\n\nThe biggest takeaway that I loved was, \"You need to make sure that you receive more money than what is being spent\"!\n\n\nHonestly, I didn't dislike anything. They are experts in their field, and I knew that which is why I chose them, and they did not let me down.\n\n\nThey make the accounting process so streamlined and easy to take off my plate.\n\n\nThe reason I chose Deloitte is that not only their reputation but mainly for the services they provide and advising me on the services I should consider for my business. I am utilizing the majority of their services because I know I need their guidence. Audit and assurance, consulting, financial advisory, risk advisory, tax, and related services.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Elana C.",
+                    "reviewer_job_title": "A",
+                    "reviewer_link": "https://www.g2.com/users/4970b611-8b8c-42e8-b42b-1820a0c48733"
+                },
+                "publish_date": "2021-11-09",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5110438"
+            },
+            {
+                "review_id": 5349685,
+                "review_title": "NOT GIVEN",
+                "review_content": "Deloitte helped me with a cyber security initiative where I was trying to get the organization certified on ISo standards. I needed an expert third party to consult on best practices.\n\n\nThe professional approach and high quality of solution were evident in the structuring.  The consulting team engaged a solid internal team of experts to assist and contribute.\n\n\nThe pricing and initial quote seem to be over the budget, and sometimes the value proposition seems hard to justify. Also, some key members are present only in the early phase, but later they are only peripheral.\n\n\nDeloitte is a knowledge bank that has helped on the cyber security and auditing front, and they have greatly enhanced the organization's security posture. We also embarked on an ISO27001 journey with their help.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-02-15",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5349685"
+            },
+            {
+                "review_id": 4806816,
+                "review_title": "NOT GIVEN",
+                "review_content": "Worked with the company I worked for in building a private company to a public one. They worked with executives on strategy, marketing and a solid business plan to take their business to the next level\n\n\nThey are professional and know what their talking about, you get what you pay for and if you're serious about building your business, you have to invest in something good to do it\n\n\nIt does cost money to want to build your business to the next level and you won't see your investment right away. Deloitte could do more to reduce customizations to meet business needs.\n\n\nThey helped one of the companies I worked for go public and make a lot more money and grow their business by creating a professional plan. We also needed a mobile friendly and modern citizen facing portal.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Stacy L.",
+                    "reviewer_job_title": "Sales Director",
+                    "reviewer_link": "https://www.g2.com/users/e03cc4f8-2a81-4198-bfcd-44f1bbd33eb8"
+                },
+                "publish_date": "2021-11-05",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-4806816"
+            },
+            {
+                "review_id": 5344671,
+                "review_title": "NOT GIVEN",
+                "review_content": "Deloitte assisted my organization with improving our strategic processes associated with supply chain issues and helped to offer advice on personal and overall staffing models.\n\n\nDeloitte was most helpful in offering specific advice that was well-tailored to my organizations' needs and integrated well with our current processes and systems. Communications were seamless.\n\n\nSome of the methods of scheduling meetings and overall having consistent check-ins could have been better organized and more flexible to meet my organizations' needs.\n\n\nThe services from Deloitte Consulting Product Services helped my organization improve the time associated with analysis processes that we had previously been engaged with, which has allowed more time to be spent on other critical workstreams.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-02-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5344671"
+            },
+            {
+                "review_id": 5286554,
+                "review_title": "NOT GIVEN",
+                "review_content": "Deloitte is best great place and they are working on very different projects ,with full potential ,they help with finance related survices\n\n\nI like best the learning , alot of learning is here ,great exposure of things ,great career growth, great knowledge, and great place to go and grow . This is best\n\n\nI don't dislike anything , it's all and all about person preception that how they take things if someone want to grow then they need to start learm so there is nothing like liking and disliking\n\n\nYes , it's great place to go\n\n\nFinance related solutions to the customers and it's a good relief to them because customer are in good hands .there are alot if benifits that can't describe in words",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-01-20",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5286554"
+            },
+            {
+                "review_id": 5256454,
+                "review_title": "NOT GIVEN",
+                "review_content": "Deloitte reviewed and audited our whole financial structure and organization.\n\n\nHow comprehensive they were, and the understanding they showed of our business and the tools we used. They are quite tech-savy and could communicate with our tech departaments.\n\n\nNothing in particular. The price is relatively high, but you get what you pay for.\n\n\nWe needed to fully audit our financial structure, chart of accounts, etc. Our company employs a lot of custom software that we use to invoice, so it was critical to have a consulting company that could understand our structure.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Carlos D.",
+                    "reviewer_job_title": "Senior Netsuite Functional Consultant - Finance Ops",
+                    "reviewer_link": "https://www.g2.com/users/653b5e18-b71c-40a8-a248-f33359653449"
+                },
+                "publish_date": "2022-01-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5256454"
+            },
+            {
+                "review_id": 5363313,
+                "review_title": "NOT GIVEN",
+                "review_content": "Organization of event related to finance and management\n\n\nTheir professional behavior of the whole team along with iniwue solution proposition\n\n\nNothing at all. They are literally the best\n\n\nEveryone go for it.\n\n\nInducement of problem solvibg nature in the young individuals and the way Deloitte handled the whole situation is commendable",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Prakriti B.",
+                    "reviewer_job_title": "Student",
+                    "reviewer_link": "https://www.g2.com/users/becedc9a-93a2-40d6-83a3-899eb3475eb9"
+                },
+                "publish_date": "2022-02-21",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5363313"
+            },
+            {
+                "review_id": 5098254,
+                "review_title": "NOT GIVEN",
+                "review_content": "I was invlved in ERP implementation for a a large multinational service provider in the South East Asia region. It involved implementation of project portfolio management, procure to pay and financials.\n\n\nThe methods for Consulting including project management, solution review and budget analysis. The tools used included cloud ERP product and diverse clous PaaS technology stacks\n\n\nNot really dislike, but the execution strategy could have included project planning to a more detailed drill. For example, identifying the deliverables for every project resources could be used in the plan with planned execution timelines.\n\n\nIt most efficiently helped understanding the product shortcomings, particularly during the feasibility analysis and also helped in improving the client business process keeping account of the initial requirements. This eventually improved performance and efficiency ofbthe client business in the near future.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-11-04",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/deloitte-consulting/reviews/deloitte-consulting-review-5098254"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,514 @@
+{
+    "data": {
+        "product_id": 1123,
+        "product_name": "Cognizant",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_da15fa5b3f7e37e0b3b6e80d6a01a93d/cognizant.jpg",
+        "g2_link": "https://www.g2.com/products/cognizant/reviews",
+        "what_is": "Consulting and Implementation Services.",
+        "product_description": null,
+        "positioning_against_competitor": null,
+        "reviews": 40,
+        "rating": 4.1,
+        "medal_image": null,
+        "company_id": 840,
+        "seller": "Cognizant",
+        "company_phone": null,
+        "company_location": "Teaneck, NJ",
+        "company_founded_year": 1994,
+        "company_annual_revenue": null,
+        "total_revenue_usd_mm": "$16,652",
+        "company_ownership": "NASDAQ:CTSH",
+        "discussions_link": "https://www.g2.com/products/cognizant/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/Cognizant",
+        "number_of_followers_on_twitter": 733609,
+        "linkedin": "https://www.linkedin.com/company/1680/",
+        "number_of_employees_on_linkedin": 298182,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": false,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "Digital Transformation Consulting",
+                "category_link": "/categories/digital-transformation-consulting"
+            },
+            {
+                "category_name": "AWS Consulting Services",
+                "category_link": "/categories/aws-consulting-services"
+            },
+            {
+                "category_name": "iOS Developers",
+                "category_link": "/categories/ios-developers"
+            },
+            {
+                "category_name": "Oracle Consulting Services",
+                "category_link": "/categories/oracle-consulting-services"
+            },
+            {
+                "category_name": "SAP Consulting Services",
+                "category_link": "/categories/sap-consulting-services"
+            },
+            {
+                "category_name": "Cloud Migration Services",
+                "category_link": "/categories/cloud-migration-services"
+            },
+            {
+                "category_name": "Business Intelligence (BI) Consulting",
+                "category_link": "/categories/business-intelligence-bi-consulting"
+            },
+            {
+                "category_name": "Cross-Platform Developers",
+                "category_link": "/categories/cross-platform-developers"
+            }
+        ],
+        "screenshots": [],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "/products/accenture/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Capgemini Services",
+                "competitor_link": "/products/capgemini-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 21
+            },
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 166
+            },
+            {
+                "competitor_name": "Skaled",
+                "competitor_link": "/products/skaled/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "/products/alta-vista-technology/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 111
+            },
+            {
+                "competitor_name": "Wipro Salesforce Practice",
+                "competitor_link": "/products/wipro-salesforce-practice/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 24
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-cognizant",
+                "competitor_name": "Accenture",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_8dca881a328f977740e4b957ae668966/accenture.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/capgemini-services-vs-cognizant",
+                "competitor_name": "Capgemini Services",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_51823a7f61425db62a496fa03d4988c2/capgemini-services.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/birlasoft-vs-cognizant",
+                "competitor_name": "Birlasoft",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_4eae853326807e084294c68947249191/birlasoft.gif"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 1,
+            "3": 3,
+            "4": 16,
+            "5": 20
+        },
+        "g2_reviews_link": "https://www.g2.com/products/cognizant/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 9045809,
+                "review_title": "NOT GIVEN",
+                "review_content": "- skilled employees with good experience.\n- they go the extra mile to deliver value.\n- ability to manage 3rd party resources.\n- more local resources than other firms.\n\n\n- pricing can be higher than average.\n- highly matrixed organization.\n\n\nMake sure to include some performance and/or outcome  based payment structure in the SOW/contract.\n\n\nSAP implementation. Helps to have experts who have been there, done that.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-12-21",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-9045809"
+            },
+            {
+                "review_id": 8316016,
+                "review_title": "NOT GIVEN",
+                "review_content": "The career opportunities, list of clients and development learnings gives this organization a thumbs up.\n\n\nBeing one of the best places to work for, CTS is no exception when comes to layoff's.\n\n\nYou need a challenging place to work for, then CTS is the organization.\nYou need to upskill and be on constant learning to advance your career, then CTS is the organization.\nIf you plan to go onsite to work for, then CTS is the organization to look for.\n\n\nThey are into consulting and Technology services offering a portfolio of services to fortune 500 companies.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Subramanyam G.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/88358c49-510e-44dd-94aa-7bb3a5209be4"
+                },
+                "publish_date": "2023-07-13",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-8316016"
+            },
+            {
+                "review_id": 8568215,
+                "review_title": "NOT GIVEN",
+                "review_content": "The talent expertise and the commercial flexibility that is offered has allowed us to do the business with ease\n\n\nLaegely all our things got sorted around cloud migration to Google Cloud. However we were looking for innovative strategies that can help us boost our business on cloud which we couldn't find\n\n\nWe were trying to migrate to cloud and wanted one service provider to helps us in the task. We wanted to move from our data center business to cloud. We have realised greater operational efficiency and reduced operational costs",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-8568215"
+            },
+            {
+                "review_id": 8318245,
+                "review_title": "NOT GIVEN",
+                "review_content": "1. Culture\n2. Internship\n3. Equality\n4. Morality\n5. No bond\n\n\nCan improve recruiting the candidates by based on the skills and not by experience.\n\n\nBest organisation for freshers to start the carrier.\n\n\nHelping many associates with lot of opportunities work with organisation as intern and full time work.Initially they are providing training that helps us to cope with the organisation work as a first step.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Syed Mohammed I.",
+                    "reviewer_job_title": "Senior Engineer - Cloud Services & Software",
+                    "reviewer_link": "https://www.g2.com/users/2fefbba8-f800-4463-b66e-34a3b492d42f"
+                },
+                "publish_date": "2023-07-16",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-8318245"
+            },
+            {
+                "review_id": 8249713,
+                "review_title": "NOT GIVEN",
+                "review_content": "It's mission and values and its ability to change and adapt to the environment and client needs which is needed. The vision is the best and don't know how competitors rate.\n\n\nNobody has called me for a position and given me a chance when I'm qualified.don't know mich about this solution but perhaps I can offer fresh ideas given my industry knowledge and experience.\n\n\nKeep up with industry standards\n\n\nBeing transparent about the interview process which lets me know where I stand. I am more productive in applying for job positions. Don't know how performance has increased.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-06-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-8249713"
+            },
+            {
+                "review_id": 7640358,
+                "review_title": "NOT GIVEN",
+                "review_content": "The cost model was transparent and fully professional, and we never had to worry about the verification of the bill raised. All of the tasks were performed on time. Regular monitoring of task was done by CTS client manager.\n\n\nThe attrition rate in CTS was very high, so most of our resources/client relation managers / SPOCs used to get changed very frequently. Later on, we also felt the quality of tasks was degraded due to more focus on target over quality\n\n\ngood for scaling, cost-effectiveness and task which is actually not related to your core business activities\n\n\nOur company was looking for a service provider who could file regulatory filings and compliances on our company's behalf. And CTS helped us in doing that activity.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Ajit S.",
+                    "reviewer_job_title": "Senior MDR",
+                    "reviewer_link": "https://www.g2.com/users/a8e204e6-f606-44f7-acc4-0028788bf7d3"
+                },
+                "publish_date": "2023-01-26",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7640358"
+            },
+            {
+                "review_id": 7788146,
+                "review_title": "NOT GIVEN",
+                "review_content": "Initial salary. I heard that the salary is good.\nGood onsite opportunity.\nMany of my friends are settled in usa and European who went there via cognizant.\nPure IT services company.\n\n\nI understand it's not a retirement company.\nI don't know if anyone continue to work for long. Even their oldest working employees are kicked out during every reason .\n\n\nGood to work for short term financial gain or onsite opportunity.\n\n\nMostly into fintech.\nMost customer are from USA and few from Europe.\nSome operations in pharma industry IT support.\nNot a domain specialist company but mostly into fintech IT support.",
+                "review_rating": 2.5,
+                "reviewer": {
+                    "reviewer_name": "Dipesh S.",
+                    "reviewer_job_title": "Senior Solutions Architect",
+                    "reviewer_link": "https://www.g2.com/users/42801a21-9adc-4e84-b238-5b4f88b33231"
+                },
+                "publish_date": "2023-03-02",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7788146"
+            },
+            {
+                "review_id": 7499492,
+                "review_title": "NOT GIVEN",
+                "review_content": "I like the learning curve and the encouragement from the leadership.\n\n\nThere is nothing that I dislike but I believe the remuration could have been better.\n\n\nGo and work hard ..learn lot of thing and explore other teams work... You have a lot of scope to learn and teach people\n\n\nI have worked on DMP and analytics for a year and had a great learning experience. The leaders encourage you to learn new skill and back you ...",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "Chandra  P.",
+                    "reviewer_job_title": "Sr. DMP Producer",
+                    "reviewer_link": "https://www.g2.com/users/1176051d-3929-4cfa-a243-dd6f06991e29"
+                },
+                "publish_date": "2022-12-15",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7499492"
+            },
+            {
+                "review_id": 7622760,
+                "review_title": "NOT GIVEN",
+                "review_content": "On Call Support and efficient in providing the resolution\n\n\nNot as of such but sometime the support pase duration is bit high, they should keep the client or customer informed at the other end.\n\n\nThe Solutions provided by Cognizant are best and on time\n\n\nCognizant provides excellent support and IT resolutions to keep our production up",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Charu A.",
+                    "reviewer_job_title": "TS1",
+                    "reviewer_link": "https://www.g2.com/users/416bb665-8d14-4448-846d-71fdf79ddd61"
+                },
+                "publish_date": "2023-01-21",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7622760"
+            },
+            {
+                "review_id": 7790450,
+                "review_title": "NOT GIVEN",
+                "review_content": "Cognizant technologies one of the leading IT company and  provide good work life balance\n\n\nNothing Cognizant technologies one of the best\n\n\nCognizant technology on of the best company to work",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Santhanabharathi B.",
+                    "reviewer_job_title": "Information Security Specialist - SOC",
+                    "reviewer_link": "https://www.g2.com/users/935cf97f-905b-4258-b50c-eff58954dd60"
+                },
+                "publish_date": "2023-03-03",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7790450"
+            },
+            {
+                "review_id": 7647372,
+                "review_title": "NOT GIVEN",
+                "review_content": "All the teams are proactive in implementing the solutions as per the requirement and supports on resolving the issues.\n\n\nThere is nothing to dislike. I would always recommend to follow agile.\n\n\nOne of the best, well streamlined methodology in implementation of the design and solution.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Nihil kumar T.",
+                    "reviewer_job_title": "Assistant Manager",
+                    "reviewer_link": "https://www.g2.com/users/87b32de7-2a84-48e4-960c-b9b16dbf1f03"
+                },
+                "publish_date": "2023-01-28",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7647372"
+            },
+            {
+                "review_id": 7490341,
+                "review_title": "NOT GIVEN",
+                "review_content": "Smart engineers that are well skilled in their craft. Have subject matter expertise around the networking areas that we were testing at our last two companies where we have used Cognizant services.\n\n\nThe cost models of the Cognizant services systems often times do not adequately follow the industry cost model structures. It is something that must be negotiated very hard up front.\n\n\nStructure your deal correctly but you will get good service and engineering help.\n\n\nThey have consulting solutions that serve variety of software development and testing needs for applications and hardware. They provide us with a test team for our software product.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-12-13",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7490341"
+            },
+            {
+                "review_id": 7631314,
+                "review_title": "NOT GIVEN",
+                "review_content": "Transparency. Cognizant is very transparent in learning and working with clients\n\n\nNeed to add more testing automation rather than using manual testing\n\n\nFor starting career, Cognizant is a good option for freshers\n\n\nGood learning curve, great client handling and customer centric",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Manikandan R.",
+                    "reviewer_job_title": "Software Engineer II",
+                    "reviewer_link": "https://www.g2.com/users/9404e0cd-6682-4071-9590-5c3ff0d2ae34"
+                },
+                "publish_date": "2023-01-24",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7631314"
+            },
+            {
+                "review_id": 6820323,
+                "review_title": "NOT GIVEN",
+                "review_content": "Cognizant spend a decent amount of time with us in the pre-mobilisation phase of the project to identify and prioritise our goals in order to meet our digital transformation milstones quickly.\n\n\nNothing to dislike. The projects undertaken and those in progress are running smoothly.\n\n\nCognizant helped us with our digital transformation whilst aligning to our overall business strategy. This included shifting the mindset of our workforce towards change for the good of our business and Adopting a DevOps and Agile way of working.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "James H.",
+                    "reviewer_job_title": "B",
+                    "reviewer_link": "https://www.g2.com/users/2999f334-f359-4ad2-aa43-c5dea7a11099"
+                },
+                "publish_date": "2022-09-08",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-6820323"
+            },
+            {
+                "review_id": 7524675,
+                "review_title": "NOT GIVEN",
+                "review_content": "The IT support is brilliant and always has a resolution to the issue.\n\n\nGetting the right support team is a bit of a challenge.\n\n\nCognizant provides excellent support and IT resolutions to keep our production up.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-12-24",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-7524675"
+            },
+            {
+                "review_id": 6547761,
+                "review_title": "NOT GIVEN",
+                "review_content": "To turn our Old School Work Process into a 100% computerised Flow which Makes no mistakes.\n\n\nThe Switch to cloud was Very easy for us dur to Their Implementation Services.\n\n\nNo dislikes so far  They did a good Job.\n\n\nPerformance wise & support wise, their services are worth the Price\n\n\nAfter using their services and the web applications are said to be loading at twice the speed and the end user can see drastic changes in performance.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Abhijith D.",
+                    "reviewer_job_title": "Quality Assurance Associate",
+                    "reviewer_link": "https://www.g2.com/users/47f9b531-99b1-41b1-a38d-435d070743e9"
+                },
+                "publish_date": "2022-04-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-6547761"
+            },
+            {
+                "review_id": 6926327,
+                "review_title": "NOT GIVEN",
+                "review_content": "Speed, resource planning, location advantage\n\n\nresource skill gaps, high costs compared to the competition\n\n\nscope clarity, resource interviews in advance\n\n\nDIgital & IT solutions , Support systems in Healthcare , Consulting , sales and multiple BA aspects",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-08-02",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-6926327"
+            },
+            {
+                "review_id": 4666632,
+                "review_title": "NOT GIVEN",
+                "review_content": "Cognizant was my client and I'm into a facilities team have served to Cognizant for 3 plus years as a senior executive\n\n\nWork environment and locations where in I have served to cognizant\n\n\nLow salaries and job securities and treat to the NBC's as a slaves\n\n\nPascale is less but employees attitudes are above the expectations",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Mohammed S.",
+                    "reviewer_job_title": "Senior Executive",
+                    "reviewer_link": "https://www.g2.com/users/3d4a07ad-29a4-4690-9668-31beb15f93d7"
+                },
+                "publish_date": "2021-03-30",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-4666632"
+            },
+            {
+                "review_id": 4663593,
+                "review_title": "NOT GIVEN",
+                "review_content": "Google Ads and Bank support\n\n\nThe training provided to their internal staff is very adequate and comforting from a customer point of view\n\n\nAs an Organization, they are very vast. They could stream down to their major USPS.\n\n\nGo for it! Cognizant has its name and reputation based on their services. And they deserve to be there\n\n\nMajor issues pertaining to solutions to data and advertising. Due to their highly trained staff, the resolution TAT is very fast and that's a huge advantage as the clients are usually satisfied by a faster query response time.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-03-27",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-4663593"
+            },
+            {
+                "review_id": 3342650,
+                "review_title": "NOT GIVEN",
+                "review_content": "",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Earl S.",
+                    "reviewer_job_title": "Senior Financial Advisor",
+                    "reviewer_link": "https://www.g2.com/users/68fde100-4929-4ca1-af71-0e110b5a62a6"
+                },
+                "publish_date": "2020-06-15",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-3342650"
+            },
+            {
+                "review_id": 4676496,
+                "review_title": "NOT GIVEN",
+                "review_content": "Good IT company in India. Need more creativity and product design\n\n\nMany internal opportunities within company.\n\n\nNo hike, bonus, and no food, Too many processes\n\n\nYou will get to learn so many things in this fast-paced environment.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Vijay T.",
+                    "reviewer_job_title": "Freelancer",
+                    "reviewer_link": "https://www.g2.com/users/aa3a1556-d092-4641-8065-65e3677005cc"
+                },
+                "publish_date": "2021-04-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-4676496"
+            },
+            {
+                "review_id": 4341858,
+                "review_title": "NOT GIVEN",
+                "review_content": "You can see the Progress reports at commercial level. The system is complete and competitive. It is a creative software an users get comfortable easily. This software helped us to connect with our customers. It helped us to prioritize their needs. It helped us to understand our customers better. The product has many features that makes it a good choice. It helped us to manage all over operations efficiently. It is an excellent solution to all your customer management problems.\n\n\nCognizant service is a powerful marketing software.It is the best software for ongoing operational work. it has and continues to improve itself. It is a flexible software. It is a strategic marketing partner. They're better than a traditional IT partner.They put together a team of highly professional people. Their team is very hardworking.They're always looking for new ways to help the customers. The team is always looking for new ideas to help the customers and solve their issues.Their team engages with the customer in a highly professional way. It is more than what customers normally expect. They have been highly accommodating in a complex business environment.They defined business processes and management relationships in a highly professional way.They are committed to the welfare of their customers. They want to make sure that their customers are successful.It is useful and adapts very well to the needs of customers. It is easily customizable.\n\n\nIt a an expensive software for small companies. Other CRM softwares are not so expensive. The software isn't fast and the support isn't responsive.\n\n\nIt a good software with a lot of management features. It needs a little improvement. I had a positive experience with it and would recommend it to others.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Hernandez M.",
+                    "reviewer_job_title": "Educational Partnerships Manager",
+                    "reviewer_link": "https://www.g2.com/users/51902249-8222-4031-a047-c7723ccfd66f"
+                },
+                "publish_date": "2020-08-13",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-4341858"
+            },
+            {
+                "review_id": 4672402,
+                "review_title": "NOT GIVEN",
+                "review_content": "Cognizant internal projects are very gud they will offer wide range of Technologies to freshers. Earlier it was well known for onsite opportunities but negitive part is job security\n\n\nJust because of onsite opportunities in cognizant\n\n\nJob security is important for everyone, but in cognizant jobs are not permanent\n\n\nFor freshers cognizant is good\n\n\nSalary hike and bonus is good in cognizant",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-04-03",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-4672402"
+            },
+            {
+                "review_id": 4481587,
+                "review_title": "NOT GIVEN",
+                "review_content": "I was in a banking domain project which was used by many companies for the transactions.\n\n\nThe company is quite good and has a great work-life balance, the managers re quite friendly.\n\n\nNothing as much but sometimes the work gets too repetitive.\n\n\nI would recommend if the company could use more advanced technology and adapt them sooner. rest all is very good.\n\n\nI was a part of the QA team and helped the team to find out the issues in the application.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Rahul S.",
+                    "reviewer_job_title": "Cofounder - CEO",
+                    "reviewer_link": "https://www.g2.com/users/834e4f78-aae4-4b4a-870a-f503707aca19"
+                },
+                "publish_date": "2020-11-19",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-4481587"
+            },
+            {
+                "review_id": 4676758,
+                "review_title": "NOT GIVEN",
+                "review_content": "We were taking Software support services from Cognizant\n\n\nWork Ethics that Cognizant follows, provides a soft comfort zone to Customers\n\n\nNothing that I can highlight of which describes negativity for Cognizant\n\n\nThey are a wonderful firm to parter with.\n\n\nDevops related customer support activities for maximum attainable gain on effective utilization",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-04-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cognizant/reviews/cognizant-review-4676758"
+            }
+        ]
+    },
+    "error": null
+}

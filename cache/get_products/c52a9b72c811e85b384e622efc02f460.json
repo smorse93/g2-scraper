@@ -1,0 +1,514 @@
+{
+    "data": {
+        "product_id": 2768,
+        "product_name": "IBM Consulting",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_5015a6ccbbe12278ba4392c1c0d806be/ibm-consulting.png",
+        "g2_link": "https://www.g2.com/products/ibm-consulting/reviews",
+        "what_is": "Consulting and Implementation Practice.",
+        "product_description": null,
+        "positioning_against_competitor": null,
+        "reviews": 62,
+        "rating": 4.0,
+        "medal_image": null,
+        "company_id": 318,
+        "seller": "IBM",
+        "company_phone": "1-866-277-7488",
+        "company_location": "Armonk, NY",
+        "company_founded_year": 1911,
+        "company_annual_revenue": null,
+        "total_revenue_usd_mm": "$73,621",
+        "company_ownership": "SWX:IBM",
+        "discussions_link": "https://www.g2.com/products/ibm-consulting/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/IBM",
+        "number_of_followers_on_twitter": 720613,
+        "linkedin": "https://www.linkedin.com/company/1009/",
+        "number_of_employees_on_linkedin": 309900,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Salesforce Consulting Services",
+                "category_link": "/categories/salesforce-consulting-services"
+            },
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "AWS Consulting Services",
+                "category_link": "/categories/aws-consulting-services"
+            },
+            {
+                "category_name": "IT Outsourcing",
+                "category_link": "/categories/it-outsourcing"
+            },
+            {
+                "category_name": "Oracle Consulting Services",
+                "category_link": "/categories/oracle-consulting-services"
+            },
+            {
+                "category_name": "SAP Consulting Services",
+                "category_link": "/categories/sap-consulting-services"
+            },
+            {
+                "category_name": "Google Consulting Services",
+                "category_link": "/categories/google-consulting-services"
+            },
+            {
+                "category_name": "Adobe Consulting Services",
+                "category_link": "/categories/adobe-consulting-services"
+            },
+            {
+                "category_name": "ServiceNow Consulting Services",
+                "category_link": "/categories/servicenow-consulting-services"
+            }
+        ],
+        "screenshots": [],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "/products/accenture/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "/products/deloitte-consulting/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 63
+            },
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 166
+            },
+            {
+                "competitor_name": "Capgemini Services",
+                "competitor_link": "/products/capgemini-services/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 21
+            },
+            {
+                "competitor_name": "SmartBug Media",
+                "competitor_link": "/products/smartbug/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 129
+            },
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "/products/alta-vista-technology/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 111
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-ibm-consulting",
+                "competitor_name": "Accenture",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_8dca881a328f977740e4b957ae668966/accenture.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/deloitte-consulting-vs-ibm-consulting",
+                "competitor_name": "Deloitte Consulting",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_9199c34a6e2c3022144bd9c90bbbf2c2/deloitte-consulting.jpg"
+            },
+            {
+                "link": "https://www.g2.com/compare/ibm-consulting-vs-wipro",
+                "competitor_name": "Wipro",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_2274424818d8fac41c175c51ba9e67cc/wipro.jpg"
+            }
+        ],
+        "star_distribution": {
+            "1": 2,
+            "2": 3,
+            "3": 6,
+            "4": 23,
+            "5": 28
+        },
+        "g2_reviews_link": "https://www.g2.com/products/ibm-consulting/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 9020531,
+                "review_title": "NOT GIVEN",
+                "review_content": "IBM is really helpful everytime we got problem with logic and integration. They are able to create feature that suit to our requirements. The implementation timeline is reliable and achieveable. Easy to access,  anytime we need consultation. Thats why we engage them multiple times. especially frequently for SAP product, more than three times we use their services.\n\n\nThe price is a bit  higher than others. Not all IBM team is serve with heart, so you need to be selective to choose the IBM resources it self.\n\n\nIf you are looking best services consultant to implement SAP products and the budget is not a problem, choose IBM.\n\n\nImplementation of SAP Group Reporting and SAP S4 Hana",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "M. Wildan S.",
+                    "reviewer_job_title": "Div. Head Accounting | Corporate Controller",
+                    "reviewer_link": "https://www.g2.com/users/idhan"
+                },
+                "publish_date": "2023-12-16",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-9020531"
+            },
+            {
+                "review_id": 8880589,
+                "review_title": "NOT GIVEN",
+                "review_content": "That is there are different type of people with different views and knowledge about consulting on different types of projects that has been done in the company before.\n\n\nThe detailed information provided at times by their associates is not always accurate to the exact point.\n\n\nAlways have in detail the information needed for a project.\n\n\nPlanning when having a project or when consulting information in how to proceed with a project.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "Mauricio S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/d715b98a-b07b-4507-a595-f871a4219a8c"
+                },
+                "publish_date": "2023-11-15",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-8880589"
+            },
+            {
+                "review_id": 8404320,
+                "review_title": "NOT GIVEN",
+                "review_content": "IBM consulting helps id process and develop the business, they use technologies in the modenerize way and the software which is developed here are used in different industries.\nI am also using  one of them.\n\n\nThere is nothing to dislike about IBM consulting.\nI am. They always  help us to identify the problems and then they identify the cause after that provide a better solution. So there is nothing to dislike.\n\n\nI would like to recommend others/business to use IBM consulting.\n\n\nIBM consulting solving the problem in a great way, they use linear process in their work. First they identify the problems and then they identify the cause after that provide a better solution.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Neha Y.",
+                    "reviewer_job_title": "Team Lead",
+                    "reviewer_link": "https://www.g2.com/users/7097f0c6-700a-49d6-93ee-307387568909"
+                },
+                "publish_date": "2023-08-04",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-8404320"
+            },
+            {
+                "review_id": 8372723,
+                "review_title": "NOT GIVEN",
+                "review_content": "Knowledge of products and staying up to date with the latest technology.\n\n\nSome areas of expertise aren't as strong as others from my experience. Ex. would the options for cloud calling.\n\n\nIBM Consulting is a strategic partner that helps modernize others businesses, the issues I have is reach, which IBM helps solve with their large consulting team.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Naveed M.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/b4aaf1ce-520d-42ce-a5df-231a7eacd5fc"
+                },
+                "publish_date": "2023-09-13",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-8372723"
+            },
+            {
+                "review_id": 7734367,
+                "review_title": "NOT GIVEN",
+                "review_content": "They have unparalleled experience and are problem solvers. We have great faith in them and their abilities to safeguard our critical data and develop a solution that will help us succeed. Bluewolf's crew is adaptable, communicative, and professional. His background was obvious, as was his familiarity with Salesforce and AccountingSeed. Our team was really pleased with how well the Bluewolf team collaborated with us. A important element for me is that they keep the project moving, keep me continually updated, and give regular and comprehensive progress communication. His thinking leadership and drive aided us in developing the finest possible solution for our company.\n\n\nThere isn't much to \"dislike\" about us. Working with Bluewolf has been a very pleasant and productive experience. In terms of the AccountingSeed project, we had nothing but positive things to say about Bluewolf; they were responsive throughout the collaboration.\n\n\nThis is the product and people to make it happen for any business that wants to take it to the next level. Bluewolf may be trusted since they have experience in a variety of sectors and will listen to your specific wants and rules. Bluewolf provided an appropriate solution for us because they understand how important time is to our organization. They take the time to understand your business requirements and tailor the solution to those requirements, all while keeping the project organized and on track.\n\n\nWe lacked the capacity to integrate our ERP, Finance, Accounts, and other systems. Our data was spread across many platforms, making it difficult to maintain efficiency. Basic chores become too difficult and time-consuming. Our everyday duties have been simplified and linked. Our workers and clients can now interact more efficiently, and all of our data is in one location. We were able to build automation with Salesforce to speed up typical activities, and we can now instantaneously access our accounting information in one coherent system.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Stephen S.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/a4753fb6-f6fb-4b7b-aa65-72278139a5c6"
+                },
+                "publish_date": "2023-02-19",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7734367"
+            },
+            {
+                "review_id": 7641000,
+                "review_title": "NOT GIVEN",
+                "review_content": "The clarity with which they delivered the support\n\n\nSometimes they take time to respond to requests.\n\n\nIt is a service with which you will feel calm and accompanied\n\n\nSupport on the development of applications in IBM BPM. Also support on the IBM Integration Bus.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Jairo Andres V.",
+                    "reviewer_job_title": "Chief Information Security Officer",
+                    "reviewer_link": "https://www.g2.com/users/ab961791-5b25-4cde-b514-cc5f2f36f57c"
+                },
+                "publish_date": "2023-09-18",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7641000"
+            },
+            {
+                "review_id": 8349554,
+                "review_title": "NOT GIVEN",
+                "review_content": "They are a well-established and reputable company with decades of experience. They are also innovative and stay upfront with emerging technologies. Lastly, IBM reach is global.\n\n\nCost, IBM is generally on the higher end in pricing. The consumer must be specific on the packages they are to avail due to IBM's various offerings in services.\n\n\nClearly define your objectives for the services you want to purchase. You may also request case studies and references.\n\n\nIBM helped out business navigate the complexities of digital transformation by leveraging emerging technologies such as AI and Digital Twin. It also helped us with data management and analytics.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-23",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-8349554"
+            },
+            {
+                "review_id": 8370481,
+                "review_title": "NOT GIVEN",
+                "review_content": "Simple and easy to use software. Not very complex to use for a first time user\n\n\nUI can be made more jazzy so that it will attract more users\n\n\nIt easily helps in taking business decisions by prociding impactful insights.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Harish J.",
+                    "reviewer_job_title": "Technology Consultant",
+                    "reviewer_link": "https://www.g2.com/users/4cf016d9-c649-4436-afe6-10c426d2a943"
+                },
+                "publish_date": "2023-07-28",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-8370481"
+            },
+            {
+                "review_id": 7645974,
+                "review_title": "NOT GIVEN",
+                "review_content": "They are experts in their area; they have a talented group of consultants who can come up with creative solutions for your business. They ultimately benefit you with their expertise in consultancy\n\n\nThey piled up projects and hence could not complete the project on time. It might have happened in my case only. Apart from that, they worked perfectly and provided us with the best solutions\n\n\nWith my experience with them, I would certainly recommend Bluewolf for consulting works\n\n\nBluewolf helped us to implement salesforce in my former e-commerce startup company. They had an excellent team of project managers and developers who guided us technically and responded well to solve the problems",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Ansuya B.",
+                    "reviewer_job_title": "Web Developer",
+                    "reviewer_link": "https://www.g2.com/users/e1743f1f-5a3a-4a31-9670-9f2c270ba57d"
+                },
+                "publish_date": "2023-01-27",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7645974"
+            },
+            {
+                "review_id": 7632263,
+                "review_title": "NOT GIVEN",
+                "review_content": "The vast knowledge of the team is impressive. While I found IBM's team a little stuffy initially, they came around through longer conversations and it was clear that they hire people committed to knowing their industry well.\n\n\nThey steer you rather strongly toward their own solutions, which I sometimes found lacking. Obviously, they believe in their tech, but if I've already told them that I prefer a different solution, they should work that into our project and not keep insisting that we bring their solutions in. I found this disrespectful.\n\n\nIBM Consulting Services is a solid choice for companies looking for experienced and knowledgeable consultants. Their team has a wealth of industry expertise and they are able to provide valuable insights and guidance to clients. However, while they are reliable and competent, they may not always bring the most innovative thinking to the table. IBM Consulting Services is a dependable option for those looking for experienced professionals to help them achieve their business goals.\n\n\nWe were looking at their solutions in respect to the company's use of SAP products and possible solutions that could be a hybrid model where we uses some IBM and some SAP solutions.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-01-24",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7632263"
+            },
+            {
+                "review_id": 8175031,
+                "review_title": "NOT GIVEN",
+                "review_content": "Product Maturity and Solution depth\nIndustry leading products capability\n\n\nHigh cost of product licensing\nCost effective solutions\n\n\nCheck Industry solutions capability\n\n\nIndustry 4.0",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Amit B.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/f8d078f9-4bb6-4e27-b223-422eea8162ac"
+                },
+                "publish_date": "2023-06-03",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-8175031"
+            },
+            {
+                "review_id": 7879008,
+                "review_title": "NOT GIVEN",
+                "review_content": "IBM Consulting is a very organized team\n24/7 availability of team\nLower cost for the project\n\n\nLess involvement of top level management in project.\n\n\nIBM helped us to Implement SAP CRM. The project was smooth without any hustle; IBM deployed proper planning and the highly skilled person. Overall excellent experience with the IBM team.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Rajiv T.",
+                    "reviewer_job_title": "Sr. Infrastructure Manager- IT",
+                    "reviewer_link": "https://www.g2.com/users/20e9bb96-fc7c-45ed-ae83-cc09276b120a"
+                },
+                "publish_date": "2024-01-29",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7879008"
+            },
+            {
+                "review_id": 7631058,
+                "review_title": "NOT GIVEN",
+                "review_content": "Prepared and trained personnel. They show expertise in each of the steps, and they go that extra mile to be certain that they've found the right solution, even if it's not his/her area.\n\n\nThe process tends to be a little long. Each step requires a lot of time, meetings, and areas involved.In the end, they always hit the nail in the head, but I wish it was in a little less time.\n\n\nTry to be on top of the overall process, in order to shorten resolution times.\n\n\nOutsourcing\nSystem Transformation\nBusiness Consulting\n\nThe first thing is having a  good discovery of the situation, something that maybe we didn't perceive, then addressing it accordingly.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-07-25",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7631058"
+            },
+            {
+                "review_id": 7643135,
+                "review_title": "NOT GIVEN",
+                "review_content": "User-centered experience design.\nLightning experience.\nSales Cloud.\nCommunity cloud.\nServices are too good.\n\n\nScheduling project is some how difficult.\nIt is liitle bit expensive.\nIts hard to use at first.\n\n\nIssues will be resolved soon with customer support.\n7summit empowers customers.\nServices are completed within the correct timeframe.\nServices completed on budget.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "DWARAMPUDI T.",
+                    "reviewer_job_title": "Web Developer",
+                    "reviewer_link": "https://www.g2.com/users/ec3dc27d-ce45-46bd-a01d-95cbde461ba2"
+                },
+                "publish_date": "2023-01-30",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7643135"
+            },
+            {
+                "review_id": 7630747,
+                "review_title": "NOT GIVEN",
+                "review_content": "Solid salesforce expertise, trusted advisers, and engaged consultants.\n\n\nHigh Cost for small organizations, difficult to use for bigneers.\n\n\nBluewolf team showed best practices and planned how to change from our current workings with business process documentation, maintain our deadlines, make better decisions and service our clients.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Aniket S.",
+                    "reviewer_job_title": "Teacher",
+                    "reviewer_link": "https://www.g2.com/users/12a1b2c5-5cbb-4b42-95f9-2090c933a6b5"
+                },
+                "publish_date": "2023-01-31",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7630747"
+            },
+            {
+                "review_id": 7639044,
+                "review_title": "NOT GIVEN",
+                "review_content": "They did a deep dive to identify all of the factors impacting business results.\n\n\nThey weee not necessarily clear in how to best\nImplement their proposed strategy, but we weren't sure we would be implementing it in the first place.\n\n\nThey are worth considering depending on the nature of the Consulting engagement being considered.\n\n\nIBM Consulting was engaged to identify opportunities to turnaround the business in a tough retail environment.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-01-25",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7639044"
+            },
+            {
+                "review_id": 6737284,
+                "review_title": "NOT GIVEN",
+                "review_content": "Commitment, consulting experience, and brilliant people are always seeking your satisfaction and business impact. Response times of their assistance are pretty good.\n\n\nSupport may come from a mixture of experienced and inexperienced support team members therefore sometimes at first contact it may take some time to understand what is the request and how to proceed.\n\n\nKeep communication active and clear. Always think twice about your requirements before making decisions. That will save you a LOT of time that can be spent on improving your business.\n\n\nBluewolf provides consulting services and strategies to connect their clients with their customers by taking advantage of industry-leading technologies like Salesforce.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Jonas P.",
+                    "reviewer_job_title": "Software Associate",
+                    "reviewer_link": "https://www.g2.com/users/0f115a56-8f3f-455f-9bf3-f70a94f3f8c2"
+                },
+                "publish_date": "2022-07-11",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-6737284"
+            },
+            {
+                "review_id": 7149555,
+                "review_title": "NOT GIVEN",
+                "review_content": "Their working team is the best & the way they are responding is awesome.\n\n\nNothing to dislike. Their resources are awesome.\n\n\nYou can trust their services without any other thoughts. They providing the best consultancy services.\n\n\n7 summits provides the Salesforce consulting services. They are trustworthy and provides you the smooth & better service.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Rk T.",
+                    "reviewer_job_title": "Software Engineer",
+                    "reviewer_link": "https://www.g2.com/users/a64688f5-6ef1-442c-9676-6d0daeb41026"
+                },
+                "publish_date": "2022-10-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7149555"
+            },
+            {
+                "review_id": 7074267,
+                "review_title": "NOT GIVEN",
+                "review_content": "IBM is oldest IT company and has decades of experience to provide services in the various field of Information Technology and IBM is one of the major Research and development company in the word\n\n\nI couldn't observe any such cons while working with IBM Global services except cost is too than other\n\n\nIBM is big tech company which provides you all types of services including all type of  cyber security services and IT Infrastructure\n\n\nIBM Global Business services solving various type of IT Infrastructure and Software Development and Software Customization as well as provide cloud based services.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-09-05",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7074267"
+            },
+            {
+                "review_id": 7078397,
+                "review_title": "NOT GIVEN",
+                "review_content": "Customized solutions with focus on customer satisfaction. Always customer is the king with maintained confidentiality and providing innovative solutions with focus om quality.\n\n\nNeed support for maintenance after project is delivered.\nFor a change in requirement in-between the project need to rework on Solution.\nUsage of agile methodologies during development should work.\n\n\nHighly recommend for getting quality and innovative solutions.\n\n\nProviding smart solutions with an open way of working by bringing a diverse set of voices and technologies together.  Apply breakthrough innovations that drive exponential impact to change how business gets done.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-09-07",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-7078397"
+            },
+            {
+                "review_id": 5254635,
+                "review_title": "NOT GIVEN",
+                "review_content": "They helped us in implementing Workday Human Capital Management, Learning management, reports, integrations, etc. Lots of training material was developed.\n\n\nThe resources from IBM are very knowledgeable in the workday. They conducted several working sessions to understand our business needs and were able to help us in this journey.\n\n\nSome people who know PeopleSoft HCM and Workday HCM would have helped more effectively. The technology and functionality between these two are different, and their experience would have been more helpful; they had a hard time with integrations between PeopleSoft FSCM and Workday HCM.\n\n\nThey converted PeopleSoft HCM into Workday HCM, developed integrations between PeopleSoft FSCM and other third-party vendors on time. Users are happy with the workflow/business process, paperless approvals, Hiring process is seamless, end to end process of Hire to Retire is very easy for the HR partner to the hiring manager.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-01-06",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-5254635"
+            },
+            {
+                "review_id": 5463987,
+                "review_title": "NOT GIVEN",
+                "review_content": "OS upgrade\n\n\nTheir knowledge is excellent.  They are friendly and patient with us to make changes and work on projects together. They give feedback and extra information pertaining to the subject.\n\n\nThe IBM website is vast and hard to find the correct documentation.  Some documentation is very long and tedious.  Very time consuming to read through it.\n\n\nCurrently working on their ACS app to work out some bugs.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-03-28",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-5463987"
+            },
+            {
+                "review_id": 6499118,
+                "review_title": "NOT GIVEN",
+                "review_content": "The ability to communicate\n\n\nI believe the features utilized are extremely valuable in a team environment\n\n\nThe only thing that needs to be improved is the UI\n\n\nCommunication would be the main achievement of IBM Services",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2022-04-12",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-6499118"
+            },
+            {
+                "review_id": 5054101,
+                "review_title": "NOT GIVEN",
+                "review_content": "Renovacion de servidores power systems AIX\n\n\nLa alta disponibilidad por medio del vios de power vm\n\n\nComplejidad en la migracion de AS400 a esta nueva plataforma\n\n\nEs importante asesorarse correctamente con los mayoristas y el fabricante para poder licenciar los productos de IBM correctamente\n\n\nFalta de capacidad de recursos de procesamiento que teniamos tanto en CPU como en RAM del antiguo AS400 que trabajaba IBM rational para el desarrollo del ERP",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Mauricio R.",
+                    "reviewer_job_title": "Ceo",
+                    "reviewer_link": "https://www.g2.com/users/b2d248d7-747d-4271-9172-69092f2cd08f"
+                },
+                "publish_date": "2021-10-13",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-5054101"
+            },
+            {
+                "review_id": 5217915,
+                "review_title": "NOT GIVEN",
+                "review_content": "Transitioning data and work products to the cloud.\n\n\nEase of use and ability to merge disparate data sources into one.\n\n\nCan be tedious and need personel with platform knowledge.\n\n\nData migration, data analytics, patient data.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Pablo s.",
+                    "reviewer_job_title": "Data Scientist",
+                    "reviewer_link": "https://www.g2.com/users/c81b915f-09ce-4c70-9a03-1c891cc86ef6"
+                },
+                "publish_date": "2021-12-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/ibm-consulting/reviews/ibm-consulting-review-5217915"
+            }
+        ]
+    },
+    "error": null
+}

@@ -1,0 +1,174 @@
+{
+    "data": {
+        "product_id": 26989,
+        "product_name": "SHI",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_dea1b41859eae5bf900ff8dc6a145952/shi.png",
+        "g2_link": "https://www.g2.com/products/shi/reviews",
+        "what_is": "SHI is a global IT solutions provider that serves as your personal technology concierge for businesses. Our portfolio of products and services helps our customers solve what's next from design to delivery to optimization. With over 30 years of experience, we are focused on one common goal: Your success. With SHI you can: \n\n- Empower your team with the right solutions  \n- Provide services that propel organizational growth \n- Bolster security  \n- Enhance the overall employee experience \n\nSHI is also proud to be the largest Minority/Woman Owned Business Enterprise (MWBE) in the United States.",
+        "product_description": null,
+        "positioning_against_competitor": null,
+        "reviews": 3,
+        "rating": 3.2,
+        "medal_image": null,
+        "company_id": 20107,
+        "seller": "SHI International Corp.",
+        "company_phone": null,
+        "company_location": "Somerset, NJ",
+        "company_founded_year": 1989,
+        "company_annual_revenue": null,
+        "total_revenue_usd_mm": null,
+        "company_ownership": null,
+        "discussions_link": "https://www.g2.com/products/shi/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/SHI_Intl",
+        "number_of_followers_on_twitter": 6495,
+        "linkedin": "https://www.linkedin.com/company/shi-international-corp-",
+        "number_of_employees_on_linkedin": 5947,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "Microsoft Consulting Services",
+                "category_link": "/categories/microsoft-consulting-services"
+            },
+            {
+                "category_name": "AWS Consulting Services",
+                "category_link": "/categories/aws-consulting-services"
+            },
+            {
+                "category_name": "Amazon Web Services Channel Partners",
+                "category_link": "/categories/amazon-web-services-channel-partners"
+            },
+            {
+                "category_name": "Cloud Migration Services",
+                "category_link": "/categories/cloud-migration-services"
+            },
+            {
+                "category_name": "ServiceNow Consulting Services",
+                "category_link": "/categories/servicenow-consulting-services"
+            },
+            {
+                "category_name": "Managed IT Services",
+                "category_link": "/categories/managed-it-services"
+            },
+            {
+                "category_name": "Managed Security Services (MSSP)",
+                "category_link": "/categories/managed-security-services-mssp"
+            },
+            {
+                "category_name": "Vulnerability Assessment Services",
+                "category_link": "/categories/vulnerability-assessment-services"
+            },
+            {
+                "category_name": "Incident Response Services",
+                "category_link": "/categories/incident-response-services"
+            }
+        ],
+        "screenshots": [],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Coastal Cloud",
+                "competitor_link": "/products/coastal-cloud/reviews",
+                "competitor_rating": 5,
+                "competitor_reviews": 166
+            },
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "/products/accenture/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Alta Vista Technology",
+                "competitor_link": "/products/alta-vista-technology/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 111
+            },
+            {
+                "competitor_name": "InflowCX",
+                "competitor_link": "/products/inflowcx/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 73
+            },
+            {
+                "competitor_name": "Pax8",
+                "competitor_link": "/products/pax8/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 65
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "/products/deloitte-consulting/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 63
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/cdw-hardware-vs-shi",
+                "competitor_name": "CDW Hardware",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_e9b1b2756c66f7a3fca43e5a56dae17b/cdw-hardware.jpg"
+            }
+        ],
+        "star_distribution": {
+            "1": 1,
+            "2": 0,
+            "3": 0,
+            "4": 1,
+            "5": 1
+        },
+        "g2_reviews_link": "https://www.g2.com/products/shi/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 3066604,
+                "review_title": "NOT GIVEN",
+                "review_content": "Purchased adobe creative seats from SHI\n\n\nPurchasing from SHI was super easy. The product came quick and transaction went smoothly.\n\n\nThe only thing was there pricing was a bit higher.\n\n\nA reliable source for software.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-08-26",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/shi/reviews/shi-review-3066604"
+            },
+            {
+                "review_id": 875813,
+                "review_title": "NOT GIVEN",
+                "review_content": "SHI was referred to us as a reseller for the Tenable.io vulnerability management platform. Strictly used as a license reseller - no value add.\n\n\nThe initial introduction to SHI was easy and smooth and the quoting/price was cost-effective.\n\n\nTrying to sell us unrelated software, services and/or components. Very poor after sales service and billing, invoicing and license renewal processes are confusing and overly complicated.\n\n\nEvaluate alternatives before settling on SHI as a VAR for any of your solutions. They are not efficient and retain little knowledge about your past purchases to simplify the renewal process, billing/invoicing, etc.",
+                "review_rating": 0.5,
+                "reviewer": {
+                    "reviewer_name": "Kevin M.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/9b0c2733-df0b-4816-8cba-d96103b663ac"
+                },
+                "publish_date": "2018-09-12",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/shi/reviews/shi-review-875813"
+            },
+            {
+                "review_id": 994840,
+                "review_title": "NOT GIVEN",
+                "review_content": "SHI is now our go to resller for most quotes and items we buy.\n\n\nThe team is so friendly and dilligent in resolving our issues. Our Account Manager is such a joy to work with.\n\n\nOne of their first line sales members is lacking in knowledge of certain items, but the team really pulls together.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-10-20",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/shi/reviews/shi-review-994840"
+            }
+        ]
+    },
+    "error": null
+}

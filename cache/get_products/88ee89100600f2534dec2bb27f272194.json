@@ -1,0 +1,514 @@
+{
+    "data": {
+        "product_id": 1703,
+        "product_name": "CDW Hardware",
+        "product_logo": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_e9b1b2756c66f7a3fca43e5a56dae17b/cdw-hardware.jpg",
+        "g2_link": "https://www.g2.com/products/cdw-hardware/reviews",
+        "what_is": "Provider of technology solutions for business, government, education and healthcare. With a balanced portfolio of 250,000 small, medium and large customers.",
+        "product_description": null,
+        "positioning_against_competitor": null,
+        "reviews": 27,
+        "rating": 4.2,
+        "medal_image": null,
+        "company_id": 1280,
+        "seller": "CDW",
+        "company_phone": null,
+        "company_location": "Vernon Hills, IL",
+        "company_founded_year": 1984,
+        "company_annual_revenue": null,
+        "total_revenue_usd_mm": "$18,467",
+        "company_ownership": "NASDAQ: CDW",
+        "discussions_link": "https://www.g2.com/products/cdw-hardware/discuss",
+        "supported_languages": null,
+        "twitter": "https://twitter.com/CDWCorp",
+        "number_of_followers_on_twitter": 43453,
+        "linkedin": "https://www.linkedin.com/company/3334/",
+        "number_of_employees_on_linkedin": 14625,
+        "product_website": null,
+        "company_website": null,
+        "is_claimed": true,
+        "categories": [
+            {
+                "category_name": "AWS Consulting Services",
+                "category_link": "/categories/aws-consulting-services"
+            },
+            {
+                "category_name": "Business Intelligence (BI) Consulting",
+                "category_link": "/categories/business-intelligence-bi-consulting"
+            },
+            {
+                "category_name": "Google Consulting Services",
+                "category_link": "/categories/google-consulting-services"
+            },
+            {
+                "category_name": "ServiceNow Consulting Services",
+                "category_link": "/categories/servicenow-consulting-services"
+            },
+            {
+                "category_name": "IBM Security VARs",
+                "category_link": "/categories/ibm-security-vars"
+            },
+            {
+                "category_name": "Adobe Channel Partners",
+                "category_link": "/categories/adobe-channel-partners"
+            },
+            {
+                "category_name": "Other Microsoft Resellers",
+                "category_link": "/categories/other-microsoft-resellers"
+            },
+            {
+                "category_name": "Cisco Data Center Resellers",
+                "category_link": "/categories/cisco-data-center-resellers"
+            },
+            {
+                "category_name": "Managed Print Services",
+                "category_link": "/categories/managed-print-services"
+            }
+        ],
+        "screenshots": [],
+        "videos": [],
+        "download_links": [],
+        "pricing_plans": null,
+        "alternatives": [
+            {
+                "competitor_name": "Accenture",
+                "competitor_link": "/products/accenture/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 102
+            },
+            {
+                "competitor_name": "Sirius",
+                "competitor_link": "/products/sirius/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 7
+            },
+            {
+                "competitor_name": "Skaled",
+                "competitor_link": "/products/skaled/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 135
+            },
+            {
+                "competitor_name": "SmartBug Media",
+                "competitor_link": "/products/smartbug/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 131
+            },
+            {
+                "competitor_name": "Insight",
+                "competitor_link": "/products/insight-insight/reviews",
+                "competitor_rating": 3,
+                "competitor_reviews": 12
+            },
+            {
+                "competitor_name": "Deloitte Consulting",
+                "competitor_link": "/products/deloitte-consulting/reviews",
+                "competitor_rating": 4,
+                "competitor_reviews": 63
+            }
+        ],
+        "comparisons": [
+            {
+                "link": "https://www.g2.com/compare/accenture-vs-cdw-hardware",
+                "competitor_name": "Accenture",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_8dca881a328f977740e4b957ae668966/accenture.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/cdw-hardware-vs-insight-insight",
+                "competitor_name": "Insight",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_9a6d37e214aead1077f59a83ac314d1c/insight-insight.png"
+            },
+            {
+                "link": "https://www.g2.com/compare/cdw-hardware-vs-sirius",
+                "competitor_name": "Sirius",
+                "competitor_logo": "https://images.g2crowd.com/uploads/product/image/small_square/small_square_6d931d2412312aff9639fdbd02c2d422/sirius.jpg"
+            }
+        ],
+        "star_distribution": {
+            "1": 0,
+            "2": 2,
+            "3": 1,
+            "4": 8,
+            "5": 16
+        },
+        "g2_reviews_link": "https://www.g2.com/products/cdw-hardware/reviews#reviews",
+        "initial_reviews": [
+            {
+                "review_id": 5202948,
+                "review_title": "NOT GIVEN",
+                "review_content": "For over 16 years and across three different employers, CDW has come along with me to provide assistance.  I lean on them to provide resources and knowledge in a world where no one person can know everything.  Without them, I would be lost!\n\n\nHaving a sales rep that I can contact directly with any question.  That person in turn can navigate the web of contacts to figure out a solution or present several different options.\n\n\nSometimes the offerings of CDW can be confusing.  Vendor relationships change, and there will be no notice outside the organization.\n\n\nAll of our cloud-based solutions are managed via CDW.  This lowers costs due to bulk pricing while providing better services for support.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Shawn C.",
+                    "reviewer_job_title": "IT Director",
+                    "reviewer_link": "https://www.g2.com/users/bbd4139d-07b6-4611-b546-889ddc3a7f6d"
+                },
+                "publish_date": "2023-09-12",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-5202948"
+            },
+            {
+                "review_id": 8592966,
+                "review_title": "NOT GIVEN",
+                "review_content": "High Quality. No Breakdowns. Easy return or replacement\n\n\nLong lead times for some of the brands from different vendors\n\n\nGo for it.\n\n\nSupply Chain Disruption. Better Delivery",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-09-11",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-8592966"
+            },
+            {
+                "review_id": 5030756,
+                "review_title": "NOT GIVEN",
+                "review_content": "Good service provider\n\n\nOnline cloud support and provide Microsoft license on time.\n\n\nSome license ordered via adobe, not delivered on time on CDW site.\n\n\nMicrosoft Office 365 licenses, ADP and Azure\n\n\nOnline cloud support and provide Microsoft license on time.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2023-08-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-5030756"
+            },
+            {
+                "review_id": 4241037,
+                "review_title": "NOT GIVEN",
+                "review_content": "Whenever asking for quotes, looking for specific items, CDW always communicates and gives us great support.\n\n\nGreat service! Speedy order times! Great prices.\n\n\nLack of communication or follow-up at times.\n\n\nCDW always helps us when we have strict deadlines and need items right away.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Bryant C.",
+                    "reviewer_job_title": "IT Manager",
+                    "reviewer_link": "https://www.g2.com/users/568cab2c-9e58-4782-9e86-af1d0e9125fd"
+                },
+                "publish_date": "2021-10-18",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4241037"
+            },
+            {
+                "review_id": 4727950,
+                "review_title": "NOT GIVEN",
+                "review_content": "I was searching for home-office options with regards to monitors and docking stations, multiple moitor setups. CDW provided me with great information, tips, links that helped me decide on both the monitors and docking station that would best suit my needs going forward.\n\n\nThe product reviews and recommendations are extremely detailed and thorough\n\n\nNo services were procured or utilized by me\n\n\nKeep an open mind, explore multiple products and reviews...make informed decisions based upon needs, cost and compatibility\n\n\nSolved the display issue, clear and concise reviews and reporting",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-05-07",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4727950"
+            },
+            {
+                "review_id": 4713903,
+                "review_title": "NOT GIVEN",
+                "review_content": "Ramping up of a data center project with financial support\n\n\nCustomer centric, able to provide advice beyond regular sales intention\n\n\nInitial cost and recurrent cost of training\n\n\nRequest individual solution for your business needs as CDW is perfectly capable and suitable to find the best solution for your business\n\n\nEstablishing new data center with improved security adapted to future roll-outs",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-04-30",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4713903"
+            },
+            {
+                "review_id": 4324267,
+                "review_title": "NOT GIVEN",
+                "review_content": "networking hardware, support, and license, Microsoft, Adobe, Dell, WatchGuard, Ruckus and all our software licenses are dealt with CDW\n\n\nCDW is great to deal with a wide variety of software/hardware licenses in the market. they sell products of all major software and hardware products in the world.\n\n\nNo cons. Service delivery is fabulous. CDW deals with almost all software licensing and hardware vendors. At times my account manager delays with their followup. It could be a personal experience.\n\n\nGreat vendor to deal with for your software and hardware requirements.\nThey have a great team working with multiple vendors and help you achieve your software requirements.\nAs a decision-maker in my organization, I would highly recommend CDW and looking forward to working with them in my future organizations as well.\nif you are looking at a multivendor point of contact, CDW is the best in Canada.\n\n\nall our software, hardware, and licensing needs are dealt with by CDW. It is great to have a single vendor point of contact for all your software and hardware requirements.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "renford r.",
+                    "reviewer_job_title": "IT Analyst",
+                    "reviewer_link": "https://www.g2.com/users/19af0a5d-378e-4888-b745-ca5fc5d56cc5"
+                },
+                "publish_date": "2020-08-10",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4324267"
+            },
+            {
+                "review_id": 4719151,
+                "review_title": "NOT GIVEN",
+                "review_content": "Managed Services\n\n\nNo extensive coding, real time data transfer, automation options\n\n\nThe service support and product timelines have been declining .\n\n\nKeep an eye on the services not as earlier.\n\n\nExpensive coding, dual entry, no real time delivery, etc",
+                "review_rating": 2.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2021-05-04",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4719151"
+            },
+            {
+                "review_id": 4554329,
+                "review_title": "NOT GIVEN",
+                "review_content": "Website re-creation\n\n\nVery easy to navigate and find the solutions to my needs\n\n\nSlightly pricey on some items which pushes me towards compromise. Fortunately, the compromise is also available.\n\n\nTake your time and do complete research\n\n\nHardware issues and a need for updated software solutions. Both problems were easily resolved without searching elsewhere.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "David B. M.",
+                    "reviewer_job_title": "Director",
+                    "reviewer_link": "https://www.g2.com/users/f95e570f-ca38-4ddb-8261-18137a5cb3f6"
+                },
+                "publish_date": "2021-01-14",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4554329"
+            },
+            {
+                "review_id": 4457511,
+                "review_title": "NOT GIVEN",
+                "review_content": "Call manager upgrade\n\n\nThe reachability of the engineers assigned to a particular issue.\n\n\nThe amount of time it takes to resolve and issue.\n\n\nCDW is overall a good company to do business with. They are very concerned about their clients well being.\n\n\nOur voice software was outdated. After upgrading our software the benefits we have reached have been performance and security,",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "Jason R.",
+                    "reviewer_job_title": "Network Engineer Lead",
+                    "reviewer_link": "https://www.g2.com/users/39b63637-ff6b-4417-9dcd-64b222860e16"
+                },
+                "publish_date": "2020-11-09",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4457511"
+            },
+            {
+                "review_id": 4208006,
+                "review_title": "NOT GIVEN",
+                "review_content": "I utilize CDW for my small office printer purchases. We prefer Xerox because we've had much better luck with warranty claims through them vs Dell--and CDW is closely partnered with Xerox and fulfills e-concierge orders.\n\n\nShipping is fast and my sales rep is both knowledgable and courteous. The prices are reasonable, inventory (on current items) is usually good. CDW provides good support for hardware purchased through them and if they don't have the product I need, they often have something similar enough that I can make it work.\n\n\nThe website often lists multiple items with the same model number but slightly different skus, which is confusing. My other primary complaint is that they frequently discontinue models--which then causes toner costs to skyrocket. That might be beyond CDW's control, though.\n\n\nMake sure you get a good sales rep to work with. Companies are only as reliable as your point of contact. Advocate for your company and your needs until they are met--by your rep, or another one. Their staff covers a wide variety of specialties. For example, they have different reps that specialize in large copiers versus small business printers, and it varies from brand to brand as well. If you find a product you like, it's better to buy a few so that you'll have them--as it's likely they will run out or be discontinued at some point, which can make rollouts challenging.\n\n\nWhen I order hardware I know it will be the correct thing, arrive ahead of my expectations, and they will provide support if necessary. We used to purchase small office printers through a local vendor and we were frustrated by their lack of support, as well as their selling us older model discontinued printers that they had leftover stock of without telling us. With CDW I'm always getting the latest products available.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Joe N.",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "https://www.g2.com/users/cf8b8bc3-e39f-47ad-ad35-894429ac495a"
+                },
+                "publish_date": "2020-05-07",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-4208006"
+            },
+            {
+                "review_id": 3455768,
+                "review_title": "NOT GIVEN",
+                "review_content": "CDW helped with our Chromebook project. They proved a very helpful and patient sales representative who was able to answer all of my questions. All in all, they helped us save thousands of dollars while still providing good quality products. We were upgrading some of the hardware in our building and did not have a very large budget so CDW came in habdy!\n\n\nThe represeantavtes who work for CDW provide a very good expirence. They are very patient and knowledgeable about products and services. My project with them was compleated in less than a month duw to how fast the representative was in getting me the best deal and shipping the products out.\n\n\nI honestly do not have any complaints! They were very helpful and gave me no reason to complain.\n\n\nI would definitely recommend CDW for all of your technology needs! They do not charge for a consult and provide very knowledgeable sales reps who make the entire process very simple. If you want to check them out before speaking to someone, you can go on their website and browse their selection of items and prices.\n\n\nSince discovering CDWG, we now able to complete projects with ease. We no longer have to worry about going over budget or not completing a project within a certain timeframe. Another perk of CDW is how great their prices are! CDW has saved us thousands of dollars from our old method of purchasing things.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Karim K.",
+                    "reviewer_job_title": "IT ADMIN",
+                    "reviewer_link": "https://www.g2.com/users/29998b73-9bba-4508-b322-0181f6080771"
+                },
+                "publish_date": "2019-10-20",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-3455768"
+            },
+            {
+                "review_id": 2163432,
+                "review_title": "NOT GIVEN",
+                "review_content": "What i like about CDW is their online ordering process. It is very streamlined and easy to use. Ive order Adobe licenses, cisco hardware, microsoft books, and lots of computer peripherals. Our account rep is quick to help with any ordering questions.\n\n\nWe ordered some expensive core switches in the past and my account rep will always put a CDW engineer on the call to help with our questions.\n\n\nI did have an account rep years ago that was taking way to long to help me with my requests. This has been rectified now.\n\n\nUse the online ordering. Smooth\n\n\nWe use CDW to keep up to date with the latest Cisco access points, AP controllers and catalyst switches.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Tim L.",
+                    "reviewer_job_title": "IT Technologist",
+                    "reviewer_link": "https://www.g2.com/users/e958d879-690d-4f76-906a-e0b9d7d3653f"
+                },
+                "publish_date": "2019-04-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-2163432"
+            },
+            {
+                "review_id": 2035988,
+                "review_title": "NOT GIVEN",
+                "review_content": "My school worked with a CDW representative when we were in the process of purchasing Adobe software.  The rep gave us detailed information on the software and how it could be used, the cost as well as giving us installation help.\n\n\nGreat customer service and support.  Reasonable prices and quick turn around.\n\n\nThere wasn't anything that I disliked about CDW.\n\n\nWe received great support when trying to select a software to use for the school.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2019-04-02",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-2035988"
+            },
+            {
+                "review_id": 1187275,
+                "review_title": "NOT GIVEN",
+                "review_content": "As a school administrator, I do not have a lot of time to research which products would best meet my needs. After a brief conversation with a CDW sales representative, I had my questions answered!\n\n\nThe customer service was exceptional. The representative knew the information and was very helpful!\n\n\nThere was not much that I disliked. The phone prompts were easy to follow and I was answered quickly.\n\n\nTheir customer service was great!",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-11-16",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-1187275"
+            },
+            {
+                "review_id": 591796,
+                "review_title": "NOT GIVEN",
+                "review_content": "CDW is our hardware provider, awesome service, quick response\n\n\nThey are very quick in responding, gives resonable price for the hardware we need and timely delivery\n\n\nEverything about CDW is great, I like everything about it.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2018-01-26",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-591796"
+            },
+            {
+                "review_id": 475292,
+                "review_title": "NOT GIVEN",
+                "review_content": "Provide us with most of our hardware and software we purchase\n\n\nVery competitive prices, great selection, quick shipping.\n\n\nDespite the great selection, there are often items we have to go elsewhere to find.\n\n\nCompare prices to others",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "NOT GIVEN",
+                    "reviewer_job_title": "NOT GIVEN",
+                    "reviewer_link": "NOT GIVEN"
+                },
+                "publish_date": "2017-11-24",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-475292"
+            },
+            {
+                "review_id": 169529,
+                "review_title": "NOT GIVEN",
+                "review_content": "system operation is easy to use, products and services for business is easily available for use.\n\n\nserver is up an down and sometimes takes long time to get back on the production.\n\n\nWe primary use CDW as data warehouse distribution and not for problem solving.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Kevin L.",
+                    "reviewer_job_title": "Manager",
+                    "reviewer_link": "https://www.g2.com/users/07174d31-78c5-4730-9745-252d615f5148"
+                },
+                "publish_date": "2016-09-08",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-169529"
+            },
+            {
+                "review_id": 145924,
+                "review_title": "NOT GIVEN",
+                "review_content": "Obtaining quotes is quick, prices will very often beat other vendors.\n\n\nNot too easy to get quotes without direct interaction.  Minor issue though\n\n\nGo for it - especially for larger purchases, no reason not to get another quote!\n\n\nDecreased prices for purchases, often less work purchasing as well.  Saved time and money.",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Chris P.",
+                    "reviewer_job_title": "Senior Web Developer",
+                    "reviewer_link": "https://www.g2.com/users/b6dea62d-cd69-4168-9d95-e43b939120a9"
+                },
+                "publish_date": "2016-06-18",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-145924"
+            },
+            {
+                "review_id": 128514,
+                "review_title": "NOT GIVEN",
+                "review_content": "They have a lot of products available and it is easy to search for them on their website.\n\n\nWe were not receiving the best prices and it was not easy to get a hold of our rep at times. I have had better customer service experience with other vendors.\n\n\nPlease due your due diligence and verify the prices for their products compared to other vendors.\n\n\nWe used CDW for procurement of hardware and software licenses when I first came on board. We know request for quotes from at least three vendors before we purchase hardware or software.",
+                "review_rating": 2.0,
+                "reviewer": {
+                    "reviewer_name": "Tom P.",
+                    "reviewer_job_title": "Support Desk Analyst III",
+                    "reviewer_link": "https://www.g2.com/users/89d29c55-d638-46ff-bb96-c01f1a0ea283"
+                },
+                "publish_date": "2016-05-10",
+                "reviewer_company_size": "Enterprise(> 1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-128514"
+            },
+            {
+                "review_id": 72284,
+                "review_title": "NOT GIVEN",
+                "review_content": "Whenever I have had to contact CDW, they have been helpful. They answer quickly, and have yet to provide me with an unhelpful answer.\n\n\nI really can't say anything bad about CDW. They have been excellent to work with and I would gladly recommend them to anyone who asked about a solution they offer.\n\n\nI have used CDW to purchase numerous solutions in the past. I am currently building out a data center with things I have purchased from CDW.",
+                "review_rating": 5.0,
+                "reviewer": {
+                    "reviewer_name": "Zachary R.",
+                    "reviewer_job_title": "Software Developer and Application Consultant",
+                    "reviewer_link": "https://www.g2.com/users/836b8113-e8fd-4da9-9172-2c75e6677a50"
+                },
+                "publish_date": "2015-11-23",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-72284"
+            },
+            {
+                "review_id": 21993,
+                "review_title": "NOT GIVEN",
+                "review_content": "I really like knowing that just about anything I could need can be purchased through them.  Whether hardware software, or services they have a solution for just about any need.  In addition even smaller customers are assigned a solution advisor (salesman!) who helps walk you through some of the process required in ordering through them as their catalog is huge and covers many different versions of the same product.\n\n\nAs mentioned above each customer has an advisor that helps them with their requests and needs.  That advisor, one would think, would have at least a modicum of experience in many of the technologies CDW offers but I have found that more often than not I am the more experienced and I end up using the advisor more as an order taker vs, advisor.\n\n\nIf you are not 100% committed to always getting the lowest price and want a one stop shop for all your IT needs, this is the place.",
+                "review_rating": 3.5,
+                "reviewer": {
+                    "reviewer_name": "Jeff R.",
+                    "reviewer_job_title": "IT Manager",
+                    "reviewer_link": "https://www.g2.com/users/4c13b9ee-afe0-4b77-bcee-53a4dbfd0606"
+                },
+                "publish_date": "2014-04-22",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-21993"
+            },
+            {
+                "review_id": 12719,
+                "review_title": "NOT GIVEN",
+                "review_content": "They have a great search tool for anything and everything.\n\n\nThey can never beat Provantage.com on items that they both carry.  My account rep told me that \"the price you just told me is below our cost\" and that \"Provantage.com will be out of business soon since their prices are so low.\"  That was over 2 years ago and they are still going strong...  until CDW can beat their prices or until Provantage.com goes out of business, I'll be getting my gear from the cheaper of the two.\n\n\nLook elsewhere for the lower price.",
+                "review_rating": 2.5,
+                "reviewer": {
+                    "reviewer_name": "Eric M.",
+                    "reviewer_job_title": "Director Of Technology",
+                    "reviewer_link": "https://www.g2.com/users/10ffb329-c8a2-4868-bb96-bf0f31d1d2fc"
+                },
+                "publish_date": "2013-04-29",
+                "reviewer_company_size": "Mid-Market(51-1000 emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-12719"
+            },
+            {
+                "review_id": 10994,
+                "review_title": "NOT GIVEN",
+                "review_content": "They are a complete, 1-stop shop for technology -- not just hardware, but also a diverse range of IT solutions and services, including but not limited to professional services, leasing, telcom, managed services, networking, mobility, security, etc., etc.  They also have industry-specific solutions catalogs (i.e., in healthcare they have a healthcare catalog\n\n\nMay not be the best price (you may be better price-shopping on amazon), but the service makes up for it\n\n\nCDW ranks #31 on the largest private companies in the US.  They have grown dramatically by being one of the top, specialized technology vendors -- it's a great one-stop shop for businesses, esp small medium growing businesses",
+                "review_rating": 4.5,
+                "reviewer": {
+                    "reviewer_name": "Eugene C.",
+                    "reviewer_job_title": "Partner",
+                    "reviewer_link": "https://www.g2.com/users/8631e429-548f-4fb4-9a67-81a60c2b4746"
+                },
+                "publish_date": "2013-02-21",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-10994"
+            },
+            {
+                "review_id": 11565,
+                "review_title": "NOT GIVEN",
+                "review_content": "CDW has always had everything we needed, either for our own use or to fulfill a contract. There were a few exceptions but in those instances they still managed to meet our deadline and deliver all products.\n\n\nVolume pricing was hard to secure and overall prices may be higher (I would counter that statement by saying we never received any broken or opened products from there. Several other distributors had those problems)\n\n\nIf price isn't your absolute concern and you want reliable delivery and stock levels, CDW is the perfect option.",
+                "review_rating": 4.0,
+                "reviewer": {
+                    "reviewer_name": "Jakub A.",
+                    "reviewer_job_title": "Founder",
+                    "reviewer_link": "https://www.g2.com/users/2494bca2-3c7c-40d2-b3e4-02b230679a35"
+                },
+                "publish_date": "2013-03-10",
+                "reviewer_company_size": "Small-Business(50 or fewer emp.)",
+                "is_video_review": false,
+                "review_link": "https://www.g2.com/products/cdw-hardware/reviews/cdw-hardware-review-11565"
+            }
+        ]
+    },
+    "error": null
+}
